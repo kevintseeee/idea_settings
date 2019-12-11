@@ -21,7 +21,4 @@
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="/Volumes/MyFiles" />
-  </component>
 </application>
