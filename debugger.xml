@@ -77,9 +77,24 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.ktcp.video.data.jce.baseCommObj.Video" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.ktcp.video.data.jce.baseCommObj.Video" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="&quot;vid = [&quot; + vid + &quot;]&quot;&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
     <debuggers>
       <debugger id="ObjectiveC">
         <configuration>
