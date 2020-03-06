@@ -1,8 +1,5 @@
 <code_scheme name="KTCP_Android" version="173">
   <option name="RIGHT_MARGIN" value="150" />
-  <AndroidXmlCodeStyleSettings>
-    <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
-  </AndroidXmlCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="true">
       <option name="KEYWORD_CASE" value="lower" />
@@ -85,7 +82,6 @@
     <option name="BINARY_OPERATION_WRAP" value="1" />
     <option name="TERNARY_OPERATION_WRAP" value="1" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
-    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
     <option name="FOR_STATEMENT_WRAP" value="1" />
