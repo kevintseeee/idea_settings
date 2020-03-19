@@ -1,9 +1,7 @@
 <templateSet group="unit_test">
-  <template name="jdoc_unit_test" value="    /**&#10;     * @discussion $a$&#10;     * @expected $b$&#10;     * @author $user$&#10;     * @update $date$&#10;     */" toReformat="true" toShortenFQNames="true">
+  <template name="jdoc_unit_test" value="    /**&#10;     * @discussion  $a$&#10;     * @author      $user$&#10;     */" toReformat="true" toShortenFQNames="true">
     <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="b" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="user" expression="user()" defaultValue="kevinrhxie" alwaysStopAt="true" />
-    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
