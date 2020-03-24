@@ -1,0 +1,10 @@
+<templateSet group="unit_test">
+  <template name="jdoc_unit_test" value="    /**&#10;     * @discussion  $a$&#10;     * @author      $user$&#10;     */" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="user" expression="user()" defaultValue="kevinrhxie" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
