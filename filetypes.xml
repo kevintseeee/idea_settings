@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ssh" type="PLAIN_TEXT" />
       <mapping ext="proerties" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
