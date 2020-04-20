@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="ssh" type="PLAIN_TEXT" />
+      <mapping ext="jce" type="PLAIN_TEXT" />
       <mapping ext="proerties" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
