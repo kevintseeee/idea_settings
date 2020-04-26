@@ -1,5 +1,5 @@
 <templateSet group="tv">
-  <template name="tvlogd" value="com.ktcp.utils.log.TVCommonLog.d(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="" toReformat="false" toShortenFQNames="true">
+  <template name="tvlogd" value="if (com.ktcp.utils.log.TVCommonLog.isDebug()) {&#10;    com.ktcp.utils.log.TVCommonLog.d(TAG, &quot;$METHOD_NAME$: $content$&quot;);   &#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -28,7 +28,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="tvlogm" value="com.ktcp.utils.log.TVCommonLog.d(TAG, $content$);" description="" toReformat="false" toShortenFQNames="true">
+  <template name="tvlogm" value="if (com.ktcp.utils.log.TVCommonLog.isDebug()) {&#10;    com.ktcp.utils.log.TVCommonLog.d(TAG, $content$);&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="content" expression="groovyScript(&quot;def params = _2.collect {it + ' = [\&quot; + ' + it + ' + \&quot;]'}.join(', '); return '\&quot;' + _1 + '() called' + (params.empty  ? '' : ' with: ' + params) + '\&quot;'&quot;, methodName(), methodParameters())" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
