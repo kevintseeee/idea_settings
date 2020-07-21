@@ -1,4 +1,5 @@
 <code_scheme name="KTCP_Android" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="150" />
   <DBN-PSQL>
     <case-options enabled="true">
@@ -97,7 +98,6 @@
     <option name="ENUM_CONSTANTS_WRAP" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
-    <option name="FORCE_REARRANGE_MODE" value="0" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
