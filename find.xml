@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ignore" />
-    <option name="defaultScopeName" value="ignore" />
+    <option name="customScope" value="Default Changelist" />
+    <option name="defaultScopeName" value="Default Changelist" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="ignore" />
+    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,7 +21,7 @@
     <mask>*.xml</mask>
     <mask>*.jce</mask>
     <mask>*.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.sh</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
