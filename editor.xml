@@ -8,6 +8,9 @@
     <option name="FONT_FAMILY" value="JetBrains Mono" />
     <option name="SECONDARY_FONT_FAMILY" value="Monaco" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
     <pattern pattern="\b(todo|fixme)\b\s\bkevinrhxie\b\s.*" />
