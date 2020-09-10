@@ -66,7 +66,7 @@
       </entry>
       <entry key="Default">
         <PlaceSettings>
-          <option name="IGNORE_POLICY" value="FORMATTING" />
+          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
         </PlaceSettings>
       </entry>
       <entry key="DirDiff">
