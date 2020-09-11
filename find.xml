@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../proj.android/src/com/tencent/qqlivetv/windowplayer/presenter/TvPlayerPresenter.java [QQLiveTV_BASE_LINE]'" />
     <option name="defaultScopeName" value="File '.../proj.android/src/com/tencent/qqlivetv/windowplayer/presenter/TvPlayerPresenter.java [QQLiveTV_BASE_LINE]'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../proj.android/src/com/tencent/qqlivetv/windowplayer/presenter/TvPlayerPresenter.java [QQLiveTV_BASE_LINE]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
