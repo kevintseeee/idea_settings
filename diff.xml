@@ -66,11 +66,6 @@
           <option name="READ_ONLY_LOCK" value="false" />
         </PlaceSettings>
       </entry>
-      <entry key="Default">
-        <PlaceSettings>
-          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
-        </PlaceSettings>
-      </entry>
       <entry key="DirDiff">
         <PlaceSettings>
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
