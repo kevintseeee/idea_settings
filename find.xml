@@ -18,8 +18,8 @@
     <mask>*.jce</mask>
     <mask>*.sh</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.json</mask>
+    <mask>*.java</mask>
   </component>
 </application>
