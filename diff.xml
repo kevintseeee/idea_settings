@@ -77,6 +77,7 @@
       </entry>
       <entry key="VcsLogView">
         <PlaceSettings>
+          <option name="ENABLE_SYNC_SCROLL" value="false" />
           <option name="IGNORE_POLICY" value="FORMATTING" />
         </PlaceSettings>
       </entry>
