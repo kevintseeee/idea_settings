@@ -19,9 +19,9 @@
     <mask>*.ini</mask>
     <mask>*.jce</mask>
     <mask>*.sh</mask>
-    <mask>*.java</mask>
+    <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.json</mask>
-    <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
