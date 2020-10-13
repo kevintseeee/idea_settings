@@ -426,11 +426,6 @@
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
   </component>
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
@@ -476,6 +471,11 @@
     <data-views />
     <general />
     <debuggers>
+      <debugger id="kotlin_debugger">
+        <configuration>
+          <option name="filterForStdlibAlreadyAdded" value="true" />
+        </configuration>
+      </debugger>
       <debugger id="ObjectiveC">
         <configuration>
           <option name="VALUES_FILTER_ENABLED" value="false" />
