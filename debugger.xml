@@ -489,7 +489,7 @@
   </component>
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundNodeRenderer">
+      <Renderer ID="CompoundTypeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.ktcp.video.data.jce.Video" />
         <Renderer ID="LabelRenderer" role="label">
@@ -498,7 +498,7 @@
           <option name="LABEL_EXPRESSION" value="title + &quot; : &quot; + vid&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundNodeRenderer">
+      <Renderer ID="CompoundTypeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.tencent.qqlivetv.tvplayer.model.interactvideo.InteractNode" />
         <Renderer ID="LabelRenderer" role="label">
@@ -507,7 +507,7 @@
           <option name="LABEL_EXPRESSION" value="mId&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundNodeRenderer">
+      <Renderer ID="CompoundTypeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.tencent.qqlivetv.tvplayer.model.interactvideo.InteractNode" />
         <Renderer ID="LabelRenderer" role="label">
@@ -516,7 +516,7 @@
           <option name="LABEL_EXPRESSION" value="mName&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundNodeRenderer">
+      <Renderer ID="CompoundTypeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.ktcp.video.ui.canvas.TextCanvas" />
         <Renderer ID="LabelRenderer" role="label">
@@ -531,11 +531,6 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
-        </configuration>
-      </debugger>
       <debugger id="ObjectiveC">
         <configuration>
           <option name="VALUES_FILTER_ENABLED" value="false" />
