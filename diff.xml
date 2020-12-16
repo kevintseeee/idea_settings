@@ -67,7 +67,7 @@
       </entry>
       <entry key="Default">
         <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
+          <option name="IGNORE_POLICY" value="FORMATTING" />
         </PlaceSettings>
       </entry>
       <entry key="DirDiff">
@@ -79,6 +79,9 @@
         <PlaceSettings>
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
+      </entry>
+      <entry key="VcsFileHistoryView">
+        <PlaceSettings />
       </entry>
       <entry key="VcsLogView">
         <PlaceSettings>
