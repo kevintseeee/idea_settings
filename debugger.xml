@@ -511,6 +511,15 @@
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
         <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.tencent.qqlivetv.windowplayer.core.ModuleStub" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.tencent.qqlivetv.windowplayer.core.ModuleStub" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="(mInflatedViewRef == null ? null : mInflatedViewRef.get()) + &quot; - &quot; + mModuleClass.getSimpleName()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.ktcp.video.data.jce.Video" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="com.ktcp.video.data.jce.Video" />
