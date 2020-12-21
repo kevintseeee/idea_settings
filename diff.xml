@@ -80,9 +80,6 @@
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
-      <entry key="VcsFileHistoryView">
-        <PlaceSettings />
-      </entry>
       <entry key="VcsLogView">
         <PlaceSettings>
           <option name="ENABLE_SYNC_SCROLL" value="false" />
