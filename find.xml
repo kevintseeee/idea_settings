@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../proj.android/src/com/tencent/qqlivetv/model/config/VideoConfigSetting.java [master.QQLiveTV_BASE_LINE]'" />
+    <option name="defaultScopeName" value="File '.../proj.android/src/com/tencent/qqlivetv/model/config/VideoConfigSetting.java [master.QQLiveTV_BASE_LINE]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../proj.android/src/com/tencent/qqlivetv/model/config/VideoConfigSetting.java [master.QQLiveTV_BASE_LINE]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
