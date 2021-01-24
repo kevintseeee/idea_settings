@@ -23,5 +23,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
+    <mask>player_sdk_config.json</mask>
   </component>
 </application>
