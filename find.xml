@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../proj.android/src/com/tencent/qqlivetv/detail/fragment/DetailMatchFragment.java [epic_alpha.QQLiveTV_BASE_LINE]'" />
+    <option name="defaultScopeName" value="File '.../proj.android/src/com/tencent/qqlivetv/detail/fragment/DetailMatchFragment.java [epic_alpha.QQLiveTV_BASE_LINE]'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../proj.android/src/com/tencent/qqlivetv/detail/fragment/DetailMatchFragment.java [epic_alpha.QQLiveTV_BASE_LINE]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
