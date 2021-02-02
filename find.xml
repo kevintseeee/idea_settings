@@ -15,8 +15,13 @@
     <mask>*.h</mask>
     <mask>*.cfg</mask>
     <mask>*.ini</mask>
-    <mask>*.gradle</mask>
-    <mask>*.xml</mask>
+    <mask>*.jce</mask>
+    <mask>*.sh</mask>
+    <mask>*.json</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.gradle</mask>
+    <mask>build.gradle</mask>
+    <mask>player_sdk_config.json</mask>
   </component>
 </application>
