@@ -81,9 +81,7 @@
         </PlaceSettings>
       </entry>
       <entry key="VcsLogView">
-        <PlaceSettings>
-          <option name="IGNORE_POLICY" value="FORMATTING" />
-        </PlaceSettings>
+        <PlaceSettings />
       </entry>
     </option>
   </component>
