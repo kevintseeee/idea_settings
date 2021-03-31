@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -18,10 +20,10 @@
     <mask>*.jce</mask>
     <mask>*.sh</mask>
     <mask>*.json</mask>
-    <mask>*.java</mask>
-    <mask>*.xml</mask>
-    <mask>*.gradle</mask>
     <mask>build.gradle</mask>
     <mask>player_sdk_config.json</mask>
+    <mask>*.xml</mask>
+    <mask>*.gradle</mask>
+    <mask>*.java</mask>
   </component>
 </application>
