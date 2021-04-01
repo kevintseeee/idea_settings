@@ -65,6 +65,11 @@
           <option name="READ_ONLY_LOCK" value="false" />
         </PlaceSettings>
       </entry>
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="FORMATTING" />
+        </PlaceSettings>
+      </entry>
       <entry key="DirDiff">
         <PlaceSettings>
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
@@ -76,10 +81,7 @@
         </PlaceSettings>
       </entry>
       <entry key="VcsLogView">
-        <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
-          <option name="IGNORE_POLICY" value="FORMATTING" />
-        </PlaceSettings>
+        <PlaceSettings />
       </entry>
     </option>
   </component>
