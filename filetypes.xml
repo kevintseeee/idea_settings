@@ -1,16 +1,18 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="gradle.kts" type="Kotlin" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="ssh" type="PLAIN_TEXT" />
       <mapping ext="jce" type="PLAIN_TEXT" />
-      <mapping ext="anr" type="PLAIN_TEXT" />
       <mapping ext="proerties" type="PLAIN_TEXT" />
+      <mapping ext="anr" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
