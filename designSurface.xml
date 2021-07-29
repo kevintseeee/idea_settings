@@ -1,0 +1,24 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="proj.android/res/drawable/seek_bar_drawable.xml" value="0.4046875" />
+        <entry key="proj.android/res/layout/activity_drama_list.xml" value="0.5" />
+        <entry key="proj.android/res/layout/frag_drama_list.xml" value="0.5" />
+        <entry key="proj.android/res/layout/frag_game_detail_page.xml" value="0.5" />
+        <entry key="proj.android/res/layout/include_seek_bar.xml" value="0.44001751313485116" />
+        <entry key="proj.android/res/layout/include_status_roll_bar.xml" value="0.44001751313485116" />
+        <entry key="proj.android/res/layout/include_status_roll_preview.xml" value="0.2583187390542907" />
+        <entry key="proj.android/res/layout/item_new_preview.xml" value="0.5" />
+        <entry key="proj.android/res/layout/mediaplayer_module_common_view.xml" value="0.44001751313485116" />
+        <entry key="proj.android/res/layout/mediaplayer_module_immerse_menu.xml" value="0.5" />
+        <entry key="proj.android/res/layout/view_navigable_list.xml" value="0.5" />
+        <entry key="proj.android/res/layout/view_preview.xml" value="0.271875" />
+        <entry key="proj.android/res/layout/view_sidestatusbar_personal.xml" value="0.5" />
+        <entry key="proj.android/res/layout/view_story_tree_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
