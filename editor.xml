@@ -2,6 +2,9 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
   </component>
+  <component name="EditorSettings">
+    <option name="SHOW_INSPECTION_WIDGET" value="false" />
+  </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
