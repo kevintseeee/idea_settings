@@ -10,6 +10,10 @@
           <option name="url" value="http://git.code.oa.com" />
           <option name="userName" value="kevinrhxie" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.code.oa.com&quot;" />
+          <option name="userName" value="kevinrhxie" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
