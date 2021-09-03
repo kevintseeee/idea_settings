@@ -96,6 +96,20 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="Unit" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.tencent.qqlivetv.search.data.unit.Unit" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.tencent.qqlivetv.search.data.unit.Unit" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getStableId()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
