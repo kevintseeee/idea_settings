@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="INSTRUMENTING_AGENT" value="false" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -114,9 +115,14 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="ObjectiveC">
+      <debugger id="javascript">
         <configuration>
-          <option name="VALUES_FILTER_ENABLED" value="false" />
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="kotlin_debugger">
+        <configuration>
+          <option name="filterForStdlibAlreadyAdded" value="true" />
         </configuration>
       </debugger>
     </debuggers>
