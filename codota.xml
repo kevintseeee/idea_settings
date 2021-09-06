@@ -1,5 +1,10 @@
 <application>
   <component name="CodotaSettings">
+    <option name="methodCompletionsPercentageSet" value="true" />
+    <option name="id" value="aa03fb21-f42a-4c55-93be-e960daed9955" />
+    <option name="updateGeneration" value="1" />
+    <option name="isMethodCompletionsPercentageActive" value="true" />
+    <option name="isMethodCompletionsPercentageSet" value="true" />
     <option name="usedLanguages">
       <set>
         <option value="java" />
