@@ -30,9 +30,7 @@
         </PlaceSettings>
       </entry>
       <entry key="VcsFileHistoryView">
-        <PlaceSettings>
-          <option name="IGNORE_POLICY" value="FORMATTING" />
-        </PlaceSettings>
+        <PlaceSettings />
       </entry>
     </option>
   </component>
