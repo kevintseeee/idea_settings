@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="customScope" value="性能测试: 关闭插件" />
+    <option name="defaultScopeName" value="性能测试: 关闭插件" />
+    <option name="SEARCH_SCOPE" value="性能测试: 关闭插件" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.cpp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
