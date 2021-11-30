@@ -24,10 +24,13 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
-      <entry key="VcsFileHistoryView">
+      <entry key="Merge">
         <PlaceSettings>
-          <option name="IGNORE_POLICY" value="FORMATTING" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
         </PlaceSettings>
+      </entry>
+      <entry key="VcsFileHistoryView">
+        <PlaceSettings />
       </entry>
     </option>
   </component>

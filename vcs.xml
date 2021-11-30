@@ -10,6 +10,10 @@
           <option name="url" value="http://git.code.oa.com" />
           <option name="userName" value="kevinrhxie" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.code.oa.com&quot;" />
+          <option name="userName" value="kevinrhxie" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
@@ -24,6 +28,7 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
