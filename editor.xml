@@ -3,6 +3,7 @@
     <option name="FONT_SIZE" value="16" />
   </component>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
   </component>
   <component name="InlayHintsSettings">
