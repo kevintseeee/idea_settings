@@ -2,6 +2,7 @@
   <component name="CodotaSettings">
     <option name="methodCompletionsPercentageSet" value="true" />
     <option name="id" value="aa03fb21-f42a-4c55-93be-e960daed9955" />
+    <option name="wasRunBefore" value="true" />
     <option name="updateGeneration" value="1" />
     <option name="isMethodCompletionsPercentageActive" value="true" />
     <option name="isMethodCompletionsPercentageSet" value="true" />
@@ -10,5 +11,6 @@
         <option value="java" />
       </set>
     </option>
+    <option name="lastTabnineRecommendationDisplayDate" value="1638237525805" />
   </component>
 </application>
