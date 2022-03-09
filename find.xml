@@ -5,7 +5,7 @@
     <option name="SEARCH_SCOPE" value="Default Changelist" />
     <mask>*.cpp</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
   </component>
 </application>
