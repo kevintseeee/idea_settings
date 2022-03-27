@@ -5,10 +5,11 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="6bc6270a" />
+            <value value="20080411" />
           </Key>
         </key>
-        <name value="Xiaomi Mi-4c" />
+        <lastOnlineTime value="2022-03-23T09:40:55.895999Z" />
+        <name value="SkyworthDigitalRT Q3001" />
         <target value="Android 7.0" />
         <api value="24" />
       </PhysicalDevice>
@@ -16,11 +17,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="20080411" />
+            <value value="6bc6270a" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-23T11:55:47.631396Z" />
-        <name value="SkyworthDigitalRT Q3001" />
+        <name value="Xiaomi Mi-4c" />
         <target value="Android 7.0" />
         <api value="24" />
       </PhysicalDevice>
