@@ -9,9 +9,11 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.sh" />
     <mask>*.cpp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
