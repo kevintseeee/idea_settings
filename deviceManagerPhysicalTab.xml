@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="6bc6270a" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-06-12T15:44:34.116685Z" />
+        <name value="Xiaomi Mi-4c" />
+        <target value="Android 7.0" />
+        <api value="24" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="20080411" />
           </Key>
         </key>
@@ -23,18 +35,6 @@
         <name value="XiaoPaiTech A4111" />
         <target value="Android 11.0" />
         <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="6bc6270a" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-05-29T14:48:35.340870Z" />
-        <name value="Xiaomi Mi-4c" />
-        <target value="Android 7.0" />
-        <api value="24" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
