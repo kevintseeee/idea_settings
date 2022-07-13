@@ -8,7 +8,7 @@
     <mask>*.cpp</mask>
     <mask>*.sh</mask>
     <mask>*.xml</mask>
-    <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
