@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="customScope" value="ignore" />
+    <option name="defaultScopeName" value="ignore" />
+    <option name="SEARCH_SCOPE" value="ignore" />
     <mask>*.cpp</mask>
     <mask>*.sh</mask>
     <mask>*.xml</mask>
