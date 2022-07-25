@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="customScope" value="Project test files" />
+    <option name="defaultScopeName" value="Project test files" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="SEARCH_SCOPE" value="Project test files" />
     <mask>*.cpp</mask>
     <mask>*.java</mask>
     <mask>*.sh</mask>
