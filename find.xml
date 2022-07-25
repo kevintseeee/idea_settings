@@ -6,9 +6,9 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.cpp</mask>
-    <mask>*.java</mask>
     <mask>*.sh</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
     <mask>*.gradle</mask>
   </component>
 </application>

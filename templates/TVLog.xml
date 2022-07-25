@@ -27,8 +27,8 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="tvlogt" value="private final String mTag = &quot;$className$_&quot; + hashCode();" description="A static logtag with your current classname" toReformat="true" toShortenFQNames="true">
-    <variable name="className" expression="groovyScript(&quot;_1.take(Math.min(23, _1.length()));&quot;, className())" defaultValue="" alwaysStopAt="true" />
+  <template name="tvlogt" value="private final String mTag = com.tencent.qqlivetv.windowplayer.helper.MediaPlayerUtils.getSimpleString(&quot;$className$&quot;, this);" description="A static logtag with your current classname" toReformat="true" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
