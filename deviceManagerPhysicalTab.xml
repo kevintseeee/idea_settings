@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="6bc6270a" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-08-16T02:52:16.354227Z" />
+        <name value="Xiaomi Mi-4c" />
+        <target value="Android 7.0" />
+        <api value="24" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="20080411" />
           </Key>
         </key>
