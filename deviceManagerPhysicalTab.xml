@@ -5,12 +5,36 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="6bc6270a" />
+          </Key>
+        </key>
+        <name value="Xiaomi Mi-4c" />
+        <target value="Android 7.0" />
+        <api value="24" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="20080411" />
           </Key>
         </key>
         <name value="SkyworthDigitalRT Q3001" />
         <target value="Android 7.0" />
         <api value="24" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.14:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-08-16T04:49:43.299375Z" />
+        <type value="TV" />
+        <name value="XiaoPaiTech A4111" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
