@@ -3,10 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.cpp</mask>
-    <mask>*.sh</mask>
-    <mask>*.gradle</mask>
-    <mask>*.java</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.ini</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
