@@ -85,7 +85,7 @@
   </component>
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundNodeRenderer">
+      <Renderer ID="CompoundTypeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.tencent.qqlivetv.widget.autolayout.AutoFrameLayout" />
         <Renderer ID="EnumerationChildrenRenderer" role="children">
@@ -96,7 +96,7 @@
           </ChildrenExpression>
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundNodeRenderer">
+      <Renderer ID="CompoundTypeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="java.lang.StringBuilder" />
         <Renderer ID="EnumerationChildrenRenderer" role="children">
@@ -107,7 +107,7 @@
           </ChildrenExpression>
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundNodeRenderer">
+      <Renderer ID="CompoundTypeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.tencent.qqlivetv.shortvideo.DetailVideoModelArgument" />
         <Renderer ID="LabelRenderer" role="label">
@@ -116,7 +116,7 @@
           <option name="LABEL_EXPRESSION" value="getKey()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundNodeRenderer">
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="Unit" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.tencent.qqlivetv.search.data.unit.Unit" />
