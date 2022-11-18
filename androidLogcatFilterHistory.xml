@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine LoadRequest" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine LoadRequest" />
+        <option value="package:mine Load" />
         <option value="package:mine " />
         <option value="package:mine handleCallbackSync" />
         <option value="package:mine" />
