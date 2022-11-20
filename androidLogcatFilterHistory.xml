@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:CoverHeaderViewModel " />
+    <option name="mostRecentlyUsed" value="package:mine FF0D" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine FF0D" />
+        <option value="package:mine FF" />
+        <option value="package:mine guid=" />
         <option value="package:mine tag:CoverHeaderViewModel " />
         <option value="package:mine handleCallbackSync" />
         <option value="package:mine tag:CoverHeaderViewModel handle" />
