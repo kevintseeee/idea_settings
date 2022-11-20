@@ -1,0 +1,17 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:CoverHeaderViewModel " />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine tag:CoverHeaderViewModel " />
+        <option value="package:mine handleCallbackSync" />
+        <option value="package:mine tag:CoverHeaderViewModel handle" />
+        <option value="package:mine CoverHeaderViewModel" />
+        <option value="package:mine " />
+        <option value="package:mine LoadRequest" />
+        <option value="package:mine Load" />
+        <option value="package:mine" />
+      </list>
+    </option>
+  </component>
+</application>
