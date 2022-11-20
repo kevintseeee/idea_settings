@@ -5,14 +5,24 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="20080411" />
+          </Key>
+        </key>
+        <name value="SkyworthDigitalRT Q3001" />
+        <target value="Android 7.0" />
+        <api value="androidversion:24:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.31.228:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-10-03T12:00:30.810151Z" />
         <type value="TV" />
         <name value="Xiaomi MiTV3S-48" />
         <target value="Android 4.4" />
-        <api value="19" />
+        <api value="androidversion:19:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -23,18 +33,7 @@
         </key>
         <name value="Xiaomi Mi-4c" />
         <target value="Android 7.0" />
-        <api value="24" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="20080411" />
-          </Key>
-        </key>
-        <name value="SkyworthDigitalRT Q3001" />
-        <target value="Android 7.0" />
-        <api value="24" />
+        <api value="androidversion:24:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -43,11 +42,10 @@
             <value value="192.168.1.14:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-08-16T04:49:43.299375Z" />
         <type value="TV" />
         <name value="XiaoPaiTech A4111" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
