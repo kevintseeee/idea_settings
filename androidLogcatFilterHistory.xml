@@ -1,14 +1,23 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine click" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:CoverDetailRootModel_" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:CoverDetailRootModel_" />
+        <option value="package:mine message:using loader message:window" />
+        <option value="package:mine message~:using loader|windowFocus" />
+        <option value="package:mine message:using loader|windowFocus" />
+        <option value="package:mine message:" />
+        <option value="package:mine " />
+        <option value="package:mine c" />
+        <option value="package:mine re" />
+        <option value="package:mine windowFocus|fireRequest: using loader" />
+        <option value="package:mine window" />
         <option value="package:mine click" />
         <option value="package:mine tag:CoverHeaderViewModel " />
         <option value="package:mine handleCallbackSync" />
         <option value="package:mine tag:CoverHeaderViewModel handle" />
         <option value="package:mine CoverHeaderViewModel" />
-        <option value="package:mine " />
         <option value="package:mine LoadRequest" />
         <option value="package:mine Load" />
         <option value="package:mine" />
