@@ -1,8 +1,21 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="package:mine  tag:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  tag:" />
+        <option value="package:mine  tag:CoverDeta message:printDiffResult message:setListDataToAdapter tag:NewArchDetail" />
+        <option value="package:mine message:printDiffResult message:setListDataToAdapter tag:NewArchDetail tag:CoverDetailRootModel_" />
+        <option value="package:mine message:printDiffResult message:setListDataToAdapter tag:NewArchDetail message:onSuccess" />
+        <option value="package:mine message:printDiffResult message:setListDataToAdapter tag:NewArchDetail" />
+        <option value="package:mine message:printDiffResult message:setListDataToAdapter tag:" />
+        <option value="package:mine message:printDiffResult message:setListDataToAdapter" />
+        <option value="package:mine message:printDiffResult message:" />
+        <option value="package:mine message:printDiffResult" />
+        <option value="package:mine (message:printDiffResult)" />
+        <option value="package:mine -message:" />
+        <option value="package:mine setListDataToAdapter" />
+        <option value="set" />
         <option value="level:error " />
         <option value="OperatorHandler" />
         <option value="is:crash is:stacktrace " />
@@ -10,19 +23,6 @@
         <option value="package:mine tag~:CoverDetailRootModel_" />
         <option value="package:mine message:using loader message:window" />
         <option value="package:mine message~:using loader|windowFocus" />
-        <option value="package:mine message:using loader|windowFocus" />
-        <option value="package:mine message:" />
-        <option value="package:mine " />
-        <option value="package:mine c" />
-        <option value="package:mine re" />
-        <option value="package:mine windowFocus|fireRequest: using loader" />
-        <option value="package:mine window" />
-        <option value="package:mine click" />
-        <option value="package:mine tag:CoverHeaderViewModel " />
-        <option value="package:mine handleCallbackSync" />
-        <option value="package:mine tag:CoverHeaderViewModel handle" />
-        <option value="package:mine CoverHeaderViewModel" />
-        <option value="package:mine LoadRequest" />
       </list>
     </option>
   </component>
