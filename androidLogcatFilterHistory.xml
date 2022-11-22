@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:CoverDetailRootModel_" />
+    <option name="mostRecentlyUsed" value="is:crash is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash is:stacktrace " />
+        <option value="package:mine" />
         <option value="package:mine tag~:CoverDetailRootModel_" />
         <option value="package:mine message:using loader message:window" />
         <option value="package:mine message~:using loader|windowFocus" />
@@ -20,7 +22,6 @@
         <option value="package:mine CoverHeaderViewModel" />
         <option value="package:mine LoadRequest" />
         <option value="package:mine Load" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
