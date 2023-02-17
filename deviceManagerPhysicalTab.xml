@@ -1,0 +1,64 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="20080411" />
+          </Key>
+        </key>
+        <name value="SkyworthDigitalRT Q3001" />
+        <target value="Android 7.0" />
+        <api value="androidversion:24:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.31.228:5555" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="Xiaomi MiTV3S-48" />
+        <target value="Android 4.4" />
+        <api value="androidversion:19:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6bc6270a" />
+          </Key>
+        </key>
+        <name value="Xiaomi Mi-4c" />
+        <target value="Android 7.0" />
+        <api value="androidversion:24:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.14:5555" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="XiaoPaiTech A4111" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="11608V181594010" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="Xiaomi MiBOX3" />
+        <target value="Android 5.1" />
+        <api value="androidversion:22:null:null:true" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
