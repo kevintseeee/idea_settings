@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; (message~:oUrl.+cover_detail) " />
+    <option name="mostRecentlyUsed" value="package:mine &amp; (tag:CoverHeaderViewModel | message:setListDataToAdapter\: | tag:ListUnitViewModel_) " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; (tag:CoverHeaderViewModel | message:setListDataToAdapter\: | tag:ListUnitViewModel_) " />
+        <option value="package:mine &amp; (tag:CoverHeaderViewModel | message:setListDataToAdapter\:) " />
+        <option value="package:mine &amp; (tag:CoverHeaderViewModel | message:setListDataToAdapter\: | message:Preload) " />
+        <option value="package:mine " />
         <option value="package:mine &amp; (message~:oUrl.+cover_detail) " />
         <option value="package:mine is:stacktrace " />
-        <option value="package:mine " />
-        <option value="package:mine &amp; (tag:CoverHeaderViewModel | message:setListDataToAdapter\:) " />
         <option value="package:mine &amp; (tag:CoverHeaderViewModel | message:setListDataToAdapter:) " />
         <option value="package:mine &amp; (tag:CoverHeaderViewModel | message:setListDataToAdapter) " />
         <option value="package:mine &amp; (tag:CoverHeaderViewModel | -message:setListDataToAdapter)" />
@@ -21,8 +23,6 @@
         <option value="package:mine  tag:CoverDeta message:printDiffResult message:setListDataToAdapter tag:NewArchDetail" />
         <option value="package:mine message:printDiffResult message:setListDataToAdapter tag:NewArchDetail tag:CoverDetailRootModel_" />
         <option value="package:mine message:printDiffResult message:setListDataToAdapter tag:NewArchDetail message:onSuccess" />
-        <option value="package:mine message:printDiffResult message:setListDataToAdapter tag:NewArchDetail" />
-        <option value="package:mine message:printDiffResult message:setListDataToAdapter tag:" />
       </list>
     </option>
   </component>
