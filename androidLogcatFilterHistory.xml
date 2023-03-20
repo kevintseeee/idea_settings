@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:NetWork" />
+    <option name="mostRecentlyUsed" value="package:mine tag:NetWork message~:group_paging.+156" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:NetWork message~:group_paging.+156" />
+        <option value="package:mine tag:NetWork message~:oUrl.+156" />
+        <option value="package:mine tag:NetWork message~:oUrl" />
         <option value="package:mine tag:NetWork" />
         <option value="package:mine message:oUrl" />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="package:mine &amp; (tag:CoverHeaderViewModel | message:setListDataToAdapter\:) " />
         <option value="package:mine &amp; (tag:CoverHeaderViewModel | message:setListDataToAdapter\: | message:Preload) " />
         <option value="package:mine &amp; (message~:oUrl.+cover_detail) " />
-        <option value="package:mine &amp; (tag:CoverHeaderViewModel | message:setListDataToAdapter:) " />
-        <option value="package:mine &amp; (tag:CoverHeaderViewModel | message:setListDataToAdapter) " />
-        <option value="package:mine &amp; (tag:CoverHeaderViewModel | -message:setListDataToAdapter)" />
       </list>
     </option>
   </component>
