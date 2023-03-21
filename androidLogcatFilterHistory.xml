@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="message~:oUrl.+group_paging" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:oUrl.+group_paging" />
+        <option value="message:group_paging" />
+        <option value="message:onAsyncDataUpdate" />
+        <option value="message:setListDataToAdapter message:printDiffResult" />
+        <option value="message:setListDataToAdapter " />
+        <option value="message:set " />
         <option value="is:crash " />
         <option value="package:mine " />
         <option value="is:stacktrace " />
@@ -17,12 +23,6 @@
         <option value="package:mine m" />
         <option value="package:mine tag:HomeAsyncLineCompatDataModel" />
         <option value="package:mine &amp; (tag:CoverHeaderViewModel | message:setListDataToAdapter\: | tag~: ^ListUnitViewModel_) " />
-        <option value="package:mine &amp; (tag:CoverHeaderViewModel | message:setListDataToAdapter\: | tag~: ListUnitViewModel_) " />
-        <option value="package:mine &amp; (tag:CoverHeaderViewModel | message:setListDataToAdapter\: | tag:ListUnitViewModel_) " />
-        <option value="package:mine &amp; (message~: cover_detail_waterfall | message: DetailCoverPageRequest) " />
-        <option value="package:mine &amp; (message~: cover_detail_waterfall) " />
-        <option value="package:mine &amp; (message~: oUrl.+c) " />
-        <option value="package:mine &amp; (message: oUrl.+c) " />
       </list>
     </option>
   </component>
