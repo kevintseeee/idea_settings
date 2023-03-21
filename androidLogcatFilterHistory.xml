@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message~:oUrl.+group_paging" />
+    <option name="mostRecentlyUsed" value="package:mine &amp; tag:PlayTraceBridgeImp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; tag:PlayTraceBridgeImp" />
+        <option value="package:mine &amp; tag:PlayTrace" />
+        <option value="package:mine is:stacktrace " />
         <option value="message~:oUrl.+group_paging" />
         <option value="message:group_paging" />
         <option value="message:onAsyncDataUpdate" />
@@ -14,15 +17,12 @@
         <option value="is:stacktrace " />
         <option value="message:performBackToTop" />
         <option value="package:com.ktcp.video  is:stacktrace " />
-        <option value="package:mine is:stacktrace " />
         <option value="package:mine tag:NetWork message~:group_paging.+156" />
         <option value="package:mine tag:NetWork message~:oUrl.+156" />
         <option value="package:mine tag:NetWork message~:oUrl" />
         <option value="package:mine tag:NetWork" />
         <option value="package:mine message:oUrl" />
         <option value="package:mine m" />
-        <option value="package:mine tag:HomeAsyncLineCompatDataModel" />
-        <option value="package:mine &amp; (tag:CoverHeaderViewModel | message:setListDataToAdapter\: | tag~: ^ListUnitViewModel_) " />
       </list>
     </option>
   </component>
