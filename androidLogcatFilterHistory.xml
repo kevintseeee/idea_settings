@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | tag=:StickyHeaderAdapterHelper | tag=:StickyHeaderLayoutManager)" />
+    <option name="mostRecentlyUsed" value="package:mine message~:oUrl.+get_cfg" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:oUrl.+get_cfg" />
+        <option value="package:mine message:oUrl.+get_cfg" />
+        <option value="package:mine message:oUrl" />
         <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | tag=:StickyHeaderAdapterHelper | tag=:StickyHeaderLayoutManager)" />
         <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | tag=:StickyHeaderAdapterHelper)" />
         <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | )" />
@@ -20,9 +23,6 @@
         <option value="message:set " />
         <option value="package:mine " />
         <option value="is:stacktrace " />
-        <option value="message:performBackToTop" />
-        <option value="package:com.ktcp.video  is:stacktrace " />
-        <option value="package:mine tag:NetWork message~:group_paging.+156" />
       </list>
     </option>
   </component>
