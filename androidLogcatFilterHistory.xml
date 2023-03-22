@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; tag:PlayTraceBridgeImp" />
+    <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash " />
         <option value="package:mine &amp; tag:PlayTraceBridgeImp" />
         <option value="package:mine &amp; tag:PlayTrace" />
         <option value="package:mine is:stacktrace " />
@@ -12,7 +13,6 @@
         <option value="message:setListDataToAdapter message:printDiffResult" />
         <option value="message:setListDataToAdapter " />
         <option value="message:set " />
-        <option value="is:crash " />
         <option value="package:mine " />
         <option value="is:stacktrace " />
         <option value="message:performBackToTop" />
