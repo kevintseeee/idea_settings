@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | tag=:StickyHeaderAdapterHelper | tag=:StickyHeaderLayoutManager)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | tag=:StickyHeaderAdapterHelper | tag=:StickyHeaderLayoutManager)" />
+        <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | tag=:StickyHeaderAdapterHelper)" />
+        <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | )" />
+        <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:)" />
+        <option value="package:mine &amp; (tag=:HeaderHolder | tag=:)" />
         <option value="is:crash " />
         <option value="package:mine &amp; tag:PlayTraceBridgeImp" />
         <option value="package:mine &amp; tag:PlayTrace" />
@@ -18,11 +23,6 @@
         <option value="message:performBackToTop" />
         <option value="package:com.ktcp.video  is:stacktrace " />
         <option value="package:mine tag:NetWork message~:group_paging.+156" />
-        <option value="package:mine tag:NetWork message~:oUrl.+156" />
-        <option value="package:mine tag:NetWork message~:oUrl" />
-        <option value="package:mine tag:NetWork" />
-        <option value="package:mine message:oUrl" />
-        <option value="package:mine m" />
       </list>
     </option>
   </component>
