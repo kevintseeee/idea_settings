@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message~:'updateData: sectionInfos.size=' message~:'toSingleGroup: sectionId = '" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="package:mine message~:'updateData: sectionInfos.size=' message~:'toSingleGroup: sectionId = '" />
         <option value="package:mine message~:'updateData: sectionInfos.size='" />
         <option value="package:mine message~:'toSingleGroup: sectionId = '" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:DataModelService message:validateCallback" />
         <option value="package:mine message:validateCallback" />
         <option value="package:mine tag:PlayTraceBridgeImp" />
-        <option value="package:mine message:isPlayTraceEnable" />
       </list>
     </option>
   </component>
