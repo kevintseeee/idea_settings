@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+00,\ 00" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:NetWork message~:oUrl.+cover_detail_waterfall" />
+        <option value="is:crash " />
         <option value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+00,\ 00" />
         <option value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+\ SELECTED" />
         <option value="package:mine tag=:DataModelService  message~:validateCallback " />
@@ -11,10 +13,8 @@
         <option value="package:mine tag=:DataModel message:validateCallback" />
         <option value="package:mine tag:DataModelService message:validateCallback" />
         <option value="package:mine message:validateCallback" />
-        <option value="is:crash " />
         <option value="package:mine tag:PlayTraceBridgeImp" />
         <option value="package:mine message:isPlayTraceEnable" />
-        <option value="package:mine tag:NetWork message~:oUrl.+cover_detail_waterfall" />
         <option value="package:mine tag:HeaderFuncBtnListViewModel_ tag:ConstantsAndUtils" />
         <option value="package:mine tag:HeaderFuncBtnListViewModel_" />
         <option value="package:mine message~:oUrl.+get_cfg" />
