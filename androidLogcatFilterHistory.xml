@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+\ SELECTED" />
+    <option name="mostRecentlyUsed" value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+00,\ 00" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+00,\ 00" />
         <option value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+\ SELECTED" />
         <option value="package:mine tag=:DataModelService  message~:validateCallback " />
         <option value="package:mine tag=:DataModelService  message~:validateCallback" />
@@ -22,7 +23,6 @@
         <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | tag=:StickyHeaderAdapterHelper | tag=:StickyHeaderLayoutManager)" />
         <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | tag=:StickyHeaderAdapterHelper)" />
         <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | )" />
-        <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:)" />
       </list>
     </option>
   </component>
