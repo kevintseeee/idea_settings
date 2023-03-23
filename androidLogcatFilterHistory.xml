@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:NetWork message~:oUrl.+cover_detail_waterfall" />
+    <option name="mostRecentlyUsed" value="package:mine tag:PlayTraceBridgeImp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PlayTraceBridgeImp" />
+        <option value="package:mine message:isPlayTraceEnable" />
         <option value="package:mine tag:NetWork message~:oUrl.+cover_detail_waterfall" />
         <option value="package:mine tag:HeaderFuncBtnListViewModel_ tag:ConstantsAndUtils" />
         <option value="package:mine tag:HeaderFuncBtnListViewModel_" />
@@ -21,8 +23,6 @@
         <option value="message~:oUrl.+group_paging" />
         <option value="message:group_paging" />
         <option value="message:onAsyncDataUpdate" />
-        <option value="message:setListDataToAdapter message:printDiffResult" />
-        <option value="message:setListDataToAdapter " />
       </list>
     </option>
   </component>
