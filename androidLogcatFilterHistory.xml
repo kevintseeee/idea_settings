@@ -1,11 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+00,\ 00" />
+    <option name="mostRecentlyUsed" value="package:mine message~:'updateData: sectionInfos.size=' message~:'toSingleGroup: sectionId = '" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:'updateData: sectionInfos.size=' message~:'toSingleGroup: sectionId = '" />
+        <option value="package:mine message~:'updateData: sectionInfos.size='" />
+        <option value="package:mine message~:'toSingleGroup: sectionId = '" />
+        <option value="package:mine message~:toSingleGroup" />
+        <option value="package:mine tag:NetWork message~:toSingleGroup" />
+        <option value="package:mine tag:NetWork message~:'toSingleGroup: sectionId ='" />
+        <option value="package:mine tag:NetWork message~:toSingleGroup: sectionId =" />
+        <option value="package:mine tag=:DataModelService  message~:validateCallback\ :.+ATTACHED" />
+        <option value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+00,\ 00" />
         <option value="package:mine tag:NetWork message~:oUrl.+cover_detail_waterfall" />
         <option value="is:crash " />
-        <option value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+00,\ 00" />
         <option value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+\ SELECTED" />
         <option value="package:mine tag=:DataModelService  message~:validateCallback " />
         <option value="package:mine tag=:DataModelService  message~:validateCallback" />
@@ -15,14 +23,6 @@
         <option value="package:mine message:validateCallback" />
         <option value="package:mine tag:PlayTraceBridgeImp" />
         <option value="package:mine message:isPlayTraceEnable" />
-        <option value="package:mine tag:HeaderFuncBtnListViewModel_ tag:ConstantsAndUtils" />
-        <option value="package:mine tag:HeaderFuncBtnListViewModel_" />
-        <option value="package:mine message~:oUrl.+get_cfg" />
-        <option value="package:mine message:oUrl.+get_cfg" />
-        <option value="package:mine message:oUrl" />
-        <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | tag=:StickyHeaderAdapterHelper | tag=:StickyHeaderLayoutManager)" />
-        <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | tag=:StickyHeaderAdapterHelper)" />
-        <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | )" />
       </list>
     </option>
   </component>
