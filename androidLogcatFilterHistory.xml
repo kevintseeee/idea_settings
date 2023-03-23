@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:PlayTraceBridgeImp" />
+    <option name="mostRecentlyUsed" value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+\ SELECTED" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+\ SELECTED" />
+        <option value="package:mine tag=:DataModelService  message~:validateCallback " />
+        <option value="package:mine tag=:DataModelService  message~:validateCallback" />
+        <option value="package:mine tag=:DataModelService  message:validateCallback" />
+        <option value="package:mine tag=:DataModel message:validateCallback" />
+        <option value="package:mine tag:DataModelService message:validateCallback" />
+        <option value="package:mine message:validateCallback" />
+        <option value="is:crash " />
         <option value="package:mine tag:PlayTraceBridgeImp" />
         <option value="package:mine message:isPlayTraceEnable" />
         <option value="package:mine tag:NetWork message~:oUrl.+cover_detail_waterfall" />
         <option value="package:mine tag:HeaderFuncBtnListViewModel_ tag:ConstantsAndUtils" />
         <option value="package:mine tag:HeaderFuncBtnListViewModel_" />
         <option value="package:mine message~:oUrl.+get_cfg" />
-        <option value="is:crash " />
         <option value="package:mine message:oUrl.+get_cfg" />
         <option value="package:mine message:oUrl" />
         <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | tag=:StickyHeaderAdapterHelper | tag=:StickyHeaderLayoutManager)" />
         <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | tag=:StickyHeaderAdapterHelper)" />
         <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | )" />
         <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:)" />
-        <option value="package:mine &amp; (tag=:HeaderHolder | tag=:)" />
-        <option value="package:mine &amp; tag:PlayTraceBridgeImp" />
-        <option value="package:mine &amp; tag:PlayTrace" />
-        <option value="package:mine is:stacktrace " />
-        <option value="message~:oUrl.+group_paging" />
-        <option value="message:group_paging" />
-        <option value="message:onAsyncDataUpdate" />
       </list>
     </option>
   </component>
