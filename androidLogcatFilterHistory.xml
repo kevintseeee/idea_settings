@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message~:oUrl.+get_cfg" />
+    <option name="mostRecentlyUsed" value="package:mine tag:HeaderFuncBtnListViewModel_ tag:ConstantsAndUtils" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:HeaderFuncBtnListViewModel_ tag:ConstantsAndUtils" />
+        <option value="package:mine tag:HeaderFuncBtnListViewModel_" />
         <option value="package:mine message~:oUrl.+get_cfg" />
+        <option value="is:crash " />
         <option value="package:mine message:oUrl.+get_cfg" />
         <option value="package:mine message:oUrl" />
         <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | tag=:StickyHeaderAdapterHelper | tag=:StickyHeaderLayoutManager)" />
@@ -11,7 +14,6 @@
         <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:HeaderPreloadTask | )" />
         <option value="package:mine &amp; (tag=:HeaderHolder | tag=:HeaderHolderManager | tag=:)" />
         <option value="package:mine &amp; (tag=:HeaderHolder | tag=:)" />
-        <option value="is:crash " />
         <option value="package:mine &amp; tag:PlayTraceBridgeImp" />
         <option value="package:mine &amp; tag:PlayTrace" />
         <option value="package:mine is:stacktrace " />
@@ -21,8 +23,6 @@
         <option value="message:setListDataToAdapter message:printDiffResult" />
         <option value="message:setListDataToAdapter " />
         <option value="message:set " />
-        <option value="package:mine " />
-        <option value="is:stacktrace " />
       </list>
     </option>
   </component>
