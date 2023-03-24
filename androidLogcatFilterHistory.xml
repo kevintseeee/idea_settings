@@ -1,8 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="package:mine &amp; ((tag=:PlayTraceBridgeImp &amp; message~:report.+scene_jump_detail_page_fully_display\&quot;) | (tag=:PlayTraceInternal &amp; message~:fireEvent))" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; ((tag=:PlayTraceBridgeImp &amp; message~:report.+scene_jump_detail_page_fully_display\&quot;) | (tag=:PlayTraceInternal &amp; message~:fireEvent))" />
+        <option value="package:mine &amp; ((tag=:PlayTraceBridgeImp &amp; message~:report.+scene_jump_detail_page_fully_display\&quot;) | tag=:PlayTraceInternal)" />
+        <option value="package:mine &amp; ((tag=:PlayTraceBridgeImp &amp; message~:report) | tag=:PlayTraceInternal)" />
+        <option value="package:mine &amp; (tag=:PlayTraceBridgeImp | tag=:PlayTraceInternal)" />
+        <option value="package:mine &amp; (tag=:PlayTraceBridgeImp | tag=:PlayTraceInternal | tag=:ReportAction)" />
+        <option value="package:mine tag=:PlayTraceBridgeImp tag=:PlayTraceInternal tag=:ReportAction" />
+        <option value="package:mine tag=:PlayTraceBridgeImp tag=:PlayTraceInternal" />
+        <option value="package:mine tag=:PlayTraceBridgeImp" />
+        <option value="is:crash " />
         <option value="level:error " />
         <option value="package:mine message~:'updateData: sectionInfos.size=' message~:'toSingleGroup: sectionId = '" />
         <option value="package:mine message~:'updateData: sectionInfos.size='" />
@@ -14,15 +23,6 @@
         <option value="package:mine tag=:DataModelService  message~:validateCallback\ :.+ATTACHED" />
         <option value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+00,\ 00" />
         <option value="package:mine tag:NetWork message~:oUrl.+cover_detail_waterfall" />
-        <option value="is:crash " />
-        <option value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+\ SELECTED" />
-        <option value="package:mine tag=:DataModelService  message~:validateCallback " />
-        <option value="package:mine tag=:DataModelService  message~:validateCallback" />
-        <option value="package:mine tag=:DataModelService  message:validateCallback" />
-        <option value="package:mine tag=:DataModel message:validateCallback" />
-        <option value="package:mine tag:DataModelService message:validateCallback" />
-        <option value="package:mine message:validateCallback" />
-        <option value="package:mine tag:PlayTraceBridgeImp" />
       </list>
     </option>
   </component>
