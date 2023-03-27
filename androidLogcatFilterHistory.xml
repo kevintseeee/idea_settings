@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag=:PlayTraceBridgeImp tag=:PlayTraceInternal" />
+    <option name="mostRecentlyUsed" value="package:mine tag:PlayTrace" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PlayTrace" />
         <option value="package:mine tag=:PlayTraceBridgeImp tag=:PlayTraceInternal" />
         <option value="package:mine &amp; ((tag=:PlayTraceBridgeImp &amp; message~:report.+scene_jump_detail_page_fully_display\&quot;) | (tag=:PlayTraceInternal &amp; message~:fireEvent))" />
         <option value="package:mine tag=:PlayTraceBridgeImp tag=:" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:NetWork message~:'toSingleGroup: sectionId ='" />
         <option value="package:mine tag:NetWork message~:toSingleGroup: sectionId =" />
         <option value="package:mine tag=:DataModelService  message~:validateCallback\ :.+ATTACHED" />
-        <option value="package:mine tag=:DataModelService  message~:validateCallback\ :\ .+00,\ 00" />
       </list>
     </option>
   </component>
