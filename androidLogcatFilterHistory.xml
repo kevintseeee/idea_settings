@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:AbstractPlayerFragment" />
+    <option name="mostRecentlyUsed" value="package:mine message~:SmartListDataLive message~:setListDataToAdapter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:SmartListDataLive message~:setListDataToAdapter" />
+        <option value="package:mine message~:SmartListDataLive " />
+        <option value="package:mine tag~:NewArchDetailCoverViewModel_" />
+        <option value="package:mine tag=:" />
+        <option value="is:crash " />
+        <option value="tag=:SmartListDataLive" />
         <option value="tag=:AbstractPlayerFragment" />
         <option value="message~:waterfall" />
         <option value="message~:oUrl.+waterfall" />
@@ -17,12 +23,6 @@
         <option value="package:mine &amp; (tag=:PlayTraceBridgeImp | tag=:PlayTraceInternal | tag=:ReportAction)" />
         <option value="package:mine tag=:PlayTraceBridgeImp tag=:PlayTraceInternal tag=:ReportAction" />
         <option value="package:mine tag=:PlayTraceBridgeImp" />
-        <option value="is:crash " />
-        <option value="level:error " />
-        <option value="package:mine message~:'updateData: sectionInfos.size=' message~:'toSingleGroup: sectionId = '" />
-        <option value="package:mine message~:'updateData: sectionInfos.size='" />
-        <option value="package:mine message~:'toSingleGroup: sectionId = '" />
-        <option value="package:mine message~:toSingleGroup" />
       </list>
     </option>
   </component>
