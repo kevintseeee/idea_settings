@@ -1,13 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message~:SmartListDataLive message~:setListDataToAdapter" />
+    <option name="mostRecentlyUsed" value="package:mine &amp; ( message~:SmartListDataLive | message~:setListDataToAdapter | tag:CoverHeaderViewModel )" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; ( message~:SmartListDataLive | message~:setListDataToAdapter | tag:CoverHeaderViewModel )" />
+        <option value="package:mine &amp; ( message~:SmartListDataLive | message~:setListDataToAdapter | tag: )" />
+        <option value="is:crash " />
+        <option value="package:mine &amp; (message~:SmartListDataLive | message~:setListDataToAdapter | tag~:CoverHeaderViewModel)" />
+        <option value="package:mine (message~:SmartListDataLive | message~:setListDataToAdapter | tag~:CoverHeaderViewModel)" />
+        <option value="package:mine (message~:SmartListDataLive | message~:setListDataToAdapter | tag=:HeaderDa" />
         <option value="package:mine message~:SmartListDataLive message~:setListDataToAdapter" />
         <option value="package:mine message~:SmartListDataLive " />
         <option value="package:mine tag~:NewArchDetailCoverViewModel_" />
         <option value="package:mine tag=:" />
-        <option value="is:crash " />
         <option value="tag=:SmartListDataLive" />
         <option value="tag=:AbstractPlayerFragment" />
         <option value="message~:waterfall" />
@@ -18,11 +23,6 @@
         <option value="package:mine &amp; ((tag=:PlayTraceBridgeImp &amp; message~:report.+scene_jump_detail_page_fully_display\&quot;) | (tag=:PlayTraceInternal &amp; message~:fireEvent))" />
         <option value="package:mine tag=:PlayTraceBridgeImp tag=:" />
         <option value="package:mine &amp; ((tag=:PlayTraceBridgeImp &amp; message~:report.+scene_jump_detail_page_fully_display\&quot;) | tag=:PlayTraceInternal)" />
-        <option value="package:mine &amp; ((tag=:PlayTraceBridgeImp &amp; message~:report) | tag=:PlayTraceInternal)" />
-        <option value="package:mine &amp; (tag=:PlayTraceBridgeImp | tag=:PlayTraceInternal)" />
-        <option value="package:mine &amp; (tag=:PlayTraceBridgeImp | tag=:PlayTraceInternal | tag=:ReportAction)" />
-        <option value="package:mine tag=:PlayTraceBridgeImp tag=:PlayTraceInternal tag=:ReportAction" />
-        <option value="package:mine tag=:PlayTraceBridgeImp" />
       </list>
     </option>
   </component>
