@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message~:oUrl.+waterfall" />
+    <option name="mostRecentlyUsed" value="tag=:AbstractPlayerFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:AbstractPlayerFragment" />
+        <option value="message~:waterfall" />
         <option value="message~:oUrl.+waterfall" />
         <option value="message~:guid" />
         <option value="package:mine tag:PlayTrace" />
@@ -21,8 +23,6 @@
         <option value="package:mine message~:'updateData: sectionInfos.size='" />
         <option value="package:mine message~:'toSingleGroup: sectionId = '" />
         <option value="package:mine message~:toSingleGroup" />
-        <option value="package:mine tag:NetWork message~:toSingleGroup" />
-        <option value="package:mine tag:NetWork message~:'toSingleGroup: sectionId ='" />
       </list>
     </option>
   </component>
