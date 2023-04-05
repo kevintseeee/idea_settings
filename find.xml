@@ -6,10 +6,10 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.properties</mask>
     <mask>*.ini</mask>
     <mask>*.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
