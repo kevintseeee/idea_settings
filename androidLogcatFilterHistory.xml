@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter | message~:setListUnit | message~:setUnits)" />
+    <option name="mostRecentlyUsed" value="package:mine &amp;  tag~:CoverHeaderViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp;  tag~:CoverHeaderViewModel" />
+        <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter | message~:setListUnit | message~:setUnits | (tag~:CoverDetailRootModel_ &amp; message~:fireRequest ))" />
+        <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter | message~:setListUnit | message~:setUnits | (tag~:CoverDetailRootModel_ &amp; message~:))" />
         <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter | message~:setListUnit | message~:setUnits)" />
         <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter | message~:setListUnit)" />
         <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter)" />
@@ -20,9 +23,6 @@
         <option value="package:mine tag=:" />
         <option value="is:crash " />
         <option value="tag=:SmartListDataLive" />
-        <option value="tag=:AbstractPlayerFragment" />
-        <option value="message~:waterfall" />
-        <option value="message~:oUrl.+waterfall" />
       </list>
     </option>
   </component>
