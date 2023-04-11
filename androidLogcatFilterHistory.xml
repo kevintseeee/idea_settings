@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; tag:CoverDetailRootModel_" />
+    <option name="mostRecentlyUsed" value="package:mine &amp; (tag:CoverDetailRootModel_ | (tag:Scheduler &amp; message:Sync\ Finished))" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; (tag:CoverDetailRootModel_ | (tag:Scheduler &amp; message:Sync\ Finished))" />
+        <option value="package:mine &amp; (tag:CoverDetailRootModel_ | tag:Scheduler)" />
+        <option value="package:mine &amp; (tag:CoverDetailRootModel_ | " />
         <option value="package:mine &amp; tag:CoverDetailRootModel_" />
         <option value="package:mine &amp; tag=:" />
         <option value="is:crash | is:stacktrace " />
@@ -20,9 +23,6 @@
         <option value="tag=:AbstractPlayerFragment" />
         <option value="message~:waterfall" />
         <option value="message~:oUrl.+waterfall" />
-        <option value="message~:guid" />
-        <option value="package:mine tag:PlayTrace" />
-        <option value="package:mine tag=:PlayTraceBridgeImp tag=:PlayTraceInternal" />
       </list>
     </option>
   </component>
