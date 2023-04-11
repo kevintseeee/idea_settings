@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; (tag:CoverDetailRootModel_ | (tag:Scheduler &amp; message:Sync\ Finished) | tag:TvViewModelScheduler)" />
+    <option name="mostRecentlyUsed" value="package:mine &amp; tag:CoverDetailRootModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; tag:CoverDetailRootModel" />
         <option value="package:mine &amp; (tag:CoverDetailRootModel_ | (tag:Scheduler &amp; message:Sync\ Finished) | tag:TvViewModelScheduler)" />
         <option value="package:mine &amp; (tag:CoverDetailRootModel_ | (tag:Scheduler &amp; message:Sync\ Finished))" />
-        <option value="package:mine &amp; tag:CoverDetailRootModel" />
         <option value="package:mine &amp; (tag:CoverDetailRootModel_ | tag:Scheduler )" />
         <option value="package:mine &amp; (tag:CoverDetailRootModel_ | tag:Scheduler)" />
         <option value="package:mine &amp; (tag:CoverDetailRootModel_ | " />
