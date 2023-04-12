@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; (tag:CoverDetailRootModel | tag:DetailCoverInfoModel_ )" />
+    <option name="mostRecentlyUsed" value="package:mine &amp; (tag:CoverHeaderViewModel | (tag:NewArchDetailCoverPageFragment &amp; message:setListDataToAdapter) | tag:ListUnitViewModel_ | message:new_arch_old_detail)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; (tag:CoverHeaderViewModel | (tag:NewArchDetailCoverPageFragment &amp; message:setListDataToAdapter) | tag:ListUnitViewModel_ | message:new_arch_old_detail)" />
+        <option value="package:mine &amp; (tag:CoverHeaderViewModel | (tag:NewArchDetailCoverPageFragment &amp; message:setListDataToAdapter) | tag:ListUnitViewModel_ )" />
+        <option value="package:mine &amp; (tag:CoverHeaderViewModel | (tag:NewArchDetailCoverPageFragment &amp; message:setListDataToAdapter) | )" />
+        <option value="package:mine &amp; (tag:CoverHeaderViewModel | (tag:NewArchDetailCoverPageFragment &amp; message:))" />
+        <option value="package:mine &amp; (tag:CoverHeaderViewModel | tag:)" />
+        <option value="package:mine &amp; (tag:CoverHeaderViewModel )" />
         <option value="package:mine &amp; (tag:CoverDetailRootModel | tag:DetailCoverInfoModel_ )" />
         <option value="package:mine &amp; (tag:CoverDetailRootModel | tag:)" />
         <option value="package:mine &amp; tag:CoverDetailRootModel" />
@@ -17,12 +23,6 @@
         <option value="is:crash " />
         <option value="package:mine &amp; ( message~:SmartListDataLive | message~:setListDataToAdapter | tag:CoverHeaderViewModel )" />
         <option value="package:mine &amp; ( message~:SmartListDataLive | message~:setListDataToAdapter | tag: )" />
-        <option value="package:mine &amp; (message~:SmartListDataLive | message~:setListDataToAdapter | tag~:CoverHeaderViewModel)" />
-        <option value="package:mine (message~:SmartListDataLive | message~:setListDataToAdapter | tag~:CoverHeaderViewModel)" />
-        <option value="package:mine (message~:SmartListDataLive | message~:setListDataToAdapter | tag=:HeaderDa" />
-        <option value="package:mine message~:SmartListDataLive message~:setListDataToAdapter" />
-        <option value="package:mine message~:SmartListDataLive " />
-        <option value="package:mine tag~:NewArchDetailCoverViewModel_" />
       </list>
     </option>
   </component>
