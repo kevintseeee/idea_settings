@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; (tag:CoverHeaderViewModel | (tag:NewArchDetailCoverPageFragment &amp; message:setListDataToAdapter) | tag:ListUnitViewModel_ | message:new_arch_old_detail)" />
+    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity_" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:MainActivity_" />
+        <option value="package:mine " />
         <option value="package:mine &amp; (tag:CoverHeaderViewModel | (tag:NewArchDetailCoverPageFragment &amp; message:setListDataToAdapter) | tag:ListUnitViewModel_ | message:new_arch_old_detail)" />
         <option value="package:mine &amp; (tag:CoverHeaderViewModel | (tag:NewArchDetailCoverPageFragment &amp; message:setListDataToAdapter) | tag:ListUnitViewModel_ )" />
         <option value="package:mine &amp; (tag:CoverHeaderViewModel | (tag:NewArchDetailCoverPageFragment &amp; message:setListDataToAdapter) | )" />
@@ -21,8 +23,6 @@
         <option value="package:mine &amp; tag=:" />
         <option value="is:crash | is:stacktrace " />
         <option value="is:crash " />
-        <option value="package:mine &amp; ( message~:SmartListDataLive | message~:setListDataToAdapter | tag:CoverHeaderViewModel )" />
-        <option value="package:mine &amp; ( message~:SmartListDataLive | message~:setListDataToAdapter | tag: )" />
       </list>
     </option>
   </component>
