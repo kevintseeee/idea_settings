@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity_" />
+    <option name="mostRecentlyUsed" value="package:mine message:detail_first_page_sync_load" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:detail_first_page_sync_load" />
         <option value="package:mine tag:MainActivity_" />
         <option value="package:mine " />
         <option value="package:mine &amp; (tag:CoverHeaderViewModel | (tag:NewArchDetailCoverPageFragment &amp; message:setListDataToAdapter) | tag:ListUnitViewModel_ | message:new_arch_old_detail)" />
@@ -22,7 +23,6 @@
         <option value="package:mine &amp; tag:CoverDetailRootModel_" />
         <option value="package:mine &amp; tag=:" />
         <option value="is:crash | is:stacktrace " />
-        <option value="is:crash " />
       </list>
     </option>
   </component>
