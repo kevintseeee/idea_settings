@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:get_scene_cfg" />
+    <option name="mostRecentlyUsed" value="package:mine message:3BC" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:3BC" />
         <option value="package:mine message:get_scene_cfg" />
         <option value="package:mine &amp; message:guid\&quot;:" />
         <option value="package:mine &amp; message:guid=" />
@@ -22,7 +23,6 @@
         <option value="package:mine &amp; (tag:CoverDetailRootModel_ | (tag:Scheduler &amp; message:Sync\ Finished) | tag:TvViewModelScheduler)" />
         <option value="package:mine &amp; (tag:CoverDetailRootModel_ | (tag:Scheduler &amp; message:Sync\ Finished))" />
         <option value="package:mine &amp; (tag:CoverDetailRootModel_ | tag:Scheduler )" />
-        <option value="package:mine &amp; (tag:CoverDetailRootModel_ | tag:Scheduler)" />
       </list>
     </option>
   </component>
