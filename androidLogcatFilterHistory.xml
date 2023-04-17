@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:CoverHeaderViewModel" />
+    <option name="mostRecentlyUsed" value="package:mine tag:NumEpisodeItemViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:NumEpisodeItemViewModel" />
         <option value="package:mine tag:CoverHeaderViewModel" />
         <option value="package:mine message:overrideFirstPageUnitId" />
         <option value="package:mine (message:printDiffResult | message:setListDataToAdapter | (tag:ListUnitViewModel_ &amp; (message:setListUnit | message:setUnits)) | message:isEnableDetailFirstPageSyncLoad)" />
@@ -22,7 +23,6 @@
         <option value="package:mine message:detail_first_page_sync_load" />
         <option value="package:mine tag:MainActivity_" />
         <option value="package:mine &amp; (tag:CoverHeaderViewModel | (tag:NewArchDetailCoverPageFragment &amp; message:setListDataToAdapter) | tag:ListUnitViewModel_ | message:new_arch_old_detail)" />
-        <option value="package:mine &amp; (tag:CoverHeaderViewModel | (tag:NewArchDetailCoverPageFragment &amp; message:setListDataToAdapter) | tag:ListUnitViewModel_ )" />
       </list>
     </option>
   </component>
