@@ -1,12 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:NumEpisodeItemViewModel" />
+    <option name="mostRecentlyUsed" value="package:mine &amp; ((tag:NewArchDet &amp; message:) | ())" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine (message:printDiffResult | message:setListDataToAdapter | (tag:ListUnitViewModel_ &amp; (message:setListUnit | message:setUnits)) | message:isEnableDetailFirstPageSyncLoad)" />
+        <option value="package:mine &amp; ((tag:NewArchDet &amp; message:printDiffResult) | ())" />
+        <option value="package:mine &amp; ((tag:NewArchDet &amp; message:pr) | ())" />
+        <option value="package:mine &amp; ((tag:) | ())" />
         <option value="package:mine tag:NumEpisodeItemViewModel" />
         <option value="package:mine tag:CoverHeaderViewModel" />
         <option value="package:mine message:overrideFirstPageUnitId" />
-        <option value="package:mine (message:printDiffResult | message:setListDataToAdapter | (tag:ListUnitViewModel_ &amp; (message:setListUnit | message:setUnits)) | message:isEnableDetailFirstPageSyncLoad)" />
         <option value="package:mine (message:printDiffResult | message:setListDataToAdapter | (tag:ListUnitViewModel_ &amp; (message:setListUnit | message:setUnits)) )" />
         <option value="package:mine (message:printDiffResult | message:setListDataToAdapter | message:setListUnit | message:setUnits )" />
         <option value="package:mine (message:printDiffResult | message:setListDataToAdapter | message:setListUnit)" />
@@ -20,9 +23,6 @@
         <option value="package:mine &amp; message:guid\&quot;:" />
         <option value="package:mine &amp; message:guid=" />
         <option value="package:mine message:isEnableDetailFirstPageSyncLoad" />
-        <option value="package:mine message:detail_first_page_sync_load" />
-        <option value="package:mine tag:MainActivity_" />
-        <option value="package:mine &amp; (tag:CoverHeaderViewModel | (tag:NewArchDetailCoverPageFragment &amp; message:setListDataToAdapter) | tag:ListUnitViewModel_ | message:new_arch_old_detail)" />
       </list>
     </option>
   </component>
