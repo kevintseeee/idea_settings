@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="package:mine tag:NewArchDetailCoverPageFragment_" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:NewArchDetailCoverPageFragment_" />
+        <option value="package:mine is:stacktrace " />
         <option value="is:stacktrace " />
         <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter | message~:setListUnit | message~:setUnits | tag~:CoverDetailRootModel_ )" />
         <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter | (tag~:CoverDetailRootModel_ &amp; message~:fireRequest ) | tag~:SmartListDataLive )" />
@@ -21,8 +23,6 @@
         <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | tag~:CoverDetailRootModel_ )" />
         <option value="package:mine &amp; ( tag~:VMFocusPrefetch | tag~:CoverDetailRootModel_ )" />
         <option value="package:mine &amp; ( tCoverHeaderViewModel)" />
-        <option value="package:mine &amp; ( tag~:CoverHeaderViewModel)" />
-        <option value="package:mine &amp; ( tag~:)" />
       </list>
     </option>
   </component>
