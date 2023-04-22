@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:NewArchDetailCoverPageFragment_" />
+    <option name="mostRecentlyUsed" value="package:mine &amp; ((tag:NewArchDet &amp; message:) | ())" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:NewArchDetailCoverPageFragment_" />
-        <option value="package:mine is:stacktrace " />
-        <option value="is:stacktrace " />
-        <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter | message~:setListUnit | message~:setUnits | tag~:CoverDetailRootModel_ )" />
-        <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter | (tag~:CoverDetailRootModel_ &amp; message~:fireRequest ) | tag~:SmartListDataLive )" />
-        <option value="package:mine &amp; ( tag~:CoverHeaderViewModel  )" />
-        <option value="package:mine &amp; ( message~:setListDataToAdapter | message~:SmartListDataLive | message~:setCurListData )" />
-        <option value="package:mine &amp; ( message~:setListDataToAdapter | tag~:SmartListDataLive | message~:setCurListData )" />
-        <option value="package:mine &amp; ( message~:setListDataToAdapter | tag~:SmartListDataLive )" />
-        <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter | (tag~:CoverDetailRootModel_ &amp; message~:fireRequest ))" />
-        <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter | message~:setListUnit | message~:setUnits | (tag~:CoverDetailRootModel_ &amp; message~:fireRequest ))" />
-        <option value="package:mine &amp;  tag~:CoverHeaderViewModel" />
-        <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter | message~:setListUnit | message~:setUnits | (tag~:CoverDetailRootModel_ &amp; message~:))" />
-        <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter | message~:setListUnit | message~:setUnits)" />
-        <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter | message~:setListUnit)" />
-        <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | message~:setListDataToAdapter)" />
-        <option value="package:mine &amp; ( tag~:CoverHeaderViewModel )" />
-        <option value="package:mine &amp; ( tag~:CoverHeaderViewModel | tag~:CoverDetailRootModel_ )" />
-        <option value="package:mine &amp; ( tag~:VMFocusPrefetch | tag~:CoverDetailRootModel_ )" />
-        <option value="package:mine &amp; ( tCoverHeaderViewModel)" />
+        <option value="package:mine (message:printDiffResult | message:setListDataToAdapter | (tag:ListUnitViewModel_ &amp; (message:setListUnit | message:setUnits)) | message:isEnableDetailFirstPageSyncLoad)" />
+        <option value="package:mine &amp; ((tag:NewArchDet &amp; message:printDiffResult) | ())" />
+        <option value="package:mine &amp; ((tag:NewArchDet &amp; message:pr) | ())" />
+        <option value="package:mine &amp; ((tag:) | ())" />
+        <option value="package:mine tag:NumEpisodeItemViewModel" />
+        <option value="package:mine tag:CoverHeaderViewModel" />
+        <option value="package:mine message:overrideFirstPageUnitId" />
+        <option value="package:mine (message:printDiffResult | message:setListDataToAdapter | (tag:ListUnitViewModel_ &amp; (message:setListUnit | message:setUnits)) )" />
+        <option value="package:mine (message:printDiffResult | message:setListDataToAdapter | message:setListUnit | message:setUnits )" />
+        <option value="package:mine (message:printDiffResult | message:setListDataToAdapter | message:setListUnit)" />
+        <option value="package:mine (message:printDiffResult | message:setListDataToAdapter)" />
+        <option value="package:mine message:printDiffResult" />
+        <option value="package:mine " />
+        <option value="package:mine (message:event_status_bar_on_attach | message:event_status_bar_drawn)" />
+        <option value="package:mine (message:event_status_bar_on_attach | message:" />
+        <option value="package:mine message:3BC" />
+        <option value="package:mine message:get_scene_cfg" />
+        <option value="package:mine &amp; message:guid\&quot;:" />
+        <option value="package:mine &amp; message:guid=" />
+        <option value="package:mine message:isEnableDetailFirstPageSyncLoad" />
       </list>
     </option>
   </component>
