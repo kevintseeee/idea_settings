@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:LoadRequest" />
+    <option name="mostRecentlyUsed" value="package:mine (tag:FirstFrameReporter | message:setListDataToAdapter)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine (tag:FirstFrameReporter | message:setListDataToAdapter)" />
+        <option value="package:mine tag:FirstFrameReporter" />
         <option value="package:mine tag:LoadRequest" />
         <option value="package:mine tag:Network message:seq=50" />
         <option value="package:mine tag:Network message:S" />
@@ -21,8 +23,6 @@
         <option value="package:mine message:printDiffResult" />
         <option value="package:mine " />
         <option value="package:mine (message:event_status_bar_on_attach | message:event_status_bar_drawn)" />
-        <option value="package:mine (message:event_status_bar_on_attach | message:" />
-        <option value="package:mine message:3BC" />
       </list>
     </option>
   </component>
