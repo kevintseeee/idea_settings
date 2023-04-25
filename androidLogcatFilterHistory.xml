@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine (tag:FirstFrameReporter | tag:LogoTextRectW147H140ExpandViewModel)" />
+    <option name="mostRecentlyUsed" value="package:mine tag:UnitVideoDataListModel_" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:UnitVideoDataListModel_" />
         <option value="package:mine (tag:FirstFrameReporter | tag:LogoTextRectW147H140ExpandViewModel)" />
         <option value="package:mine (tag:FirstFrameReporter | message:LogoTextRectW147H140ExpandViewModel)" />
         <option value="package:mine (tag:FirstFrameReporter | message:setListDataToAdapter)" />
@@ -22,7 +23,6 @@
         <option value="package:mine (message:printDiffResult | message:setListDataToAdapter | message:setListUnit | message:setUnits )" />
         <option value="package:mine (message:printDiffResult | message:setListDataToAdapter | message:setListUnit)" />
         <option value="package:mine (message:printDiffResult | message:setListDataToAdapter)" />
-        <option value="package:mine message:printDiffResult" />
       </list>
     </option>
   </component>
