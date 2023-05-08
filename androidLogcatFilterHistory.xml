@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine (tag:UnitVideoDataListModel_ | message:printDiffResult)" />
+    <option name="mostRecentlyUsed" value="package:mine tag:MediaPlayerRootView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:MediaPlayerRootView" />
+        <option value="package:mine tag:" />
+        <option value="package:mine " />
         <option value="package:mine (tag:UnitVideoDataListModel_ | message:printDiffResult)" />
         <option value="package:mine (tag:UnitVideoDataListModel_ | message:printDiff)" />
         <option value="package:mine tag:UnitVideoDataListModel_" />
@@ -20,9 +23,6 @@
         <option value="package:mine &amp; ((tag:) | ())" />
         <option value="package:mine tag:NumEpisodeItemViewModel" />
         <option value="package:mine tag:CoverHeaderViewModel" />
-        <option value="package:mine message:overrideFirstPageUnitId" />
-        <option value="package:mine (message:printDiffResult | message:setListDataToAdapter | (tag:ListUnitViewModel_ &amp; (message:setListUnit | message:setUnits)) )" />
-        <option value="package:mine (message:printDiffResult | message:setListDataToAdapter | message:setListUnit | message:setUnits )" />
       </list>
     </option>
   </component>
