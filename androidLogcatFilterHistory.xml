@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine (message:setData:\ cover_details_selection | message~:validateCallback.+03, )" />
+    <option name="mostRecentlyUsed" value="package:mine (tag:UnitVideoDataListModel | message~:validateCallback.+03, | tag:TextPicEpisodeItemViewModel | message~:validateCallback.+DIFF_UPDATE )" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine (tag:UnitVideoDataListModel | message~:validateCallback.+03, | tag:TextPicEpisodeItemViewModel | message~:validateCallback.+DIFF_UPDATE )" />
+        <option value="package:mine ((tag:UnitVideoDataListModel &amp; message:setData ) | message~:validateCallback.+03, | tag:TextPicEpisodeItemViewModel | message~:validateCallback.+DIFF_UPDATE )" />
+        <option value="package:mine ((tag:UnitVideoDataListModel &amp; message:setData ) | message~:validateCallback.+03, | tag:TextPicEpisodeItemViewModel | message~:validateCallback.+03, )" />
+        <option value="package:mine ((tag:UnitVideoDataListModel &amp; message:setData ) | message~:validateCallback.+03, | tag:TextPicEpisodeItemViewModel)" />
+        <option value="package:mine ((tag:UnitVideoDataListModel &amp; message:setData ) | message~:validateCallback.+03, )" />
+        <option value="package:mine ((tag:tag:UnitVideoDataListModel &amp; message:setData ) | message~:validateCallback.+03, )" />
+        <option value="package:mine (message:setData: | message~:validateCallback.+03, )" />
         <option value="package:mine (message:setData:\ cover_details_selection | message~:validateCallback.+03, )" />
         <option value="package:mine (message:setData:\ cover_details_selection | message:~validateCallback.+03, )" />
         <option value="package:mine (message:setData:\ cover_details_selection | message:~validateCallback\ :\ \(03)" />
@@ -16,13 +23,6 @@
         <option value="package:mine tag:UnitVideoDataListModel_ tag:" />
         <option value="package:mine tag:DetailEpisodeFragment" />
         <option value="package:mine " />
-        <option value="level:warn " />
-        <option value="is:stacktrace " />
-        <option value="package:mine is:stacktrace " />
-        <option value="package:mine is:crash  " />
-        <option value="package:mine tag:MediaPlayerRootView message:onView" />
-        <option value="package:mine tag:MediaPlayerRootView" />
-        <option value="package:mine tag:" />
       </list>
     </option>
   </component>
