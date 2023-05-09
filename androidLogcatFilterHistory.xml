@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:NumEpisodeItemViewModel" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:^UnitVideoDataListModel_ tag~:^ListUnitViewModel_ tag:VideoListDataManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:^UnitVideoDataListModel_ tag~:^ListUnitViewModel_ tag:VideoListDataManager" />
+        <option value="package:mine tag~:^UnitVideoDataListModel_ tag~:^ListUnitViewModel_" />
+        <option value="package:mine tag:UnitVideoDataListModel_ tag:ListUnitViewModel_" />
+        <option value="package:mine tag:UnitVideoDataListModel_" />
+        <option value="package:mine tag:Lis" />
         <option value="package:mine tag:NumEpisodeItemViewModel" />
         <option value="package:mine (tag:SRL-StatusRollView | message:openMediaPlayer)" />
         <option value="package:mine tag:SRL-StatusRollView" />
@@ -17,12 +22,7 @@
         <option value="package:mine (message:setData:\ cover_details_selection | message:~validateCallback.+03, )" />
         <option value="package:mine (message:setData:\ cover_details_selection | message:~validateCallback\ :\ \(03)" />
         <option value="package:mine (message:setData:\ cover_details_selection )" />
-        <option value="package:mine tag:UnitVideoDataListModel_" />
         <option value="package:mine message:recordVideoDataList" />
-        <option value="package:mine tag:UnitVideoDataListModelWrapper_" />
-        <option value="package:mine tag:TextPicEpisodeItemViewModel" />
-        <option value="package:mine tag:UnitVideoDataListModel_ tag:ListUnitViewModel_3" />
-        <option value="package:mine tag:UnitVideoDataListModel_ tag:ListUnitViewModel_" />
       </list>
     </option>
   </component>
