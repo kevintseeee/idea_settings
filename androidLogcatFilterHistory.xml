@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine tag:UnitVideoDataListModel_ tag:ListUnitViewModel_3" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:UnitVideoDataListModel_ tag:ListUnitViewModel_3" />
+        <option value="package:mine tag:UnitVideoDataListModel_ tag:ListUnitViewModel_" />
+        <option value="package:mine tag:UnitVideoDataListModel_ tag:" />
+        <option value="package:mine tag:UnitVideoDataListModel_" />
+        <option value="package:mine tag:DetailEpisodeFragment" />
+        <option value="package:mine " />
         <option value="level:warn " />
         <option value="is:stacktrace " />
         <option value="package:mine is:stacktrace " />
@@ -10,19 +16,13 @@
         <option value="package:mine tag:MediaPlayerRootView message:onView" />
         <option value="package:mine tag:MediaPlayerRootView" />
         <option value="package:mine tag:" />
-        <option value="package:mine " />
         <option value="package:mine (tag:UnitVideoDataListModel_ | message:printDiffResult)" />
         <option value="package:mine (tag:UnitVideoDataListModel_ | message:printDiff)" />
-        <option value="package:mine tag:UnitVideoDataListModel_" />
         <option value="package:mine (tag:FirstFrameReporter | tag:LogoTextRectW147H140ExpandViewModel)" />
         <option value="package:mine (tag:FirstFrameReporter | message:LogoTextRectW147H140ExpandViewModel)" />
         <option value="package:mine (tag:FirstFrameReporter | message:setListDataToAdapter)" />
         <option value="package:mine tag:FirstFrameReporter" />
         <option value="package:mine tag:LoadRequest" />
-        <option value="package:mine tag:Network message:seq=50" />
-        <option value="package:mine tag:Network message:S" />
-        <option value="package:mine tag:Network" />
-        <option value="package:mine (message:printDiffResult | message:setListDataToAdapter | (tag:ListUnitViewModel_ &amp; (message:setListUnit | message:setUnits)) | message:isEnableDetailFirstPageSyncLoad)" />
       </list>
     </option>
   </component>
