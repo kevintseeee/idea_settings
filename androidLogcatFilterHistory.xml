@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:UnitVideoDataListModel_" />
+    <option name="mostRecentlyUsed" value="package:mine (message:setData:\ cover_details_selection | message~:validateCallback.+03, )" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine (message:setData:\ cover_details_selection | message~:validateCallback.+03, )" />
+        <option value="package:mine (message:setData:\ cover_details_selection | message:~validateCallback.+03, )" />
+        <option value="package:mine (message:setData:\ cover_details_selection | message:~validateCallback\ :\ \(03)" />
+        <option value="package:mine (message:setData:\ cover_details_selection )" />
         <option value="package:mine tag:UnitVideoDataListModel_" />
         <option value="package:mine message:recordVideoDataList" />
         <option value="package:mine tag:UnitVideoDataListModelWrapper_" />
@@ -19,10 +23,6 @@
         <option value="package:mine tag:MediaPlayerRootView message:onView" />
         <option value="package:mine tag:MediaPlayerRootView" />
         <option value="package:mine tag:" />
-        <option value="package:mine (tag:UnitVideoDataListModel_ | message:printDiffResult)" />
-        <option value="package:mine (tag:UnitVideoDataListModel_ | message:printDiff)" />
-        <option value="package:mine (tag:FirstFrameReporter | tag:LogoTextRectW147H140ExpandViewModel)" />
-        <option value="package:mine (tag:FirstFrameReporter | message:LogoTextRectW147H140ExpandViewModel)" />
       </list>
     </option>
   </component>
