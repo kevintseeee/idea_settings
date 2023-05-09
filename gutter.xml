@@ -7,7 +7,7 @@
         <entry key="com.android.tools.idea.compose.annotator.SpringPickerLineMarkerProvider" value="true" />
         <entry key="com.google.services.firebase.insights.inspection.CrashlyticsExternalAnnotator$LineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.ExternalAnnotationLineMarkerProvider" value="true" />
-        <entry key="com.intellij.codeInsight.InferredContractAnnotationsLineMarkerProvider" value="false" />
+        <entry key="com.intellij.codeInsight.InferredContractAnnotationsLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.InferredNullabilityAnnotationsLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.daemon.impl.IconLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.daemon.impl.RecursiveCallLineMarkerProvider" value="true" />
@@ -18,7 +18,7 @@
         <entry key="disable.dagger" value="true" />
         <entry key="java.implemented" value="true" />
         <entry key="java.implementing" value="true" />
-        <entry key="java.lambda" value="false" />
+        <entry key="java.lambda" value="true" />
         <entry key="java.overridden" value="true" />
         <entry key="java.overriding" value="true" />
         <entry key="java.service" value="true" />
