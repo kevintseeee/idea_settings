@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:VMExposePrefetch" />
+    <option name="mostRecentlyUsed" value="package:mine tag:DebugHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DebugHelper" />
+        <option value="package:mine tag:DebugHelper message~:onGlobalFocusChanged:\ .+-&gt;" />
+        <option value="package:mine tag:DebugHelper message~:onGlobalFocusChanged:\ .+Focus" />
+        <option value="package:mine tag:DebugHelper " />
+        <option value="package:mine is:stacktrace " />
         <option value="package:mine tag:VMExposePrefetch" />
         <option value="package:mine tag~:^UnitVideoDataListModel_ tag~:^ListUnitViewModel_ tag:VideoListDataManager" />
         <option value="package:mine tag~:^UnitVideoDataListModel_ tag~:^ListUnitViewModel_" />
@@ -18,11 +23,6 @@
         <option value="package:mine ((tag:UnitVideoDataListModel &amp; message:setData ) | message~:validateCallback.+03, | tag:TextPicEpisodeItemViewModel)" />
         <option value="package:mine ((tag:UnitVideoDataListModel &amp; message:setData ) | message~:validateCallback.+03, )" />
         <option value="package:mine ((tag:tag:UnitVideoDataListModel &amp; message:setData ) | message~:validateCallback.+03, )" />
-        <option value="package:mine (message:setData: | message~:validateCallback.+03, )" />
-        <option value="package:mine (message:setData:\ cover_details_selection | message~:validateCallback.+03, )" />
-        <option value="package:mine (message:setData:\ cover_details_selection | message:~validateCallback.+03, )" />
-        <option value="package:mine (message:setData:\ cover_details_selection | message:~validateCallback\ :\ \(03)" />
-        <option value="package:mine (message:setData:\ cover_details_selection )" />
       </list>
     </option>
   </component>
