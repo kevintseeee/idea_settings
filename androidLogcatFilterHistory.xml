@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:DebugHelper" />
+    <option name="mostRecentlyUsed" value="package:mine tag:CoverDetailRootModel_" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:CoverDetailRootModel_" />
         <option value="package:mine tag:DebugHelper" />
         <option value="package:mine tag:DebugHelper message~:onGlobalFocusChanged:\ .+-&gt;" />
         <option value="package:mine tag:DebugHelper message~:onGlobalFocusChanged:\ .+Focus" />
@@ -22,7 +23,6 @@
         <option value="package:mine ((tag:UnitVideoDataListModel &amp; message:setData ) | message~:validateCallback.+03, | tag:TextPicEpisodeItemViewModel | message~:validateCallback.+03, )" />
         <option value="package:mine ((tag:UnitVideoDataListModel &amp; message:setData ) | message~:validateCallback.+03, | tag:TextPicEpisodeItemViewModel)" />
         <option value="package:mine ((tag:UnitVideoDataListModel &amp; message:setData ) | message~:validateCallback.+03, )" />
-        <option value="package:mine ((tag:tag:UnitVideoDataListModel &amp; message:setData ) | message~:validateCallback.+03, )" />
       </list>
     </option>
   </component>
