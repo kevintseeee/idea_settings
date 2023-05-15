@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:oUrl" />
+    <option name="mostRecentlyUsed" value="package:mine is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:crash " />
+        <option value="package:mine is:stacktrace " />
         <option value="package:mine message:oUrl" />
         <option value="package:mine message:getCurPostUrl" />
         <option value="package:mine tag:CoverDetailRootModel_" />
@@ -10,7 +12,6 @@
         <option value="package:mine tag:DebugHelper message~:onGlobalFocusChanged:\ .+-&gt;" />
         <option value="package:mine tag:DebugHelper message~:onGlobalFocusChanged:\ .+Focus" />
         <option value="package:mine tag:DebugHelper " />
-        <option value="package:mine is:stacktrace " />
         <option value="package:mine tag:VMExposePrefetch" />
         <option value="package:mine tag~:^UnitVideoDataListModel_ tag~:^ListUnitViewModel_ tag:VideoListDataManager" />
         <option value="package:mine tag~:^UnitVideoDataListModel_ tag~:^ListUnitViewModel_" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:SRL-StatusRollView" />
         <option value="package:mine (tag:UnitVideoDataListModel | message~:validateCallback.+03, | tag:TextPicEpisodeItemViewModel | message~:validateCallback.+DIFF_UPDATE )" />
         <option value="package:mine ((tag:UnitVideoDataListModel &amp; message:setData ) | message~:validateCallback.+03, | tag:TextPicEpisodeItemViewModel | message~:validateCallback.+DIFF_UPDATE )" />
-        <option value="package:mine ((tag:UnitVideoDataListModel &amp; message:setData ) | message~:validateCallback.+03, | tag:TextPicEpisodeItemViewModel | message~:validateCallback.+03, )" />
       </list>
     </option>
   </component>
