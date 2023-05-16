@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:CoverDetailRootModel_ " />
+    <option name="mostRecentlyUsed" value="package:mine is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:stacktrace " />
+        <option value="package:mine (tag:CoverDetailRootModel_ | message~:oUrl.+waterfall) " />
         <option value="package:mine tag:CoverDetailRootModel_ " />
         <option value="package:mine is:crash " />
-        <option value="package:mine is:stacktrace " />
         <option value="package:mine message:oUrl" />
         <option value="package:mine message:getCurPostUrl" />
         <option value="package:mine tag:CoverDetailRootModel_" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:NumEpisodeItemViewModel" />
         <option value="package:mine (tag:SRL-StatusRollView | message:openMediaPlayer)" />
         <option value="package:mine tag:SRL-StatusRollView" />
-        <option value="package:mine (tag:UnitVideoDataListModel | message~:validateCallback.+03, | tag:TextPicEpisodeItemViewModel | message~:validateCallback.+DIFF_UPDATE )" />
       </list>
     </option>
   </component>
