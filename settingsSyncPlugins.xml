@@ -84,6 +84,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.tencent.code.CodeCopilotJetBrainPlugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.tencent.plugin.RdHelper">
           <value>
             <PluginData>
