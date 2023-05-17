@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:DebugHelper " />
+    <option name="mostRecentlyUsed" value="package:mine tag:MediaPlayerRootView  message~:onViewAdded" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:MediaPlayerRootView  message~:onViewAdded" />
+        <option value="package:mine tag:MediaPlayerRootView  me" />
+        <option value="package:mine tag:MediaPlayerRootView  " />
         <option value="package:mine tag:DebugHelper " />
         <option value="package:mine is:stacktrace " />
         <option value="package:mine tag:AutoStartConfigExt tag:TVKPlayer[TVKListenerManager.java] " />
@@ -20,9 +23,6 @@
         <option value="package:mine tag:CoverDetailRootModel_" />
         <option value="package:mine tag:DebugHelper" />
         <option value="package:mine tag:DebugHelper message~:onGlobalFocusChanged:\ .+-&gt;" />
-        <option value="package:mine tag:DebugHelper message~:onGlobalFocusChanged:\ .+Focus" />
-        <option value="package:mine tag:VMExposePrefetch" />
-        <option value="package:mine tag~:^UnitVideoDataListModel_ tag~:^ListUnitViewModel_ tag:VideoListDataManager" />
       </list>
     </option>
   </component>
