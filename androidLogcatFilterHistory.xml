@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:MediaPlayerRootView  message~:onViewAdded" />
+    <option name="mostRecentlyUsed" value="package:mine tag:Deb" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Deb" />
         <option value="package:mine tag:MediaPlayerRootView  message~:onViewAdded" />
         <option value="package:mine tag:MediaPlayerRootView  me" />
         <option value="package:mine tag:MediaPlayerRootView  " />
@@ -22,7 +23,6 @@
         <option value="package:mine message:getCurPostUrl" />
         <option value="package:mine tag:CoverDetailRootModel_" />
         <option value="package:mine tag:DebugHelper" />
-        <option value="package:mine tag:DebugHelper message~:onGlobalFocusChanged:\ .+-&gt;" />
       </list>
     </option>
   </component>
