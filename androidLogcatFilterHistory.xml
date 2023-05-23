@@ -1,8 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:DebugHelper " />
+    <option name="mostRecentlyUsed" value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter message~:setListDataToSideAdapter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter message~:setListDataToSideAdapter" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:set" />
+        <option value="package:mine tag:PlayerLayer_ tag:NewDetailAnchor_UnifiedPlayerFragment_ tag:HeaderPlayerMaskViewModel_ tag:DetailCoverPlayHelper_ tag:DoubleRowDetailCoverPageFragment_" />
+        <option value="package:mine tag:PlayerLayer_ tag:NewDetailAnchor_UnifiedPlayerFragment_ tag:HeaderPlayerMaskViewModel_ tag:DetailCoverPlayHelper_" />
+        <option value="package:mine tag:PlayerLayer_ tag:NewDetailAnchor_UnifiedPlayerFragment_ tag:HeaderPlayerMaskViewModel_" />
+        <option value="package:mine tag:PlayerLayer_ tag:NewDetailAnchor_UnifiedPlayerFragment_" />
+        <option value="package:mine tag:PlayerLayer_ " />
         <option value="package:mine tag:DebugHelper " />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ tag:DetailCoverPageRequest" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ " />
@@ -12,17 +23,6 @@
         <option value="package:mine tag:setAnchorRect" />
         <option value="package:mine message~:setPlayerVisible" />
         <option value="package:mine message~:setPl" />
-        <option value="package:mine tag:setPlayerVisible" />
-        <option value="package:com.google.android.exoplayer2.demo" />
-        <option value="package:mine tag:Deb" />
-        <option value="package:mine tag:MediaPlayerRootView  message~:onViewAdded" />
-        <option value="package:mine tag:MediaPlayerRootView  me" />
-        <option value="package:mine tag:MediaPlayerRootView  " />
-        <option value="package:mine is:stacktrace " />
-        <option value="package:mine tag:AutoStartConfigExt tag:TVKPlayer[TVKListenerManager.java] " />
-        <option value="package:mine tag:AutoStartConfigExt" />
-        <option value="package:mine tag:PlayTraceBridgeImp" />
-        <option value="package:mine tag:PlayTraceBridgeImp tag:PlayTrace tag:AutoStartConfigExt" />
       </list>
     </option>
   </component>
