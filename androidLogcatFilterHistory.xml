@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:DebugHelper " />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ tag:DetailCoverPageRequest" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ " />
         <option value="package:mine tag:PlayerLayer_" />
         <option value="package:mine message~:setAnchorRect" />
         <option value="package:mine me" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:AutoStartConfigExt" />
         <option value="package:mine tag:PlayTraceBridgeImp" />
         <option value="package:mine tag:PlayTraceBridgeImp tag:PlayTrace tag:AutoStartConfigExt" />
-        <option value="package:mine tag:PlayTraceBridgeImp tag:PlayTrace" />
-        <option value="package:mine message~:reportFocusAdLoss" />
       </list>
     </option>
   </component>
