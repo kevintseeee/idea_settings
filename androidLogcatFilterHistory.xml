@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:PlayerLayer_" />
+    <option name="mostRecentlyUsed" value="package:mine tag:DebugHelper " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DebugHelper " />
         <option value="package:mine tag:PlayerLayer_" />
         <option value="package:mine message~:setAnchorRect" />
         <option value="package:mine me" />
@@ -15,7 +16,6 @@
         <option value="package:mine tag:MediaPlayerRootView  message~:onViewAdded" />
         <option value="package:mine tag:MediaPlayerRootView  me" />
         <option value="package:mine tag:MediaPlayerRootView  " />
-        <option value="package:mine tag:DebugHelper " />
         <option value="package:mine is:stacktrace " />
         <option value="package:mine tag:AutoStartConfigExt tag:TVKPlayer[TVKListenerManager.java] " />
         <option value="package:mine tag:AutoStartConfigExt" />
