@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message~:setAnchorRect" />
+    <option name="mostRecentlyUsed" value="package:mine tag:PlayerLayer_" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PlayerLayer_" />
         <option value="package:mine message~:setAnchorRect" />
         <option value="package:mine me" />
         <option value="package:mine tag:setAnchorRect" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:PlayTraceBridgeImp tag:PlayTrace tag:AutoStartConfigExt" />
         <option value="package:mine tag:PlayTraceBridgeImp tag:PlayTrace" />
         <option value="package:mine message~:reportFocusAdLoss" />
-        <option value="package:mine message~:splash" />
       </list>
     </option>
   </component>
