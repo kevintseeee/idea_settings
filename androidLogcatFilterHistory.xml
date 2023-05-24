@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter message~:setListDataToSideAdapter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ tag:DetailCoverPageRequest" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter message~:setListDataToSideAdapter" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle" />
@@ -15,7 +16,6 @@
         <option value="package:mine tag:PlayerLayer_ tag:NewDetailAnchor_UnifiedPlayerFragment_" />
         <option value="package:mine tag:PlayerLayer_ " />
         <option value="package:mine tag:DebugHelper " />
-        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ tag:DetailCoverPageRequest" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ " />
         <option value="package:mine tag:PlayerLayer_" />
         <option value="package:mine message~:setAnchorRect" />
