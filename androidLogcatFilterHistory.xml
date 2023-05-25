@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter message~:setListDataToSideAdapter" />
+    <option name="mostRecentlyUsed" value="package:mine tag:DetailRecyclerView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DetailRecyclerView" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ tag:DetailCoverPageRequest" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter message~:setListDataToSideAdapter" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter" />
@@ -22,7 +23,6 @@
         <option value="package:mine me" />
         <option value="package:mine tag:setAnchorRect" />
         <option value="package:mine message~:setPlayerVisible" />
-        <option value="package:mine message~:setPl" />
       </list>
     </option>
   </component>
