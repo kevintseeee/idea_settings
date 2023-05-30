@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message~:overrideFirstPageUnitId" />
+    <option name="mostRecentlyUsed" value="package:mine tag:DoubleRowDetailCoverPageFragment_" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment" />
         <option value="package:mine message~:overrideFirstPageUnitId" />
         <option value="package:mine tag~:^ListUnitViewModel_" />
         <option value="package:mine tag:ListUnitViewModel_" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:PlayerLayer_ tag:NewDetailAnchor_UnifiedPlayerFragment_ tag:HeaderPlayerMaskViewModel_" />
         <option value="package:mine tag:PlayerLayer_ tag:NewDetailAnchor_UnifiedPlayerFragment_" />
         <option value="package:mine tag:PlayerLayer_ " />
-        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ " />
-        <option value="package:mine tag:PlayerLayer_" />
       </list>
     </option>
   </component>
