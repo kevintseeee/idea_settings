@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:DebugHelper " />
+    <option name="mostRecentlyUsed" value="package:mine is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:stacktrace " />
         <option value="package:mine tag:DebugHelper " />
         <option value="package:mine tag:DetailRecyclerView" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ tag:DetailCoverPageRequest" />
@@ -22,7 +23,6 @@
         <option value="package:mine message~:setAnchorRect" />
         <option value="package:mine me" />
         <option value="package:mine tag:setAnchorRect" />
-        <option value="package:mine message~:setPlayerVisible" />
       </list>
     </option>
   </component>
