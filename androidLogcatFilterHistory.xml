@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:^ListUnitViewModel_" />
+    <option name="mostRecentlyUsed" value="package:mine (tag:CoverDetailRootModel_ | message~:oUrl.+waterfall)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine (tag:CoverDetailRootModel_ | message~:oUrl.+waterfall)" />
+        <option value="package:mine tag:CachedModelRefreshHelper" />
+        <option value="package:mine tag:CoverDetailRootModel_" />
         <option value="package:mine " />
         <option value="package:mine tag~:^ListUnitViewModel_" />
         <option value="package:mine tag:ListUnitViewModel_" />
@@ -20,9 +23,6 @@
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:set" />
         <option value="package:mine tag:PlayerLayer_ tag:NewDetailAnchor_UnifiedPlayerFragment_ tag:HeaderPlayerMaskViewModel_ tag:DetailCoverPlayHelper_ tag:DoubleRowDetailCoverPageFragment_" />
-        <option value="package:mine tag:PlayerLayer_ tag:NewDetailAnchor_UnifiedPlayerFragment_ tag:HeaderPlayerMaskViewModel_ tag:DetailCoverPlayHelper_" />
-        <option value="package:mine tag:PlayerLayer_ tag:NewDetailAnchor_UnifiedPlayerFragment_ tag:HeaderPlayerMaskViewModel_" />
-        <option value="package:mine tag:PlayerLayer_ tag:NewDetailAnchor_UnifiedPlayerFragment_" />
       </list>
     </option>
   </component>
