@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine tag~:^ListUnitViewModel_" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag~:^ListUnitViewModel_" />
         <option value="package:mine tag:ListUnitViewModel_" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:PlayerLayer_ tag:NewDetailAnchor_UnifiedPlayerFragment_ tag:HeaderPlayerMaskViewModel_ tag:DetailCoverPlayHelper_" />
         <option value="package:mine tag:PlayerLayer_ tag:NewDetailAnchor_UnifiedPlayerFragment_ tag:HeaderPlayerMaskViewModel_" />
         <option value="package:mine tag:PlayerLayer_ tag:NewDetailAnchor_UnifiedPlayerFragment_" />
-        <option value="package:mine tag:PlayerLayer_ " />
       </list>
     </option>
   </component>
