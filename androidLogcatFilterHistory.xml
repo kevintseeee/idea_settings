@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:DoubleRowDetailCoverPageFragment_" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:^ListUnitViewModel_" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:^ListUnitViewModel_" />
+        <option value="package:mine tag:ListUnitViewModel_" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment" />
         <option value="package:mine message~:overrideFirstPageUnitId" />
-        <option value="package:mine tag~:^ListUnitViewModel_" />
-        <option value="package:mine tag:ListUnitViewModel_" />
         <option value="package:mine is:stacktrace " />
         <option value="package:mine tag:DebugHelper " />
         <option value="package:mine tag:DetailRecyclerView" />
