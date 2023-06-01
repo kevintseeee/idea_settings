@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:stacktrace " />
+    <option name="mostRecentlyUsed" value="package:mine is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:crash " />
         <option value="package:mine is:stacktrace " />
         <option value="package:mine (tag:CoverDetailRootModel_ | message~:oUrl.+waterfall)" />
         <option value="package:mine tag:CachedModelRefreshHelper" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:set" />
-        <option value="package:mine tag:PlayerLayer_ tag:NewDetailAnchor_UnifiedPlayerFragment_ tag:HeaderPlayerMaskViewModel_ tag:DetailCoverPlayHelper_ tag:DoubleRowDetailCoverPageFragment_" />
       </list>
     </option>
   </component>
