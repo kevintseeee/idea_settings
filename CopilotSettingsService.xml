@@ -1,0 +1,5 @@
+<application>
+  <component name="CopilotSettingsServiceImpl">
+    <option name="activate" value="false" />
+  </component>
+</application>

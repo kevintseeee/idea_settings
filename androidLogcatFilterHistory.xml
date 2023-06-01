@@ -1,19 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine FF0D" />
+    <option name="mostRecentlyUsed" value="package:mine is:crash " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine FF0D" />
-        <option value="package:mine FF" />
-        <option value="package:mine guid=" />
-        <option value="package:mine tag:CoverHeaderViewModel " />
-        <option value="package:mine handleCallbackSync" />
-        <option value="package:mine tag:CoverHeaderViewModel handle" />
-        <option value="package:mine CoverHeaderViewModel" />
+        <option value="package:mine is:crash " />
+        <option value="package:mine is:stacktrace " />
+        <option value="package:mine (tag:CoverDetailRootModel_ | message~:oUrl.+waterfall)" />
+        <option value="package:mine tag:CachedModelRefreshHelper" />
+        <option value="package:mine tag:CoverDetailRootModel_" />
         <option value="package:mine " />
-        <option value="package:mine LoadRequest" />
-        <option value="package:mine Load" />
-        <option value="package:mine" />
+        <option value="package:mine tag~:^ListUnitViewModel_" />
+        <option value="package:mine tag:ListUnitViewModel_" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment" />
+        <option value="package:mine message~:overrideFirstPageUnitId" />
+        <option value="package:mine tag:DebugHelper " />
+        <option value="package:mine tag:DetailRecyclerView" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ tag:DetailCoverPageRequest" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter message~:setListDataToSideAdapter" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:set" />
       </list>
     </option>
   </component>
