@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:PlayTrace message~:report" />
+    <option name="mostRecentlyUsed" value="package:mine (message~:oUrl | tag:CoverPageModel)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine (message~:oUrl | tag:CoverPageModel)" />
+        <option value="package:mine message~:oUrl" />
+        <option value="package:mine tag:_TPPlayer" />
+        <option value="package:mine message~:oUrl.+waterfall" />
         <option value="package:mine tag:PlayTrace message~:report" />
         <option value="package:mine tag:PlayTrace " />
         <option value="package:mine tag~:^ListUnitViewModel_" />
@@ -19,10 +23,6 @@
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment" />
         <option value="package:mine message~:overrideFirstPageUnitId" />
         <option value="package:mine tag:DebugHelper " />
-        <option value="package:mine tag:DetailRecyclerView" />
-        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ tag:DetailCoverPageRequest" />
-        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter message~:setListDataToSideAdapter" />
-        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter" />
       </list>
     </option>
   </component>
