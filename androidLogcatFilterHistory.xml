@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:FileDiskCache_" />
+    <option name="mostRecentlyUsed" value="package:mine message:cover" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:cover" />
         <option value="package:mine tag:FileDiskCache_" />
         <option value="package:mine message~:putSync:\ new data = " />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:CachedModelRefreshHelper" />
         <option value="package:mine tag:CoverDetailRootModel_" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_" />
-        <option value="package:mine tag:DoubleRowDetailCoverPageFragment" />
       </list>
     </option>
   </component>
