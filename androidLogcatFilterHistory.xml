@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:qimei" />
+    <option name="mostRecentlyUsed" value="package:mine message~:oUrl.+qtv_video" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:oUrl.+qtv_video" />
+        <option value="package:mine tag:NetWork" />
+        <option value="package:mine message:oUrl" />
+        <option value="package:mine tag:Disk" />
+        <option value="package:mine tag:Cache" />
         <option value="package:mine message:qimei" />
         <option value="package:mine tag:PlayTrace tag:ReportAction" />
         <option value="package:mine tag:PlayTrace tag:ReportAc" />
@@ -18,11 +23,6 @@
         <option value="package:mine message~:oUrl.+waterfall" />
         <option value="package:mine tag:PlayTrace message~:report" />
         <option value="package:mine tag:PlayTrace " />
-        <option value="package:mine tag~:^ListUnitViewModel_" />
-        <option value="package:mine tag:ListUnitViewModel" />
-        <option value="package:mine tag:ListUnitViewModel_" />
-        <option value="package:mine is:crash " />
-        <option value="package:mine is:stacktrace " />
       </list>
     </option>
   </component>
