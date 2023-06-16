@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message~:channelId=" />
+    <option name="mostRecentlyUsed" value="package:mine message~:setPlayerData" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:setPlayerData" />
         <option value="package:mine message~:channelId=" />
         <option value="package:mine message~:setPlayerData message~:setVideoConfigForOpening message~:getTrafficSpikeDef" />
         <option value="package:mine message~:setPlayerData message~:setVideoConfigForOpening" />
-        <option value="package:mine message~:setPlayerData" />
         <option value="package:mine message~:oUrl.+qtv_video" />
         <option value="package:mine tag:NetWork" />
         <option value="package:mine message:oUrl" />
