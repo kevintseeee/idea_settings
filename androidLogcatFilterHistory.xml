@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message~:setPlayerData" />
+    <option name="mostRecentlyUsed" value="package:mine tag:PlayTrace tag:ReportAction tag:StartNewPlaySceneAction level:info " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PlayTrace tag:ReportAction tag:StartNewPlaySceneAction level:info " />
+        <option value="package:mine tag:PlayTrace tag:ReportAction tag:StartNewPlaySceneAction" />
+        <option value="package:mine tag:PlayTrace tag:ReportAction" />
+        <option value="package:mine tag:PlayTrace" />
         <option value="package:mine message~:setPlayerData" />
         <option value="package:mine message~:channelId=" />
         <option value="package:mine message~:setPlayerData message~:setVideoConfigForOpening message~:getTrafficSpikeDef" />
@@ -13,16 +17,12 @@
         <option value="package:mine tag:Disk" />
         <option value="package:mine tag:Cache" />
         <option value="package:mine message:qimei" />
-        <option value="package:mine tag:PlayTrace tag:ReportAction" />
         <option value="package:mine tag:PlayTrace tag:ReportAc" />
         <option value="package:mine message:5a0b8401ef3833b658c1599410001e817519" />
-        <option value="package:mine tag:PlayTrace" />
         <option value="package:mine message:cover" />
         <option value="package:mine tag:FileDiskCache_" />
         <option value="package:mine message~:putSync:\ new data = " />
         <option value="package:mine " />
-        <option value="package:mine (message~:oUrl | tag:CoverPageModel)" />
-        <option value="package:mine message~:oUrl" />
       </list>
     </option>
   </component>
