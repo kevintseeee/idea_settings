@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:PlayTrace tag:ReportAction tag:StartNewPlaySceneAction level:info " />
+    <option name="mostRecentlyUsed" value="package:mine tag:UnitViewHolder" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:UnitViewHolder" />
         <option value="package:mine tag:PlayTrace tag:ReportAction tag:StartNewPlaySceneAction level:info " />
         <option value="package:mine tag:PlayTrace tag:ReportAction tag:StartNewPlaySceneAction" />
         <option value="package:mine tag:PlayTrace tag:ReportAction" />
@@ -22,7 +23,6 @@
         <option value="package:mine message:cover" />
         <option value="package:mine tag:FileDiskCache_" />
         <option value="package:mine message~:putSync:\ new data = " />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
