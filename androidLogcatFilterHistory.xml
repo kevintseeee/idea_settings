@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TV-TRACE" />
+    <option name="mostRecentlyUsed" value="package:mine tag:DoubleRowDetailCoverPageFragment_" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_" />
         <option value="tag:TV-TRACE" />
         <option value="message:addMainViews" />
         <option value="addMainViews" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:Cache" />
         <option value="package:mine message:qimei" />
         <option value="package:mine tag:PlayTrace tag:ReportAc" />
-        <option value="package:mine message:5a0b8401ef3833b658c1599410001e817519" />
       </list>
     </option>
   </component>
