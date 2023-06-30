@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:crash " />
+    <option name="mostRecentlyUsed" value="package:mine tag:KanTa" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:KanTa" />
+        <option value="tag:TV-TRACE" />
         <option value="package:mine is:crash " />
         <option value="package:mine message~:oUrl.+" />
         <option value="package:mine " />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_" />
-        <option value="tag:TV-TRACE" />
         <option value="message:addMainViews" />
         <option value="addMainViews" />
         <option value="package:mine tag:UnitViewHolder" />
@@ -22,7 +23,6 @@
         <option value="package:mine message~:oUrl.+qtv_video" />
         <option value="package:mine tag:NetWork" />
         <option value="package:mine message:oUrl" />
-        <option value="package:mine tag:Disk" />
       </list>
     </option>
   </component>
