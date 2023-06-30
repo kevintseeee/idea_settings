@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message~:oUrl.+" />
+    <option name="mostRecentlyUsed" value="package:mine is:crash " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine message~:oUrl.+" />
         <option value="package:mine is:crash " />
+        <option value="package:mine message~:oUrl.+" />
         <option value="package:mine " />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_" />
         <option value="tag:TV-TRACE" />
