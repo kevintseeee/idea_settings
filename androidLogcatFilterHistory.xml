@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TV-TRACE message:scene_jump_detail_page_fully_display_v2 message:fireEvent" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE message:scene_jump_detail_page_fully_display_v2][transition message:fireEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TV-TRACE message:scene_jump_detail_page_fully_display_v2][transition message:fireEvent" />
         <option value="tag:TV-TRACE message:scene_jump_detail_page_fully_display_v2 message:fireEvent" />
         <option value="tag:TV-TRACE message:scene_jump_detail_page_fully_display_v2 " />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:PlayTrace tag:ReportAction" />
         <option value="package:mine tag:PlayTrace" />
         <option value="package:mine message~:setPlayerData" />
-        <option value="package:mine message~:channelId=" />
       </list>
     </option>
   </component>
