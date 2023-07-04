@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TV-TRACE message~:ReportAction.+scene_jump_detail_page_fully_display_v2.+state=state_trace_begin" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE message~:scene_jump_detail_page_fully_display_v2.+transition" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TV-TRACE message~:scene_jump_detail_page_fully_display_v2.+transition" />
+        <option value="tag:TV-TRACE message~:display.+transition" />
+        <option value="tag:TV-TRACE message~:scene_jump_detail_page_auto_play_v2.+transition" />
+        <option value="tag:TV-TRACE message~:transition" />
+        <option value="tag:TV-TRACE message~:tran" />
         <option value="tag:TV-TRACE message~:ReportAction.+scene_jump_detail_page_fully_display_v2.+state=state_trace_begin" />
         <option value="tag:TV-TRACE message:ReportAction" />
         <option value="tag:TV-TRACE message:Re" />
@@ -18,11 +23,6 @@
         <option value="package:mine tag:KanTa" />
         <option value="package:mine is:crash " />
         <option value="package:mine message~:oUrl.+" />
-        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_" />
-        <option value="message:addMainViews" />
-        <option value="addMainViews" />
-        <option value="package:mine tag:UnitViewHolder" />
-        <option value="package:mine tag:PlayTrace tag:ReportAction tag:StartNewPlaySceneAction level:info " />
       </list>
     </option>
   </component>
