@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TV-TRACE" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE message:scene_jump_detail_page_fully_display_v2 message:fireEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TV-TRACE message:scene_jump_detail_page_fully_display_v2 message:fireEvent" />
+        <option value="tag:TV-TRACE message:scene_jump_detail_page_fully_display_v2 " />
+        <option value="package:mine " />
         <option value="tag:TV-TRACE" />
         <option value="tag:TV-TRACE message:scene_detection" />
         <option value="package:mine message:initLog" />
@@ -10,7 +13,6 @@
         <option value="package:mine tag:KanTa" />
         <option value="package:mine is:crash " />
         <option value="package:mine message~:oUrl.+" />
-        <option value="package:mine " />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_" />
         <option value="message:addMainViews" />
         <option value="addMainViews" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:PlayTrace" />
         <option value="package:mine message~:setPlayerData" />
         <option value="package:mine message~:channelId=" />
-        <option value="package:mine message~:setPlayerData message~:setVideoConfigForOpening message~:getTrafficSpikeDef" />
-        <option value="package:mine message~:setPlayerData message~:setVideoConfigForOpening" />
       </list>
     </option>
   </component>
