@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:qimei" />
+    <option name="mostRecentlyUsed" value="package:mine message:cfg" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:cfg" />
         <option value="tag:TV-TRACE " />
         <option value="package:mine message:qimei" />
         <option value="tag:TV-TRACE" />
@@ -22,7 +23,6 @@
         <option value="tag:TV-TRACE message:scene_detection" />
         <option value="package:mine message:initLog" />
         <option value="tag:TV-TRACE message:[scene_detection][entry]" />
-        <option value="package:mine tag:KanTa" />
       </list>
     </option>
   </component>
