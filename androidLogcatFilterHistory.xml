@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:cfg" />
+    <option name="mostRecentlyUsed" value="package:mine message~:oUrl.+waterfall" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:oUrl.+waterfall" />
+        <option value="package:mine" />
+        <option value="package:mine message:" />
         <option value="package:mine message:cfg" />
         <option value="tag:TV-TRACE " />
         <option value="package:mine message:qimei" />
@@ -20,9 +23,6 @@
         <option value="tag:TV-TRACE message:scene_jump_detail_page_fully_display_v2 message:fireEvent" />
         <option value="tag:TV-TRACE message:scene_jump_detail_page_fully_display_v2 " />
         <option value="package:mine " />
-        <option value="tag:TV-TRACE message:scene_detection" />
-        <option value="package:mine message:initLog" />
-        <option value="tag:TV-TRACE message:[scene_detection][entry]" />
       </list>
     </option>
   </component>
