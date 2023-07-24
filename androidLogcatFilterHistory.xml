@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+get_column_info | message:createPagedItemList | tag:DetailCoverInfoModel_ | tag:VideoDataListPageProducer)" />
+    <option name="mostRecentlyUsed" value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+waterfall | message:createPagedItemList | tag:DetailCoverInfoModel_ | tag:VideoDataListPageProducer)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+waterfall | message:createPagedItemList | tag:DetailCoverInfoModel_ | tag:VideoDataListPageProducer)" />
         <option value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+get_column_info | message:createPagedItemList | tag:DetailCoverInfoModel_ | tag:VideoDataListPageProducer)" />
         <option value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+get_column_info | message:createPagedItemList | tag:DetailCoverInfoModel_)" />
         <option value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+get_column_info | message:createPagedItemList)" />
@@ -22,7 +23,6 @@
         <option value="tag:TV-TRACE message~:scene_jump_detail_page_fully_display_v2.+transition" />
         <option value="tag:TV-TRACE message~:display.+transition" />
         <option value="tag:TV-TRACE message~:scene_jump_detail_page_auto_play_v2.+transition" />
-        <option value="tag:TV-TRACE message~:transition" />
       </list>
     </option>
   </component>
