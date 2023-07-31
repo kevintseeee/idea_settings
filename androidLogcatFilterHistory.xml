@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+waterfall | message:createPagedItemList | tag:DetailCoverInfoModel_ | tag:VideoDataListPageProducer)" />
+    <option name="mostRecentlyUsed" value="package:mine is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:stacktrace " />
+        <option value="package:mine level:warn " />
+        <option value="package:mine " />
         <option value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+waterfall | message:createPagedItemList | tag:DetailCoverInfoModel_ | tag:VideoDataListPageProducer)" />
         <option value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+get_column_info | message:createPagedItemList | tag:DetailCoverInfoModel_ | tag:VideoDataListPageProducer)" />
         <option value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+get_column_info | message:createPagedItemList | tag:DetailCoverInfoModel_)" />
@@ -10,7 +13,6 @@
         <option value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+get_column_info)" />
         <option value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+get_)" />
         <option value="package:mine tag:UnitVideoDataListModel_" />
-        <option value="package:mine " />
         <option value="package:mine message:get_column_info" />
         <option value="package:mine message~:oUrl.+get_column_info" />
         <option value="package:mine message~:oUrl.+waterfall" />
@@ -21,8 +23,6 @@
         <option value="package:mine message:qimei" />
         <option value="tag:TV-TRACE" />
         <option value="tag:TV-TRACE message~:scene_jump_detail_page_fully_display_v2.+transition" />
-        <option value="tag:TV-TRACE message~:display.+transition" />
-        <option value="tag:TV-TRACE message~:scene_jump_detail_page_auto_play_v2.+transition" />
       </list>
     </option>
   </component>
