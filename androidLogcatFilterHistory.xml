@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:warn " />
+    <option name="mostRecentlyUsed" value="tag:PlaylistImp_ | message:loadPage" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PlaylistImp_ | message:loadPage" />
+        <option value="tag:PlaylistImp_" />
         <option value="level:warn " />
         <option value="package:mine is:stacktrace " />
         <option value="package:mine level:warn " />
@@ -21,8 +23,6 @@
         <option value="package:mine message:" />
         <option value="package:mine message:cfg" />
         <option value="tag:TV-TRACE " />
-        <option value="package:mine message:qimei" />
-        <option value="tag:TV-TRACE" />
       </list>
     </option>
   </component>
