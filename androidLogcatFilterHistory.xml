@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:fireEvent | message:clicked" />
+    <option name="mostRecentlyUsed" value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | tag:NormalFragment | message:openMediaPlayer) " />
     <option name="nonFavorites">
       <list>
+        <option value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | tag:NormalFragment | message:openMediaPlayer) " />
+        <option value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | tag:NormalFragment) " />
+        <option value="tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | tag:NormalFragment " />
+        <option value="tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment" />
+        <option value="tag:ImmersePlayController_ | tag:" />
+        <option value="tag:Normal" />
+        <option value="tag:FullScreenAnchor_ImmersePlayerFragment_ | message:openMediaPlayer: | tag:ImmersePlayController_ | tag:zsc-Zshortcut " />
+        <option value="tag:FullScreenAnchor_ImmersePlayerFragment_ | message:openMediaPlayer: | tag:ImmersePlayController_ | tag:zsc-Zshortcut" />
+        <option value="tag:FullScreenAnchor_ImmersePlayerFragment_ | message:openMediaPlayer: | tag:ImmersePlayController_ | tag:zsc-" />
+        <option value="tag:FullScreenAnchor_ImmersePlayerFragment_ | message:openMediaPlayer: | tag:ImmersePlayController_" />
+        <option value="tag:FullScreenAnchor_ImmersePlayerFragment_ | message:openMediaPlayer: | tag:ImmersePlayController_ | message:curChannelId=" />
+        <option value="tag:FullScreenAnchor_ImmersePlayerFragment_ | message:openMediaPlayer: | tag:ImmersePlayController_ " />
+        <option value="tag:FullScreenAnchor_ImmersePlayerFragment_ | message:openMediaPlayer:" />
+        <option value="tag:FullScreenAnchor_ImmersePlayerFragment_" />
+        <option value="message:setPlayerRect" />
+        <option value="message:set" />
         <option value="message:fireEvent | message:clicked" />
         <option value="message:fireEvent" />
         <option value="fire" />
         <option value="package:mine tag:httpdns- message:bgpip" />
-        <option value="package:mine tag:httpdns- message:" />
-        <option value="message:update\ bgpip,\ lastUpdateTime" />
-        <option value="tag:httpdns-" />
-        <option value="tag:PlaylistImp_ | message:loadPage" />
-        <option value="tag:PlaylistImp_" />
-        <option value="level:warn " />
-        <option value="package:mine is:stacktrace " />
-        <option value="package:mine level:warn " />
-        <option value="package:mine " />
-        <option value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+waterfall | message:createPagedItemList | tag:DetailCoverInfoModel_ | tag:VideoDataListPageProducer)" />
-        <option value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+get_column_info | message:createPagedItemList | tag:DetailCoverInfoModel_ | tag:VideoDataListPageProducer)" />
-        <option value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+get_column_info | message:createPagedItemList | tag:DetailCoverInfoModel_)" />
-        <option value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+get_column_info | message:createPagedItemList)" />
-        <option value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+get_column_info)" />
-        <option value="package:mine (tag:UnitVideoDataListModel_ | message~:oUrl.+get_)" />
-        <option value="package:mine tag:UnitVideoDataListModel_" />
       </list>
     </option>
   </component>
