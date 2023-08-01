@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PlaylistImp_ | message:loadPage" />
+    <option name="mostRecentlyUsed" value="package:mine tag:httpdns- message:bgpip" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:httpdns- message:bgpip" />
+        <option value="package:mine tag:httpdns- message:" />
+        <option value="message:update\ bgpip,\ lastUpdateTime" />
+        <option value="tag:httpdns-" />
         <option value="tag:PlaylistImp_ | message:loadPage" />
         <option value="tag:PlaylistImp_" />
         <option value="level:warn " />
@@ -19,10 +23,6 @@
         <option value="package:mine message:get_column_info" />
         <option value="package:mine message~:oUrl.+get_column_info" />
         <option value="package:mine message~:oUrl.+waterfall" />
-        <option value="package:mine" />
-        <option value="package:mine message:" />
-        <option value="package:mine message:cfg" />
-        <option value="tag:TV-TRACE " />
       </list>
     </option>
   </component>
