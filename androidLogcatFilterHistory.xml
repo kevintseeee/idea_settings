@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | tag:NormalFragment | message:openMediaPlayer) " />
+    <option name="mostRecentlyUsed" value="level:info  &amp; (tag:ImmersePlayController | tag:FullScreenAnchor_ImmersePlayerFragment | message:openMediaPlayer:\ currentVid) " />
     <option name="nonFavorites">
       <list>
+        <option value="level:info  &amp; (tag:ImmersePlayController | tag:FullScreenAnchor_ImmersePlayerFragment | message:openMediaPlayer:\ currentVid) " />
+        <option value="level:info  &amp; (tag:ImmersePlayController | tag:FullScreenAnchor_ImmersePlayerFragment | message:openMediaPlayer) " />
+        <option value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | message:openMediaPlayer) " />
+        <option value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment) " />
+        <option value="level:info  &amp; (tag:ImmersePlayController_) " />
         <option value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | tag:NormalFragment | message:openMediaPlayer) " />
         <option value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | tag:NormalFragment) " />
         <option value="tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | tag:NormalFragment " />
@@ -18,11 +23,6 @@
         <option value="tag:FullScreenAnchor_ImmersePlayerFragment_ | message:openMediaPlayer:" />
         <option value="tag:FullScreenAnchor_ImmersePlayerFragment_" />
         <option value="message:setPlayerRect" />
-        <option value="message:set" />
-        <option value="message:fireEvent | message:clicked" />
-        <option value="message:fireEvent" />
-        <option value="fire" />
-        <option value="package:mine tag:httpdns- message:bgpip" />
       </list>
     </option>
   </component>
