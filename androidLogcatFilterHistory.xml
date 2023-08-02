@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:info  &amp; (tag:ImmersePlayController | tag:FullScreenAnchor_ImmersePlayerFragment | message:openMediaPlayer:\ currentVid) " />
+    <option name="mostRecentlyUsed" value="level:info  &amp; (tag:TVContentProvider) " />
     <option name="nonFavorites">
       <list>
+        <option value="level:info  &amp; (tag:TVContentProvider) " />
         <option value="level:info  &amp; (tag:ImmersePlayController | tag:FullScreenAnchor_ImmersePlayerFragment | message:openMediaPlayer:\ currentVid) " />
         <option value="level:info  &amp; (tag:ImmersePlayController | tag:FullScreenAnchor_ImmersePlayerFragment | message:openMediaPlayer) " />
         <option value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | message:openMediaPlayer) " />
@@ -22,7 +23,6 @@
         <option value="tag:FullScreenAnchor_ImmersePlayerFragment_ | message:openMediaPlayer: | tag:ImmersePlayController_ " />
         <option value="tag:FullScreenAnchor_ImmersePlayerFragment_ | message:openMediaPlayer:" />
         <option value="tag:FullScreenAnchor_ImmersePlayerFragment_" />
-        <option value="message:setPlayerRect" />
       </list>
     </option>
   </component>
