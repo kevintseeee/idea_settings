@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest" />
+    <option name="mostRecentlyUsed" value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_ | message:clicked | tag:PlaylistImp_" />
     <option name="nonFavorites">
       <list>
+        <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_ | message:clicked | tag:PlaylistImp_" />
+        <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_ | message:clicked" />
+        <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_ | clicked" />
+        <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_" />
+        <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_" />
+        <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | UnitVideoDataListModel_" />
         <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest" />
         <option value="message:openMediaPlayer | tag:PrePlayVideo " />
         <option value="message:initLog" />
@@ -17,12 +23,6 @@
         <option value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | tag:NormalFragment) " />
         <option value="tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | tag:NormalFragment " />
         <option value="tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment" />
-        <option value="tag:ImmersePlayController_ | tag:" />
-        <option value="tag:Normal" />
-        <option value="tag:FullScreenAnchor_ImmersePlayerFragment_ | message:openMediaPlayer: | tag:ImmersePlayController_ | tag:zsc-Zshortcut " />
-        <option value="tag:FullScreenAnchor_ImmersePlayerFragment_ | message:openMediaPlayer: | tag:ImmersePlayController_ | tag:zsc-Zshortcut" />
-        <option value="tag:FullScreenAnchor_ImmersePlayerFragment_ | message:openMediaPlayer: | tag:ImmersePlayController_ | tag:zsc-" />
-        <option value="tag:FullScreenAnchor_ImmersePlayerFragment_ | message:openMediaPlayer: | tag:ImmersePlayController_" />
       </list>
     </option>
   </component>
