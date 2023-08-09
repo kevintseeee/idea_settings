@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_ | message:clicked | tag:PlaylistImp_" />
+    <option name="mostRecentlyUsed" value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | message:clicked | tag:PlaylistImp_" />
     <option name="nonFavorites">
       <list>
+        <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | message:clicked | tag:PlaylistImp_" />
         <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_ | message:clicked | tag:PlaylistImp_" />
         <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_ | message:clicked" />
         <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_ | clicked" />
@@ -22,7 +23,6 @@
         <option value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | tag:NormalFragment | message:openMediaPlayer) " />
         <option value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | tag:NormalFragment) " />
         <option value="tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | tag:NormalFragment " />
-        <option value="tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment" />
       </list>
     </option>
   </component>
