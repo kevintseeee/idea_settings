@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:createDetailCoverPrefetchLoader" />
+    <option name="mostRecentlyUsed" value="tag:VMExposePrefetch | message::onFragmentSelected\ position=" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:VMExposePrefetch | message::onFragmentSelected\ position=" />
+        <option value="tag::VMExposePrefetch | message::onFragmentSelected\ position=" />
+        <option value="message:createDetailCoverPrefetchLoader | message::onFragmentSelected\ position=" />
+        <option value="message:createDetailCoverPrefetchLoader | tag:NormalFragment" />
         <option value="message:createDetailCoverPrefetchLoader" />
         <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | message:clicked | tag:PlaylistImp_" />
         <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_ | message:clicked | tag:PlaylistImp_" />
@@ -19,10 +23,6 @@
         <option value="level:info  &amp; (tag:ImmersePlayController | tag:FullScreenAnchor_ImmersePlayerFragment | message:openMediaPlayer:\ currentVid) " />
         <option value="level:info  &amp; (tag:ImmersePlayController | tag:FullScreenAnchor_ImmersePlayerFragment | message:openMediaPlayer) " />
         <option value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | message:openMediaPlayer) " />
-        <option value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment) " />
-        <option value="level:info  &amp; (tag:ImmersePlayController_) " />
-        <option value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | tag:NormalFragment | message:openMediaPlayer) " />
-        <option value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | tag:NormalFragment) " />
       </list>
     </option>
   </component>
