@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:VMExposePrefetch | message::onFragmentSelected\ position=" />
+    <option name="mostRecentlyUsed" value="message:startHippyPage | message:openMediaPlayer:\ currentVid" />
     <option name="nonFavorites">
       <list>
+        <option value="message:startHippyPage | message:openMediaPlayer:\ currentVid" />
+        <option value="message:startHippyPage " />
+        <option value="message:setPlayerData: | tag:SegmentListFragment | tag:MenuView | message:setMiniScreen:" />
+        <option value="message:setPlayerData: | tag:SegmentListFragment | tag:MenuView| message:setMiniScreen:" />
+        <option value="tag:DetailMatchActivity | tag:Model" />
+        <option value="tag:DetailMatchActivity | message:configRecyclerView" />
+        <option value="tag:DetailMatchActivity | tag:DetailMatchFragment" />
+        <option value="tag:DetailMatchActivity" />
         <option value="tag:VMExposePrefetch | message::onFragmentSelected\ position=" />
         <option value="tag::VMExposePrefetch | message::onFragmentSelected\ position=" />
         <option value="message:createDetailCoverPrefetchLoader | message::onFragmentSelected\ position=" />
@@ -15,14 +23,6 @@
         <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_" />
         <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_" />
         <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | UnitVideoDataListModel_" />
-        <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest" />
-        <option value="message:openMediaPlayer | tag:PrePlayVideo " />
-        <option value="message:initLog" />
-        <option value="level:info  &amp; (tag:TVContentProvider &amp; message:main) " />
-        <option value="level:info  &amp; (tag:TVContentProvider) " />
-        <option value="level:info  &amp; (tag:ImmersePlayController | tag:FullScreenAnchor_ImmersePlayerFragment | message:openMediaPlayer:\ currentVid) " />
-        <option value="level:info  &amp; (tag:ImmersePlayController | tag:FullScreenAnchor_ImmersePlayerFragment | message:openMediaPlayer) " />
-        <option value="level:info  &amp; (tag:ImmersePlayController_ | tag:FullScreenAnchor_ImmersePlayerFragment | message:openMediaPlayer) " />
       </list>
     </option>
   </component>
