@@ -1,8 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:startHippyPage | message:openMediaPlayer:\ currentVid | message:onSuccess" />
+    <option name="mostRecentlyUsed" value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery ) | ( tag:VideoBufferedConverter &amp; message:dumpQuery )" />
     <option name="nonFavorites">
       <list>
+        <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery ) | ( tag:VideoBufferedConverter &amp; message:dumpQuery )" />
+        <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery )" />
+        <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery )" />
+        <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:setData )" />
+        <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:onSuccess )" />
+        <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:CoverDetailRootModel &amp; message:onSuccess )" />
+        <option value="( tag:CoverDetailRootModel &amp; message:onSuccess )" />
+        <option value="(tag:CoverDetailRootModel &amp; message:onSu)" />
+        <option value="()" />
         <option value="message:startHippyPage | message:openMediaPlayer:\ currentVid | message:onSuccess" />
         <option value="message:startHippyPage | message:openMediaPlayer:\ currentVid" />
         <option value="message:startHippyPage " />
@@ -14,15 +23,6 @@
         <option value="tag:DetailMatchActivity" />
         <option value="tag:VMExposePrefetch | message::onFragmentSelected\ position=" />
         <option value="tag::VMExposePrefetch | message::onFragmentSelected\ position=" />
-        <option value="message:createDetailCoverPrefetchLoader | message::onFragmentSelected\ position=" />
-        <option value="message:createDetailCoverPrefetchLoader | tag:NormalFragment" />
-        <option value="message:createDetailCoverPrefetchLoader" />
-        <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | message:clicked | tag:PlaylistImp_" />
-        <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_ | message:clicked | tag:PlaylistImp_" />
-        <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_ | message:clicked" />
-        <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_ | clicked" />
-        <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_" />
-        <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_" />
       </list>
     </option>
   </component>
