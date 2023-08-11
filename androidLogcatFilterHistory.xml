@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:startHippyPage | message:openMediaPlayer:\ currentVid" />
+    <option name="mostRecentlyUsed" value="message:startHippyPage | message:openMediaPlayer:\ currentVid | message:onSuccess" />
     <option name="nonFavorites">
       <list>
+        <option value="message:startHippyPage | message:openMediaPlayer:\ currentVid | message:onSuccess" />
         <option value="message:startHippyPage | message:openMediaPlayer:\ currentVid" />
         <option value="message:startHippyPage " />
         <option value="message:setPlayerData: | tag:SegmentListFragment | tag:MenuView | message:setMiniScreen:" />
@@ -22,7 +23,6 @@
         <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_ | clicked" />
         <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_ | tag:MemCache_" />
         <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | tag:UnitVideoDataListModel_" />
-        <option value="message:openMediaPlayer | tag:PrePlayVideo | tag:DetailCoverPageRequest | UnitVideoDataListModel_" />
       </list>
     </option>
   </component>
