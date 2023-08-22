@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery ) | ( tag:VideoBufferedConverter &amp; message:dumpQuery )" />
+    <option name="mostRecentlyUsed" value="package:mine tag:CoverDetailRootModel tag:CachedModelRefreshHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:CoverDetailRootModel tag:CachedModelRefreshHelper" />
+        <option value="package:mine tag:CoverDetailRootModel" />
+        <option value="package:mine " />
         <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery ) | ( tag:VideoBufferedConverter &amp; message:dumpQuery )" />
         <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery )" />
         <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery )" />
@@ -20,9 +23,6 @@
         <option value="tag:DetailMatchActivity | tag:Model" />
         <option value="tag:DetailMatchActivity | message:configRecyclerView" />
         <option value="tag:DetailMatchActivity | tag:DetailMatchFragment" />
-        <option value="tag:DetailMatchActivity" />
-        <option value="tag:VMExposePrefetch | message::onFragmentSelected\ position=" />
-        <option value="tag::VMExposePrefetch | message::onFragmentSelected\ position=" />
       </list>
     </option>
   </component>
