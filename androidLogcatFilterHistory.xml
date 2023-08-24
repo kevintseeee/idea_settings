@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine tag:CoverDetailRootModel tag:CachedModelRefreshHelper" />
     <option name="nonFavorites">
       <list>
-        <option value="is:stacktrace " />
-        <option value="package:mine is:stacktrace " />
         <option value="package:mine tag:CoverDetailRootModel tag:CachedModelRefreshHelper" />
         <option value="package:mine tag:CoverDetailRootModel" />
+        <option value="is:stacktrace " />
+        <option value="package:mine is:stacktrace " />
         <option value="package:mine " />
         <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery ) | ( tag:VideoBufferedConverter &amp; message:dumpQuery )" />
         <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery )" />
