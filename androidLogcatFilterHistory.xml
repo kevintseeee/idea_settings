@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:changeSelection:\ hit!!!" />
+    <option name="mostRecentlyUsed" value="package:mine message:bug\ occurs" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:bug\ occurs" />
+        <option value="package:mine message:bug occurs" />
         <option value="package:mine message:changeSelection:\ hit!!!" />
         <option value="package:mine tag:SegmentListFragment" />
         <option value="package:mine tag:CoverDetailRootModel tag:CachedModelRefreshHelper" />
@@ -21,8 +23,6 @@
         <option value="()" />
         <option value="message:startHippyPage | message:openMediaPlayer:\ currentVid | message:onSuccess" />
         <option value="message:startHippyPage | message:openMediaPlayer:\ currentVid" />
-        <option value="message:startHippyPage " />
-        <option value="message:setPlayerData: | tag:SegmentListFragment | tag:MenuView | message:setMiniScreen:" />
       </list>
     </option>
   </component>
