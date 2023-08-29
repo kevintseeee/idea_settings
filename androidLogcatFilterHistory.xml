@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:CoverDetailRootModel tag:CachedModelRefreshHelper" />
+    <option name="mostRecentlyUsed" value="package:mine tag:SegmentListFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:SegmentListFragment" />
         <option value="package:mine tag:CoverDetailRootModel tag:CachedModelRefreshHelper" />
         <option value="package:mine tag:CoverDetailRootModel" />
         <option value="is:stacktrace " />
@@ -22,7 +23,6 @@
         <option value="message:startHippyPage " />
         <option value="message:setPlayerData: | tag:SegmentListFragment | tag:MenuView | message:setMiniScreen:" />
         <option value="message:setPlayerData: | tag:SegmentListFragment | tag:MenuView| message:setMiniScreen:" />
-        <option value="tag:DetailMatchActivity | tag:Model" />
       </list>
     </option>
   </component>
