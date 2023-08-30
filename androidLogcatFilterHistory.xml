@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message~:oUrl" />
+    <option name="mostRecentlyUsed" value="package:mine tag:MatchPageModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:MatchPageModel" />
         <option value="package:mine message~:oUrl" />
         <option value="package:mine message~:changeSelection.+bug" />
         <option value="package:mine message:changeSelection" />
@@ -22,7 +23,6 @@
         <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery )" />
         <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery )" />
         <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:setData )" />
-        <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:onSuccess )" />
       </list>
     </option>
   </component>
