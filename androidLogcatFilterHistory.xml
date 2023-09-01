@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message~:oUrl.+water" />
+    <option name="mostRecentlyUsed" value="package:mine tag:MatchRecommendH224Component" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:MatchRecommendH224Component" />
         <option value="package:mine message~:oUrl.+water" />
         <option value="package:mine " />
         <option value="package:mine is:crash " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:" />
-        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData" />
       </list>
     </option>
   </component>
