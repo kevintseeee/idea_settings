@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message~:oUrl.+match_detail_waterfall" />
+    <option name="mostRecentlyUsed" value="package:mine tag:DetailPageAnchor_NewSportPlayerFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DetailPageAnchor_NewSportPlayerFragment" />
+        <option value="package:mine tag:DetailMatchPlayHelper" />
         <option value="package:mine message~:oUrl.+match_detail_waterfall" />
         <option value="package:mine message:oUrl" />
         <option value="package:mine tag:MatchPageModel" />
@@ -21,8 +23,6 @@
         <option value="is:stacktrace " />
         <option value="package:mine is:stacktrace " />
         <option value="package:mine " />
-        <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery ) | ( tag:VideoBufferedConverter &amp; message:dumpQuery )" />
-        <option value="( tag:CoverDetailRootModel &amp; message:onSuccess ) | ( tag:UnitVideoDataListModel &amp; message:setData ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery ) | ( tag:UnitVideoDataListModel &amp; message:dumpQuery )" />
       </list>
     </option>
   </component>
