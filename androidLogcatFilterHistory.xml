@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:DetailPageAnchor_NewSportPlayerFragment" />
+    <option name="mostRecentlyUsed" value="package:mine tag:AsyncLineMenuViewModel" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:DetailPageAnchor_NewSportPlayerFragment" />
-        <option value="package:mine tag:DetailMatchPlayHelper" />
-        <option value="package:mine message~:oUrl.+match_detail_waterfall" />
-        <option value="package:mine message:oUrl" />
-        <option value="package:mine tag:MatchPageModel" />
-        <option value="package:mine message~:oUrl" />
-        <option value="package:mine message~:changeSelection.+bug" />
-        <option value="package:mine message:changeSelection" />
-        <option value="package:mine message:bug\ " />
-        <option value="package:mine message" />
-        <option value="package:mine" />
-        <option value="package:mine message:bug\ occurs" />
-        <option value="package:mine message:bug occurs" />
-        <option value="package:mine message:changeSelection:\ hit!!!" />
-        <option value="package:mine tag:SegmentListFragment" />
-        <option value="package:mine tag:CoverDetailRootModel tag:CachedModelRefreshHelper" />
-        <option value="package:mine tag:CoverDetailRootModel" />
-        <option value="is:stacktrace " />
-        <option value="package:mine is:stacktrace " />
+        <option value="package:mine tag:AsyncLineMenuViewModel" />
+        <option value="package:mine tag:MatchRecommendH224Component" />
+        <option value="package:mine message~:oUrl.+water" />
         <option value="package:mine " />
+        <option value="package:mine is:crash " />
+        <option value="package:mine is:stacktrace " />
+        <option value="package:mine (tag:CoverDetailRootModel_ | message~:oUrl.+waterfall)" />
+        <option value="package:mine tag:CachedModelRefreshHelper" />
+        <option value="package:mine tag:CoverDetailRootModel_" />
+        <option value="package:mine tag~:^ListUnitViewModel_" />
+        <option value="package:mine tag:ListUnitViewModel_" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment" />
+        <option value="package:mine message~:overrideFirstPageUnitId" />
+        <option value="package:mine tag:DebugHelper " />
+        <option value="package:mine tag:DetailRecyclerView" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ tag:DetailCoverPageRequest" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter message~:setListDataToSideAdapter" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter" />
+        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle" />
       </list>
     </option>
   </component>
