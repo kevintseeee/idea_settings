@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="tag:VMExposePrefetch" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:VMExposePrefetch" />
         <option value="tag:MemCache_COVER_PAGE_SNAPSHOT_URL_ message:put:" />
+        <option value="tag:VMExposePrefetch" />
         <option value="tag:COVER_PAGE_SNAPSHOT_URL" />
         <option value="tag:CoverDetailRootModel_" />
         <option value="tag~:FileDiskCache_COVER_PAGE_SNAPSHOT_ tag:CoverDetailRootModel_" />
