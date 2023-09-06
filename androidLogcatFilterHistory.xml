@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag~:MemCache_COVER_PAGE_SNAPSHOT_ tag:CoverDetailRootModel_" />
+    <option name="mostRecentlyUsed" value="tag~:FileDiskCache_COVER_PAGE_SNAPSHOT_ tag:CoverDetailRootModel_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:FileDiskCache_COVER_PAGE_SNAPSHOT_ tag:CoverDetailRootModel_" />
         <option value="tag~:MemCache_COVER_PAGE_SNAPSHOT_ tag:CoverDetailRootModel_" />
         <option value="tag~:MemCache_COVER_PAGE_SNAPSHOT_" />
         <option value="is:stacktrace " />
@@ -22,7 +23,6 @@
         <option value="package:mine message:prepare\ to\ trim" />
         <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE tag: MMKV" />
         <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE message:shrink" />
-        <option value="package:mine tag:MMKVDiskCache_COVER_P" />
       </list>
     </option>
   </component>
