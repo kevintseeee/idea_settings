@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:MMKVDiskCache_" />
+    <option name="mostRecentlyUsed" value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE" />
+        <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
         <option value="package:mine tag:MMKVDiskCache_" />
         <option value="package:mine tag:AsyncLineMenuViewModel" />
         <option value="package:mine tag:MatchRecommendH224Component" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:DebugHelper " />
         <option value="package:mine tag:DetailRecyclerView" />
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ tag:DetailCoverPageRequest" />
-        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter message~:setListDataToSideAdapter" />
-        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_ message~:setCurListData message~:setInFullTipsStyle message~:setListDataToFullAdapter" />
       </list>
     </option>
   </component>
