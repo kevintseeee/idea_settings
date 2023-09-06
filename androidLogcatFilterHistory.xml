@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:MMKV | tag:MMKVDiskCache_COVER_PAGE_JCE" />
+    <option name="mostRecentlyUsed" value="tag~:MemCache_COVER_PAGE_SNAPSHOT_ tag:CoverDetailRootModel_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag~:MemCache_COVER_PAGE_SNAPSHOT_ tag:CoverDetailRootModel_" />
+        <option value="tag~:MemCache_COVER_PAGE_SNAPSHOT_" />
+        <option value="is:stacktrace " />
+        <option value="tag~:MemCache_COVER_PAGE_SNAPSHOT_\d" />
+        <option value="tag~:COVER_PAGE_SNAPSHOT_\d" />
+        <option value="tag:COVER_PAGE_SNAPSHOT" />
+        <option value="tag:MMKVDiskCache_COVER_PAGE_JCE" />
         <option value="tag=:MMKV | tag:MMKVDiskCache_COVER_PAGE_JCE" />
         <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE" />
         <option value="tag=:MMKV " />
@@ -16,13 +23,6 @@
         <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE tag: MMKV" />
         <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE message:shrink" />
         <option value="package:mine tag:MMKVDiskCache_COVER_P" />
-        <option value="package:mine tag:MMKVDiskCache_COVER_P message:shrink" />
-        <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE " />
-        <option value="package:mine is:stacktrace  " />
-        <option value="package:mine is:crash " />
-        <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
-        <option value="package:mine tag:MMKVDiskCache_" />
-        <option value="package:mine tag:AsyncLineMenuViewModel" />
       </list>
     </option>
   </component>
