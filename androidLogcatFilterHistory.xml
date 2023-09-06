@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE message:shrink" />
+    <option name="mostRecentlyUsed" value="package:mine is:stacktrace  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:stacktrace  " />
+        <option value="package:mine is:crash " />
         <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE message:shrink" />
         <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE" />
         <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
@@ -11,7 +13,6 @@
         <option value="package:mine tag:MatchRecommendH224Component" />
         <option value="package:mine message~:oUrl.+water" />
         <option value="package:mine " />
-        <option value="package:mine is:crash " />
         <option value="package:mine is:stacktrace " />
         <option value="package:mine (tag:CoverDetailRootModel_ | message~:oUrl.+waterfall)" />
         <option value="package:mine tag:CachedModelRefreshHelper" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:DoubleRowDetailCoverPageFragment" />
         <option value="package:mine message~:overrideFirstPageUnitId" />
         <option value="package:mine tag:DebugHelper " />
-        <option value="package:mine tag:DetailRecyclerView" />
       </list>
     </option>
   </component>
