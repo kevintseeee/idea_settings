@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE message:shrink" />
+    <option name="mostRecentlyUsed" value="tag=:MMKV | tag:MMKVDiskCache_COVER_PAGE_JCE" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:MMKV | tag:MMKVDiskCache_COVER_PAGE_JCE" />
+        <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE" />
+        <option value="tag=:MMKV " />
+        <option value="tag:MMKV" />
+        <option value="message:COVER_PAGE_SNAPSHOT | message:trim" />
+        <option value="message:disk_cache" />
+        <option value="message:mm" />
+        <option value="message:trim" />
+        <option value="package:mine message:trim" />
+        <option value="package:mine message:prepare\ to\ trim" />
+        <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE tag: MMKV" />
         <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE message:shrink" />
+        <option value="package:mine tag:MMKVDiskCache_COVER_P" />
+        <option value="package:mine tag:MMKVDiskCache_COVER_P message:shrink" />
         <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE " />
         <option value="package:mine is:stacktrace  " />
         <option value="package:mine is:crash " />
-        <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE" />
         <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
         <option value="package:mine tag:MMKVDiskCache_" />
         <option value="package:mine tag:AsyncLineMenuViewModel" />
-        <option value="package:mine tag:MatchRecommendH224Component" />
-        <option value="package:mine message~:oUrl.+water" />
-        <option value="package:mine " />
-        <option value="package:mine is:stacktrace " />
-        <option value="package:mine (tag:CoverDetailRootModel_ | message~:oUrl.+waterfall)" />
-        <option value="package:mine tag:CachedModelRefreshHelper" />
-        <option value="package:mine tag:CoverDetailRootModel_" />
-        <option value="package:mine tag~:^ListUnitViewModel_" />
-        <option value="package:mine tag:ListUnitViewModel_" />
-        <option value="package:mine tag:DoubleRowDetailCoverPageFragment_" />
-        <option value="package:mine tag:DoubleRowDetailCoverPageFragment" />
-        <option value="package:mine message~:overrideFirstPageUnitId" />
       </list>
     </option>
   </component>
