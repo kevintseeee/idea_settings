@@ -1,8 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:Scheduler" />
+    <option name="mostRecentlyUsed" value="tag:TVMediaPlayerVideoCompletion" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TVMediaPlayerVideoCompletion" />
+        <option value="message:startActivity" />
+        <option value="message:startAct" />
+        <option value="message:flushAllDispatchers | message:onListDataChanged | message:savedInstanceState" />
+        <option value="message:flushAllDispatchers | message:onListDataChanged | message:onCreate" />
+        <option value="message:flushAllDispatchers | message:onListDataChanged" />
+        <option value="message:flushAllDispatchers | message:setLi" />
+        <option value="message:flushAllDispatchers" />
+        <option value="tag=:Scheduler message:handleCallbackSync" />
+        <option value="tag=:Scheduler message:handle" />
         <option value="tag=:Scheduler" />
         <option value="tag:Scheduler" />
         <option value="tag:MemCache_COVER_PAGE_SNAPSHOT_URL_ message:put:" />
@@ -13,16 +23,6 @@
         <option value="tag~:FileDiskCache_COVER_PAGE_SNAPSHOT_ tag:CoverDetailRootModel_" />
         <option value="tag~:MemCache_COVER_PAGE_SNAPSHOT_ tag:CoverDetailRootModel_" />
         <option value="tag~:MemCache_COVER_PAGE_SNAPSHOT_" />
-        <option value="is:stacktrace " />
-        <option value="tag~:MemCache_COVER_PAGE_SNAPSHOT_\d" />
-        <option value="tag~:COVER_PAGE_SNAPSHOT_\d" />
-        <option value="tag:COVER_PAGE_SNAPSHOT" />
-        <option value="tag:MMKVDiskCache_COVER_PAGE_JCE" />
-        <option value="tag=:MMKV | tag:MMKVDiskCache_COVER_PAGE_JCE" />
-        <option value="package:mine tag:MMKVDiskCache_COVER_PAGE_JCE" />
-        <option value="tag=:MMKV " />
-        <option value="tag:MMKV" />
-        <option value="message:COVER_PAGE_SNAPSHOT | message:trim" />
       </list>
     </option>
   </component>
