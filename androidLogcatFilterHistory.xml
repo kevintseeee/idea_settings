@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:VMExposePrefetch" />
+    <option name="mostRecentlyUsed" value="tag:VMExposePrefetch message:started" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:VMExposePrefetch message:started" />
         <option value="tag:VMExposePrefetch" />
         <option value="tag:TVMediaPlayerVideoCompletion" />
         <option value="message:startActivity" />
@@ -17,7 +18,6 @@
         <option value="tag=:Scheduler" />
         <option value="tag:Scheduler" />
         <option value="tag:MemCache_COVER_PAGE_SNAPSHOT_URL_ message:put:" />
-        <option value="tag:VMExposePrefetch message:started" />
         <option value="tag:COVER_PAGE_SNAPSHOT_URL" />
         <option value="tag:CoverDetailRootModel_" />
         <option value="tag~:FileDiskCache_COVER_PAGE_SNAPSHOT_ tag:CoverDetailRootModel_" />
