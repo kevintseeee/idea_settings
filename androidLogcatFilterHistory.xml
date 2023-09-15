@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:BeaconHelper tag:GuidDevIdHelper" />
+    <option name="mostRecentlyUsed" value="tag:TVAdView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TVAdView" />
         <option value="tag:BeaconHelper tag:GuidDevIdHelper" />
         <option value="tag:BeaconHelper" />
         <option value="tag:GuidDevIdHelper" />
@@ -22,7 +23,6 @@
         <option value="message:startAct" />
         <option value="message:flushAllDispatchers | message:onListDataChanged | message:savedInstanceState" />
         <option value="message:flushAllDispatchers | message:onListDataChanged | message:onCreate" />
-        <option value="message:flushAllDispatchers | message:onListDataChanged" />
       </list>
     </option>
   </component>
