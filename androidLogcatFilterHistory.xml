@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TVAdView" />
+    <option name="mostRecentlyUsed" value="tag:TVAdView tag:TVMediaPlayerAdController tag:WidgetAdManager" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:WidgetAdManager" />
+        <option value="tag:TVAdView tag:TVMediaPlayerAdController" />
         <option value="tag:TVAdView" />
         <option value="tag:BeaconHelper tag:GuidDevIdHelper" />
         <option value="tag:BeaconHelper" />
@@ -21,8 +23,6 @@
         <option value="tag:TVMediaPlayerVideoCompletion" />
         <option value="message:startActivity" />
         <option value="message:startAct" />
-        <option value="message:flushAllDispatchers | message:onListDataChanged | message:savedInstanceState" />
-        <option value="message:flushAllDispatchers | message:onListDataChanged | message:onCreate" />
       </list>
     </option>
   </component>
