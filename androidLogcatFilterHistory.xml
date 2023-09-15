@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:oUrl" />
+    <option name="mostRecentlyUsed" value="tag:TVMediaPlayerAdController" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TVMediaPlayerAdController" />
         <option value="message:oUrl" />
         <option value="tag:VMExposePrefetch message:started" />
         <option value="tag:VMExposePrefetch" />
@@ -22,7 +23,6 @@
         <option value="tag:COVER_PAGE_SNAPSHOT_URL" />
         <option value="tag:CoverDetailRootModel_" />
         <option value="tag~:FileDiskCache_COVER_PAGE_SNAPSHOT_ tag:CoverDetailRootModel_" />
-        <option value="tag~:MemCache_COVER_PAGE_SNAPSHOT_ tag:CoverDetailRootModel_" />
       </list>
     </option>
   </component>
