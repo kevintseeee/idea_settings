@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:BeaconHelper tag:GuidDevIdHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:BeaconHelper tag:GuidDevIdHelper" />
+        <option value="tag:BeaconHelper" />
+        <option value="tag:GuidDevIdHelper" />
+        <option value="tag:TvGuidManager" />
+        <option value="message:initRmonitor" />
+        <option value="message:NativeHookder" />
+        <option value="tag:Guid" />
+        <option value="tg" />
         <option value="level:error " />
         <option value="is:stacktrace " />
         <option value="tag:TVMediaPlayerAdController" />
@@ -15,14 +23,6 @@
         <option value="message:flushAllDispatchers | message:onListDataChanged | message:savedInstanceState" />
         <option value="message:flushAllDispatchers | message:onListDataChanged | message:onCreate" />
         <option value="message:flushAllDispatchers | message:onListDataChanged" />
-        <option value="message:flushAllDispatchers | message:setLi" />
-        <option value="message:flushAllDispatchers" />
-        <option value="tag=:Scheduler message:handleCallbackSync" />
-        <option value="tag=:Scheduler message:handle" />
-        <option value="tag=:Scheduler" />
-        <option value="tag:Scheduler" />
-        <option value="tag:MemCache_COVER_PAGE_SNAPSHOT_URL_ message:put:" />
-        <option value="tag:COVER_PAGE_SNAPSHOT_URL" />
       </list>
     </option>
   </component>
