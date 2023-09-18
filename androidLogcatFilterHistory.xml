@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message~:oUrl.+" />
+    <option name="mostRecentlyUsed" value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager" />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
+        <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager" />
         <option value="message~:oUrl.+" />
         <option value="tag:o" />
         <option value="tag:TvkPlayerProxy_0 " />
-        <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager" />
         <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:WidgetAdManager tag:AdCoreConfigService" />
         <option value="tag:TVAdView tag:TVMediaPlayerAdController " />
         <option value="tag:TVAdView tag:TVMediaPlayerAdController tag=:LoadingView" />
@@ -22,7 +23,6 @@
         <option value="message:NativeHookder" />
         <option value="tag:Guid" />
         <option value="tg" />
-        <option value="level:error " />
       </list>
     </option>
   </component>
