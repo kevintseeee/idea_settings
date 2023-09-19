@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag=:LoadingView tag=:LoadingViewPresenter tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager tag:WidgetAdManager" />
+    <option name="mostRecentlyUsed" value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager tag:WidgetAdManager" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag=:LoadingView tag=:LoadingViewPresenter tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager tag:WidgetAdManager" />
         <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager tag:WidgetAdManager" />
+        <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager" />
+        <option value="package:mine tag=:LoadingView tag=:LoadingViewPresenter tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager tag:WidgetAdManager" />
         <option value="package:mine tag=:LoadingView tag=:LoadingViewPresenter" />
         <option value="package:mine tag=:LoadingView" />
         <option value="package:mine tag:LoadingView" />
         <option value="package:mine tag:" />
-        <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager" />
         <option value="message~:oUrl.+" />
         <option value="is:stacktrace " />
         <option value="tag:o" />
