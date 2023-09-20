@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager tag:WidgetAdManager" />
+    <option name="mostRecentlyUsed" value="(tag:MMKVDiskCache_ | tag:DiskCacheFileUtils ) | message:COVER_PAGE_JCE" />
     <option name="nonFavorites">
       <list>
+        <option value="(tag:MMKVDiskCache_ | tag:DiskCacheFileUtils ) | message:COVER_PAGE_JCE" />
+        <option value="(tag:MMKVDiskCache_ | tag:DiskCacheFileUtils ) | message:" />
+        <option value="tag:MMKVDiskCache_ tag:DiskCacheFileUtils" />
+        <option value="tag:MMKVDiskCache_" />
         <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager tag:WidgetAdManager" />
         <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager" />
         <option value="package:mine tag=:LoadingView tag=:LoadingViewPresenter tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager tag:WidgetAdManager" />
@@ -19,10 +23,6 @@
         <option value="tag:TVAdView tag:TVMediaPlayerAdController tag=:LoadingView" />
         <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:LoadingView" />
         <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:WidgetAdManager" />
-        <option value="tag:TVAdView tag:TVMediaPlayerAdController" />
-        <option value="tag:TVAdView" />
-        <option value="tag:BeaconHelper tag:GuidDevIdHelper" />
-        <option value="tag:BeaconHelper" />
       </list>
     </option>
   </component>
