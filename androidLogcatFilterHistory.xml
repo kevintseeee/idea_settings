@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="(tag:MMKVDiskCache_ | tag:DiskCacheFileUtils ) | message:COVER_PAGE_JCE" />
+    <option name="mostRecentlyUsed" value="package:mine message~:get:\ .+-\ \d" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:get:\ .+-\ \d" />
+        <option value="(tag:MMKVDiskCache_ | tag:DiskCacheFileUtils | tag:FileDiskCache_) | message:COVER_PAGE_JCE" />
         <option value="(tag:MMKVDiskCache_ | tag:DiskCacheFileUtils ) | message:COVER_PAGE_JCE" />
         <option value="(tag:MMKVDiskCache_ | tag:DiskCacheFileUtils ) | message:" />
         <option value="tag:MMKVDiskCache_ tag:DiskCacheFileUtils" />
@@ -21,8 +23,6 @@
         <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:WidgetAdManager tag:AdCoreConfigService" />
         <option value="tag:TVAdView tag:TVMediaPlayerAdController " />
         <option value="tag:TVAdView tag:TVMediaPlayerAdController tag=:LoadingView" />
-        <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:LoadingView" />
-        <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:WidgetAdManager" />
       </list>
     </option>
   </component>
