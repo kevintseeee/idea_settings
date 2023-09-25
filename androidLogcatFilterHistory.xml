@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="(tag:WidgetAdManager &amp; message:informed) | (tag:SRL-TopAdapter)" />
+    <option name="mostRecentlyUsed" value="tag:CoverPageIntroComponent" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:CoverPageIntroComponent" />
+        <option value="tg" />
         <option value="(tag:WidgetAdManager &amp; message:informed) | (tag:SRL-TopAdapter)" />
         <option value="(tag:WidgetAdManager &amp; message:informed) | (tag:" />
         <option value="(tag:WidgetAdManager &amp; message:" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:LoadingView" />
         <option value="package:mine tag:" />
         <option value="message~:oUrl.+" />
-        <option value="is:stacktrace " />
-        <option value="tag:o" />
       </list>
     </option>
   </component>
