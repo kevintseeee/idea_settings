@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DetailMultiSectionCompatDataModel | tag:AsyncDataUtils | tag:AsyncDataMgr" />
+    <option name="mostRecentlyUsed" value="tag:DetailMultiSectionCompatDataModel | tag:AsyncDataUtils" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DetailMultiSectionCompatDataModel | tag:AsyncDataUtils" />
+        <option value="message:KtcpPool_ComputationThread" />
         <option value="tag:DetailMultiSectionCompatDataModel | tag:AsyncDataUtils | tag:AsyncDataMgr" />
+        <option value="is:stacktrace " />
         <option value="(tag:DetailMultiSectionCompatDataModel &amp; message:switchTab ) | tag:AsyncDataUtils | tag:AsyncDataMgr" />
         <option value="(tag:DetailMultiSectionCompatDataModel &amp; message:switchTab ) | tag:AsyncDataUtils " />
         <option value="tag:DetailMultiSectionCompatDataModel message:switchTab" />
@@ -20,9 +23,6 @@
         <option value="(tag:MMKVDiskCache_ | tag:DiskCacheFileUtils ) | message:COVER_PAGE_JCE" />
         <option value="(tag:MMKVDiskCache_ | tag:DiskCacheFileUtils ) | message:" />
         <option value="tag:MMKVDiskCache_ tag:DiskCacheFileUtils" />
-        <option value="tag:MMKVDiskCache_" />
-        <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager tag:WidgetAdManager" />
-        <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager" />
       </list>
     </option>
   </component>
