@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="(tag:DetailMultiSectionCompatDataModel &amp; message:switchTab ) | tag:AsyncDataUtils | tag:AsyncDataMgr" />
+    <option name="mostRecentlyUsed" value="tag:DetailMultiSectionCompatDataModel | tag:AsyncDataUtils | tag:AsyncDataMgr" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DetailMultiSectionCompatDataModel | tag:AsyncDataUtils | tag:AsyncDataMgr" />
         <option value="(tag:DetailMultiSectionCompatDataModel &amp; message:switchTab ) | tag:AsyncDataUtils | tag:AsyncDataMgr" />
         <option value="(tag:DetailMultiSectionCompatDataModel &amp; message:switchTab ) | tag:AsyncDataUtils " />
         <option value="tag:DetailMultiSectionCompatDataModel message:switchTab" />
@@ -22,7 +23,6 @@
         <option value="tag:MMKVDiskCache_" />
         <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager tag:WidgetAdManager" />
         <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager" />
-        <option value="package:mine tag=:LoadingView tag=:LoadingViewPresenter tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager tag:WidgetAdManager" />
       </list>
     </option>
   </component>
