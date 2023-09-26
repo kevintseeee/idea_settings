@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:CoverPageIntroComponent" />
+    <option name="mostRecentlyUsed" value="(tag:DetailMultiSectionCompatDataModel &amp; message:switchTab ) | tag:AsyncDataUtils | tag:AsyncDataMgr" />
     <option name="nonFavorites">
       <list>
+        <option value="(tag:DetailMultiSectionCompatDataModel &amp; message:switchTab ) | tag:AsyncDataUtils | tag:AsyncDataMgr" />
+        <option value="(tag:DetailMultiSectionCompatDataModel &amp; message:switchTab ) | tag:AsyncDataUtils " />
+        <option value="tag:DetailMultiSectionCompatDataModel message:switchTab" />
+        <option value="message:switchTab" />
+        <option value="tag:switchTab" />
         <option value="tag:CoverPageIntroComponent" />
         <option value="tg" />
         <option value="(tag:WidgetAdManager &amp; message:informed) | (tag:SRL-TopAdapter)" />
@@ -18,11 +23,6 @@
         <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager tag:WidgetAdManager" />
         <option value="tag:TVAdView tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager" />
         <option value="package:mine tag=:LoadingView tag=:LoadingViewPresenter tag:TVMediaPlayerAdController tag:TENCENT_AD_WidgetAdManager tag:WidgetAdManager" />
-        <option value="package:mine tag=:LoadingView tag=:LoadingViewPresenter" />
-        <option value="package:mine tag=:LoadingView" />
-        <option value="package:mine tag:LoadingView" />
-        <option value="package:mine tag:" />
-        <option value="message~:oUrl.+" />
       </list>
     </option>
   </component>
