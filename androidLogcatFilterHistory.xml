@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange | message:setListDataToSideAdapter | message:setCurListData | tag:DetailMultiSectionCompatDataModel)" />
+    <option name="mostRecentlyUsed" value="package:mine &amp; (tag:DetailMultiSectionCompatDataModel | tag:DetailMultiTabViewModel_ | tag:AsyncLineMenuViewModel)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; (tag:DetailMultiSectionCompatDataModel | tag:DetailMultiTabViewModel_ | tag:AsyncLineMenuViewModel)" />
+        <option value="package:mine &amp; (tag:DetailMultiSectionCompatDataModel | tag:DetailMultiTabViewModel_ | message:onMenuItemSelect)" />
+        <option value="package:mine &amp; (tag:DetailMultiSectionCompatDataModel | tag:DetailMultiTabViewModel_ | message:onMultiTabSwitch)" />
+        <option value="package:mine &amp; (tag:DetailMultiSectionCompatDataModel | tag:DetailMultiTabViewModel_)" />
         <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange | message:setListDataToSideAdapter | message:setCurListData | tag:DetailMultiSectionCompatDataModel)" />
         <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange | message:setListDataToSideAdapter | message:setCurListData)" />
         <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange | message:setListDataToSideAdapter)" />
@@ -19,10 +23,6 @@
         <option value="(tag:DetailMultiSectionCompatDataModel &amp; message:switchTab ) | tag:AsyncDataUtils | tag:AsyncDataMgr" />
         <option value="(tag:DetailMultiSectionCompatDataModel &amp; message:switchTab ) | tag:AsyncDataUtils " />
         <option value="tag:DetailMultiSectionCompatDataModel message:switchTab" />
-        <option value="message:switchTab" />
-        <option value="tag:switchTab" />
-        <option value="tag:CoverPageIntroComponent" />
-        <option value="tg" />
       </list>
     </option>
   </component>
