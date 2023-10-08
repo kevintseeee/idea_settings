@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DetailMultiSectionCompatDataModel | tag:AsyncDataUtils" />
+    <option name="mostRecentlyUsed" value="package:mine level:warn  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn  " />
+        <option value="package:mine is:stacktrace " />
         <option value="tag:DetailMultiSectionCompatDataModel | tag:AsyncDataUtils" />
         <option value="message:KtcpPool_ComputationThread" />
         <option value="tag:DetailMultiSectionCompatDataModel | tag:AsyncDataUtils | tag:AsyncDataMgr" />
@@ -21,8 +23,6 @@
         <option value="package:mine message~:get:\ .+-\ \d" />
         <option value="(tag:MMKVDiskCache_ | tag:DiskCacheFileUtils | tag:FileDiskCache_) | message:COVER_PAGE_JCE" />
         <option value="(tag:MMKVDiskCache_ | tag:DiskCacheFileUtils ) | message:COVER_PAGE_JCE" />
-        <option value="(tag:MMKVDiskCache_ | tag:DiskCacheFileUtils ) | message:" />
-        <option value="tag:MMKVDiskCache_ tag:DiskCacheFileUtils" />
       </list>
     </option>
   </component>
