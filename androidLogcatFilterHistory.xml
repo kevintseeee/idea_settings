@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange)" />
+    <option name="mostRecentlyUsed" value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange | message:setListDataToSideAdapter)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange | message:setListDataToSideAdapter)" />
         <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange)" />
+        <option value="package:mine level:warn " />
         <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage || message:notifyFocusPositionChange)" />
         <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage)" />
         <option value="package:mine level:warn  " />
@@ -21,8 +23,6 @@
         <option value="tg" />
         <option value="(tag:WidgetAdManager &amp; message:informed) | (tag:SRL-TopAdapter)" />
         <option value="(tag:WidgetAdManager &amp; message:informed) | (tag:" />
-        <option value="(tag:WidgetAdManager &amp; message:" />
-        <option value="package:mine tag:WidgetAdManager" />
       </list>
     </option>
   </component>
