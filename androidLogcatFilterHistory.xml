@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine (message:setListData | tag:CoverPageModel_)" />
+    <option name="mostRecentlyUsed" value="(tag:TrendingCoverSnapshotRequest | tag:Cache_)" />
     <option name="nonFavorites">
       <list>
+        <option value="(tag:TrendingCoverSnapshotRequest | tag:Cache_)" />
+        <option value="(tag:TrendingCoverSnapshotRequest | tag:)" />
         <option value="package:mine (message:setListData | tag:CoverPageModel_)" />
         <option value="package:mine message:setListData message:CoverPageModel_" />
         <option value="package:mine message:setListData" />
@@ -21,8 +23,6 @@
         <option value="package:mine level:warn " />
         <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage || message:notifyFocusPositionChange)" />
         <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage)" />
-        <option value="package:mine level:warn  " />
-        <option value="package:mine is:stacktrace " />
       </list>
     </option>
   </component>
