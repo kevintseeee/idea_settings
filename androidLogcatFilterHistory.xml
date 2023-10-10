@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="(tag:TrendingCoverSnapshotRequest | tag:Cache_ | tag:AppRuntimeHelper | message:getHotSnapshot)" />
+    <option name="mostRecentlyUsed" value="package:mine tag:DetailCoverPageRequest" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DetailCoverPageRequest" />
         <option value="(tag:TrendingCoverSnapshotRequest | tag:Cache_ | tag:AppRuntimeHelper | message:getHotSnapshot)" />
         <option value="(tag:TrendingCoverSnapshotRequest | tag:Cache_ | tag:AppRuntimeHelper )" />
         <option value="(tag:TrendingCoverSnapshotRequest | tag:Cache_ | tag:AppRuntimeHelper)" />
@@ -22,7 +23,6 @@
         <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange | message:setListDataToSideAdapter | message:setCurListData | tag:DetailMultiSectionCompatDataModel)" />
         <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange | message:setListDataToSideAdapter | message:setCurListData)" />
         <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange | message:setListDataToSideAdapter)" />
-        <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange)" />
       </list>
     </option>
   </component>
