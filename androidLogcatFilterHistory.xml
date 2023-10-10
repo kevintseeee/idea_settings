@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:DetailCoverPageRequest" />
+    <option name="mostRecentlyUsed" value="tag:TaskTrendingCoverSnapshot | message:createVideoBgList" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TaskTrendingCoverSnapshot | message:createVideoBgList" />
+        <option value="package:mine tag:TaskTrendingCoverSnapshot" />
         <option value="package:mine tag:DetailCoverPageRequest" />
         <option value="(tag:TrendingCoverSnapshotRequest | tag:Cache_ | tag:AppRuntimeHelper | message:getHotSnapshot)" />
         <option value="(tag:TrendingCoverSnapshotRequest | tag:Cache_ | tag:AppRuntimeHelper )" />
@@ -21,8 +23,6 @@
         <option value="package:mine &amp; (tag:DetailMultiSectionCompatDataModel | tag:DetailMultiTabViewModel_ | message:onMultiTabSwitch)" />
         <option value="package:mine &amp; (tag:DetailMultiSectionCompatDataModel | tag:DetailMultiTabViewModel_)" />
         <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange | message:setListDataToSideAdapter | message:setCurListData | tag:DetailMultiSectionCompatDataModel)" />
-        <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange | message:setListDataToSideAdapter | message:setCurListData)" />
-        <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange | message:setListDataToSideAdapter)" />
       </list>
     </option>
   </component>
