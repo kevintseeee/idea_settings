@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TaskTrendingCoverSnapshot | message:createVideoBgList" />
+    <option name="mostRecentlyUsed" value="Network" />
     <option name="nonFavorites">
       <list>
+        <option value="Network" />
+        <option value="package:mine &amp; (tag:AsyncDataMgr | tag:AsyncDataUtils)" />
         <option value="tag:TaskTrendingCoverSnapshot | message:createVideoBgList" />
         <option value="package:mine tag:TaskTrendingCoverSnapshot" />
         <option value="package:mine tag:DetailCoverPageRequest" />
@@ -16,13 +18,11 @@
         <option value="package:mine message:setListData" />
         <option value="package:mine message:dispatch" />
         <option value="package:mine tag:NetWork " />
-        <option value="package:mine &amp; (tag:AsyncDataMgr | tag:AsyncDataUtils)" />
         <option value="package:mine &amp; (tag:AsyncDataMgr | tag:DetailMultiTabViewModel_ | tag:AsyncLineMenuViewModel)" />
         <option value="package:mine &amp; (tag:DetailMultiSectionCompatDataModel | tag:DetailMultiTabViewModel_ | tag:AsyncLineMenuViewModel)" />
         <option value="package:mine &amp; (tag:DetailMultiSectionCompatDataModel | tag:DetailMultiTabViewModel_ | message:onMenuItemSelect)" />
         <option value="package:mine &amp; (tag:DetailMultiSectionCompatDataModel | tag:DetailMultiTabViewModel_ | message:onMultiTabSwitch)" />
         <option value="package:mine &amp; (tag:DetailMultiSectionCompatDataModel | tag:DetailMultiTabViewModel_)" />
-        <option value="package:mine &amp; (message:handleAsyncFocusSwitchAndLoadFirstPage | message:notifyFocusPositionChange | message:setListDataToSideAdapter | message:setCurListData | tag:DetailMultiSectionCompatDataModel)" />
       </list>
     </option>
   </component>
