@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="package:mine is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:crash " />
+        <option value="message:mzc00200xgwb98c" />
         <option value="is:crash " />
         <option value="tag:Cache_" />
         <option value="message:getHotSnapshot" />
@@ -21,8 +23,6 @@
         <option value="package:mine message:setListData message:CoverPageModel_" />
         <option value="package:mine message:setListData" />
         <option value="package:mine message:dispatch" />
-        <option value="package:mine tag:NetWork " />
-        <option value="package:mine &amp; (tag:AsyncDataMgr | tag:DetailMultiTabViewModel_ | tag:AsyncLineMenuViewModel)" />
       </list>
     </option>
   </component>
