@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message~:url.+snapshot.+mzc00200xgwb98c" />
+    <option name="mostRecentlyUsed" value="message~:url.+snapshot.+mzc00200e9idy8t" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:url.+snapshot.+mzc00200e9idy8t" />
         <option value="message~:url.+snapshot.+mzc00200xgwb98c" />
         <option value="message~:url.+snapshot" />
         <option value="message:snapshot" />
@@ -22,7 +23,6 @@
         <option value="(tag:TrendingCoverSnapshotRequest | tag:Cache_ | tag:AppRuntimeHelper )" />
         <option value="(tag:TrendingCoverSnapshotRequest | tag:Cache_ | tag:AppRuntimeHelper)" />
         <option value="(tag:TrendingCoverSnapshotRequest | tag:Cache_)" />
-        <option value="(tag:TrendingCoverSnapshotRequest | tag:)" />
       </list>
     </option>
   </component>
