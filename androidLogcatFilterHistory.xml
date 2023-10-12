@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:checkVersion | message:onSuccess: " />
+    <option name="mostRecentlyUsed" value="message:checkVersion | message:kevinrhxie" />
     <option name="nonFavorites">
       <list>
+        <option value="message:checkVersion | message:kevinrhxie" />
         <option value="message:checkVersion | message:onSuccess: " />
         <option value="message:checkVersion | message:onSu" />
         <option value="message:checkVersion" />
@@ -22,7 +23,6 @@
         <option value="tag:Cache_" />
         <option value="package:mine is:crash " />
         <option value="is:crash " />
-        <option value="message:getHotSnapshot" />
       </list>
     </option>
   </component>
