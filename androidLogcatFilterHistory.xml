@@ -1,12 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:crash " />
+    <option name="mostRecentlyUsed" value="message~:url.+snapshot" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine is:crash " />
+        <option value="message~:url.+snapshot" />
+        <option value="message:snapshot" />
         <option value="message:mzc00200xgwb98c" />
-        <option value="is:crash " />
+        <option value="message~:http.+mzc00200xgwb98c" />
         <option value="tag:Cache_" />
+        <option value="package:mine is:crash " />
+        <option value="is:crash " />
         <option value="message:getHotSnapshot" />
         <option value="tag:TaskTrendingCoverSnapshot" />
         <option value="Network" />
@@ -20,9 +23,6 @@
         <option value="(tag:TrendingCoverSnapshotRequest | tag:Cache_)" />
         <option value="(tag:TrendingCoverSnapshotRequest | tag:)" />
         <option value="package:mine (message:setListData | tag:CoverPageModel_)" />
-        <option value="package:mine message:setListData message:CoverPageModel_" />
-        <option value="package:mine message:setListData" />
-        <option value="package:mine message:dispatch" />
       </list>
     </option>
   </component>
