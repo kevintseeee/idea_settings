@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:getHotSnapshot" />
+    <option name="mostRecentlyUsed" value="tag:Cache_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Cache_" />
         <option value="message:getHotSnapshot" />
         <option value="tag:TaskTrendingCoverSnapshot" />
         <option value="Network" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:NetWork " />
         <option value="package:mine &amp; (tag:AsyncDataMgr | tag:DetailMultiTabViewModel_ | tag:AsyncLineMenuViewModel)" />
         <option value="package:mine &amp; (tag:DetailMultiSectionCompatDataModel | tag:DetailMultiTabViewModel_ | tag:AsyncLineMenuViewModel)" />
-        <option value="package:mine &amp; (tag:DetailMultiSectionCompatDataModel | tag:DetailMultiTabViewModel_ | message:onMenuItemSelect)" />
       </list>
     </option>
   </component>
