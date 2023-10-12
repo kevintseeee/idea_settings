@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message~:url.+snapshot.+mzc00200e9idy8t" />
+    <option name="mostRecentlyUsed" value="package:mine is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:stacktrace " />
+        <option value="tag:UnitVideoDataListModel_ | tag:UnifiedPlayController_ | tag:DetailCoverInfoModel_" />
+        <option value="message~:url.+snapsho" />
+        <option value="package:mine o" />
+        <option value="tag:UnitVideoDataListModel_" />
+        <option value="is:stacktrace " />
+        <option value="level:warn " />
         <option value="message~:url.+snapshot.+mzc00200e9idy8t" />
         <option value="message~:url.+snapshot.+mzc00200xgwb98c" />
         <option value="message~:url.+snapshot" />
@@ -16,13 +23,6 @@
         <option value="tag:TaskTrendingCoverSnapshot" />
         <option value="Network" />
         <option value="package:mine &amp; (tag:AsyncDataMgr | tag:AsyncDataUtils)" />
-        <option value="tag:TaskTrendingCoverSnapshot | message:createVideoBgList" />
-        <option value="package:mine tag:TaskTrendingCoverSnapshot" />
-        <option value="package:mine tag:DetailCoverPageRequest" />
-        <option value="(tag:TrendingCoverSnapshotRequest | tag:Cache_ | tag:AppRuntimeHelper | message:getHotSnapshot)" />
-        <option value="(tag:TrendingCoverSnapshotRequest | tag:Cache_ | tag:AppRuntimeHelper )" />
-        <option value="(tag:TrendingCoverSnapshotRequest | tag:Cache_ | tag:AppRuntimeHelper)" />
-        <option value="(tag:TrendingCoverSnapshotRequest | tag:Cache_)" />
       </list>
     </option>
   </component>
