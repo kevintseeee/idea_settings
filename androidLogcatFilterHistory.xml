@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:getCommonCookie | message:get_cfg" />
+    <option name="mostRecentlyUsed" value="message:getCommonCookie | message:get_cfg | message:get_scene_cfg" />
     <option name="nonFavorites">
       <list>
+        <option value="message:getCommonCookie | message:get_cfg | message:get_scene_cfg" />
         <option value="message:getCommonCookie | message:get_cfg" />
         <option value="message:getCommonCookie | message:" />
         <option value="message:getCommon" />
@@ -22,7 +23,6 @@
         <option value="message~:url.+snapshot.+mzc00200e9idy8t" />
         <option value="message~:url.+snapshot.+mzc00200xgwb98c" />
         <option value="message~:url.+snapshot" />
-        <option value="message:snapshot" />
       </list>
     </option>
   </component>
