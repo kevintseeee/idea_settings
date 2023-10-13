@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PackagedPlayableSource_ | tag:VideoDetailRootModel" />
+    <option name="mostRecentlyUsed" value="message:dumpActionValueMap | message:DetailCoverInfoModel" />
     <option name="nonFavorites">
       <list>
+        <option value="message:dumpActionValueMap | message:DetailCoverInfoModel" />
+        <option value="message:dumpActionValueMap" />
+        <option value="package:mine level:warn " />
+        <option value="message:mzc00200xgwb98c" />
         <option value="tag:PackagedPlayableSource_ | tag:VideoDetailRootModel" />
         <option value="package:mine tag:PackagedPlayableSource_" />
         <option value="message:getCommonCookie | message:get_cfg | message:get_scene_cfg" />
@@ -19,10 +23,6 @@
         <option value="tag:UnitVideoDataListModel_ | tag:UnifiedPlayController_ | tag:DetailCoverInfoModel_" />
         <option value="message~:url.+snapsho" />
         <option value="package:mine o" />
-        <option value="tag:UnitVideoDataListModel_" />
-        <option value="is:stacktrace " />
-        <option value="level:warn " />
-        <option value="message~:url.+snapshot.+mzc00200e9idy8t" />
       </list>
     </option>
   </component>
