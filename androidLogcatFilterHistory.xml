@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:WidgetAdManager" />
+    <option name="mostRecentlyUsed" value="tag:WidgetAdManager | tag:LoadingView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:WidgetAdManager | tag:LoadingView" />
         <option value="tag:WidgetAdManager" />
         <option value="message:getCommonCookie | message:get_cfg | message:get_scene_cfg" />
         <option value="message:dumpActionValueMap | message:DetailCoverInfoModel" />
@@ -22,7 +23,6 @@
         <option value="message:checkVersion" />
         <option value="package:mine is:stacktrace " />
         <option value="tag:UnitVideoDataListModel_ | tag:UnifiedPlayController_ | tag:DetailCoverInfoModel_" />
-        <option value="message~:url.+snapsho" />
       </list>
     </option>
   </component>
