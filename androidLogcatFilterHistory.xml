@@ -1,8 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:WidgetAdManager | tag:LoadingView" />
+    <option name="mostRecentlyUsed" value="message~:oUrl.+get_cfg | message:getCommonCookie | message:cfg_prefetch_snapshot_on_every_expose" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:oUrl.+get_cfg | message:getCommonCookie | message:cfg_prefetch_snapshot_on_every_expose" />
+        <option value="message~:oUrl.+get_cfg.+cfg_prefetch_snapshot_on_every_expose | message:getCommonCookie | message:cfg_prefetch_snapshot_on_every_expose" />
+        <option value="message~:oUrl.+get_cfg.+cfg_prefetch_snapshot_on_every_expose | message:getCommonCookie" />
+        <option value="message~:oUrl.+get_cfg | message:getCommonCookie" />
+        <option value="message~:oUrl.+get | message:getCommonCookie" />
+        <option value="message~:oUrl.+get_scene_cfg | message:getCommonCookie" />
+        <option value="message~:oUrl.+get_scene_cfg" />
+        <option value="message~:oUrl.+get_" />
+        <option value="me" />
         <option value="tag:WidgetAdManager | tag:LoadingView" />
         <option value="tag:WidgetAdManager" />
         <option value="message:getCommonCookie | message:get_cfg | message:get_scene_cfg" />
@@ -14,15 +23,6 @@
         <option value="package:mine tag:PackagedPlayableSource_" />
         <option value="message:getCommonCookie | message:get_cfg" />
         <option value="message:getCommonCookie | message:" />
-        <option value="message:getCommon" />
-        <option value="message: " />
-        <option value="message:" />
-        <option value="message:checkVersion | message:kevinrhxie" />
-        <option value="message:checkVersion | message:onSuccess: " />
-        <option value="message:checkVersion | message:onSu" />
-        <option value="message:checkVersion" />
-        <option value="package:mine is:stacktrace " />
-        <option value="tag:UnitVideoDataListModel_ | tag:UnifiedPlayController_ | tag:DetailCoverInfoModel_" />
       </list>
     </option>
   </component>
