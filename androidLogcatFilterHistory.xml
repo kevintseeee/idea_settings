@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="snapshot" />
+    <option name="mostRecentlyUsed" value="tag:NewArchDetailCoverViewModel_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:NewArchDetailCoverViewModel_" />
         <option value="snapshot" />
         <option value="tag:Cache message:put" />
         <option value="tag:" />
@@ -22,7 +23,6 @@
         <option value="message:dumpActionValueMap" />
         <option value="package:mine level:warn " />
         <option value="message:mzc00200xgwb98c" />
-        <option value="tag:PackagedPlayableSource_ | tag:VideoDetailRootModel" />
       </list>
     </option>
   </component>
