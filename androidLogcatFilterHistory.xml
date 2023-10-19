@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:SmartListDataLive | message:setListDataToSideAdapter | message:setCurListData" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="message:SmartListDataLive | message:setListDataToSideAdapter | message:setCurListData" />
         <option value="message:SmartListDataLive | message:setListDataToSideAdapter" />
         <option value="message:SmartListDataLive" />
@@ -22,7 +23,6 @@
         <option value="tag:WidgetAdManager | tag:LoadingView" />
         <option value="tag:WidgetAdManager" />
         <option value="message:getCommonCookie | message:get_cfg | message:get_scene_cfg" />
-        <option value="message:dumpActionValueMap | message:DetailCoverInfoModel" />
       </list>
     </option>
   </component>
