@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="package:mine message:snapshot/" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:snapshot/" />
+        <option value="package:mine message:snapshot" />
+        <option value="message:" />
+        <option value="message:snapshot" />
         <option value="message:SmartListDataLive | message:setListDataToSideAdapter | message:setCurListData" />
         <option value="is:stacktrace " />
         <option value="message:SmartListDataLive | message:setListDataToSideAdapter" />
@@ -19,10 +23,6 @@
         <option value="message~:oUrl.+get_scene_cfg | message:getCommonCookie" />
         <option value="message~:oUrl.+get_scene_cfg" />
         <option value="message~:oUrl.+get_" />
-        <option value="me" />
-        <option value="tag:WidgetAdManager | tag:LoadingView" />
-        <option value="tag:WidgetAdManager" />
-        <option value="message:getCommonCookie | message:get_cfg | message:get_scene_cfg" />
       </list>
     </option>
   </component>
