@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
-        <option value="is:stacktrace " />
         <option value="message:SmartListDataLive | message:setListDataToSideAdapter | message:setCurListData" />
+        <option value="is:stacktrace " />
         <option value="message:SmartListDataLive | message:setListDataToSideAdapter" />
         <option value="message:SmartListDataLive" />
         <option value="tag:NewArchDetailCoverViewModel_" />
