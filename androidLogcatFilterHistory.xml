@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DetailMultiSectionCompatDataModel" />
+    <option name="mostRecentlyUsed" value="tag:DetailMultiSectionCompatDataModel | (message:printDiffResult &amp; tag:DoubleRowDetailCoverPageFragment)" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DetailMultiSectionCompatDataModel | (message:printDiffResult &amp; tag:DoubleRowDetailCoverPageFragment)" />
+        <option value="tag:DetailMultiSectionCompatDataModel | message:printDiffResult" />
         <option value="tag:DetailMultiSectionCompatDataModel" />
         <option value="package:com.gitvdemo.video" />
         <option value="package:com.cibn.tv " />
@@ -21,8 +23,6 @@
         <option value="message~:oUrl.+get_cfg | message:getCommonCookie | message:cfg_prefetch_snapshot_on_every_expose" />
         <option value="message~:oUrl.+get_cfg.+cfg_prefetch_snapshot_on_every_expose | message:getCommonCookie | message:cfg_prefetch_snapshot_on_every_expose" />
         <option value="message~:oUrl.+get_cfg.+cfg_prefetch_snapshot_on_every_expose | message:getCommonCookie" />
-        <option value="message~:oUrl.+get_cfg | message:getCommonCookie" />
-        <option value="message~:oUrl.+get | message:getCommonCookie" />
       </list>
     </option>
   </component>
