@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="(message:SmartListDataLive | message:setListDataToSideAdapter) | tag:CoverDetailRootModel_ | message:migrateFirstPageUnitId" />
+    <option name="mostRecentlyUsed" value="message:SmartListDataLive | message:setListDataToSideAdapter" />
     <option name="nonFavorites">
       <list>
+        <option value="message:SmartListDataLive | message:setListDataToSideAdapter" />
+        <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) " />
+        <option value="package:mine " />
         <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) | tag:CoverDetailRootModel_ | message:migrateFirstPageUnitId" />
         <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) | tag:CoverDetailRootModel_ | tag:FirstPageListDataHelper" />
         <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) | tag:CoverDetailRootModel_" />
-        <option value="message:SmartListDataLive | message:setListDataToSideAdapter" />
         <option value="message:SmartListDataLive | message:setListData" />
         <option value="message:SmartListDataLive" />
         <option value="message:Smar" />
@@ -21,8 +23,6 @@
         <option value="message~:oUrl.+water | message:getCommonCookie" />
         <option value="tag:DetailMultiSectionCompatDataModel | (message:printDiffResult &amp; tag:DoubleRowDetailCoverPageFragment)" />
         <option value="tag:DetailMultiSectionCompatDataModel | message:printDiffResult" />
-        <option value="package:com.gitvdemo.video" />
-        <option value="package:com.cibn.tv " />
       </list>
     </option>
   </component>
