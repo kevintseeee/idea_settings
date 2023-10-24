@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message~:oUrl.+water | message:getCommonCookie" />
+    <option name="mostRecentlyUsed" value="tag:DetailMultiSectionCompatDataModel" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DetailMultiSectionCompatDataModel" />
         <option value="message~:oUrl.+water | message:getCommonCookie" />
         <option value="tag:DetailMultiSectionCompatDataModel | (message:printDiffResult &amp; tag:DoubleRowDetailCoverPageFragment)" />
         <option value="tag:DetailMultiSectionCompatDataModel | message:printDiffResult" />
-        <option value="tag:DetailMultiSectionCompatDataModel" />
         <option value="package:com.gitvdemo.video" />
         <option value="package:com.cibn.tv " />
         <option value="package:mine message:snapshot/" />
