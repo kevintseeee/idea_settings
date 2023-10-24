@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:migrateFirstPageUnitId" />
+    <option name="mostRecentlyUsed" value="(message:SmartListDataLive | message:setListDataToSideAdapter) | tag:CoverDetailRootModel_ | message:migrateFirstPageUnitId" />
     <option name="nonFavorites">
       <list>
+        <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) | tag:CoverDetailRootModel_ | message:migrateFirstPageUnitId" />
+        <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) | tag:CoverDetailRootModel_ | tag:FirstPageListDataHelper" />
+        <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) | tag:CoverDetailRootModel_" />
+        <option value="message:SmartListDataLive | message:setListDataToSideAdapter" />
+        <option value="message:SmartListDataLive | message:setListData" />
+        <option value="message:SmartListDataLive" />
+        <option value="message:Smar" />
         <option value="message:migrateFirstPageUnitId" />
         <option value="message:" />
         <option value="tag:migrateFirstPageUnitId" />
@@ -16,13 +23,6 @@
         <option value="tag:DetailMultiSectionCompatDataModel | message:printDiffResult" />
         <option value="package:com.gitvdemo.video" />
         <option value="package:com.cibn.tv " />
-        <option value="package:mine message:snapshot/" />
-        <option value="package:mine message:snapshot" />
-        <option value="message:snapshot" />
-        <option value="message:SmartListDataLive | message:setListDataToSideAdapter | message:setCurListData" />
-        <option value="is:stacktrace " />
-        <option value="message:SmartListDataLive | message:setListDataToSideAdapter" />
-        <option value="message:SmartListDataLive" />
       </list>
     </option>
   </component>
