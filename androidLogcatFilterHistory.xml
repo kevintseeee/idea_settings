@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:printDiff tag:double_rows" />
+    <option name="mostRecentlyUsed" value="message:printDiff tag:double_rows.side_list " />
     <option name="nonFavorites">
       <list>
+        <option value="message:printDiff tag:double_rows.side_list " />
         <option value="message:printDiff tag:double_rows" />
         <option value="message:printDiff" />
         <option value="message:printDiff tag:DoubleRowDetailCoverPageFragment_" />
@@ -22,7 +23,6 @@
         <option value="message:SmartListDataLive" />
         <option value="tag:NewArchDetailCoverViewModel_" />
         <option value="snapshot" />
-        <option value="tag:Cache message:put" />
       </list>
     </option>
   </component>
