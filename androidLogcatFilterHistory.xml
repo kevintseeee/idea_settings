@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:printDiff tag:DoubleRowDetailCoverPageFragment_" />
+    <option name="mostRecentlyUsed" value="message:printDiff tag:double_rows" />
     <option name="nonFavorites">
       <list>
-        <option value="message:printDiff tag:DoubleRowDetailCoverPageFragment_" />
+        <option value="message:printDiff tag:double_rows" />
         <option value="message:printDiff" />
+        <option value="message:printDiff tag:DoubleRowDetailCoverPageFragment_" />
         <option value="tag:DetailMultiSectionCompatDataModel" />
         <option value="message~:oUrl.+water | message:getCommonCookie" />
         <option value="tag:DetailMultiSectionCompatDataModel | (message:printDiffResult &amp; tag:DoubleRowDetailCoverPageFragment)" />
@@ -22,7 +23,6 @@
         <option value="tag:NewArchDetailCoverViewModel_" />
         <option value="snapshot" />
         <option value="tag:Cache message:put" />
-        <option value="tag:" />
       </list>
     </option>
   </component>
