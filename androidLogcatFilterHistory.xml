@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:SmartListDataLive | message:setListDataToSideAdapter" />
+    <option name="mostRecentlyUsed" value="message~:KtcpPool_ComputationThread.+validateCallback" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:KtcpPool_ComputationThread.+validateCallback" />
+        <option value="message:validateCallback" />
+        <option value="message:SELECT" />
+        <option value="tag:Search" />
         <option value="message:SmartListDataLive | message:setListDataToSideAdapter" />
         <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) " />
         <option value="package:mine " />
@@ -19,10 +23,6 @@
         <option value="message:printDiff tag:double_rows" />
         <option value="message:printDiff" />
         <option value="message:printDiff tag:DoubleRowDetailCoverPageFragment_" />
-        <option value="tag:DetailMultiSectionCompatDataModel" />
-        <option value="message~:oUrl.+water | message:getCommonCookie" />
-        <option value="tag:DetailMultiSectionCompatDataModel | (message:printDiffResult &amp; tag:DoubleRowDetailCoverPageFragment)" />
-        <option value="tag:DetailMultiSectionCompatDataModel | message:printDiffResult" />
       </list>
     </option>
   </component>
