@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message~:KtcpPool_ComputationThread.+validateCallback" />
+    <option name="mostRecentlyUsed" value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter | message:setCurListData" />
     <option name="nonFavorites">
       <list>
+        <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter | message:setCurListData" />
+        <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter | message:set" />
+        <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter " />
+        <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setList " />
+        <option value="message:printDiffResult" />
+        <option value="message:printD" />
         <option value="message~:KtcpPool_ComputationThread.+validateCallback" />
         <option value="message:validateCallback" />
         <option value="message:SELECT" />
@@ -17,12 +23,6 @@
         <option value="message:SmartListDataLive" />
         <option value="message:Smar" />
         <option value="message:migrateFirstPageUnitId" />
-        <option value="message:" />
-        <option value="tag:migrateFirstPageUnitId" />
-        <option value="message:printDiff tag:double_rows.side_list " />
-        <option value="message:printDiff tag:double_rows" />
-        <option value="message:printDiff" />
-        <option value="message:printDiff tag:DoubleRowDetailCoverPageFragment_" />
       </list>
     </option>
   </component>
