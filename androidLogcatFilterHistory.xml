@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter | message:setCurListData" />
+    <option name="mostRecentlyUsed" value="tag:SmallWindowTipsView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SmallWindowTipsView" />
         <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter | message:setCurListData" />
         <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter | message:set" />
         <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter " />
@@ -22,7 +23,6 @@
         <option value="message:SmartListDataLive | message:setListData" />
         <option value="message:SmartListDataLive" />
         <option value="message:Smar" />
-        <option value="message:migrateFirstPageUnitId" />
       </list>
     </option>
   </component>
