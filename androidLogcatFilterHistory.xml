@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:trim" />
+    <option name="mostRecentlyUsed" value="message:printDiff" />
     <option name="nonFavorites">
       <list>
+        <option value="message:printDiff" />
+        <option value="message:t" />
         <option value="message:trim" />
         <option value="message:snapshot" />
         <option value="tag:DiskCache" />
@@ -21,8 +23,6 @@
         <option value="tag:" />
         <option value="package:mine message:snapshot/" />
         <option value="tag:CoverDetailRootModel_ " />
-        <option value="tag:CoverDetailRootModel_ | message:snapshot" />
-        <option value="tag:CoverDetailRootModel_" />
       </list>
     </option>
   </component>
