@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:CoverDetailRootModel_ " />
+    <option name="mostRecentlyUsed" value="tag:Cache_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Cache_" />
+        <option value="tag:FileDiskCache_" />
+        <option value="tag:File" />
+        <option value="tag:" />
+        <option value="package:mine message:snapshot/" />
         <option value="tag:CoverDetailRootModel_ " />
         <option value="tag:CoverDetailRootModel_ | message:snapshot" />
         <option value="tag:CoverDetailRootModel_" />
@@ -18,11 +23,6 @@
         <option value="message:SELECT" />
         <option value="tag:Search" />
         <option value="message:SmartListDataLive | message:setListDataToSideAdapter" />
-        <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) " />
-        <option value="package:mine " />
-        <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) | tag:CoverDetailRootModel_ | message:migrateFirstPageUnitId" />
-        <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) | tag:CoverDetailRootModel_ | tag:FirstPageListDataHelper" />
-        <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) | tag:CoverDetailRootModel_" />
       </list>
     </option>
   </component>
