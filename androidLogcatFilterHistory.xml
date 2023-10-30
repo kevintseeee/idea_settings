@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:[main" />
+    <option name="mostRecentlyUsed" value="package:mine message:onTrimMemory" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:onTrimMemory" />
         <option value="package:mine message:[main" />
         <option value="package:mine " />
         <option value="package:mine message:poster_show_tag_on_focus" />
@@ -22,7 +23,6 @@
         <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setList " />
         <option value="message:printDiffResult" />
         <option value="message:printD" />
-        <option value="message~:KtcpPool_ComputationThread.+validateCallback" />
       </list>
     </option>
   </component>
