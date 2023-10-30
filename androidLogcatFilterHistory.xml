@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:onTrimMemory" />
+    <option name="mostRecentlyUsed" value="message:double_rows" />
     <option name="nonFavorites">
       <list>
+        <option value="message:double_rows" />
+        <option value="message:[main" />
+        <option value="message:Data" />
         <option value="package:mine message:onTrimMemory" />
         <option value="package:mine message:[main" />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter | message:setCurListData" />
         <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter | message:set" />
         <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter " />
-        <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setList " />
-        <option value="message:printDiffResult" />
-        <option value="message:printD" />
       </list>
     </option>
   </component>
