@@ -1,11 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="(tag:double_rows.side_list &amp; message:print) | message:setListDataToSideAdapter | tag:DetailFrameLayout | message:onListDataChanged | message:SmartListDataLive | tag:FirstPageListDataHelper" />
+    <option name="mostRecentlyUsed" value="tag:FirstPageListDataHelper | message:SmartListDataLive" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:FirstPageListDataHelper | message:SmartListDataLive" />
+        <option value="tag:FirstPageListDataHelper | message:Smart" />
+        <option value="tag:double_rows.side_list | message:setListDataToSideAdapter | tag:DetailFrameLayout | message:onListDataChanged | message:SmartListDataLive" />
+        <option value="tag:FirstPageListDataHelper" />
         <option value="(tag:double_rows.side_list &amp; message:print) | message:setListDataToSideAdapter | tag:DetailFrameLayout | message:onListDataChanged | message:SmartListDataLive | tag:FirstPageListDataHelper" />
         <option value="(tag:double_rows.side_list &amp; message:print) | message:setListDataToSideAdapter | tag:DetailFrameLayout | message:onListDataChanged | message:SmartListDataLive" />
-        <option value="tag:double_rows.side_list | message:setListDataToSideAdapter | tag:DetailFrameLayout | message:onListDataChanged | message:SmartListDataLive" />
         <option value="tag:double_rows.side_list | message:setListDataToSideAdapter | tag:DetailFrameLayout | message:onListDataChanged | message:Smart" />
         <option value="tag:double_rows.side_list | message:setListDataToSideAdapter | tag:DetailFrameLayout | message:onListDataChanged" />
         <option value="tag:double_rows.side_list | message:setListDataToSideAdapter | tag:DetailFrameLayout" />
@@ -20,9 +23,6 @@
         <option value="tag:DetailBgHelper" />
         <option value="message:double_rows" />
         <option value="message:[main" />
-        <option value="message:Data" />
-        <option value="package:mine message:onTrimMemory" />
-        <option value="package:mine message:[main" />
       </list>
     </option>
   </component>
