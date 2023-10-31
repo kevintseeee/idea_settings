@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:double_rows.side_list | message:setListDataToSideAdapter" />
+    <option name="mostRecentlyUsed" value="tag:double_rows.side_list | message:setListDataToSideAdapter | tag:DetailFrameLayout" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:double_rows.side_list | message:setListDataToSideAdapter | tag:DetailFrameLayout" />
         <option value="tag:double_rows.side_list | message:setListDataToSideAdapter" />
         <option value="tag:double_rows.side_list" />
         <option value="tag:double_rows.side_list message:printDiff" />
@@ -22,7 +23,6 @@
         <option value="package:mine message:main" />
         <option value="tag:Cache_" />
         <option value="tag:FileDiskCache_" />
-        <option value="tag:File" />
       </list>
     </option>
   </component>
