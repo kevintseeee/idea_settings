@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:switchDefinition" />
+    <option name="mostRecentlyUsed" value="tag:_TVKPlayerManager tag:_TVKPlayerWrapper" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:_TVKPlayerManager tag:_TVKPlayerWrapper" />
+        <option value="tag:_TVKPlayerManager" />
+        <option value="message:switchDe" />
         <option value="tag:switchDefinition" />
         <option value="tag:switch" />
         <option value="tag:FirstPageListDataHelper | message:SmartListDataLive" />
@@ -20,9 +23,6 @@
         <option value="message:printDiff" />
         <option value="message:t" />
         <option value="message:trim" />
-        <option value="message:snapshot" />
-        <option value="tag:DiskCache" />
-        <option value="tag:DetailBgHelper" />
       </list>
     </option>
   </component>
