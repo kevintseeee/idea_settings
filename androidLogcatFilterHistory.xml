@@ -1,8 +1,21 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:SmallWindowTipsView" />
+    <option name="mostRecentlyUsed" value="package:mine message:onTrimMemory" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:onTrimMemory" />
+        <option value="package:mine message:[main" />
+        <option value="package:mine " />
+        <option value="package:mine message:poster_show_tag_on_focus" />
+        <option value="package:mine message:main" />
+        <option value="tag:Cache_" />
+        <option value="tag:FileDiskCache_" />
+        <option value="tag:File" />
+        <option value="tag:" />
+        <option value="package:mine message:snapshot/" />
+        <option value="tag:CoverDetailRootModel_ " />
+        <option value="tag:CoverDetailRootModel_ | message:snapshot" />
+        <option value="tag:CoverDetailRootModel_" />
         <option value="tag:SmallWindowTipsView" />
         <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter | message:setCurListData" />
         <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter | message:set" />
@@ -10,19 +23,6 @@
         <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setList " />
         <option value="message:printDiffResult" />
         <option value="message:printD" />
-        <option value="message~:KtcpPool_ComputationThread.+validateCallback" />
-        <option value="message:validateCallback" />
-        <option value="message:SELECT" />
-        <option value="tag:Search" />
-        <option value="message:SmartListDataLive | message:setListDataToSideAdapter" />
-        <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) " />
-        <option value="package:mine " />
-        <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) | tag:CoverDetailRootModel_ | message:migrateFirstPageUnitId" />
-        <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) | tag:CoverDetailRootModel_ | tag:FirstPageListDataHelper" />
-        <option value="(message:SmartListDataLive | message:setListDataToSideAdapter) | tag:CoverDetailRootModel_" />
-        <option value="message:SmartListDataLive | message:setListData" />
-        <option value="message:SmartListDataLive" />
-        <option value="message:Smar" />
       </list>
     </option>
   </component>
