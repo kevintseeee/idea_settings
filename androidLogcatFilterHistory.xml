@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message~:putSync.+\[d\]" />
+    <option name="mostRecentlyUsed" value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message~:putSync" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message~:putSync" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message~:putSync.+\[d\]" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message:putSync" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message:put" />
@@ -22,7 +23,6 @@
         <option value="tag:double_rows.side_list | message:setListDataToSideAdapter | tag:DetailFrameLayout | message:onListDataChanged | message:SmartListDataLive" />
         <option value="tag:FirstPageListDataHelper" />
         <option value="(tag:double_rows.side_list &amp; message:print) | message:setListDataToSideAdapter | tag:DetailFrameLayout | message:onListDataChanged | message:SmartListDataLive | tag:FirstPageListDataHelper" />
-        <option value="(tag:double_rows.side_list &amp; message:print) | message:setListDataToSideAdapter | tag:DetailFrameLayout | message:onListDataChanged | message:SmartListDataLive" />
       </list>
     </option>
   </component>
