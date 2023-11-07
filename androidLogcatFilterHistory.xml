@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:LoadRequest | tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
+    <option name="mostRecentlyUsed" value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
         <option value="tag:LoadRequest | tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
         <option value="tag:LoadRequest | tag:MMKVDiskCache_" />
         <option value="tag:LoadRequest" />
@@ -22,7 +23,6 @@
         <option value="tag:double_rows.side_list | message:setListDataToSideAdapter | tag:DetailFrameLayout | message:onListDataChanged" />
         <option value="tag:double_rows.side_list | message:setListDataToSideAdapter | tag:DetailFrameLayout" />
         <option value="tag:double_rows.side_list | message:setListDataToSideAdapter" />
-        <option value="tag:double_rows.side_list" />
       </list>
     </option>
   </component>
