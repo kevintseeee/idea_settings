@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:_TVKPlayerManager tag:_TVKPlayerWrapper" />
+    <option name="mostRecentlyUsed" value="tag:LoadRequest | tag:VMExposePrefetch" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:LoadRequest | tag:VMExposePrefetch" />
+        <option value="tag:LoadRequest" />
         <option value="tag:_TVKPlayerManager tag:_TVKPlayerWrapper" />
         <option value="tag:_TVKPlayerManager" />
         <option value="message:switchDe" />
@@ -21,8 +23,6 @@
         <option value="tag:double_rows.side_list" />
         <option value="tag:double_rows.side_list message:printDiff" />
         <option value="message:printDiff" />
-        <option value="message:t" />
-        <option value="message:trim" />
       </list>
     </option>
   </component>
