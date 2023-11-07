@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
+    <option name="mostRecentlyUsed" value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message~:putSync.+\[d\]" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message~:putSync.+\[d\]" />
+        <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message:putSync" />
+        <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message:put" />
+        <option value="tag:MMKVDiskCache" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
         <option value="tag:LoadRequest | tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
         <option value="tag:LoadRequest | tag:MMKVDiskCache_" />
@@ -19,10 +23,6 @@
         <option value="tag:FirstPageListDataHelper" />
         <option value="(tag:double_rows.side_list &amp; message:print) | message:setListDataToSideAdapter | tag:DetailFrameLayout | message:onListDataChanged | message:SmartListDataLive | tag:FirstPageListDataHelper" />
         <option value="(tag:double_rows.side_list &amp; message:print) | message:setListDataToSideAdapter | tag:DetailFrameLayout | message:onListDataChanged | message:SmartListDataLive" />
-        <option value="tag:double_rows.side_list | message:setListDataToSideAdapter | tag:DetailFrameLayout | message:onListDataChanged | message:Smart" />
-        <option value="tag:double_rows.side_list | message:setListDataToSideAdapter | tag:DetailFrameLayout | message:onListDataChanged" />
-        <option value="tag:double_rows.side_list | message:setListDataToSideAdapter | tag:DetailFrameLayout" />
-        <option value="tag:double_rows.side_list | message:setListDataToSideAdapter" />
       </list>
     </option>
   </component>
