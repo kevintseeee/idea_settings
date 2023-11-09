@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:setListDataToSideAdapter | tag:TVViewModelFactory" />
+    <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash " />
         <option value="message:setListDataToSideAdapter | tag:TVViewModelFactory" />
         <option value="message:setListDataToSideAdapter" />
         <option value="message:setListDataToSideAdapter\ bottom:" />
@@ -22,7 +23,6 @@
         <option value="tag:LoadRequest | tag:VMExposePrefetch" />
         <option value="tag:_TVKPlayerManager tag:_TVKPlayerWrapper" />
         <option value="tag:_TVKPlayerManager" />
-        <option value="message:switchDe" />
       </list>
     </option>
   </component>
