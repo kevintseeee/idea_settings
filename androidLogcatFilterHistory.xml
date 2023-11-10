@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  tag:" />
+    <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine  tag:" />
-        <option value="package:mine  tag:CoverDeta message:printDiffResult message:setListDataToAdapter tag:NewArchDetail" />
-        <option value="package:mine message:printDiffResult message:setListDataToAdapter tag:NewArchDetail tag:CoverDetailRootModel_" />
-        <option value="package:mine message:printDiffResult message:setListDataToAdapter tag:NewArchDetail message:onSuccess" />
-        <option value="package:mine message:printDiffResult message:setListDataToAdapter tag:NewArchDetail" />
-        <option value="package:mine message:printDiffResult message:setListDataToAdapter tag:" />
-        <option value="package:mine message:printDiffResult message:setListDataToAdapter" />
-        <option value="package:mine message:printDiffResult message:" />
-        <option value="package:mine message:printDiffResult" />
-        <option value="package:mine (message:printDiffResult)" />
-        <option value="package:mine -message:" />
-        <option value="package:mine setListDataToAdapter" />
-        <option value="set" />
-        <option value="level:error " />
-        <option value="OperatorHandler" />
-        <option value="is:crash is:stacktrace " />
-        <option value="package:mine" />
-        <option value="package:mine tag~:CoverDetailRootModel_" />
-        <option value="package:mine message:using loader message:window" />
-        <option value="package:mine message~:using loader|windowFocus" />
+        <option value="is:crash " />
+        <option value="message:setListDataToSideAdapter | tag:TVViewModelFactory" />
+        <option value="message:setListDataToSideAdapter" />
+        <option value="message:setListDataToSideAdapter\ bottom:" />
+        <option value="message:setListDataToSideAdapter bottom:" />
+        <option value="message:oUrl" />
+        <option value="message:setListDataToSideAdapter\ bottom" />
+        <option value="message:9055" />
+        <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message~:putSync" />
+        <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message~:putSync.+\[d\]" />
+        <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message:putSync" />
+        <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message:put" />
+        <option value="tag:MMKVDiskCache" />
+        <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
+        <option value="tag:LoadRequest | tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
+        <option value="tag:LoadRequest | tag:MMKVDiskCache_" />
+        <option value="tag:LoadRequest" />
+        <option value="tag:LoadRequest | tag:VMExposePrefetch" />
+        <option value="tag:_TVKPlayerManager tag:_TVKPlayerWrapper" />
+        <option value="tag:_TVKPlayerManager" />
       </list>
     </option>
   </component>
