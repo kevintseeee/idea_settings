@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ChoreographerMonitor" />
+    <option name="mostRecentlyUsed" value="message:saveForReport" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:ChoreographerMonitor" />
         <option value="message:saveForReport" />
+        <option value="tag:ChoreographerMonitor" />
         <option value="is:crash " />
         <option value="message:setListDataToSideAdapter | tag:TVViewModelFactory" />
         <option value="message:setListDataToSideAdapter" />
