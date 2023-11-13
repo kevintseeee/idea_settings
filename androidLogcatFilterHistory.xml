@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:saveForReport" />
+    <option name="mostRecentlyUsed" value="tag:ChoreographerMonitor" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ChoreographerMonitor" />
         <option value="message:saveForReport" />
         <option value="is:crash " />
         <option value="message:setListDataToSideAdapter | tag:TVViewModelFactory" />
@@ -22,7 +23,6 @@
         <option value="tag:LoadRequest | tag:MMKVDiskCache_" />
         <option value="tag:LoadRequest" />
         <option value="tag:LoadRequest | tag:VMExposePrefetch" />
-        <option value="tag:_TVKPlayerManager tag:_TVKPlayerWrapper" />
       </list>
     </option>
   </component>
