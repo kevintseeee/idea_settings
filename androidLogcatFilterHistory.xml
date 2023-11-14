@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:saveForReport" />
+    <option name="mostRecentlyUsed" value="tag:DetailBgHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DetailBgHelper" />
+        <option value="tag:TvDevIdManager" />
+        <option value="package:mine " />
         <option value="message:saveForReport" />
         <option value="tag:ChoreographerMonitor" />
         <option value="is:crash " />
@@ -20,9 +23,6 @@
         <option value="tag:MMKVDiskCache" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
         <option value="tag:LoadRequest | tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
-        <option value="tag:LoadRequest | tag:MMKVDiskCache_" />
-        <option value="tag:LoadRequest" />
-        <option value="tag:LoadRequest | tag:VMExposePrefetch" />
       </list>
     </option>
   </component>
