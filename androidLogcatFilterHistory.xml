@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DetailBgHelper" />
+    <option name="mostRecentlyUsed" value="message:mergeButtons | tag:HeaderFuncBtnListViewModel_" />
     <option name="nonFavorites">
       <list>
+        <option value="message:mergeButtons | tag:HeaderFuncBtnListViewModel_" />
+        <option value="message:mergeButtons" />
+        <option value="tag:ConstantsAndUtils " />
         <option value="tag:DetailBgHelper" />
         <option value="tag:TvDevIdManager" />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message~:putSync.+\[d\]" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message:putSync" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message:put" />
-        <option value="tag:MMKVDiskCache" />
-        <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
-        <option value="tag:LoadRequest | tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT" />
       </list>
     </option>
   </component>
