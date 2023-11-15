@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:mergeButtons | tag:HeaderFuncBtnListViewModel_" />
+    <option name="mostRecentlyUsed" value="tag:PayPanelViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PayPanelViewModel" />
         <option value="message:mergeButtons | tag:HeaderFuncBtnListViewModel_" />
         <option value="message:mergeButtons" />
         <option value="tag:ConstantsAndUtils " />
@@ -22,7 +23,6 @@
         <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message~:putSync" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message~:putSync.+\[d\]" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message:putSync" />
-        <option value="tag:MMKVDiskCache_COVER_PAGE_SNAPSHOT message:put" />
       </list>
     </option>
   </component>
