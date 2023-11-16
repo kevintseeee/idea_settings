@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:HiveView@ " />
+    <option name="mostRecentlyUsed" value="tag:MMKVDiskCache" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MMKVDiskCache" />
+        <option value="tag:Cache_" />
         <option value="tag:HiveView@ " />
         <option value="tag:HiveView@ message:setAlpha" />
         <option value="tag:HiveView@ message:" />
@@ -21,8 +23,6 @@
         <option value="message:setListDataToSideAdapter" />
         <option value="message:setListDataToSideAdapter\ bottom:" />
         <option value="message:setListDataToSideAdapter bottom:" />
-        <option value="message:oUrl" />
-        <option value="message:setListDataToSideAdapter\ bottom" />
       </list>
     </option>
   </component>
