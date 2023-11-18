@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine message:onTrimMemory" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TVMediaPlayerAdController " />
         <option value="package:mine message:onTrimMemory" />
         <option value="package:mine message:[main" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter " />
         <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setList " />
         <option value="message:printDiffResult" />
-        <option value="message:printD" />
       </list>
     </option>
   </component>
