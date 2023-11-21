@@ -1,9 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message~:saveForReport.+landing_" />
+    <option name="mostRecentlyUsed" value="message~:saveForReport.+landing_ | tag:BoxBuilder" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:saveForReport.+landing_ | tag:BoxBuilder" />
+        <option value="message~:saveForReport.+landing_ | tag:Box" />
+        <option value="message~:saveForReport.+landing_tag:Box" />
         <option value="message~:saveForReport.+landing_" />
+        <option value="tag:Box" />
         <option value="message~:saveForReport.+landing_ | message:handleAsyncBuild" />
         <option value="message:saveForReport" />
         <option value="tag:Box@ | (tag:MMKVDiskCache_ &amp; message:mzc0020061cz2lp)" />
@@ -19,10 +23,6 @@
         <option value="tag:HiveView@ " />
         <option value="tag:HiveView@ message:setAlpha" />
         <option value="tag:HiveView@ message:" />
-        <option value="tag:HiveView@" />
-        <option value="tag:PayPanelViewModel" />
-        <option value="message:mergeButtons | tag:HeaderFuncBtnListViewModel_" />
-        <option value="message:mergeButtons" />
       </list>
     </option>
   </component>
