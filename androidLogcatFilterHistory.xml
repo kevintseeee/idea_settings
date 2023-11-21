@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Box@" />
+    <option name="mostRecentlyUsed" value="tag:Box@ tag:MMKVDiskCache" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Box@ tag:MMKVDiskCache" />
         <option value="tag:Box@" />
         <option value="tag:CoverPageTitleViewModel" />
         <option value="tag:HeaderPreloadTask" />
@@ -22,7 +23,6 @@
         <option value="message:saveForReport" />
         <option value="tag:ChoreographerMonitor" />
         <option value="is:crash " />
-        <option value="message:setListDataToSideAdapter | tag:TVViewModelFactory" />
       </list>
     </option>
   </component>
