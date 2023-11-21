@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Box@ | (tag:MMKVDiskCache_ &amp; message:mzc0020061cz2lp)" />
+    <option name="mostRecentlyUsed" value="message~:saveForReport.+landing_" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:saveForReport.+landing_" />
+        <option value="message:saveForReport" />
         <option value="tag:Box@ | (tag:MMKVDiskCache_ &amp; message:mzc0020061cz2lp)" />
         <option value="tag:Box@ tag:MMKVDiskCache_" />
         <option value="tag:Box@ tag:MMKV " />
@@ -21,8 +23,6 @@
         <option value="message:mergeButtons | tag:HeaderFuncBtnListViewModel_" />
         <option value="message:mergeButtons" />
         <option value="tag:ConstantsAndUtils " />
-        <option value="tag:DetailBgHelper" />
-        <option value="tag:TvDevIdManager" />
       </list>
     </option>
   </component>
