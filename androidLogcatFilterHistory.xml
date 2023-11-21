@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:guid" />
+    <option name="mostRecentlyUsed" value="tag:Box@ tag:MMKVDiskCache_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Box@ tag:MMKVDiskCache_" />
+        <option value="tag:Box@ tag:MMKV " />
         <option value="package:mine message:guid" />
         <option value="tag:Box@" />
         <option value="tag:Box@ tag:MMKVDiskCache" />
@@ -21,8 +23,6 @@
         <option value="tag:DetailBgHelper" />
         <option value="tag:TvDevIdManager" />
         <option value="package:mine " />
-        <option value="message:saveForReport" />
-        <option value="tag:ChoreographerMonitor" />
       </list>
     </option>
   </component>
