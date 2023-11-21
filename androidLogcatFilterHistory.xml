@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message~:saveForReport.+landing_ | tag:BoxBuilder" />
+    <option name="mostRecentlyUsed" value="tag:HeaderPreloadTask" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:HeaderPreloadTask" />
         <option value="message~:saveForReport.+landing_ | tag:BoxBuilder" />
         <option value="message~:saveForReport.+landing_ | tag:Box" />
         <option value="message~:saveForReport.+landing_tag:Box" />
@@ -17,7 +18,6 @@
         <option value="tag:Box@" />
         <option value="tag:Box@ tag:MMKVDiskCache" />
         <option value="tag:CoverPageTitleViewModel" />
-        <option value="tag:HeaderPreloadTask" />
         <option value="tag:MMKVDiskCache" />
         <option value="tag:Cache_" />
         <option value="tag:HiveView@ " />
