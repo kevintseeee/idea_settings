@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="message~:saveForReport.+landing_" />
+        <option value="message~:saveForReport.+landing_ | message:handleAsyncBuild" />
         <option value="message:saveForReport" />
         <option value="tag:Box@ | (tag:MMKVDiskCache_ &amp; message:mzc0020061cz2lp)" />
         <option value="tag:Box@ tag:MMKVDiskCache_" />
@@ -22,7 +23,6 @@
         <option value="tag:PayPanelViewModel" />
         <option value="message:mergeButtons | tag:HeaderFuncBtnListViewModel_" />
         <option value="message:mergeButtons" />
-        <option value="tag:ConstantsAndUtils " />
       </list>
     </option>
   </component>
