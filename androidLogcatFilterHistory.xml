@@ -3,11 +3,11 @@
     <option name="mostRecentlyUsed" value="tag:HeaderPreloadTask" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:saveForReport.+landing_" />
         <option value="tag:HeaderPreloadTask" />
         <option value="message~:saveForReport.+landing_ | tag:BoxBuilder" />
         <option value="message~:saveForReport.+landing_ | tag:Box" />
         <option value="message~:saveForReport.+landing_tag:Box" />
-        <option value="message~:saveForReport.+landing_" />
         <option value="tag:Box" />
         <option value="message~:saveForReport.+landing_ | message:handleAsyncBuild" />
         <option value="message:saveForReport" />
