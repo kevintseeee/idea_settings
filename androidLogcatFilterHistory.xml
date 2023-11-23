@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:HeaderPreloadTask" />
+    <option name="mostRecentlyUsed" value="tag:TENCENT_AD_ " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TENCENT_AD_ " />
         <option value="message~:saveForReport.+landing_" />
         <option value="tag:HeaderPreloadTask" />
         <option value="message~:saveForReport.+landing_ | tag:BoxBuilder" />
@@ -22,7 +23,6 @@
         <option value="tag:Cache_" />
         <option value="tag:HiveView@ " />
         <option value="tag:HiveView@ message:setAlpha" />
-        <option value="tag:HiveView@ message:" />
       </list>
     </option>
   </component>
