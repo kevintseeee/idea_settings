@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TENCENT_AD_ " />
+    <option name="mostRecentlyUsed" value="message:setAnchorRect | message:setPlayerData" />
     <option name="nonFavorites">
       <list>
+        <option value="message:setAnchorRect | message:setPlayerData" />
+        <option value="message:setAnchorRect | message:" />
+        <option value="message:setPlayerData" />
+        <option value="message:single_line" />
+        <option value="tag:SingleLine" />
+        <option value="tag:SingleLinePlayerViewModel" />
+        <option value="message:onFragmentSelected\ position" />
+        <option value="message:onFragmentSelected position" />
         <option value="tag:TENCENT_AD_ " />
         <option value="message~:saveForReport.+landing_" />
         <option value="tag:HeaderPreloadTask" />
@@ -15,14 +23,6 @@
         <option value="tag:Box@ | (tag:MMKVDiskCache_ &amp; message:mzc0020061cz2lp)" />
         <option value="tag:Box@ tag:MMKVDiskCache_" />
         <option value="tag:Box@ tag:MMKV " />
-        <option value="package:mine message:guid" />
-        <option value="tag:Box@" />
-        <option value="tag:Box@ tag:MMKVDiskCache" />
-        <option value="tag:CoverPageTitleViewModel" />
-        <option value="tag:MMKVDiskCache" />
-        <option value="tag:Cache_" />
-        <option value="tag:HiveView@ " />
-        <option value="tag:HiveView@ message:setAlpha" />
       </list>
     </option>
   </component>
