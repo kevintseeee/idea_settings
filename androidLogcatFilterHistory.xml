@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="tag:box" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:box" />
         <option value="is:stacktrace " />
+        <option value="tag:box" />
         <option value="message:forceLayout | message:requestLayout" />
         <option value="message:forceLayout" />
         <option value="message:setAnchorRect | message:setPlayerData" />
