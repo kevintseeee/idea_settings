@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="tag:box" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:box" />
         <option value="is:stacktrace " />
         <option value="message:forceLayout | message:requestLayout" />
         <option value="message:forceLayout" />
@@ -22,7 +23,6 @@
         <option value="message~:saveForReport.+landing_tag:Box" />
         <option value="tag:Box" />
         <option value="message~:saveForReport.+landing_ | message:handleAsyncBuild" />
-        <option value="message:saveForReport" />
       </list>
     </option>
   </component>
