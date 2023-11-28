@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:forceLayout | message:requestLayout" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="message:forceLayout | message:requestLayout" />
         <option value="message:forceLayout" />
         <option value="message:setAnchorRect | message:setPlayerData" />
@@ -22,7 +23,6 @@
         <option value="tag:Box" />
         <option value="message~:saveForReport.+landing_ | message:handleAsyncBuild" />
         <option value="message:saveForReport" />
-        <option value="tag:Box@ | (tag:MMKVDiskCache_ &amp; message:mzc0020061cz2lp)" />
       </list>
     </option>
   </component>
