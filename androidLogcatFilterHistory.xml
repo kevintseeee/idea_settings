@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Box" />
+    <option name="mostRecentlyUsed" value="tag:Box | message:handleUnitAsyncBuild" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Box | message:handleUnitAsyncBuild" />
         <option value="tag:Box" />
         <option value="message:setPlayerData" />
         <option value="tag:ReportAction" />
@@ -22,7 +23,6 @@
         <option value="tag:HeaderPreloadTask" />
         <option value="message~:saveForReport.+landing_ | tag:BoxBuilder" />
         <option value="message~:saveForReport.+landing_ | tag:Box" />
-        <option value="message~:saveForReport.+landing_tag:Box" />
       </list>
     </option>
   </component>
