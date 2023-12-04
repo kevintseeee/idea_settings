@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer" />
+    <option name="mostRecentlyUsed" value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer | (tag:TV-TRACE &amp; message~:ReportAction.+scene_jump_detail_page_fully_display_v2) " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer | (tag:TV-TRACE &amp; message~:ReportAction.+scene_jump_detail_page_fully_display_v2) " />
+        <option value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer | (tag:TV-TRACE &amp; message:ReportAction) " />
+        <option value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer | tag:TV-TRACE " />
         <option value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer" />
         <option value="tag:Box | message:handleUnitAsyncBuild" />
         <option value="is:stacktrace " />
@@ -20,9 +23,6 @@
         <option value="message:onFragmentSelected\ position" />
         <option value="message:onFragmentSelected position" />
         <option value="tag:TENCENT_AD_ " />
-        <option value="message~:saveForReport.+landing_" />
-        <option value="tag:HeaderPreloadTask" />
-        <option value="message~:saveForReport.+landing_ | tag:BoxBuilder" />
       </list>
     </option>
   </component>
