@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Box | message:handleUnitAsyncBuild" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="tag:Box | message:handleUnitAsyncBuild" />
         <option value="tag:Box" />
         <option value="message:setPlayerData" />
         <option value="tag:ReportAction" />
-        <option value="is:stacktrace " />
         <option value="tag:box" />
         <option value="message:forceLayout | message:requestLayout" />
         <option value="message:forceLayout" />
