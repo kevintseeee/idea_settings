@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ReportAction" />
+    <option name="mostRecentlyUsed" value="message:setPlayerData" />
     <option name="nonFavorites">
       <list>
+        <option value="message:setPlayerData" />
         <option value="tag:ReportAction" />
         <option value="tag:Box" />
         <option value="is:stacktrace " />
@@ -11,7 +12,6 @@
         <option value="message:forceLayout" />
         <option value="message:setAnchorRect | message:setPlayerData" />
         <option value="message:setAnchorRect | message:" />
-        <option value="message:setPlayerData" />
         <option value="message:single_line" />
         <option value="tag:SingleLine" />
         <option value="tag:SingleLinePlayerViewModel" />
