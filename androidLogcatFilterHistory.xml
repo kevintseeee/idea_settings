@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:setListDataToAdapter" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="message:setListDataToAdapter" />
         <option value="message:SmartListDataLive" />
         <option value="tag:SmartListDataLive" />
@@ -17,7 +18,6 @@
         <option value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer | (tag:TV-TRACE &amp; message:ReportAction) " />
         <option value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer | tag:TV-TRACE " />
         <option value="tag:Box | message:handleUnitAsyncBuild" />
-        <option value="is:stacktrace " />
         <option value="tag:Box" />
         <option value="message:setPlayerData" />
         <option value="tag:ReportAction" />
