@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:SmartListDataLive" />
+    <option name="mostRecentlyUsed" value="message:setListDataToAdapter" />
     <option name="nonFavorites">
       <list>
+        <option value="message:setListDataToAdapter" />
         <option value="message:SmartListDataLive" />
         <option value="tag:SmartListDataLive" />
         <option value="tag:TV-TRACE message:ReportAction" />
@@ -22,7 +23,6 @@
         <option value="tag:ReportAction" />
         <option value="tag:box" />
         <option value="message:forceLayout | message:requestLayout" />
-        <option value="message:forceLayout" />
       </list>
     </option>
   </component>
