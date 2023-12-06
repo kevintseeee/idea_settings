@@ -1,12 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer | (tag:TV-TRACE &amp; message~:ReportAction.+scene_jump_detail_page_fully_display_v2) " />
+    <option name="mostRecentlyUsed" value="message:SmartListDataLive" />
     <option name="nonFavorites">
       <list>
+        <option value="message:SmartListDataLive" />
+        <option value="tag:SmartListDataLive" />
+        <option value="tag:TV-TRACE message:ReportAction" />
+        <option value="tag:TV-TRACE" />
+        <option value="tag:TV-" />
+        <option value="tag:UnitVideoDataListModel_ | tag:CachedModelRefreshHelper | tag:CoverDetailRootModel_" />
+        <option value="tag:UnitVideoDataListModel_ | tag:CachedModelRefreshHelper" />
+        <option value="tag:UnitVideoDataListModel_" />
+        <option value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer" />
         <option value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer | (tag:TV-TRACE &amp; message~:ReportAction.+scene_jump_detail_page_fully_display_v2) " />
         <option value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer | (tag:TV-TRACE &amp; message:ReportAction) " />
         <option value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer | tag:TV-TRACE " />
-        <option value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer" />
         <option value="tag:Box | message:handleUnitAsyncBuild" />
         <option value="is:stacktrace " />
         <option value="tag:Box" />
@@ -15,14 +23,6 @@
         <option value="tag:box" />
         <option value="message:forceLayout | message:requestLayout" />
         <option value="message:forceLayout" />
-        <option value="message:setAnchorRect | message:setPlayerData" />
-        <option value="message:setAnchorRect | message:" />
-        <option value="message:single_line" />
-        <option value="tag:SingleLine" />
-        <option value="tag:SingleLinePlayerViewModel" />
-        <option value="message:onFragmentSelected\ position" />
-        <option value="message:onFragmentSelected position" />
-        <option value="tag:TENCENT_AD_ " />
       </list>
     </option>
   </component>
