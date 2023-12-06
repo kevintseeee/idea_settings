@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="tag:MMKVDiskCache_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MMKVDiskCache_" />
         <option value="is:stacktrace " />
         <option value="message:setListDataToAdapter" />
         <option value="message:SmartListDataLive" />
@@ -22,7 +23,6 @@
         <option value="message:setPlayerData" />
         <option value="tag:ReportAction" />
         <option value="tag:box" />
-        <option value="message:forceLayout | message:requestLayout" />
       </list>
     </option>
   </component>
