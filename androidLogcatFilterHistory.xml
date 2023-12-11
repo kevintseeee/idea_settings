@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:onTrimMemory" />
+    <option name="mostRecentlyUsed" value="tag:MMKVDiskCache_" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:TVMediaPlayerAdController " />
-        <option value="package:mine message:onTrimMemory" />
-        <option value="package:mine message:[main" />
-        <option value="package:mine " />
-        <option value="package:mine message:poster_show_tag_on_focus" />
-        <option value="package:mine message:main" />
-        <option value="tag:Cache_" />
-        <option value="tag:FileDiskCache_" />
-        <option value="tag:File" />
-        <option value="tag:" />
-        <option value="package:mine message:snapshot/" />
-        <option value="tag:CoverDetailRootModel_ " />
-        <option value="tag:CoverDetailRootModel_ | message:snapshot" />
-        <option value="tag:CoverDetailRootModel_" />
-        <option value="tag:SmallWindowTipsView" />
-        <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter | message:setCurListData" />
-        <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter | message:set" />
-        <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setListDataToSideAdapter " />
-        <option value="(tag=:double_rows.side_list &amp; message:printDiffResult) | message:setList " />
-        <option value="message:printDiffResult" />
+        <option value="tag:MMKVDiskCache_" />
+        <option value="is:stacktrace " />
+        <option value="message:setListDataToAdapter" />
+        <option value="message:SmartListDataLive" />
+        <option value="tag:SmartListDataLive" />
+        <option value="tag:TV-TRACE message:ReportAction" />
+        <option value="tag:TV-TRACE" />
+        <option value="tag:TV-" />
+        <option value="tag:UnitVideoDataListModel_ | tag:CachedModelRefreshHelper | tag:CoverDetailRootModel_" />
+        <option value="tag:UnitVideoDataListModel_ | tag:CachedModelRefreshHelper" />
+        <option value="tag:UnitVideoDataListModel_" />
+        <option value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer" />
+        <option value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer | (tag:TV-TRACE &amp; message~:ReportAction.+scene_jump_detail_page_fully_display_v2) " />
+        <option value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer | (tag:TV-TRACE &amp; message:ReportAction) " />
+        <option value="tag:Box | message:handleUnitAsyncBuild | tag:BoxViewContainer | tag:TV-TRACE " />
+        <option value="tag:Box | message:handleUnitAsyncBuild" />
+        <option value="tag:Box" />
+        <option value="message:setPlayerData" />
+        <option value="tag:ReportAction" />
+        <option value="tag:box" />
       </list>
     </option>
   </component>
