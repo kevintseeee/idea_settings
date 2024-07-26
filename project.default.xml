@@ -1,26 +1,25 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="CheckStyle-IDEA">
-        <option name="configuration">
-          <map>
-            <entry key="active-configuration" value="LOCAL_FILE:/Users/kevinrhxie/Downloads/tencent_checks.xml:Tencent Checks" />
-            <entry key="checkstyle-version" value="8.37" />
-            <entry key="copy-libs" value="false" />
-            <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
-            <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
-            <entry key="location-2" value="LOCAL_FILE:/Users/kevinrhxie/Downloads/tencent_checks.xml:Tencent Checks" />
-            <entry key="property-2.org.checkstyle.google.suppressionfilter.config" value="" />
-            <entry key="property-2.org.checkstyle.google.suppressionxpathfilter.config" value="" />
-            <entry key="scan-before-checkin" value="false" />
-            <entry key="scanscope" value="JavaOnly" />
-            <entry key="suppress-errors" value="false" />
-          </map>
-        </option>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1722017843106</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1722017843106</updated>
+        </task>
+        <servers />
       </component>
-      <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="/Volumes/Workspace/Android/android-sdk-macos" />
-        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+      <component name="WindowStateProjectService">
+        <state x="409" y="166" key="SettingsEditor" timestamp="1722017901952">
+          <screen x="0" y="44" width="1800" height="1125" />
+        </state>
+        <state x="409" y="166" key="SettingsEditor/0.44.1800.1125" timestamp="1722017901952" />
       </component>
     </defaultProject>
   </component>
