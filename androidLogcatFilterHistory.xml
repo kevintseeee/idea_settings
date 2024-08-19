@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
-        <option value="level:error " />
         <option value="tag:MultiTabPlaylistModule | tag:MultiTabPlaylistMenuView" />
+        <option value="level:error " />
         <option value="tag:MultiTabsVideoListViewModel" />
         <option value="tag:UnitVideoDataListModel_" />
         <option value="tag:MultiTabPlaylistModule tag:UnitVideoDataListModel" />
