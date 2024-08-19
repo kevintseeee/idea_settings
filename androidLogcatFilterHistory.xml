@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MultiTabPlaylistModule | tag:ContainerSectionEntity | tag:VirtualSectionEntity" />
+    <option name="mostRecentlyUsed" value="tag:MultiTabPlaylistModule tag:UnitVideoDataListModel" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MultiTabPlaylistModule tag:UnitVideoDataListModel" />
         <option value="tag:MultiTabPlaylistModule | tag:ContainerSectionEntity | tag:VirtualSectionEntity" />
+        <option value="level:error " />
         <option value="tag:UnitVideoDataListModel_" />
         <option value="tag:NewUnifiedPlayController | tag:UnitVideoDataListModel_" />
         <option value="tag:NewUnifiedPlayController" />
@@ -15,9 +17,7 @@
         <option value="tag:MultiTabPlaylistModule | tag:PlaylistModule" />
         <option value="tag:MultiTabPlaylistModule | message:updateCurrentPlayingPlaylist" />
         <option value="tag:" />
-        <option value="level:error " />
         <option value="tag:MultiTabPlaylistModule tag:UnitVideoDataListModel tag:" />
-        <option value="tag:MultiTabPlaylistModule tag:UnitVideoDataListModel" />
         <option value="tag:MultiTabPlaylistReceiver tag:UnitVideoDataListModel" />
         <option value="tag:MultiTabPlaylistReceiver" />
         <option value="tag:MenuDataModule" />
