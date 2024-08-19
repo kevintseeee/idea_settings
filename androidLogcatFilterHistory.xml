@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:UnitVideoDataListModelWrapper_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:UnitVideoDataListModelWrapper_" />
+        <option value="tag:PlaylistImp_" />
         <option value="tag:MultiTabPlaylistModule | tag:MultiTabPlaylistMenuView" />
         <option value="level:error " />
         <option value="tag:MultiTabsVideoListViewModel" />
@@ -21,8 +23,6 @@
         <option value="tag:MultiTabPlaylistModule tag:UnitVideoDataListModel tag:" />
         <option value="tag:MultiTabPlaylistReceiver tag:UnitVideoDataListModel" />
         <option value="tag:MultiTabPlaylistReceiver" />
-        <option value="tag:MenuDataModule" />
-        <option value="message~:oUrl.+video_play" />
       </list>
     </option>
   </component>
