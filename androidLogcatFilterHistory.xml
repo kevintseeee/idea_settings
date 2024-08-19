@@ -3,9 +3,10 @@
     <option name="mostRecentlyUsed" value="tag:MultiTabPlaylistModule | tag:ContainerSectionEntity | tag:VirtualSectionEntity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MultiTabPlaylistModule | tag:ContainerSectionEntity | tag:VirtualSectionEntity" />
+        <option value="tag:UnitVideoDataListModel_" />
         <option value="tag:NewUnifiedPlayController | tag:UnitVideoDataListModel_" />
         <option value="tag:NewUnifiedPlayController" />
-        <option value="tag:MultiTabPlaylistModule | tag:ContainerSectionEntity | tag:VirtualSectionEntity" />
         <option value="is:stacktrace " />
         <option value="tag:MultiTabPlaylistModule | tag:ContainerSectionEntity" />
         <option value="tag:MultiTabPlaylistModule | tag:Entity" />
