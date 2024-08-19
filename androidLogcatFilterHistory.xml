@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MultiTabPlaylistModule | tag:MultiTabPlaylistMenuView" />
+    <option name="mostRecentlyUsed" value="tag:MultiTabPlaylistModule" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:MultiTabPlaylistModule | tag:MultiTabPlaylistMenuView" />
         <option value="tag:MultiTabPlaylistModule" />
+        <option value="tag:MultiTabPlaylistModule | tag:MultiTabPlaylistMenuView" />
         <option value="tag:MultiTabPlaylistModule | tag:PlaylistModule" />
         <option value="tag:MultiTabPlaylistModule | message:updateCurrentPlayingPlaylist" />
         <option value="tag:" />
