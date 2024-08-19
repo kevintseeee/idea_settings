@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:UnitVideoDataListModelWrapper_" />
+    <option name="mostRecentlyUsed" value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo | tag:DetailCoverFullPlayModel | tag:DetailCoverFullInfoMode | tag:DetailCoverFullRootDM" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo | tag:DetailCoverFullPlayModel | tag:DetailCoverFullInfoMode | tag:DetailCoverFullRootDM" />
+        <option value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo | tag:DetailCoverFullPlayModel | tag:DetailCoverFullInfoMode | tag:" />
+        <option value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo | tag:DetailCoverFullPlayModel | tag:DetailCoverFullInfoMode" />
+        <option value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo | tag:DetailCoverFullPlayModel" />
+        <option value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo " />
+        <option value="message:&quot;openMediaPlayer: current&quot;" />
+        <option value="message:openMediaPlayer" />
         <option value="tag:UnitVideoDataListModelWrapper_" />
         <option value="tag:PlaylistImp_" />
         <option value="tag:MultiTabPlaylistModule | tag:MultiTabPlaylistMenuView" />
@@ -16,13 +23,6 @@
         <option value="is:stacktrace " />
         <option value="tag:MultiTabPlaylistModule | tag:ContainerSectionEntity" />
         <option value="tag:MultiTabPlaylistModule | tag:Entity" />
-        <option value="tag:MultiTabPlaylistModule" />
-        <option value="tag:MultiTabPlaylistModule | tag:PlaylistModule" />
-        <option value="tag:MultiTabPlaylistModule | message:updateCurrentPlayingPlaylist" />
-        <option value="tag:" />
-        <option value="tag:MultiTabPlaylistModule tag:UnitVideoDataListModel tag:" />
-        <option value="tag:MultiTabPlaylistReceiver tag:UnitVideoDataListModel" />
-        <option value="tag:MultiTabPlaylistReceiver" />
       </list>
     </option>
   </component>
