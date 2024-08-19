@@ -1,0 +1,10 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="message~:oUrl.+video_play" />
+    <option name="nonFavorites">
+      <list>
+        <option value="message~:oUrl.+video_play" />
+      </list>
+    </option>
+  </component>
+</application>
