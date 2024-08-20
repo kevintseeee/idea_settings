@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot;" />
+    <option name="mostRecentlyUsed" value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot; | tag:FullScreenInfoPresenter" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot; | tag:FullScreenInfoPresenter" />
+        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot; | tag:" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot;" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot;" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  tag:TVKPlayer[TVKListenerManager.java] | message:&quot;dispatchHandle  event = play &quot;" />
@@ -21,8 +23,6 @@
         <option value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo | tag:DetailCoverFullPlayModel | tag:DetailCoverFullInfoMode" />
         <option value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo | tag:DetailCoverFullPlayModel" />
         <option value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo " />
-        <option value="message:&quot;openMediaPlayer: current&quot;" />
-        <option value="message:openMediaPlayer" />
       </list>
     </option>
   </component>
