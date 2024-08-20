@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:DebugHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DebugHelper" />
         <option value="level:error " />
         <option value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo | tag:DetailCoverFullPlayModel | tag:DetailCoverFullInfoMode | tag:DetailCoverFullRootDM" />
         <option value="is:stacktrace" />
@@ -22,7 +23,6 @@
         <option value="tag:NewUnifiedPlayController | tag:UnitVideoDataListModel_" />
         <option value="tag:NewUnifiedPlayController" />
         <option value="is:stacktrace " />
-        <option value="tag:MultiTabPlaylistModule | tag:ContainerSectionEntity" />
       </list>
     </option>
   </component>
