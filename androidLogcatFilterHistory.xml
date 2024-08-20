@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot;" />
+    <option name="mostRecentlyUsed" value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot;" />
+        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot;" />
+        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  tag:TVKPlayer[TVKListenerManager.java] | message:&quot;dispatchHandle  event = play &quot;" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot;" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  tag:TVKPlayer[TVKListenerManager.java]" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; | message:&quot;prepared&quot;" />
@@ -20,9 +23,6 @@
         <option value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo " />
         <option value="message:&quot;openMediaPlayer: current&quot;" />
         <option value="message:openMediaPlayer" />
-        <option value="tag:UnitVideoDataListModelWrapper_" />
-        <option value="tag:PlaylistImp_" />
-        <option value="tag:MultiTabPlaylistModule | tag:MultiTabPlaylistMenuView" />
       </list>
     </option>
   </component>
