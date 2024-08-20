@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DebugHelper" />
+    <option name="mostRecentlyUsed" value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot;" />
+        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  tag:TVKPlayer[TVKListenerManager.java]" />
+        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; | message:&quot;prepared&quot;" />
+        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; | message:onPrepared" />
+        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot;" />
+        <option value="tag:MenuReceiver | message:showMenu" />
+        <option value="tag:MenuReceiver" />
         <option value="tag:DebugHelper" />
         <option value="level:error " />
         <option value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo | tag:DetailCoverFullPlayModel | tag:DetailCoverFullInfoMode | tag:DetailCoverFullRootDM" />
@@ -16,13 +23,6 @@
         <option value="tag:UnitVideoDataListModelWrapper_" />
         <option value="tag:PlaylistImp_" />
         <option value="tag:MultiTabPlaylistModule | tag:MultiTabPlaylistMenuView" />
-        <option value="tag:MultiTabsVideoListViewModel" />
-        <option value="tag:UnitVideoDataListModel_" />
-        <option value="tag:MultiTabPlaylistModule tag:UnitVideoDataListModel" />
-        <option value="tag:MultiTabPlaylistModule | tag:ContainerSectionEntity | tag:VirtualSectionEntity" />
-        <option value="tag:NewUnifiedPlayController | tag:UnitVideoDataListModel_" />
-        <option value="tag:NewUnifiedPlayController" />
-        <option value="is:stacktrace " />
       </list>
     </option>
   </component>
