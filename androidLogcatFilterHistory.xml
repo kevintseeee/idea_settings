@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo | tag:DetailCoverFullPlayModel | tag:DetailCoverFullInfoMode | tag:DetailCoverFullRootDM" />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo | tag:DetailCoverFullPlayModel | tag:DetailCoverFullInfoMode | tag:DetailCoverFullRootDM" />
         <option value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo | tag:DetailCoverFullPlayModel | tag:DetailCoverFullInfoMode | tag:" />
         <option value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo | tag:DetailCoverFullPlayModel | tag:DetailCoverFullInfoMode" />
@@ -13,7 +14,6 @@
         <option value="tag:UnitVideoDataListModelWrapper_" />
         <option value="tag:PlaylistImp_" />
         <option value="tag:MultiTabPlaylistModule | tag:MultiTabPlaylistMenuView" />
-        <option value="level:error " />
         <option value="tag:MultiTabsVideoListViewModel" />
         <option value="tag:UnitVideoDataListModel_" />
         <option value="tag:MultiTabPlaylistModule tag:UnitVideoDataListModel" />
