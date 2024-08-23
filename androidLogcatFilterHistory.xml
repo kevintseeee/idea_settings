@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:oZQ34" />
+    <option name="mostRecentlyUsed" value="message:vinfo" />
     <option name="nonFavorites">
       <list>
+        <option value="message:vinfo" />
         <option value="message:oZQ34" />
         <option value="message:vuid" />
         <option value="message:17446" />
@@ -22,7 +23,6 @@
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; | message:&quot;prepared&quot;" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; | message:onPrepared" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot;" />
-        <option value="tag:MenuReceiver | message:showMenu" />
       </list>
     </option>
   </component>
