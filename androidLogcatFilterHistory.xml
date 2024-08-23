@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:TVK-PlayerManager" />
+    <option name="mostRecentlyUsed" value="message~:oUrl.+video_pla" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:oUrl.+video_pla" />
         <option value="message:TVK-PlayerManager" />
         <option value="message:openMediaPlayer" />
         <option value="message~:oUrl.+waterfall message:CommonCookie" />
@@ -22,7 +23,6 @@
         <option value="tag:MenuReceiver" />
         <option value="tag:DebugHelper" />
         <option value="level:error " />
-        <option value="message:&quot;openMediaPlayer: current&quot; | tag:PrePlayVideo | tag:DetailCoverFullPlayModel | tag:DetailCoverFullInfoMode | tag:DetailCoverFullRootDM" />
       </list>
     </option>
   </component>
