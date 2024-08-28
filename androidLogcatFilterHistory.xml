@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace | message~:oUrl.+video_play_page" />
+    <option name="mostRecentlyUsed" value=" message~:oUrl.+video_play_page | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
     <option name="nonFavorites">
       <list>
+        <option value=" message~:oUrl.+video_play_page | tag:DetailCoverFullPageDM | " />
+        <option value=" message~:oUrl.+video_play_page | message:supportNotRefresh" />
+        <option value=" message~:oUrl.+video_play_page" />
         <option value="is:stacktrace | message~:oUrl.+video_play_page" />
         <option value="is:stacktrace " />
         <option value="message~:oUrl.+video_play_page" />
@@ -20,9 +23,6 @@
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot; | tag:" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot;" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot;" />
-        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  tag:TVKPlayer[TVKListenerManager.java] | message:&quot;dispatchHandle  event = play &quot;" />
-        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot;" />
-        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  tag:TVKPlayer[TVKListenerManager.java]" />
       </list>
     </option>
   </component>
