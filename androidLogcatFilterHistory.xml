@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="message~:oUrl.+video_play_page" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:oUrl.+video_play_page" />
+        <option value="message~:oUrl.+waterfall" />
         <option value="is:stacktrace " />
         <option value="message:vinfo" />
         <option value="message:oZQ34" />
@@ -12,7 +14,6 @@
         <option value="message:TVK-PlayerManager" />
         <option value="message:openMediaPlayer" />
         <option value="message~:oUrl.+waterfall message:CommonCookie" />
-        <option value="message~:oUrl.+waterfall" />
         <option value="message:guid" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot; | tag:FullScreenInfoPresenter" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot; | tag:" />
@@ -22,7 +23,6 @@
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot;" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  tag:TVKPlayer[TVKListenerManager.java]" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; | message:&quot;prepared&quot;" />
-        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; | message:onPrepared" />
       </list>
     </option>
   </component>
