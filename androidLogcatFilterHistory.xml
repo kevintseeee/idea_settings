@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" message~:oUrl.+video_play_page | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
+    <option name="mostRecentlyUsed" value=" message~:oUrl.+video_play_page\? | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
     <option name="nonFavorites">
       <list>
+        <option value=" message~:oUrl.+video_play_page\? | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
         <option value=" message~:oUrl.+video_play_page | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
         <option value=" message~:oUrl.+video_play_page | tag:DetailCoverFullPageDM | " />
         <option value=" message~:oUrl.+video_play_page | message:supportNotRefresh" />
@@ -22,7 +23,6 @@
         <option value="message:guid" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot; | tag:FullScreenInfoPresenter" />
         <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot; | tag:" />
-        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot;" />
       </list>
     </option>
   </component>
