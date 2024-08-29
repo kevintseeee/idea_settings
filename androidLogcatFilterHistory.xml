@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" message~:oUrl.+video_play_page\? | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
+    <option name="mostRecentlyUsed" value=" message~:oUrl.+video_play_page | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
     <option name="nonFavorites">
       <list>
-        <option value=" message~:oUrl.+video_play_page\? | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
         <option value=" message~:oUrl.+video_play_page | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
+        <option value=" message~:oUrl.+video_play_page\? | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
         <option value=" message~:oUrl.+video_play_page | tag:DetailCoverFullPageDM | " />
         <option value=" message~:oUrl.+video_play_page | message:supportNotRefresh" />
         <option value=" message~:oUrl.+video_play_page" />
