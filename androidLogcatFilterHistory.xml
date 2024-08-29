@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" message~:oUrl.+video_play_page | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
+    <option name="mostRecentlyUsed" value="message:&quot;setData: find groupId&quot; | message:&quot;createPagedItemList: pageIndex&quot; | message:&quot;openMediaPlayer: currentVid&quot; | message:&quot;refresh: coverId:&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;setData: find groupId&quot; | message:&quot;createPagedItemList: pageIndex&quot; | message:&quot;openMediaPlayer: currentVid&quot; | message:&quot;refresh: coverId:&quot;" />
+        <option value="message:&quot;setData: find groupId&quot; | message:&quot;createPagedItemList: pageIndex&quot; | message:&quot;openMediaPlayer: currentVid&quot;" />
+        <option value="message:&quot;setData: find groupId&quot; | message:&quot;createPagedItemList: pageIndex&quot;" />
+        <option value="message:&quot;setData: find&quot; | message:&quot;createPagedItemList: pageIndex&quot;" />
+        <option value="message:&quot;setData: find&quot; | message:createPagedItemList: pageIndex" />
+        <option value="message:&quot;setData: find&quot;" />
+        <option value=" message~:oUrl.+video_play_page\?" />
         <option value=" message~:oUrl.+video_play_page | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
         <option value=" message~:oUrl.+video_play_page\? | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
         <option value=" message~:oUrl.+video_play_page | tag:DetailCoverFullPageDM | " />
@@ -16,13 +23,6 @@
         <option value="message:oZQ34" />
         <option value="message:vuid" />
         <option value="message:17446" />
-        <option value="message~:oUrl.+video_pla" />
-        <option value="message:TVK-PlayerManager" />
-        <option value="message:openMediaPlayer" />
-        <option value="message~:oUrl.+waterfall message:CommonCookie" />
-        <option value="message:guid" />
-        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot; | tag:FullScreenInfoPresenter" />
-        <option value="tag:MenuReceiver | message:&quot;showMenu: reason=&quot; | message:&quot;openMediaPlayer: current&quot; |  message:&quot;dispatchHandle  event = play &quot; | message:&quot;dispatchHandle  event = adPlay &quot; | tag:" />
       </list>
     </option>
   </component>
