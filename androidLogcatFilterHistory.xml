@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:&quot;setData: find groupId&quot; | message:&quot;createPagedItemList: pageIndex&quot; | message:&quot;openMediaPlayer: currentVid&quot; | message:&quot;refresh: coverId:&quot;" />
+    <option name="mostRecentlyUsed" value="tag:VMTXLinearLayout" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:VMTXLinearLayout" />
         <option value="message:&quot;setData: find groupId&quot; | message:&quot;createPagedItemList: pageIndex&quot; | message:&quot;openMediaPlayer: currentVid&quot; | message:&quot;refresh: coverId:&quot;" />
         <option value="message:&quot;setData: find groupId&quot; | message:&quot;createPagedItemList: pageIndex&quot; | message:&quot;openMediaPlayer: currentVid&quot;" />
         <option value="message:&quot;setData: find groupId&quot; | message:&quot;createPagedItemList: pageIndex&quot;" />
@@ -22,7 +23,6 @@
         <option value="message:vinfo" />
         <option value="message:oZQ34" />
         <option value="message:vuid" />
-        <option value="message:17446" />
       </list>
     </option>
   </component>
