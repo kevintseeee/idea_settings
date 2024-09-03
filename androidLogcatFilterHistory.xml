@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message~:oUrl.+video_play_page\? | message:&quot;openMediaPlayer: current&quot;" />
+    <option name="mostRecentlyUsed" value="message:onUnitSelected" />
     <option name="nonFavorites">
       <list>
+        <option value="message:onUnitSelected" />
         <option value="message~:oUrl.+video_play_page\? | message:&quot;openMediaPlayer: current&quot;" />
         <option value="message~:oUrl.+video_play_page\?" />
         <option value="tag:MultiTabPlaylistMenuView@" />
@@ -22,7 +23,6 @@
         <option value=" message~:oUrl.+video_play_page" />
         <option value="is:stacktrace | message~:oUrl.+video_play_page" />
         <option value="is:stacktrace " />
-        <option value="message~:oUrl.+video_play_page" />
       </list>
     </option>
   </component>
