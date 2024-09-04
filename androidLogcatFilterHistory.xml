@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:NewUnifiedPlayController" />
+    <option name="mostRecentlyUsed" value="message:&quot;openMediaPlayer: currentVid&quot; | tag:DetailCoverFullInfoMode" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;openMediaPlayer: currentVid&quot; | tag:DetailCoverFullInfoMode" />
+        <option value="message:&quot;openMediaPlayer: currentVid&quot; | tag:DetailCoverInfoModel_" />
+        <option value="message:refreshMenuData message:&quot;openMediaPlayer: currentVid&quot;" />
         <option value="tag:NewUnifiedPlayController" />
         <option value="tag:DetailCoverFullInfoMode" />
         <option value="message:&quot;openMediaPlayer: current&quot;" />
@@ -20,9 +23,6 @@
         <option value="message:&quot;setData: find&quot; | message:&quot;createPagedItemList: pageIndex&quot;" />
         <option value="message:&quot;setData: find&quot; | message:createPagedItemList: pageIndex" />
         <option value="message:&quot;setData: find&quot;" />
-        <option value=" message~:oUrl.+video_play_page\?" />
-        <option value=" message~:oUrl.+video_play_page | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
-        <option value=" message~:oUrl.+video_play_page\? | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
       </list>
     </option>
   </component>
