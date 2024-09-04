@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ContainerSectionEntity" />
+    <option name="mostRecentlyUsed" value="tag:NewUnifiedPlayController" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:NewUnifiedPlayController" />
+        <option value="tag:DetailCoverFullInfoMode" />
+        <option value="message:&quot;openMediaPlayer: current&quot;" />
+        <option value="tag:DetailCoverFullRootDM" />
         <option value="tag:ContainerSectionEntity" />
         <option value="message:onUnitSelected" />
         <option value="message~:oUrl.+video_play_page\? | message:&quot;openMediaPlayer: current&quot;" />
@@ -19,10 +23,6 @@
         <option value=" message~:oUrl.+video_play_page\?" />
         <option value=" message~:oUrl.+video_play_page | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
         <option value=" message~:oUrl.+video_play_page\? | tag:DetailCoverFullPageDM | tag:MultiTabVideoListDMFactory" />
-        <option value=" message~:oUrl.+video_play_page | tag:DetailCoverFullPageDM | " />
-        <option value=" message~:oUrl.+video_play_page | message:supportNotRefresh" />
-        <option value=" message~:oUrl.+video_play_page" />
-        <option value="is:stacktrace | message~:oUrl.+video_play_page" />
       </list>
     </option>
   </component>
