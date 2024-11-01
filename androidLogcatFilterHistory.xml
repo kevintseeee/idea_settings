@@ -1,0 +1,29 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="message:&quot;openMediaPlayer: currentVid&quot; | tag:DetailCoverFullInfoMode" />
+    <option name="nonFavorites">
+      <list>
+        <option value="message:&quot;openMediaPlayer: currentVid&quot; | tag:DetailCoverFullInfoMode" />
+        <option value="message:&quot;openMediaPlayer: currentVid&quot; | tag:DetailCoverInfoModel_" />
+        <option value="message:refreshMenuData message:&quot;openMediaPlayer: currentVid&quot;" />
+        <option value="tag:NewUnifiedPlayController" />
+        <option value="tag:DetailCoverFullInfoMode" />
+        <option value="message:&quot;openMediaPlayer: current&quot;" />
+        <option value="tag:DetailCoverFullRootDM" />
+        <option value="tag:ContainerSectionEntity" />
+        <option value="message:onUnitSelected" />
+        <option value="message~:oUrl.+video_play_page\? | message:&quot;openMediaPlayer: current&quot;" />
+        <option value="message~:oUrl.+video_play_page\?" />
+        <option value="tag:MultiTabPlaylistMenuView@" />
+        <option value="tag:MultiTabPlaylistMenuView" />
+        <option value="tag:VMTXLinearLayout" />
+        <option value="message:&quot;setData: find groupId&quot; | message:&quot;createPagedItemList: pageIndex&quot; | message:&quot;openMediaPlayer: currentVid&quot; | message:&quot;refresh: coverId:&quot;" />
+        <option value="message:&quot;setData: find groupId&quot; | message:&quot;createPagedItemList: pageIndex&quot; | message:&quot;openMediaPlayer: currentVid&quot;" />
+        <option value="message:&quot;setData: find groupId&quot; | message:&quot;createPagedItemList: pageIndex&quot;" />
+        <option value="message:&quot;setData: find&quot; | message:&quot;createPagedItemList: pageIndex&quot;" />
+        <option value="message:&quot;setData: find&quot; | message:createPagedItemList: pageIndex" />
+        <option value="message:&quot;setData: find&quot;" />
+      </list>
+    </option>
+  </component>
+</application>
