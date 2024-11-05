@@ -1,4 +1,4 @@
 <application>
-  <component name="DevhelperSettingStore" DevhelperUsername="" DevhelperToken="" isTapdBugOn="true" isTapdStoryOn="true" isWbMrReviewOn="true" isWbCrOn="true" isTapdTaskOn="true" isFileModifyCheckOn="true" isTapdV1On="false" ProxyEnable="false" ProxyHost="127.0.0.1" ProxyPort="12639" highPixel="false" fontSizeMultiple="1" />
+  <component name="DevhelperSettingStore" DevhelperUsername="kevinrhxie" DevhelperToken="30500abe-eb67-4e67-9c05-0d3b043e5fda" isTapdBugOn="true" isTapdStoryOn="true" isWbMrReviewOn="true" isWbCrOn="true" isTapdTaskOn="true" isFileModifyCheckOn="true" isTapdV1On="false" ProxyEnable="false" ProxyHost="127.0.0.1" ProxyPort="12639" highPixel="false" fontSizeMultiple="1" />
   <component name="TapdSettingStore" UseLongId="false" ShowGitBranch="false" />
 </application>
