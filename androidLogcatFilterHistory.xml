@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PlaylistModule" />
+    <option name="mostRecentlyUsed" value="message:getCommonCookie" />
     <option name="nonFavorites">
       <list>
+        <option value="message:getCommonCookie" />
+        <option value="tag:Network message:originUrl" />
+        <option value="tag:Network" />
+        <option value="message:oUrl" />
         <option value="tag:PlaylistModule" />
         <option value="message:video_play_page message:getCommonCookie" />
         <option value="message:video_play_page" />
@@ -19,10 +23,6 @@
         <option value="message:&quot;openMediaPlayer: current&quot;" />
         <option value="tag:DetailCoverFullRootDM" />
         <option value="tag:ContainerSectionEntity" />
-        <option value="message:onUnitSelected" />
-        <option value="message~:oUrl.+video_play_page\? | message:&quot;openMediaPlayer: current&quot;" />
-        <option value="message~:oUrl.+video_play_page\?" />
-        <option value="tag:MultiTabPlaylistMenuView@" />
       </list>
     </option>
   </component>
