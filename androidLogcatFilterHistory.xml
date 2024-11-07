@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:VMTXAssert " />
+    <option name="mostRecentlyUsed" value="message:getCommonCookie" />
     <option name="nonFavorites">
       <list>
+        <option value="message:getCommonCookie" />
+        <option value="message~:originUrl=.+cover_detail_waterfall" />
+        <option value="message~:originUrl=.+waterfall" />
+        <option value="message:originUrl=" />
+        <option value="message:origin" />
+        <option value="message:orign" />
         <option value="tag:VMTXAssert " />
         <option value="is:stacktrace " />
         <option value="tag:ClearVMTask tag:UnregisterVMTask" />
@@ -11,18 +17,12 @@
         <option value="message:waterfall" />
         <option value="tag:MultiTabsVideoListViewModel" />
         <option value="ta" />
-        <option value="message:getCommonCookie" />
         <option value="tag:Network message:originUrl" />
         <option value="tag:Network" />
         <option value="message:oUrl" />
         <option value="tag:PlaylistModule" />
         <option value="message:video_play_page message:getCommonCookie" />
         <option value="message:video_play_page" />
-        <option value="message~:oUrl.+video_play_page" />
-        <option value="message:oUrl.+video_play_page" />
-        <option value="tag:MultiTabPlaylistModule" />
-        <option value="message:updateListData" />
-        <option value="me" />
       </list>
     </option>
   </component>
