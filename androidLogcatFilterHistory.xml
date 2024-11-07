@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:getCommonCookie" />
+    <option name="mostRecentlyUsed" value="tag:VMTXAssert " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:VMTXAssert " />
+        <option value="is:stacktrace " />
+        <option value="tag:ClearVMTask tag:UnregisterVMTask" />
+        <option value="tag:ClearVMTask" />
+        <option value="message~:originUrl.+waterfall" />
+        <option value="message:waterfall" />
+        <option value="tag:MultiTabsVideoListViewModel" />
+        <option value="ta" />
         <option value="message:getCommonCookie" />
         <option value="tag:Network message:originUrl" />
         <option value="tag:Network" />
@@ -15,14 +23,6 @@
         <option value="tag:MultiTabPlaylistModule" />
         <option value="message:updateListData" />
         <option value="me" />
-        <option value="message:&quot;openMediaPlayer: currentVid&quot; | tag:DetailCoverFullInfoMode" />
-        <option value="message:&quot;openMediaPlayer: currentVid&quot; | tag:DetailCoverInfoModel_" />
-        <option value="message:refreshMenuData message:&quot;openMediaPlayer: currentVid&quot;" />
-        <option value="tag:NewUnifiedPlayController" />
-        <option value="tag:DetailCoverFullInfoMode" />
-        <option value="message:&quot;openMediaPlayer: current&quot;" />
-        <option value="tag:DetailCoverFullRootDM" />
-        <option value="tag:ContainerSectionEntity" />
       </list>
     </option>
   </component>
