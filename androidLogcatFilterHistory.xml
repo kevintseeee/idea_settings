@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:getCommonCookie" />
+    <option name="mostRecentlyUsed" value="tag:UnitViewHolder" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:UnitViewHolder" />
         <option value="message:getCommonCookie" />
         <option value="message~:originUrl=.+cover_detail_waterfall" />
         <option value="message~:originUrl=.+waterfall" />
@@ -22,7 +23,6 @@
         <option value="message:oUrl" />
         <option value="tag:PlaylistModule" />
         <option value="message:video_play_page message:getCommonCookie" />
-        <option value="message:video_play_page" />
       </list>
     </option>
   </component>
