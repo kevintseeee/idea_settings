@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:LoadRequest" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:LoadRequest" />
         <option value="level:error " />
         <option value="message:setWindowTypeAndPlayerType" />
         <option value="tag:UnitViewHolder" />
@@ -22,7 +23,6 @@
         <option value="ta" />
         <option value="tag:Network message:originUrl" />
         <option value="tag:Network" />
-        <option value="message:oUrl" />
       </list>
     </option>
   </component>
