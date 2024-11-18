@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:LoadRequest" />
+    <option name="mostRecentlyUsed" value="tag:HeaderFuncBtnListViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:HeaderFuncBtnListViewModel" />
+        <option value="tag:HeaderFuncBtnListViewModel_" />
+        <option value="message:onUpdateUI: defaul" />
         <option value="tag:LoadRequest" />
         <option value="level:error " />
         <option value="message:setWindowTypeAndPlayerType" />
@@ -20,9 +23,6 @@
         <option value="message~:originUrl.+waterfall" />
         <option value="message:waterfall" />
         <option value="tag:MultiTabsVideoListViewModel" />
-        <option value="ta" />
-        <option value="tag:Network message:originUrl" />
-        <option value="tag:Network" />
       </list>
     </option>
   </component>
