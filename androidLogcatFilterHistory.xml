@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:HeaderFuncBtnListViewModel" />
+    <option name="mostRecentlyUsed" value="tag:TVKPlayer[TVKListenerManager.java] " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TVKPlayer[TVKListenerManager.java] " />
         <option value="tag:HeaderFuncBtnListViewModel" />
         <option value="tag:HeaderFuncBtnListViewModel_" />
         <option value="message:onUpdateUI: defaul" />
@@ -22,7 +23,6 @@
         <option value="tag:ClearVMTask" />
         <option value="message~:originUrl.+waterfall" />
         <option value="message:waterfall" />
-        <option value="tag:MultiTabsVideoListViewModel" />
       </list>
     </option>
   </component>
