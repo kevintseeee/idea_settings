@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MediaPlayerRootView" />
+    <option name="mostRecentlyUsed" value="message:dispatchKeyEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="message:dispatchKeyEvent" />
+        <option value="message:key" />
         <option value="tag:MediaPlayerRootView" />
         <option value="tag:TVKPlayer[TVKListenerManager.java] " />
         <option value="tag:HeaderFuncBtnListViewModel" />
@@ -21,8 +23,6 @@
         <option value="tag:VMTXAssert " />
         <option value="is:stacktrace " />
         <option value="tag:ClearVMTask tag:UnregisterVMTask" />
-        <option value="tag:ClearVMTask" />
-        <option value="message~:originUrl.+waterfall" />
       </list>
     </option>
   </component>
