@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:dispatchKeyEvent" />
+    <option name="mostRecentlyUsed" value="package:mine  &amp; (tag:KEVIN | tag:DetailCover)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  &amp; (tag:KEVIN | tag:DetailCover)" />
+        <option value="package:mine  tag:KEVIN" />
+        <option value="package:mine " />
         <option value="message:dispatchKeyEvent" />
         <option value="message:key" />
         <option value="tag:MediaPlayerRootView" />
@@ -20,9 +23,6 @@
         <option value="message:originUrl=" />
         <option value="message:origin" />
         <option value="message:orign" />
-        <option value="tag:VMTXAssert " />
-        <option value="is:stacktrace " />
-        <option value="tag:ClearVMTask tag:UnregisterVMTask" />
       </list>
     </option>
   </component>
