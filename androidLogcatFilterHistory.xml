@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  &amp; (tag:KEVIN | tag:DetailCover)" />
+    <option name="mostRecentlyUsed" value="tag:ChoreographerInjectorHelper message:sendMessageAtTime" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ChoreographerInjectorHelper message:sendMessageAtTime" />
+        <option value="tag:ChoreographerInjectorHelper " />
+        <option value="tag:" />
         <option value="package:mine  &amp; (tag:KEVIN | tag:DetailCover)" />
         <option value="package:mine  tag:KEVIN" />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="message:getCommonCookie" />
         <option value="message~:originUrl=.+cover_detail_waterfall" />
         <option value="message~:originUrl=.+waterfall" />
-        <option value="message:originUrl=" />
-        <option value="message:origin" />
-        <option value="message:orign" />
       </list>
     </option>
   </component>
