@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ChoreographerInjectorHelper message:sendMessageAtTime" />
+    <option name="mostRecentlyUsed" value="tag:ChoreographerInjectorHelper tag:SafeScrolling" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ChoreographerInjectorHelper tag:SafeScrolling" />
         <option value="tag:ChoreographerInjectorHelper message:sendMessageAtTime" />
+        <option value="is:stacktrace " />
         <option value="tag:ChoreographerInjectorHelper " />
         <option value="tag:" />
         <option value="package:mine  &amp; (tag:KEVIN | tag:DetailCover)" />
@@ -21,8 +23,6 @@
         <option value="message:setWindowTypeAndPlayerType" />
         <option value="tag:UnitViewHolder" />
         <option value="message:getCommonCookie" />
-        <option value="message~:originUrl=.+cover_detail_waterfall" />
-        <option value="message~:originUrl=.+waterfall" />
       </list>
     </option>
   </component>
