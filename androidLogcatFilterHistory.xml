@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:func" />
+    <option name="mostRecentlyUsed" value="message:guid" />
     <option name="nonFavorites">
       <list>
+        <option value="message:guid" />
         <option value="message:func" />
         <option value="tag:ChoreographerInjectorHelper tag:SafeScrolling" />
         <option value="tag:ChoreographerInjectorHelper message:sendMessageAtTime" />
@@ -22,7 +23,6 @@
         <option value="tag:LoadRequest" />
         <option value="level:error " />
         <option value="message:setWindowTypeAndPlayerType" />
-        <option value="tag:UnitViewHolder" />
       </list>
     </option>
   </component>
