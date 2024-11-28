@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ChoreographerInjectorHelper tag:SafeScrolling" />
+    <option name="mostRecentlyUsed" value="message:func" />
     <option name="nonFavorites">
       <list>
+        <option value="message:func" />
         <option value="tag:ChoreographerInjectorHelper tag:SafeScrolling" />
         <option value="tag:ChoreographerInjectorHelper message:sendMessageAtTime" />
         <option value="is:stacktrace " />
@@ -22,7 +23,6 @@
         <option value="level:error " />
         <option value="message:setWindowTypeAndPlayerType" />
         <option value="tag:UnitViewHolder" />
-        <option value="message:getCommonCookie" />
       </list>
     </option>
   </component>
