@@ -1,15 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:guid" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TV-TRACE" />
+        <option value="tag:PlayTrace" />
+        <option value="tag:PlayTraceBridgeImp" />
+        <option value="tag:" />
         <option value="message:guid" />
         <option value="message:func" />
         <option value="tag:ChoreographerInjectorHelper tag:SafeScrolling" />
         <option value="tag:ChoreographerInjectorHelper message:sendMessageAtTime" />
         <option value="is:stacktrace " />
         <option value="tag:ChoreographerInjectorHelper " />
-        <option value="tag:" />
         <option value="package:mine  &amp; (tag:KEVIN | tag:DetailCover)" />
         <option value="package:mine  tag:KEVIN" />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="tag:HeaderFuncBtnListViewModel" />
         <option value="tag:HeaderFuncBtnListViewModel_" />
         <option value="message:onUpdateUI: defaul" />
-        <option value="tag:LoadRequest" />
-        <option value="level:error " />
-        <option value="message:setWindowTypeAndPlayerType" />
       </list>
     </option>
   </component>
