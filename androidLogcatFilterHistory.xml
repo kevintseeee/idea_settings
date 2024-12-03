@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TV-TRACE" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:TV-TRACE" />
+        <option value="tag:TV-TRACE " />
         <option value="tag:TV-TRACE message:ReportAction" />
+        <option value="package:mine is:stacktrace " />
+        <option value="tag:TV-TRACE message:Report" />
+        <option value="tag:TV-TRACE" />
         <option value="tag:PlayTrace" />
         <option value="tag:PlayTraceBridgeImp" />
         <option value="tag:" />
@@ -20,9 +23,6 @@
         <option value="message:dispatchKeyEvent" />
         <option value="message:key" />
         <option value="tag:MediaPlayerRootView" />
-        <option value="tag:TVKPlayer[TVKListenerManager.java] " />
-        <option value="tag:HeaderFuncBtnListViewModel" />
-        <option value="tag:HeaderFuncBtnListViewModel_" />
       </list>
     </option>
   </component>
