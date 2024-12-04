@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:guid" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE message:Report" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TV-TRACE message:Report" />
         <option value="message:guid" />
         <option value="package:mine is:stacktrace " />
         <option value="tag:TV-TRACE " />
         <option value="tag:TV-TRACE message:ReportAction" />
-        <option value="tag:TV-TRACE message:Report" />
         <option value="tag:TV-TRACE" />
         <option value="tag:PlayTrace" />
         <option value="tag:PlayTraceBridgeImp" />
