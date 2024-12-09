@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DebugHelper" />
+    <option name="mostRecentlyUsed" value="tag:Network" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Network" />
         <option value="tag:DebugHelper" />
         <option value="tag:TV-TRACE" />
         <option value="tag:TV-TRACE message:transition" />
@@ -22,7 +23,6 @@
         <option value="package:mine  &amp; (tag:KEVIN | tag:DetailCover)" />
         <option value="package:mine  tag:KEVIN" />
         <option value="package:mine " />
-        <option value="message:dispatchKeyEvent" />
       </list>
     </option>
   </component>
