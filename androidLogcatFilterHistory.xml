@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:RewardAdBannerViewModel" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
+        <option value="message:CommonCookie" />
+        <option value="message:originUrl=" />
         <option value="tag:RewardAdBannerViewModel" />
         <option value="tag:Network" />
         <option value="tag:DebugHelper" />
@@ -19,10 +22,7 @@
         <option value="message:func" />
         <option value="tag:ChoreographerInjectorHelper tag:SafeScrolling" />
         <option value="tag:ChoreographerInjectorHelper message:sendMessageAtTime" />
-        <option value="is:stacktrace " />
         <option value="tag:ChoreographerInjectorHelper " />
-        <option value="package:mine  &amp; (tag:KEVIN | tag:DetailCover)" />
-        <option value="package:mine  tag:KEVIN" />
       </list>
     </option>
   </component>
