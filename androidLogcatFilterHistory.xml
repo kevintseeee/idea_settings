@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Network" />
+    <option name="mostRecentlyUsed" value="tag:RewardAdBannerViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RewardAdBannerViewModel" />
         <option value="tag:Network" />
         <option value="tag:DebugHelper" />
         <option value="tag:TV-TRACE" />
@@ -22,7 +23,6 @@
         <option value="tag:ChoreographerInjectorHelper " />
         <option value="package:mine  &amp; (tag:KEVIN | tag:DetailCover)" />
         <option value="package:mine  tag:KEVIN" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
