@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:guid" />
+    <option name="mostRecentlyUsed" value="message:guid" />
     <option name="nonFavorites">
       <list>
+        <option value="message:guid" />
         <option value="message:need_reward" />
         <option value="package:mine message:guid" />
         <option value="tag:FreqLimitReporter tag:RewardAdBannerViewModel" />
@@ -17,7 +18,6 @@
         <option value="tag:TV-TRACE" />
         <option value="tag:TV-TRACE message:transition" />
         <option value="tag:TV-TRACE message:Report" />
-        <option value="message:guid" />
         <option value="package:mine is:stacktrace " />
         <option value="tag:TV-TRACE " />
         <option value="tag:TV-TRACE message:ReportAction" />
