@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:CCEE32C2BC6411EFBEA6B8599FEB9055" />
+    <option name="mostRecentlyUsed" value="package:mine tag:LoginModule" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LoginModule" />
         <option value="package:mine " />
         <option value="message:CCEE32C2BC6411EFBEA6B8599FEB9055" />
         <option value="message:need_reward_ad" />
@@ -22,7 +23,6 @@
         <option value="originUrl=" />
         <option value="is:stacktrace " />
         <option value="message:originUrl=" />
-        <option value="tag:RewardAdBannerViewModel" />
       </list>
     </option>
   </component>
