@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:FreqLimitReporter tag:RewardAdBannerViewModel tag:BannerBtnW892H140ViewModel" />
+    <option name="mostRecentlyUsed" value="tag:FreqLimitReporter tag:RewardAdBannerViewModel tag:BannerBtnW892H140ViewModel tag:FreqLimitReportResponse" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:FreqLimitReporter tag:RewardAdBannerViewModel tag:BannerBtnW892H140ViewModel tag:FreqLimitReportResponse" />
         <option value="tag:FreqLimitReporter tag:RewardAdBannerViewModel tag:BannerBtnW892H140ViewModel" />
         <option value="tag:FreqLimitReporter tag:RewardAdBannerViewModel" />
         <option value="tag:FreqLimitReporter" />
@@ -22,7 +23,6 @@
         <option value="message:need_reward" />
         <option value="package:mine message:guid" />
         <option value="message:CommonCookie" />
-        <option value="originUrl=" />
       </list>
     </option>
   </component>
