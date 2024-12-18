@@ -1,9 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:vuid" />
+    <option name="mostRecentlyUsed" value="message:CCEE32C2BC6411EFBEA6B8599FEB9055" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="message:CCEE32C2BC6411EFBEA6B8599FEB9055" />
+        <option value="message:need_reward_ad" />
+        <option value="package:mine message:need_reward_ad" />
+        <option value="package:mine message:need_reward" />
+        <option value="package:mine message:oUrl" />
         <option value="message:vuid" />
         <option value="tag:FreqLimitReporter" />
         <option value="tag:FreqLimitReporter tag:RewardAdBannerViewModel" />
@@ -18,11 +23,6 @@
         <option value="is:stacktrace " />
         <option value="message:originUrl=" />
         <option value="tag:RewardAdBannerViewModel" />
-        <option value="tag:Network" />
-        <option value="tag:DebugHelper" />
-        <option value="tag:TV-TRACE" />
-        <option value="tag:TV-TRACE message:transition" />
-        <option value="tag:TV-TRACE message:Report" />
       </list>
     </option>
   </component>
