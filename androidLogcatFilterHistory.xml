@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="message:vuid" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="message:vuid" />
         <option value="tag:FreqLimitReporter" />
         <option value="tag:FreqLimitReporter tag:RewardAdBannerViewModel" />
@@ -22,7 +23,6 @@
         <option value="tag:TV-TRACE" />
         <option value="tag:TV-TRACE message:transition" />
         <option value="tag:TV-TRACE message:Report" />
-        <option value="package:mine is:stacktrace " />
       </list>
     </option>
   </component>
