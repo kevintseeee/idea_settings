@@ -7,5 +7,6 @@
     <entry key="ide.experimental.ui" value="true" />
     <entry key="terminal.new.ui" value="true" />
     <entry key="i18n.locale" value="" />
+    <entry key="ide.instant.shutdown" value="false" />
   </component>
 </application>
