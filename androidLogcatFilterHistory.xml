@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:'informed ad'" />
+    <option name="mostRecentlyUsed" value="tag:MenuReceiver" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MenuReceiver" />
+        <option value="tag:MenuRece" />
+        <option value="tag:MenuModule" />
         <option value="message:'informed ad'" />
         <option value="tag:FreqLimitReporter tag:RewardAdBannerViewModel tag:BannerBtnW892H140ViewModel tag:RewardBannerAdRecord" />
         <option value="message:guid" />
@@ -20,9 +23,6 @@
         <option value="package:mine message:need_reward" />
         <option value="package:mine message:oUrl" />
         <option value="message:vuid" />
-        <option value="message:rewardAdInfo message:need_reward_ad" />
-        <option value="message:rewardAdInfo" />
-        <option value="message:re" />
       </list>
     </option>
   </component>
