@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:origin" />
+    <option name="mostRecentlyUsed" value="tag:NumEpisodeItemViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:NumEpisodeItemViewModel" />
+        <option value="tag:WidgetAdManager@ tag=:LoadingView tag=:WidgetAdManager" />
+        <option value="tag:WidgetAdManager@ tag=:LoadingView" />
+        <option value="tag:WidgetAdManager tag=:LoadingView" />
+        <option value="tag:WidgetAdManager tag:LoadingView" />
+        <option value="package:mine " />
+        <option value="message:WidgetAdManager" />
         <option value="message:origin" />
         <option value="message" />
         <option value="message:guid" />
@@ -16,13 +23,6 @@
         <option value="tag:FreqLimitReporter tag:RewardAdBannerViewModel tag:BannerBtnW892H140ViewModel" />
         <option value="tag:FreqLimitReporter tag:RewardAdBannerViewModel" />
         <option value="tag:FreqLimitReporter" />
-        <option value="package:mine tag:FreqLimitReporter" />
-        <option value="package:mine tag:LoginModule" />
-        <option value="package:mine " />
-        <option value="message:CCEE32C2BC6411EFBEA6B8599FEB9055" />
-        <option value="message:need_reward_ad" />
-        <option value="package:mine message:need_reward_ad" />
-        <option value="package:mine message:need_reward" />
       </list>
     </option>
   </component>
