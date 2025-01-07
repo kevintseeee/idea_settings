@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:NumEpisodeItemViewModel" />
+    <option name="mostRecentlyUsed" value="tag:DebugHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DebugHelper" />
         <option value="tag:NumEpisodeItemViewModel" />
         <option value="tag:WidgetAdManager@ tag=:LoadingView tag=:WidgetAdManager" />
         <option value="tag:WidgetAdManager@ tag=:LoadingView" />
@@ -22,7 +23,6 @@
         <option value="tag:FreqLimitReporter tag:RewardAdBannerViewModel tag:BannerBtnW892H140ViewModel tag:FreqLimitReportResponse" />
         <option value="tag:FreqLimitReporter tag:RewardAdBannerViewModel tag:BannerBtnW892H140ViewModel" />
         <option value="tag:FreqLimitReporter tag:RewardAdBannerViewModel" />
-        <option value="tag:FreqLimitReporter" />
       </list>
     </option>
   </component>
