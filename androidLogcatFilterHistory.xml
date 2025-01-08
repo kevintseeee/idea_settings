@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DetailBaseFragment" />
+    <option name="mostRecentlyUsed" value="tag:NewUnifiedPlayController" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:NewUnifiedPlayController" />
         <option value="tag:DetailBaseFragment" />
         <option value="message:create" />
         <option value="message:page_context" />
@@ -22,7 +23,6 @@
         <option value="tag:MenuModule" />
         <option value="message:'informed ad'" />
         <option value="tag:FreqLimitReporter tag:RewardAdBannerViewModel tag:BannerBtnW892H140ViewModel tag:RewardBannerAdRecord" />
-        <option value="tag:WidgetAdManager" />
       </list>
     </option>
   </component>
