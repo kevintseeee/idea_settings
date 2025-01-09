@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PlayerLayer_" />
+    <option name="mostRecentlyUsed" value="tag=:Scheduler" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:Scheduler" />
+        <option value="tag:Scheduler" />
         <option value="is:stacktrace " />
         <option value="tag:PlayerLayer_" />
         <option value="tag:PlayerLayer_96821707 " />
@@ -21,8 +23,6 @@
         <option value="message:origin" />
         <option value="message" />
         <option value="message:guid" />
-        <option value="tag:MenuReceiver" />
-        <option value="tag:MenuRece" />
       </list>
     </option>
   </component>
