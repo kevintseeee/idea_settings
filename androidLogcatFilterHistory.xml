@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:Scheduler" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="tag=:Scheduler" />
         <option value="tag:Scheduler" />
-        <option value="is:stacktrace " />
         <option value="tag:PlayerLayer_" />
         <option value="tag:PlayerLayer_96821707 " />
         <option value="tag:NewUnifiedPlayController" />
