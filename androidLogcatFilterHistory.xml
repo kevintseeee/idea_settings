@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TV-TRACE" />
+        <option value="tag:TV-TRACE message:ReportAction" />
+        <option value="tag:PlayTrace" />
         <option value="is:stacktrace " />
         <option value="tag=:Scheduler" />
         <option value="tag:Scheduler" />
@@ -20,9 +23,6 @@
         <option value="tag:WidgetAdManager tag:LoadingView" />
         <option value="package:mine " />
         <option value="message:WidgetAdManager" />
-        <option value="message:origin" />
-        <option value="message" />
-        <option value="message:guid" />
       </list>
     </option>
   </component>
