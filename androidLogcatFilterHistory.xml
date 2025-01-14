@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TV-TRACE " />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE message:ReportAction" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:TV-TRACE " />
         <option value="tag:TV-TRACE message:ReportAction" />
+        <option value="tag:TV-TRACE " />
         <option value="tag:TV-TRACE" />
         <option value="tag:PlayTrace" />
         <option value="is:stacktrace " />
