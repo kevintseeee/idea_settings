@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:refreshMenuData" />
+    <option name="mostRecentlyUsed" value="message:refreshMenuData message:'openMediaPlayer: currentVid'" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:refreshMenuData" />
+        <option value="message:refreshMenuData message:'openMediaPlayer: currentVid'" />
         <option value="message:refreshMenuData" />
+        <option value="package:mine " />
+        <option value="tag:refreshMenuData" />
         <option value="tag:TV-TRACE message:ReportAction" />
         <option value="tag:TV-TRACE " />
         <option value="tag:TV-TRACE" />
@@ -21,8 +23,6 @@
         <option value="tag:DebugHelper" />
         <option value="tag:NumEpisodeItemViewModel" />
         <option value="tag:WidgetAdManager@ tag=:LoadingView tag=:WidgetAdManager" />
-        <option value="tag:WidgetAdManager@ tag=:LoadingView" />
-        <option value="tag:WidgetAdManager tag=:LoadingView" />
       </list>
     </option>
   </component>
