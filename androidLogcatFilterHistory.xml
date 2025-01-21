@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:refreshMenu" />
+    <option name="mostRecentlyUsed" value="message:dumpDebugInfo" />
     <option name="nonFavorites">
       <list>
+        <option value="message:dumpDebugInfo" />
         <option value="message:refreshMenu" />
         <option value="(tag:DetailCoverFullRootDM &amp; message:refresh) | message:refreshMenu" />
         <option value="tag:DetailCoverFullRootDM message:refresh" />
@@ -22,7 +23,6 @@
         <option value="tag:PlayerLayer_96821707 " />
         <option value="tag:NewUnifiedPlayController" />
         <option value="tag:DetailBaseFragment" />
-        <option value="message:create" />
       </list>
     </option>
   </component>
