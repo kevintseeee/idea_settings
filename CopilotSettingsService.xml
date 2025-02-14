@@ -1,0 +1,14 @@
+<application>
+  <component name="CopilotSettingsServiceImpl">
+    <option name="commitMessageLanguage" value="zh_CN" />
+    <option name="commitMessageStyle" value="auto" />
+    <option name="firstInstall" value="false" />
+    <option name="networkProxyAddress" value="" />
+    <option name="networkProxyType" value="manual" />
+    <option name="disabledLanguages">
+      <map>
+        <entry languageId="markdown" languageIdEnable="false" />
+      </map>
+    </option>
+  </component>
+</application>
