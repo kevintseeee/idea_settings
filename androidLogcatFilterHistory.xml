@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:dumpDebugInfo | tag:NumEpisodeItemViewModel" />
+    <option name="mostRecentlyUsed" value="package:mine message:guid" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:guid" />
         <option value="message:dumpDebugInfo | tag:NumEpisodeItemViewModel" />
         <option value="message:dumpDebugInfo tag:NumEpisodeItemViewModel" />
         <option value="message:dumpDebugInfo" />
@@ -22,7 +23,6 @@
         <option value="tag=:Scheduler" />
         <option value="tag:Scheduler" />
         <option value="tag:PlayerLayer_" />
-        <option value="tag:PlayerLayer_96821707 " />
       </list>
     </option>
   </component>
