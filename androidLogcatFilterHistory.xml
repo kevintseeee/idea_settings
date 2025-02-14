@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:guid" />
+    <option name="mostRecentlyUsed" value="message:CommonCookie" />
     <option name="nonFavorites">
       <list>
+        <option value="message:CommonCookie" />
+        <option value="tag:NetWork message~:originUrl.+multi_nav_home_page" />
+        <option value="tag:NetWork message:originUrl" />
+        <option value="tag:NetWork" />
         <option value="package:mine message:guid" />
         <option value="message:dumpDebugInfo | tag:NumEpisodeItemViewModel" />
         <option value="message:dumpDebugInfo tag:NumEpisodeItemViewModel" />
@@ -19,10 +23,6 @@
         <option value="tag:TV-TRACE " />
         <option value="tag:TV-TRACE" />
         <option value="tag:PlayTrace" />
-        <option value="is:stacktrace " />
-        <option value="tag=:Scheduler" />
-        <option value="tag:Scheduler" />
-        <option value="tag:PlayerLayer_" />
       </list>
     </option>
   </component>
