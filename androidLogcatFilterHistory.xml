@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:NewUnifiedPlayController tag:HeaderComponentPlayModel_" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
+        <option value="tag:NetWork message~:originUrl.+multi_nav_home_page" />
         <option value="tag:NewUnifiedPlayController tag:HeaderComponentPlayModel_" />
         <option value="tag:NewUnifiedPlayController" />
         <option value="message:CommonCookie" />
-        <option value="tag:NetWork message~:originUrl.+multi_nav_home_page" />
         <option value="tag:NetWork message:originUrl" />
         <option value="tag:NetWork" />
         <option value="package:mine message:guid" />
@@ -22,7 +23,6 @@
         <option value="package:mine " />
         <option value="tag:refreshMenuData" />
         <option value="tag:TV-TRACE message:ReportAction" />
-        <option value="tag:TV-TRACE " />
       </list>
     </option>
   </component>
