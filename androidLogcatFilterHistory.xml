@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="tag:NewUnifiedPlayController tag:HeaderComponentPlayModel" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:NewUnifiedPlayController tag:HeaderComponentPlayModel" />
         <option value="is:stacktrace " />
         <option value="tag:NetWork message~:originUrl.+multi_nav_home_page" />
         <option value="tag:NewUnifiedPlayController tag:HeaderComponentPlayModel_" />
@@ -22,7 +23,6 @@
         <option value="message:refreshMenuData" />
         <option value="package:mine " />
         <option value="tag:refreshMenuData" />
-        <option value="tag:TV-TRACE message:ReportAction" />
       </list>
     </option>
   </component>
