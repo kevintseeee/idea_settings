@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:NewUnifiedPlayController tag:HeaderComponentPlayModel" />
+    <option name="mostRecentlyUsed" value="message:get_cfg" />
     <option name="nonFavorites">
       <list>
+        <option value="message:get_cfg" />
+        <option value="message:ge" />
+        <option value="message:child_function_mask_list" />
         <option value="tag:NewUnifiedPlayController tag:HeaderComponentPlayModel" />
         <option value="is:stacktrace " />
         <option value="tag:NetWork message~:originUrl.+multi_nav_home_page" />
@@ -20,9 +23,6 @@
         <option value="tag:DetailCoverFullRootDM message:refresh" />
         <option value="message:refresh" />
         <option value="message:refreshMenuData message:'openMediaPlayer: currentVid'" />
-        <option value="message:refreshMenuData" />
-        <option value="package:mine " />
-        <option value="tag:refreshMenuData" />
       </list>
     </option>
   </component>
