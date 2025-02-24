@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:get_cfg" />
+    <option name="mostRecentlyUsed" value="message:'onUpdateUI: title=' | (tag:VMExposePrefetch &amp; message:http)" />
     <option name="nonFavorites">
       <list>
+        <option value="message:'onUpdateUI: title=' | (tag:VMExposePrefetch &amp; message:http)" />
+        <option value="message:'onUpdateUI: title=' tag:VMExposePrefetch" />
+        <option value="message:'onUpdateUI: title=' message:VMExposePrefetch" />
+        <option value="message:'onUpdateUI: title='" />
         <option value="message:get_cfg" />
         <option value="message:ge" />
         <option value="message:child_function_mask_list" />
@@ -19,10 +23,6 @@
         <option value="message:dumpDebugInfo tag:NumEpisodeItemViewModel" />
         <option value="message:dumpDebugInfo" />
         <option value="message:refreshMenu" />
-        <option value="(tag:DetailCoverFullRootDM &amp; message:refresh) | message:refreshMenu" />
-        <option value="tag:DetailCoverFullRootDM message:refresh" />
-        <option value="message:refresh" />
-        <option value="message:refreshMenuData message:'openMediaPlayer: currentVid'" />
       </list>
     </option>
   </component>
