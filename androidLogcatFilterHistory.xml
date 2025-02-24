@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:'onUpdateUI: title=' | (tag:VMExposePrefetch &amp; message:http) | tag:MMKVDiskCache" />
+    <option name="mostRecentlyUsed" value="tag:JceClipper message:VALUE_CHANGED" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:JceClipper message:VALUE_CHANGED" />
+        <option value="tag:JceClipper" />
         <option value="message:'onUpdateUI: title=' | (tag:VMExposePrefetch &amp; message:http) | tag:MMKVDiskCache" />
         <option value="message:'onUpdateUI: title=' | (tag:VMExposePrefetch &amp; message:http)" />
         <option value="message:'onUpdateUI: title=' tag:VMExposePrefetch" />
@@ -21,8 +23,6 @@
         <option value="tag:NetWork" />
         <option value="package:mine message:guid" />
         <option value="message:dumpDebugInfo | tag:NumEpisodeItemViewModel" />
-        <option value="message:dumpDebugInfo tag:NumEpisodeItemViewModel" />
-        <option value="message:dumpDebugInfo" />
       </list>
     </option>
   </component>
