@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MultiTabPlaylistModule" />
+    <option name="mostRecentlyUsed" value="tag:MultiTaPlaylistDataProxy tag:MultiTabPlaylistModule" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MultiTaPlaylistDataProxy tag:MultiTabPlaylistModule" />
         <option value="tag:MultiTabPlaylistModule" />
+        <option value="tag:MultiTaPlaylistDataProxy" />
         <option value="tag:first_level_tabs tag:video_list" />
         <option value="tag:first_level_tabs tag:" />
         <option value="message:createCdnFallbackUrl" />
@@ -21,8 +23,6 @@
         <option value="is:stacktrace " />
         <option value="tag:NetWork message~:originUrl.+multi_nav_home_page" />
         <option value="tag:NewUnifiedPlayController tag:HeaderComponentPlayModel_" />
-        <option value="tag:NewUnifiedPlayController" />
-        <option value="message:CommonCookie" />
       </list>
     </option>
   </component>
