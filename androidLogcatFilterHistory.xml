@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:createCdnFallbackUrl" />
+    <option name="mostRecentlyUsed" value="tag:MultiTabPlaylistModule" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MultiTabPlaylistModule" />
+        <option value="tag:first_level_tabs tag:video_list" />
+        <option value="tag:first_level_tabs tag:" />
         <option value="message:createCdnFallbackUrl" />
         <option value="tag:JceClipper message:VALUE_CHANGED" />
         <option value="tag:JceClipper" />
@@ -20,9 +23,6 @@
         <option value="tag:NewUnifiedPlayController tag:HeaderComponentPlayModel_" />
         <option value="tag:NewUnifiedPlayController" />
         <option value="message:CommonCookie" />
-        <option value="tag:NetWork message:originUrl" />
-        <option value="tag:NetWork" />
-        <option value="package:mine message:guid" />
       </list>
     </option>
   </component>
