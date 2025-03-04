@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PayPanelViewModel" />
+    <option name="mostRecentlyUsed" value="tag:PayPanelHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PayPanelHelper" />
         <option value="tag:PayPanelViewModel" />
         <option value="ta" />
         <option value="message:get_cfg" />
@@ -22,7 +23,6 @@
         <option value="message:dumpDebugInfo" />
         <option value="message:refreshMenu" />
         <option value="(tag:DetailCoverFullRootDM &amp; message:refresh) | message:refreshMenu" />
-        <option value="tag:DetailCoverFullRootDM message:refresh" />
       </list>
     </option>
   </component>
