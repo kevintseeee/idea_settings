@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MISC-UpdateRunnable" />
+    <option name="mostRecentlyUsed" value="tag:PayPanelHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PayPanelHelper" />
         <option value="tag:MISC-UpdateRunnable" />
         <option value="tag:PayPanelViewModel" />
         <option value="tag:MultiTaPlaylistDataProxy tag:MultiTabPlaylistModule" />
@@ -22,7 +23,6 @@
         <option value="message:ge" />
         <option value="message:child_function_mask_list" />
         <option value="tag:NewUnifiedPlayController tag:HeaderComponentPlayModel" />
-        <option value="is:stacktrace " />
       </list>
     </option>
   </component>
