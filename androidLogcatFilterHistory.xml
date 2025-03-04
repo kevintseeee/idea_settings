@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:get_cfg" />
+    <option name="mostRecentlyUsed" value="tag:PayPanelViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PayPanelViewModel" />
+        <option value="ta" />
         <option value="message:get_cfg" />
         <option value="message:ge" />
         <option value="message:child_function_mask_list" />
@@ -21,8 +23,6 @@
         <option value="message:refreshMenu" />
         <option value="(tag:DetailCoverFullRootDM &amp; message:refresh) | message:refreshMenu" />
         <option value="tag:DetailCoverFullRootDM message:refresh" />
-        <option value="message:refresh" />
-        <option value="message:refreshMenuData message:'openMediaPlayer: currentVid'" />
       </list>
     </option>
   </component>
