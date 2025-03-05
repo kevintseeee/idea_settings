@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PayPanelHelper" />
+    <option name="mostRecentlyUsed" value="tag:VMExposePrefetch" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:VMExposePrefetch" />
+        <option value="tag" />
         <option value="tag:PayPanelHelper" />
         <option value="tag:MISC-UpdateRunnable" />
         <option value="tag:PayPanelViewModel" />
@@ -21,8 +23,6 @@
         <option value="message:'onUpdateUI: title='" />
         <option value="message:get_cfg" />
         <option value="message:ge" />
-        <option value="message:child_function_mask_list" />
-        <option value="tag:NewUnifiedPlayController tag:HeaderComponentPlayModel" />
       </list>
     </option>
   </component>
