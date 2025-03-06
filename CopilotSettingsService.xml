@@ -6,7 +6,7 @@
     <option name="firstInstall" value="false" />
     <option name="networkProxyAddress" value="" />
     <option name="networkProxyType" value="manual" />
-    <option name="updateVersion" value="" />
+    <option name="updateVersion" value="1.41.6" />
     <option name="disabledLanguages">
       <map>
         <entry languageId="markdown" languageIdEnable="false" />
