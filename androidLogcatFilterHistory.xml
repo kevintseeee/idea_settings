@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="message:onUnitListChanged message:onUnitStateChanged" />
     <option name="nonFavorites">
       <list>
+        <option value="message:onUnitListChanged message:onUnitStateChanged" />
         <option value="message:onUnitListChanged" />
         <option value="message:handleVideoClicked" />
       </list>
