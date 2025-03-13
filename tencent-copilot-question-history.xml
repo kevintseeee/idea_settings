@@ -6,6 +6,7 @@
         <option value="@workspace /fix " />
         <option value="命名上有什么问题？" />
         <option value="@workspace /tests " />
+        <option value="为DetailCoverRefreshRateReporter类生成单元测试。&#10;只能使用Mockito和PowerMockito的API。&#10;如果验证或者必须访问的私有变量，只允许使用org.powermock.reflect.Whitebox工具，反射得到。&#10;我的库的版本比较低，没有MockedStatic这个类。" />
       </list>
     </option>
   </component>
