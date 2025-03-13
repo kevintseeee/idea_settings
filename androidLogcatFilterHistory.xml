@@ -1,28 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DetailCoverRefreshRateReporter" />
+    <option name="mostRecentlyUsed" value="message:onUnitListChanged message:onUnitStateChanged" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:DetailCoverRefreshRateReporter" />
-        <option value="message:DetailCoverRefreshRateReporter" />
-        <option value="tag:VMExposePrefetch" />
-        <option value="tag" />
-        <option value="tag:PayPanelHelper" />
-        <option value="tag:MISC-UpdateRunnable" />
-        <option value="tag:PayPanelViewModel" />
-        <option value="tag:MultiTaPlaylistDataProxy tag:MultiTabPlaylistModule" />
-        <option value="tag:MultiTabPlaylistModule" />
-        <option value="tag:MultiTaPlaylistDataProxy" />
-        <option value="tag:first_level_tabs tag:video_list" />
-        <option value="tag:first_level_tabs tag:" />
-        <option value="message:createCdnFallbackUrl" />
-        <option value="tag:JceClipper message:VALUE_CHANGED" />
-        <option value="tag:JceClipper" />
-        <option value="message:'onUpdateUI: title=' | (tag:VMExposePrefetch &amp; message:http) | tag:MMKVDiskCache" />
-        <option value="message:'onUpdateUI: title=' | (tag:VMExposePrefetch &amp; message:http)" />
-        <option value="message:'onUpdateUI: title=' tag:VMExposePrefetch" />
-        <option value="message:'onUpdateUI: title=' message:VMExposePrefetch" />
-        <option value="message:'onUpdateUI: title='" />
+        <option value="message:onUnitListChanged" />
+        <option value="message:handleVideoClicked" />
       </list>
     </option>
   </component>
