@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:VMExposePrefetch" />
+    <option name="mostRecentlyUsed" value="tag:DetailCoverRefreshRateReporter" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DetailCoverRefreshRateReporter" />
+        <option value="message:DetailCoverRefreshRateReporter" />
         <option value="tag:VMExposePrefetch" />
         <option value="tag" />
         <option value="tag:PayPanelHelper" />
@@ -21,8 +23,6 @@
         <option value="message:'onUpdateUI: title=' tag:VMExposePrefetch" />
         <option value="message:'onUpdateUI: title=' message:VMExposePrefetch" />
         <option value="message:'onUpdateUI: title='" />
-        <option value="message:get_cfg" />
-        <option value="message:ge" />
       </list>
     </option>
   </component>
