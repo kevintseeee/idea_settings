@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="message:checkAlign message:tryNotify" />
     <option name="nonFavorites">
       <list>
+        <option value="message:checkAlign message:tryNotify" />
+        <option value="message:checkAlign" />
+        <option value="message:checkAlign " />
         <option value="is:stacktrace " />
         <option value="message:onUnitListChanged message:onUnitStateChanged" />
         <option value="message:onUnitListChanged" />
