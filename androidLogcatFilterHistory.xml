@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:onUnitListChanged message:onUnitStateChanged" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="message:onUnitListChanged message:onUnitStateChanged" />
         <option value="message:onUnitListChanged" />
         <option value="message:handleVideoClicked" />
