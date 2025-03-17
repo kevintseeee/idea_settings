@@ -7,10 +7,16 @@
     <option name="networkProxyAddress" value="" />
     <option name="networkProxyType" value="manual" />
     <option name="tabOverTimes" value="true" />
-    <option name="updateVersion" value="1.42.2" />
+    <option name="updateVersion" value="1.42.3" />
     <option name="disabledLanguages">
       <map>
         <entry languageId="markdown" languageIdEnable="false" />
+      </map>
+    </option>
+    <option name="updateVersionInfo">
+      <map>
+        <entry key="pluginId" value="com.tencent.code.CodeCopilotJetBrainPlugin" />
+        <entry key="version" value="1.42.3" />
       </map>
     </option>
   </component>
