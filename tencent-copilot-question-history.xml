@@ -9,6 +9,7 @@
         <option value="为DetailCoverRefreshRateReporter类生成单元测试。&#10;只能使用Mockito和PowerMockito的API。&#10;如果验证或者必须访问的私有变量，只允许使用org.powermock.reflect.Whitebox工具，反射得到。&#10;我的库的版本比较低，没有MockedStatic这个类。" />
         <option value="为DetailCoverRefreshRateReporter类生成单元测试。 &#10;只能使用Mockito和PowerMockito的API。 &#10;不要访问到私有成员、私有内部类、私有内部类的成员等任何私有的东西。&#10;我的库的版本比较低，没有MockedStatic这个类。&#10;但你可以使用PowerMockito来mock公有静态方法。" />
         <option value="列表项&quot;A1&quot;代表ItemId=1，ViewType=A，Content=A1。&#10;Diff结果&quot;@AD1&quot;代表在index=1处增加了一个项&#10;Diff结果&quot;@RM2&quot;代表删除了index=2处的项&#10;Diff结果&quot;@CH3&quot;代表index=3处的项更新了&#10;假设原始列表是[A1, A2, A3]&#10;1. 如果新列表是[A1, A4, A2, A3]，我希望Diff结果是[@AD1]&#10;2. 如果新列表是[A1, B4, A2, A3]，我希望Diff结果是[@AD1]&#10;3. 如果新列表是[A1, A3]，我希望Diff结果是[@RM1]&#10;4. 如果新列表是[A1, A4, A3]，我希望Diff结果是[@CH1]，因为ViewType相同时我偏向于更新项，这一点与项在列表中的位置无关；&#10;5. 如果新列表是[A1, B4, A3]，我希望Diff结果是[@RM1, @AD1]，因为ViewType不同了无法仅更新项，只能移除、添加；&#10;6. 如果新列表是[A1, A3, A2]，我希望Diff结果是[@CH1, @CH2]，因为我不希望做移动项；&#10;根据DetailDiffUtil，给出这6条用例的单元测试的实现。" />
+        <option value="calculateMatches方法的算法复杂度太高了，是否有更好的写法可以降低复杂度？" />
       </list>
     </option>
   </component>
