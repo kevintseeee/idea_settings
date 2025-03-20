@@ -1,28 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:guid=" />
+    <option name="mostRecentlyUsed" value="tag:AsyncListDataDiffer" />
     <option name="nonFavorites">
       <list>
-        <option value="message:guid=" />
-        <option value="tag:PayPanelHelper" />
-        <option value="tag:PayPanelViewModel" />
-        <option value="ta" />
-        <option value="message:get_cfg" />
-        <option value="message:ge" />
-        <option value="message:child_function_mask_list" />
-        <option value="tag:NewUnifiedPlayController tag:HeaderComponentPlayModel" />
+        <option value="tag:AsyncListDataDiffer" />
+        <option value="tag:DebugHelper " />
+        <option value="message:checkAlign message:tryNotify" />
+        <option value="message:checkAlign" />
+        <option value="message:checkAlign " />
         <option value="is:stacktrace " />
-        <option value="tag:NetWork message~:originUrl.+multi_nav_home_page" />
-        <option value="tag:NewUnifiedPlayController tag:HeaderComponentPlayModel_" />
-        <option value="tag:NewUnifiedPlayController" />
-        <option value="message:CommonCookie" />
-        <option value="tag:NetWork message:originUrl" />
-        <option value="tag:NetWork" />
-        <option value="package:mine message:guid" />
-        <option value="message:dumpDebugInfo | tag:NumEpisodeItemViewModel" />
-        <option value="message:dumpDebugInfo tag:NumEpisodeItemViewModel" />
-        <option value="message:dumpDebugInfo" />
-        <option value="message:refreshMenu" />
+        <option value="message:onUnitListChanged message:onUnitStateChanged" />
+        <option value="message:onUnitListChanged" />
+        <option value="message:handleVideoClicked" />
       </list>
     </option>
   </component>
