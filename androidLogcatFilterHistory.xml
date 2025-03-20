@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DebugHelper " />
+    <option name="mostRecentlyUsed" value="tag:AsyncListDataDiffer" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AsyncListDataDiffer" />
         <option value="tag:DebugHelper " />
         <option value="message:checkAlign message:tryNotify" />
         <option value="message:checkAlign" />
