@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA" />
         <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA" />
         <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue" />
@@ -11,7 +12,6 @@
         <option value="message~:GetCoverDetailLite.+" />
         <option value="message:" />
         <option value="tag:SafeJceCommonConvertor" />
-        <option value="is:stacktrace " />
         <option value="tag:AsyncListDataDiffer" />
         <option value="tag:DebugHelper " />
         <option value="message:checkAlign message:tryNotify" />
