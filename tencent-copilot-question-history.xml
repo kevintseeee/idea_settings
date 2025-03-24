@@ -14,6 +14,8 @@
         <option value="在算法复杂度方面，calculateMatches方法还有什么优化空间？" />
         <option value="calculateMatches方法的时间复杂度和空间复杂度" />
         <option value="解决多线程访问的安全问题" />
+        <option value="给PreLoadDataModelWorker类添加注释" />
+        <option value="给PreLoadLiteDataWorker类添加注释" />
       </list>
     </option>
   </component>
