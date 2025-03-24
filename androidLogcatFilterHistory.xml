@@ -1,14 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AsyncListDataDiffer" />
+    <option name="mostRecentlyUsed" value="message~:GetCoverDetailLite.+mzc002002kqssyu" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:GetCoverDetailLite.+mzc002002kqssyu" />
+        <option value="message~:GetCoverDetailLite.+" />
+        <option value="message:" />
+        <option value="tag:SafeJceCommonConvertor" />
+        <option value="is:stacktrace " />
         <option value="tag:AsyncListDataDiffer" />
         <option value="tag:DebugHelper " />
         <option value="message:checkAlign message:tryNotify" />
         <option value="message:checkAlign" />
         <option value="message:checkAlign " />
-        <option value="is:stacktrace " />
         <option value="message:onUnitListChanged message:onUnitStateChanged" />
         <option value="message:onUnitListChanged" />
         <option value="message:handleVideoClicked" />
