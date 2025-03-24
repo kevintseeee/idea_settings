@@ -3,9 +3,9 @@
     <option name="mostRecentlyUsed" value="tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA" />
         <option value="is:stacktrace " />
         <option value="tag:CoverDetailRootModel_" />
-        <option value="tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA" />
         <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA" />
         <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue" />
         <option value="message~:GetCoverDetailLite" />
