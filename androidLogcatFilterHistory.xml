@@ -1,12 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA" />
+    <option name="mostRecentlyUsed" value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA | tag:DetailCoverLiteDataRequest" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA | tag:DetailCoverLiteDataRequest" />
+        <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA | message:cover_detail_waterfall" />
+        <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA" />
+        <option value="tag:orgi | tag:COVER_PAGE_LITE_DATA" />
         <option value="tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA" />
         <option value="is:stacktrace " />
         <option value="tag:CoverDetailRootModel_" />
-        <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA" />
         <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue" />
         <option value="message~:GetCoverDetailLite" />
         <option value="message~:GetCoverDetailLite.+mzc002002kqssyu" />
@@ -20,7 +23,6 @@
         <option value="message:checkAlign " />
         <option value="message:onUnitListChanged message:onUnitStateChanged" />
         <option value="message:onUnitListChanged" />
-        <option value="message:handleVideoClicked" />
       </list>
     </option>
   </component>
