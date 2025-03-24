@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message~:GetCoverDetailLite.+mzc002002kqssyu" />
+    <option name="mostRecentlyUsed" value="message~:GetCoverDetailLite" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:GetCoverDetailLite" />
         <option value="message~:GetCoverDetailLite.+mzc002002kqssyu" />
         <option value="message~:GetCoverDetailLite.+" />
         <option value="message:" />
