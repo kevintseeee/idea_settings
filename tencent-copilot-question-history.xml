@@ -16,6 +16,7 @@
         <option value="解决多线程访问的安全问题" />
         <option value="给PreLoadDataModelWorker类添加注释" />
         <option value="给PreLoadLiteDataWorker类添加注释" />
+        <option value="针对ViewModelPools类，给出命名相关的意见" />
       </list>
     </option>
   </component>
