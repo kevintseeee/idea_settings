@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message~:GetCoverDetailLite | tag:PreLoadLiteDataWorker | tag:COVER_PAGE_LITE_DATA | tag:DetailCoverLiteDataRequest" />
+    <option name="mostRecentlyUsed" value="tag:AsyncListDataDiffer@SideUpper | (tag=:double_rows.side_list &amp; message:printDiffResult) | (tag:ListUnitViewModel_ &amp; message:printDiffResult)" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AsyncListDataDiffer@SideUpper | (tag=:double_rows.side_list &amp; message:printDiffResult) | (tag:ListUnitViewModel_ &amp; message:printDiffResult)" />
+        <option value="tag:AsyncListDataDiffer@SideUpper | (tag:ListUnitViewModel_ &amp; message:printDiffResult)" />
+        <option value="tag:AsyncListDataDiffer@SideUpper | (tag=:double_rows.side_list &amp; message:printDiffResult)" />
+        <option value="tag:AsyncListDataDiffer@SideUpper | (tag:double_rows.side_list &amp; message:printDiffResult)" />
+        <option value="tag:AsyncListDataDiffer@SideUpper | (tag:double_rows.side_list)" />
+        <option value="tag:AsyncListDataDiffer@SideUpper" />
+        <option value="tag:AsyncListDataDiffer@SideBottom" />
+        <option value="tag:AsyncListDataDiffer" />
         <option value="message~:GetCoverDetailLite | tag:PreLoadLiteDataWorker | tag:COVER_PAGE_LITE_DATA | tag:DetailCoverLiteDataRequest" />
         <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA | tag:DetailCoverLiteDataRequest" />
         <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA | message:cover_detail_waterfall" />
@@ -15,14 +23,6 @@
         <option value="message~:GetCoverDetailLite" />
         <option value="message~:GetCoverDetailLite.+mzc002002kqssyu" />
         <option value="message~:GetCoverDetailLite.+" />
-        <option value="message:" />
-        <option value="tag:SafeJceCommonConvertor" />
-        <option value="tag:AsyncListDataDiffer" />
-        <option value="tag:DebugHelper " />
-        <option value="message:checkAlign message:tryNotify" />
-        <option value="message:checkAlign" />
-        <option value="message:checkAlign " />
-        <option value="message:onUnitListChanged message:onUnitStateChanged" />
       </list>
     </option>
   </component>

@@ -13,6 +13,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="LanguageServiceStatusBarWidget" value="false" />
         <entry key="Memory" value="true" />
       </map>
     </option>
