@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AsyncUnitListDiffer@SideBottom" />
+    <option name="mostRecentlyUsed" value="tag:AsyncUnitListDiffer@SideUpper " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AsyncUnitListDiffer@SideUpper " />
         <option value="tag:AsyncUnitListDiffer@SideBottom" />
         <option value="tag:AsyncUnitListDiffer" />
         <option value="tag:AsyncUnitListDiffer@SideUpper | tag:AsyncUnitListDiffer@ListUnitViewModel_" />
@@ -22,7 +23,6 @@
         <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA | message:cover_detail_waterfall" />
         <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA" />
         <option value="tag:orgi | tag:COVER_PAGE_LITE_DATA" />
-        <option value="tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA" />
       </list>
     </option>
   </component>
