@@ -1,13 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AsyncUnitListDiffer@SideBottom" />
+    <option name="mostRecentlyUsed" value="(tag:CoverDetailRootModel_ &amp; message:onSuccess)| tag:AsyncUnitListDiffer@SideBottom | message:updateSideBottomListAdapter" />
     <option name="nonFavorites">
       <list>
+        <option value="(tag:CoverDetailRootModel_ &amp; message:onSuccess)| tag:AsyncUnitListDiffer@SideBottom | message:updateSideBottomListAdapter" />
+        <option value="(tag:CoverDetailRootModel_ &amp; message:onSuccess)| tag:AsyncUnitListDiffer@SideBottom" />
+        <option value="(tag:CoverDetailRootModel_ &amp; )| tag:AsyncUnitListDiffer@SideBottom" />
         <option value="tag:AsyncUnitListDiffer@SideBottom" />
-        <option value="tag:AsyncUnitListDiffer" />
-        <option value="message~:GetCoverDetailLite | tag:PreLoadLiteDataWorker | tag:COVER_PAGE_LITE_DATA | tag:DetailCoverLiteDataRequest" />
         <option value="package:mine " />
         <option value="tag:AsyncUnitListDiffer@SideUpper " />
+        <option value="tag:AsyncUnitListDiffer" />
+        <option value="message~:GetCoverDetailLite | tag:PreLoadLiteDataWorker | tag:COVER_PAGE_LITE_DATA | tag:DetailCoverLiteDataRequest" />
         <option value="tag:AsyncUnitListDiffer@SideUpper | tag:AsyncUnitListDiffer@ListUnitViewModel_" />
         <option value="tag:AsyncListDataDiffer@SideUpper | tag:'AsyncListDataDiffer@ListUnitViewModel_'" />
         <option value="tag:AsyncListDataDiffer@SideUpper | tag:AsyncListDataDiffer@ListUnitViewModel_ | (tag=:double_rows.side_list &amp; message:printDiffResult) | (tag:ListUnitViewModel_ &amp; message:printDiffResult)" />
@@ -20,9 +23,6 @@
         <option value="tag:AsyncListDataDiffer@SideUpper | (tag:double_rows.side_list)" />
         <option value="tag:AsyncListDataDiffer@SideUpper" />
         <option value="tag:AsyncListDataDiffer@SideBottom" />
-        <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA | tag:DetailCoverLiteDataRequest" />
-        <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA | message:cover_detail_waterfall" />
-        <option value="message~:GetCoverDetailLite | tag:ViewModelExposeQueue | tag:COVER_PAGE_LITE_DATA" />
       </list>
     </option>
   </component>
