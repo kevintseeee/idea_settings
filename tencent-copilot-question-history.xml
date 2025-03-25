@@ -20,6 +20,9 @@
         <option value="阅读ViewModelTaskSchedMgr类、PreLoadLiteDataViewModelTask类、PreLoadDataModelViewModelTask类，然后针对ViewModelTaskSchedMgr类，给出命名相关的评审意见。" />
         <option value="阅读ViewModelTaskSchedMgr类、PreLoadLiteDataViewModelTask类、PreLoadDataModelViewModelTask类，然后针对ViewModelTaskSchedMgr类，给框架设计相关的评审意见。" />
         <option value="阅读ViewModelTaskSchedMgr类、PreLoadLiteDataViewModelTask类、PreLoadDataModelViewModelTask类，然后针对ViewModelTaskSchedMgr类，写单元测试。只能使用Powermock，Mokito。" />
+        <option value="我刚刚把AsyncUnitListDiffer修改了一遍，submitList方法支持多线程调用。检查AsyncUnitListDiffer代码是否有多线程风险？比如需要加volatile，修改写法？" />
+        <option value="我刚刚把AsyncUnitListDiffer修改了一遍，submitList方法支持多线程调用。检查AsyncUnitListDiffer代码是否有多线程风险？" />
+        <option value="我还需要用volatile来修饰mList和mMaxScheduledGeneration吗" />
       </list>
     </option>
   </component>
