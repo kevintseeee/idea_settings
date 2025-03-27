@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:onMultiTabSwitch" />
+    <option name="mostRecentlyUsed" value="tag:PopupViewPresenter tag:kevin tag:OperationBubbleView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PopupViewPresenter tag:kevin tag:OperationBubbleView" />
+        <option value="tag:PopupViewPresenter tag:kevin" />
+        <option value="tag:PopupViewPresenter" />
         <option value="message:onMultiTabSwitch" />
         <option value="message~:GetCoverDetailLite | tag:PreLoadLiteDataWorker | tag:COVER_PAGE_LITE_DATA | tag:DetailCoverLiteDataRequest" />
         <option value="(tag:CoverDetailRootModel_ &amp; message:onSuccess)| tag:AsyncUnitListDiffer@SideBottom | message:updateSideBottomListAdapter" />
@@ -20,9 +23,6 @@
         <option value="tag:AsyncListDataDiffer@SideUpper | (tag=:double_rows.side_list &amp; message:printDiffResult) | (tag:ListUnitViewModel_ &amp; message:printDiffResult)" />
         <option value="tag:AsyncListDataDiffer@SideUpper | (tag:ListUnitViewModel_ &amp; message:printDiffResult)" />
         <option value="tag:AsyncListDataDiffer@SideUpper | (tag=:double_rows.side_list &amp; message:printDiffResult)" />
-        <option value="tag:AsyncListDataDiffer@SideUpper | (tag:double_rows.side_list &amp; message:printDiffResult)" />
-        <option value="tag:AsyncListDataDiffer@SideUpper | (tag:double_rows.side_list)" />
-        <option value="tag:AsyncListDataDiffer@SideUpper" />
       </list>
     </option>
   </component>
