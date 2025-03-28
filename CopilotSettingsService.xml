@@ -9,9 +9,8 @@
     <option name="inlinePopupEnable" value="false" />
     <option name="networkProxyAddress" value="" />
     <option name="networkProxyType" value="manual" />
-    <option name="showInlayTool" value="false" />
     <option name="tabOverTimes" value="true" />
-    <option name="updateVersion" value="1.44.3" />
+    <option name="updateVersion" value="1.44.4" />
     <option name="disabledLanguages">
       <map>
         <entry languageId="markdown" languageIdEnable="false" />
@@ -20,7 +19,7 @@
     <option name="updateVersionInfo">
       <map>
         <entry key="pluginId" value="com.tencent.code.CodeCopilotJetBrainPlugin" />
-        <entry key="version" value="1.44.3" />
+        <entry key="version" value="1.44.4" />
       </map>
     </option>
   </component>
