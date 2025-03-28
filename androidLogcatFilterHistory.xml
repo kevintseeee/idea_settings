@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message~:GetCoverDetailLite | tag:PreLoadLiteDataViewModelTask | tag:DetailCoverLiteDataRequest" />
+    <option name="mostRecentlyUsed" value="(tag:CoverDetailRootModel_ &amp; message:onSuccess)| tag:AsyncUnitListDiffer@SideUpper  | message:updateSideBottomListAdapter" />
     <option name="nonFavorites">
       <list>
+        <option value="(tag:CoverDetailRootModel_ &amp; message:onSuccess)| tag:AsyncUnitListDiffer@SideUpper  | message:updateSideBottomListAdapter" />
+        <option value="is:stacktrace " />
         <option value="message~:GetCoverDetailLite | tag:PreLoadLiteDataViewModelTask | tag:DetailCoverLiteDataRequest" />
         <option value="message~:GetCoverDetailLite | tag:PreLoadLiteDataViewModelTask | tag:COVER_PAGE_LITE_DATA | tag:DetailCoverLiteDataRequest" />
         <option value="tag:PopupViewPresenter tag:kevin tag:OperationBubbleView" />
@@ -21,8 +23,6 @@
         <option value="tag:AsyncListDataDiffer@SideUpper | tag:'AsyncListDataDiffer@ListUnitViewModel_'" />
         <option value="tag:AsyncListDataDiffer@SideUpper | tag:AsyncListDataDiffer@ListUnitViewModel_ | (tag=:double_rows.side_list &amp; message:printDiffResult) | (tag:ListUnitViewModel_ &amp; message:printDiffResult)" />
         <option value="tag:AsyncListDataDiffer" />
-        <option value="tag:AsyncListDataDiffer@ListUnitViewModel_" />
-        <option value="tag:AsyncListDataDiffer@SideUpper | (tag=:double_rows.side_list &amp; message:printDiffResult) | (tag:ListUnitViewModel_ &amp; message:printDiffResult)" />
       </list>
     </option>
   </component>
