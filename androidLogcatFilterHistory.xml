@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PopupViewPresenter tag:kevin tag:OperationBubbleView" />
+    <option name="mostRecentlyUsed" value="message~:GetCoverDetailLite | tag:PreLoadLiteDataViewModelTask | tag:COVER_PAGE_LITE_DATA | tag:DetailCoverLiteDataRequest" />
     <option name="nonFavorites">
       <list>
+        <option value="message~:GetCoverDetailLite | tag:PreLoadLiteDataViewModelTask | tag:COVER_PAGE_LITE_DATA | tag:DetailCoverLiteDataRequest" />
         <option value="tag:PopupViewPresenter tag:kevin tag:OperationBubbleView" />
         <option value="tag:PopupViewPresenter tag:kevin" />
         <option value="tag:PopupViewPresenter" />
@@ -22,7 +23,6 @@
         <option value="tag:AsyncListDataDiffer@ListUnitViewModel_" />
         <option value="tag:AsyncListDataDiffer@SideUpper | (tag=:double_rows.side_list &amp; message:printDiffResult) | (tag:ListUnitViewModel_ &amp; message:printDiffResult)" />
         <option value="tag:AsyncListDataDiffer@SideUpper | (tag:ListUnitViewModel_ &amp; message:printDiffResult)" />
-        <option value="tag:AsyncListDataDiffer@SideUpper | (tag=:double_rows.side_list &amp; message:printDiffResult)" />
       </list>
     </option>
   </component>
