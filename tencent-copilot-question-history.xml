@@ -23,6 +23,7 @@
         <option value="我刚刚把AsyncUnitListDiffer修改了一遍，submitList方法支持多线程调用。检查AsyncUnitListDiffer代码是否有多线程风险？比如需要加volatile，修改写法？" />
         <option value="我刚刚把AsyncUnitListDiffer修改了一遍，submitList方法支持多线程调用。检查AsyncUnitListDiffer代码是否有多线程风险？" />
         <option value="我还需要用volatile来修饰mList和mMaxScheduledGeneration吗" />
+        <option value="针对我的修改，我的命名有需要改进的地方吗？" />
       </list>
     </option>
   </component>
