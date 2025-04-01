@@ -99,7 +99,6 @@
   <component name="XDebuggerSettings">
     <data-views>
       <option name="showLibraryStackFrames" value="true" />
-      <show-values-inline>false</show-values-inline>
     </data-views>
     <general />
     <debuggers>
