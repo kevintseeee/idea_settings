@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AsyncUnitListDiffer@SideUpper " />
+    <option name="mostRecentlyUsed" value="tag:AsyncUnitListDiffer@ListUnitViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AsyncUnitListDiffer@ListUnitViewModel" />
+        <option value="tag:Async" />
+        <option value="tag:CoverDetailRootModel" />
         <option value="tag:AsyncUnitListDiffer@SideUpper " />
         <option value="tag:PosterW260H186ViewModel" />
         <option value="tag:AsyncUnitListDiffer@SideBottom " />
-        <option value="tag:CoverDetailRootModel" />
         <option value="tag:PreLoadLiteDataViewModelTask | tag:DetailCoverLiteDataRequest" />
         <option value="tag:GlideRequestAgent" />
         <option value="tag:MemCache_COVER_PAGE_JCE_53389128 " />
@@ -21,8 +23,6 @@
         <option value="message~:GetCoverDetailLite | tag:PreLoadLiteDataViewModelTask | tag:COVER_PAGE_LITE_DATA | tag:DetailCoverLiteDataRequest" />
         <option value="tag:PopupViewPresenter tag:kevin" />
         <option value="tag:PopupViewPresenter" />
-        <option value="message:onMultiTabSwitch" />
-        <option value="message~:GetCoverDetailLite | tag:PreLoadLiteDataWorker | tag:COVER_PAGE_LITE_DATA | tag:DetailCoverLiteDataRequest" />
       </list>
     </option>
   </component>
