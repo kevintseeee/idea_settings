@@ -1,17 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="tag:PreLoadLiteDataViewModelTask | tag:DetailCoverLiteDataRequest" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
-        <option value="is:stacktrace " />
+        <option value="tag:PreLoadLiteDataViewModelTask | tag:DetailCoverLiteDataRequest" />
         <option value="tag:AsyncUnitListDiffer@ListUnitViewModel" />
+        <option value="is:stacktrace " />
+        <option value="package:mine " />
         <option value="tag:Async" />
         <option value="tag:CoverDetailRootModel" />
         <option value="tag:AsyncUnitListDiffer@SideUpper " />
         <option value="tag:PosterW260H186ViewModel" />
         <option value="tag:AsyncUnitListDiffer@SideBottom " />
-        <option value="tag:PreLoadLiteDataViewModelTask | tag:DetailCoverLiteDataRequest" />
         <option value="tag:GlideRequestAgent" />
         <option value="tag:MemCache_COVER_PAGE_JCE_53389128 " />
         <option value="tag:AsyncUnitListDiffer" />
