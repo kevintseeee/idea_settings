@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="is:stacktrace " />
         <option value="tag:AsyncUnitListDiffer@ListUnitViewModel" />
         <option value="tag:Async" />
@@ -13,7 +14,6 @@
         <option value="tag:PreLoadLiteDataViewModelTask | tag:DetailCoverLiteDataRequest" />
         <option value="tag:GlideRequestAgent" />
         <option value="tag:MemCache_COVER_PAGE_JCE_53389128 " />
-        <option value="package:mine " />
         <option value="tag:AsyncUnitListDiffer" />
         <option value="tag:PreLoadLiteDataViewModelTask tag:DetailCoverLiteDataRequest" />
         <option value="tag:PreLoadLiteDataViewModelTask" />
