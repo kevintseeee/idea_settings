@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:cover_detail_waterfall" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace | tag:OneDetailCoverFullPageFragment_" />
         <option value="message:cover_detail_waterfall" />
         <option value="message:detail_cover_waterfall" />
-        <option value="is:stacktrace | tag:OneDetailCoverFullPageFragment_" />
         <option value="is:stacktrace | tag:OneDetailCoverFullPageFragment" />
         <option value="is:stacktrace " />
         <option value="tag:DetailCoverPageRequest tag:CoverDetailRootModel_" />
