@@ -15,6 +15,7 @@
       <map>
         <entry key="LanguageServiceStatusBarWidget" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="git" value="true" />
       </map>
     </option>
   </component>
