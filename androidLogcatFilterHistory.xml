@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DetailBgHelper" />
+    <option name="mostRecentlyUsed" value="tag:PlayerLayer_111214504 tag:PlayControllerProxy_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PlayerLayer_111214504 tag:PlayControllerProxy_" />
+        <option value="tag:PlayerLayer_111214504 " />
+        <option value="tag:PlayerLayer_" />
         <option value="tag:DetailBgHelper" />
         <option value="is:stacktrace" />
         <option value="is:stacktrace | tag:OneDetailCoverFullPageFragment_" />
@@ -20,9 +23,6 @@
         <option value="tag:AsyncUnitListDiffer@SideUpper " />
         <option value="tag:PosterW260H186ViewModel" />
         <option value="tag:AsyncUnitListDiffer@SideBottom " />
-        <option value="tag:GlideRequestAgent" />
-        <option value="tag:MemCache_COVER_PAGE_JCE_53389128 " />
-        <option value="tag:AsyncUnitListDiffer" />
       </list>
     </option>
   </component>
