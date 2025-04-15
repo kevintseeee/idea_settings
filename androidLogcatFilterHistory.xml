@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PlayerLayer_111214504 tag:PlayControllerProxy_" />
+    <option name="mostRecentlyUsed" value="tag:TvDTReport message:'eventKey = dt_pg'" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TvDTReport message:'eventKey = dt_pg'" />
+        <option value="tag:TvDTReport" />
         <option value="tag:PlayerLayer_111214504 tag:PlayControllerProxy_" />
         <option value="tag:PlayerLayer_111214504 " />
         <option value="tag:PlayerLayer_" />
@@ -21,8 +23,6 @@
         <option value="tag:Async" />
         <option value="tag:CoverDetailRootModel" />
         <option value="tag:AsyncUnitListDiffer@SideUpper " />
-        <option value="tag:PosterW260H186ViewModel" />
-        <option value="tag:AsyncUnitListDiffer@SideBottom " />
       </list>
     </option>
   </component>
