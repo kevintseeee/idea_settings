@@ -1,6 +1,6 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DebugHelper " />
+    <option name="mostRecentlyUsed" value="is:stacktrace" />
     <option name="nonFavorites">
       <list>
         <option value="tag:DebugHelper " />
