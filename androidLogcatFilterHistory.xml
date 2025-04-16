@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TvDTReport message:'eventKey = dt_pg'" />
+    <option name="mostRecentlyUsed" value="tag:DebugHelper " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DebugHelper " />
+        <option value="tag:HeaderFuncBtnListViewModel_" />
+        <option value="message:" />
+        <option value="tag:TVMediaPlayerVideoCompletion" />
         <option value="tag:TvDTReport message:'eventKey = dt_pg'" />
         <option value="tag:TvDTReport" />
         <option value="tag:PlayerLayer_111214504 tag:PlayControllerProxy_" />
@@ -19,10 +23,6 @@
         <option value="tag:DetailCoverPageRequest" />
         <option value="package:mine " />
         <option value="tag:PreLoadLiteDataViewModelTask | tag:DetailCoverLiteDataRequest" />
-        <option value="tag:AsyncUnitListDiffer@ListUnitViewModel" />
-        <option value="tag:Async" />
-        <option value="tag:CoverDetailRootModel" />
-        <option value="tag:AsyncUnitListDiffer@SideUpper " />
       </list>
     </option>
   </component>
