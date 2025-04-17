@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="tag:CoverDetailRootModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="tag:CoverDetailRootModel" />
         <option value="is:stacktrace " />
         <option value="tag:VirtualSectionEntityRequest | message:GetTabSection" />
@@ -22,7 +23,6 @@
         <option value="tag:DebugHelper " />
         <option value="message~:origin.+waterfall" />
         <option value="is:stacktrace" />
-        <option value="tag:HeaderFuncBtnListViewModel_" />
       </list>
     </option>
   </component>
