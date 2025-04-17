@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AsyncUnitListDiffer@SideBottom | message:mAsyncUiRunnable" />
+    <option name="mostRecentlyUsed" value="tag:Error" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Error" />
         <option value="tag:AsyncUnitListDiffer@SideBottom | message:mAsyncUiRunnable" />
         <option value="tag:AsyncUnitListDiffer@SideBottom" />
         <option value="tag:DetailCoverLiteDataRequest tag:PreLoadLiteDataViewModelTask tag:AsyncUnitListDiffer@SideBottom" />
@@ -22,7 +23,6 @@
         <option value="tag:PlayerLayer_" />
         <option value="tag:DetailBgHelper" />
         <option value="is:stacktrace | tag:OneDetailCoverFullPageFragment_" />
-        <option value="message:cover_detail_waterfall" />
       </list>
     </option>
   </component>
