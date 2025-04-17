@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Error" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
+        <option value="tag:VirtualSectionEntityRequest | message:GetTabSection" />
+        <option value="tag:ContainerSectionEntity@f6dcfe5@28654@34255@@34255@ | tag:VirtualSectionEntity | tag:VirtualSectionEntityRequest | message:GetTabSection" />
+        <option value="tag:ContainerSectionEntity@f6dcfe5@28654@34255@@34255@ | tag:VirtualSectionEntity | tag:VirtualSectionEntityRequest" />
+        <option value="tag:ContainerSectionEntity@f6dcfe5@28654@34255@@34255@ | tag:VirtualSectionEntity" />
+        <option value="tag:ContainerSectionEntity@f6dcfe5@28654@34255@@34255@" />
+        <option value="message:handleTabSelected" />
+        <option value="tag:SectionEntity" />
         <option value="tag:Error" />
         <option value="tag:AsyncUnitListDiffer@SideBottom | message:mAsyncUiRunnable" />
         <option value="tag:AsyncUnitListDiffer@SideBottom" />
@@ -15,14 +23,6 @@
         <option value="is:stacktrace" />
         <option value="tag:HeaderFuncBtnListViewModel_" />
         <option value="message:" />
-        <option value="tag:TVMediaPlayerVideoCompletion" />
-        <option value="tag:TvDTReport message:'eventKey = dt_pg'" />
-        <option value="tag:TvDTReport" />
-        <option value="tag:PlayerLayer_111214504 tag:PlayControllerProxy_" />
-        <option value="tag:PlayerLayer_111214504 " />
-        <option value="tag:PlayerLayer_" />
-        <option value="tag:DetailBgHelper" />
-        <option value="is:stacktrace | tag:OneDetailCoverFullPageFragment_" />
       </list>
     </option>
   </component>
