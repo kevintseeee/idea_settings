@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:CoverDetailRootModel" />
+    <option name="mostRecentlyUsed" value="tag:PreLoadLiteDataViewModelTask tag:COVER_PAGE_LITE_DATA" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PreLoadLiteDataViewModelTask tag:COVER_PAGE_LITE_DATA" />
+        <option value="tag:PreLoadLiteDataViewModelTask" />
         <option value="package:mine " />
         <option value="tag:CoverDetailRootModel" />
         <option value="is:stacktrace " />
@@ -21,8 +23,6 @@
         <option value="tag:AsyncUnitListDiffer tag:DetailCoverLiteDataRequest" />
         <option value="tag:AsyncUnitListDiffer " />
         <option value="tag:DebugHelper " />
-        <option value="message~:origin.+waterfall" />
-        <option value="is:stacktrace" />
       </list>
     </option>
   </component>
