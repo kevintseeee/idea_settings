@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PosterW260H428Component" />
+    <option name="mostRecentlyUsed" value="tag:PreLoadLiteDataViewModelTask | tag:COVER_PAGE_LITE_DATA" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PreLoadLiteDataViewModelTask | tag:COVER_PAGE_LITE_DATA" />
+        <option value="tag:PreLoadLiteDataViewModelTask tag:COVER_PAGE_LITE_DAT" />
         <option value="tag:PosterW260H428Component" />
         <option value="tag:CoverPageTitleViewModel" />
         <option value="tag:PreLoadLiteDataViewModelTask tag:COVER_PAGE_LITE_DATA tag:DiskCacheFileUtils" />
@@ -21,8 +23,6 @@
         <option value="tag:Error" />
         <option value="tag:AsyncUnitListDiffer@SideBottom | message:mAsyncUiRunnable" />
         <option value="tag:AsyncUnitListDiffer@SideBottom" />
-        <option value="tag:DetailCoverLiteDataRequest tag:PreLoadLiteDataViewModelTask tag:AsyncUnitListDiffer@SideBottom" />
-        <option value="tag:AsyncUnitListDiffer tag:DetailCoverLiteDataRequest tag:PreLoadLiteDataViewModelTask" />
       </list>
     </option>
   </component>
