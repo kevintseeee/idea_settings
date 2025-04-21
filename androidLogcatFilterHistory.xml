@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:resetListStateOnRefresh message:alignViewSticky" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="message:resetListStateOnRefresh message:alignViewSticky" />
         <option value="message:resetListStateOnRefresh" />
         <option value="message:onShow" />
@@ -16,7 +17,6 @@
         <option value="tag:PreLoadLiteDataViewModelTask" />
         <option value="package:mine " />
         <option value="tag:CoverDetailRootModel" />
-        <option value="is:stacktrace " />
         <option value="tag:VirtualSectionEntityRequest | message:GetTabSection" />
         <option value="tag:ContainerSectionEntity@f6dcfe5@28654@34255@@34255@ | tag:VirtualSectionEntity | tag:VirtualSectionEntityRequest | message:GetTabSection" />
         <option value="tag:ContainerSectionEntity@f6dcfe5@28654@34255@@34255@ | tag:VirtualSectionEntity | tag:VirtualSectionEntityRequest" />
