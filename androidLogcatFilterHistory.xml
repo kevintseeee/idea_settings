@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:onShow" />
+    <option name="mostRecentlyUsed" value="message:resetListStateOnRefresh message:alignViewSticky" />
     <option name="nonFavorites">
       <list>
+        <option value="message:resetListStateOnRefresh message:alignViewSticky" />
+        <option value="message:resetListStateOnRefresh" />
         <option value="message:onShow" />
         <option value="tag:DoubleRowDetailCoverPageFragment_" />
         <option value="tag:PreLoadLiteDataViewModelTask | tag:COVER_PAGE_LITE_DATA" />
@@ -21,8 +23,6 @@
         <option value="tag:ContainerSectionEntity@f6dcfe5@28654@34255@@34255@ | tag:VirtualSectionEntity" />
         <option value="tag:ContainerSectionEntity@f6dcfe5@28654@34255@@34255@" />
         <option value="message:handleTabSelected" />
-        <option value="tag:SectionEntity" />
-        <option value="tag:Error" />
       </list>
     </option>
   </component>
