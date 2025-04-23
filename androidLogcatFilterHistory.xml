@@ -1,17 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AsyncListDataDiffer" />
+    <option name="mostRecentlyUsed" value="tag:Error" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:AsyncListDataDiffer" />
+        <option value="tag:Error" />
+        <option value="tag:AsyncUnitListDiffer@SideBottom | message:mAsyncUiRunnable" />
+        <option value="tag:AsyncUnitListDiffer@SideBottom" />
+        <option value="tag:DetailCoverLiteDataRequest tag:PreLoadLiteDataViewModelTask tag:AsyncUnitListDiffer@SideBottom" />
+        <option value="tag:AsyncUnitListDiffer tag:DetailCoverLiteDataRequest tag:PreLoadLiteDataViewModelTask" />
+        <option value="tag:AsyncUnitListDiffer tag:DetailCoverLiteDataRequest" />
+        <option value="tag:AsyncUnitListDiffer " />
         <option value="tag:DebugHelper " />
-        <option value="message:checkAlign message:tryNotify" />
-        <option value="message:checkAlign" />
-        <option value="message:checkAlign " />
-        <option value="is:stacktrace " />
-        <option value="message:onUnitListChanged message:onUnitStateChanged" />
-        <option value="message:onUnitListChanged" />
-        <option value="message:handleVideoClicked" />
+        <option value="message~:origin.+waterfall" />
+        <option value="is:stacktrace" />
+        <option value="tag:HeaderFuncBtnListViewModel_" />
+        <option value="message:" />
+        <option value="tag:TVMediaPlayerVideoCompletion" />
+        <option value="tag:TvDTReport message:'eventKey = dt_pg'" />
+        <option value="tag:TvDTReport" />
+        <option value="tag:PlayerLayer_111214504 tag:PlayControllerProxy_" />
+        <option value="tag:PlayerLayer_111214504 " />
+        <option value="tag:PlayerLayer_" />
+        <option value="tag:DetailBgHelper" />
+        <option value="is:stacktrace | tag:OneDetailCoverFullPageFragment_" />
       </list>
     </option>
   </component>

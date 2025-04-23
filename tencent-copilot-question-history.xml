@@ -13,6 +13,17 @@
         <option value="calculateMatches方法的算法复杂度太高了，是否有更低复杂度的算法能完成calculateMatches的功能？" />
         <option value="在算法复杂度方面，calculateMatches方法还有什么优化空间？" />
         <option value="calculateMatches方法的时间复杂度和空间复杂度" />
+        <option value="解决多线程访问的安全问题" />
+        <option value="给PreLoadDataModelWorker类添加注释" />
+        <option value="给PreLoadLiteDataWorker类添加注释" />
+        <option value="针对ViewModelPools类，给出命名相关的意见" />
+        <option value="阅读ViewModelTaskSchedMgr类、PreLoadLiteDataViewModelTask类、PreLoadDataModelViewModelTask类，然后针对ViewModelTaskSchedMgr类，给出命名相关的评审意见。" />
+        <option value="阅读ViewModelTaskSchedMgr类、PreLoadLiteDataViewModelTask类、PreLoadDataModelViewModelTask类，然后针对ViewModelTaskSchedMgr类，给框架设计相关的评审意见。" />
+        <option value="阅读ViewModelTaskSchedMgr类、PreLoadLiteDataViewModelTask类、PreLoadDataModelViewModelTask类，然后针对ViewModelTaskSchedMgr类，写单元测试。只能使用Powermock，Mokito。" />
+        <option value="我刚刚把AsyncUnitListDiffer修改了一遍，submitList方法支持多线程调用。检查AsyncUnitListDiffer代码是否有多线程风险？比如需要加volatile，修改写法？" />
+        <option value="我刚刚把AsyncUnitListDiffer修改了一遍，submitList方法支持多线程调用。检查AsyncUnitListDiffer代码是否有多线程风险？" />
+        <option value="我还需要用volatile来修饰mList和mMaxScheduledGeneration吗" />
+        <option value="针对我的修改，我的命名有需要改进的地方吗？" />
       </list>
     </option>
   </component>
