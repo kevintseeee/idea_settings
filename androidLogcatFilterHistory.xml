@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ListUnitViewModel_" />
+    <option name="mostRecentlyUsed" value="package:mine message:main tag=:MultiTabsVideoListViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:main tag=:MultiTabsVideoListViewModel" />
+        <option value="package:mine message:main" />
+        <option value="package:mine message:unit" />
         <option value="tag:ListUnitViewModel_" />
         <option value="message:startPage" />
         <option value="is:stacktrace " />
@@ -20,9 +23,6 @@
         <option value="package:mine " />
         <option value="tag:CoverDetailRootModel" />
         <option value="tag:VirtualSectionEntityRequest | message:GetTabSection" />
-        <option value="tag:ContainerSectionEntity@f6dcfe5@28654@34255@@34255@ | tag:VirtualSectionEntity | tag:VirtualSectionEntityRequest | message:GetTabSection" />
-        <option value="tag:ContainerSectionEntity@f6dcfe5@28654@34255@@34255@ | tag:VirtualSectionEntity | tag:VirtualSectionEntityRequest" />
-        <option value="tag:ContainerSectionEntity@f6dcfe5@28654@34255@@34255@ | tag:VirtualSectionEntity" />
       </list>
     </option>
   </component>
