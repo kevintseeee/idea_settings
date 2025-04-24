@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:main tag=:MultiTabsVideoListViewModel" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="package:mine message:main tag=:MultiTabsVideoListViewModel" />
         <option value="package:mine message:main" />
         <option value="package:mine message:unit" />
         <option value="tag:ListUnitViewModel_" />
         <option value="message:startPage" />
-        <option value="is:stacktrace " />
         <option value="message:resetListStateOnRefresh message:alignViewSticky" />
         <option value="message:resetListStateOnRefresh" />
         <option value="message:onShow" />
