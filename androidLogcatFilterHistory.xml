@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="tag:CoverDetailRootModel_ tag:kevinrhxie" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:CoverDetailRootModel_ tag:kevinrhxie" />
         <option value="is:crash " />
         <option value="is:stacktrace " />
         <option value="package:mine message:main tag=:MultiTabsVideoListViewModel" />
@@ -22,7 +23,6 @@
         <option value="tag:PreLoadLiteDataViewModelTask tag:COVER_PAGE_LITE_DATA" />
         <option value="tag:PreLoadLiteDataViewModelTask" />
         <option value="package:mine " />
-        <option value="tag:CoverDetailRootModel" />
       </list>
     </option>
   </component>
