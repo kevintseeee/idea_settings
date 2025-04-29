@@ -25,6 +25,7 @@
         <option value="我还需要用volatile来修饰mList和mMaxScheduledGeneration吗" />
         <option value="针对我的修改，我的命名有需要改进的地方吗？" />
         <option value="优化这个方法的注释" />
+        <option value="帮我完成createThreadPoolExecutor方法，我希望返回一个专门用于IO任务的ThreadPoolExecutor" />
       </list>
     </option>
   </component>
