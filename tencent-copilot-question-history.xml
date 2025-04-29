@@ -27,6 +27,11 @@
         <option value="优化这个方法的注释" />
         <option value="帮我完成createThreadPoolExecutor方法，我希望返回一个专门用于IO任务的ThreadPoolExecutor" />
         <option value="帮我实现一个TaskExecutor，以下是我对这个TaskExecutor的要求：&#10;我会提供一个HandlerThread；&#10;我希望在这个HandlerThread的MessageQueue处于Idle状态的时候，才执行一个任务；&#10;执行完这个任务之后，如果这个HandlerThread的MessageQueue仍然处于Idle状态，可以再执行一个任务；&#10;任务需要保持线性执行，符合FIFO原则；&#10;&#10;我会提供一个毫秒级的超时时间；&#10;当首个任务被提交到TaskExecutor之后，我们会依据上述要求，等待这个HandlerThread的MessageQueue处于Idle状态。&#10;但是，如果超过这个时间之后，HandlerThread的MessageQueue仍未处于Idle状态，则执行一个任务。&#10;然后计时重置，我们再重新等待这个HandlerThread的MessageQueue处于Idle状态。&#10;&#10;以上是我对TaskExecutor的要求，你需要整理我的需求，以一个专业工程师的表述方式描述一次，然后给出你的实现" />
+        <option value="如果我的IdleHandler，需要持续感知消息队列空闲并执行我的逻辑，要怎么做？因为你说只有在第一次进入空闲时才会执行" />
+        <option value="展开说说你提到的配合Handler使用可实现定时轮询+空闲执行的混合模式" />
+        <option value="我的一个IdleHandler，queueIdle方法总是返回true，但高概率只执行一次后就不执行了，会不会就是因为这里的pendingIdleHandlerCount设置成了0？" />
+        <option value="如果消息队列不再有新消息加入呢？我的IdleHandler尽管queueIdle方法总是返回true且未抛异常，也是只执行一次" />
+        <option value="以专业开发工程师的口吻，总结上述我遇到的问题、原因和解法" />
       </list>
     </option>
   </component>
