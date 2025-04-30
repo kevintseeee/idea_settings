@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PreLoadLiteDataViewModelTask tag:DetailCoverLiteDataRequest" />
+    <option name="mostRecentlyUsed" value="tag:PreLoadLiteDataViewModelTask tag:DetailCoverLiteDataRequest tag:Scheduler" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PreLoadLiteDataViewModelTask tag:DetailCoverLiteDataRequest tag:Scheduler" />
         <option value="tag:PreLoadLiteDataViewModelTask tag:DetailCoverLiteDataRequest" />
         <option value="tag:PreLoadLiteDataViewModelTask" />
         <option value="tag:CoverDetailRootModel_ tag:PreLoadLiteDataViewModelTask" />
@@ -22,7 +23,6 @@
         <option value="message:resetListStateOnRefresh message:alignViewSticky" />
         <option value="message:resetListStateOnRefresh" />
         <option value="message:onShow" />
-        <option value="tag:DoubleRowDetailCoverPageFragment_" />
       </list>
     </option>
   </component>
