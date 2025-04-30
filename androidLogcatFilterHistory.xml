@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PreLoadLiteDataViewModelTask tag:DetailCoverLiteDataRequest tag:Scheduler" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="tag:PreLoadLiteDataViewModelTask tag:DetailCoverLiteDataRequest tag:Scheduler" />
         <option value="tag:PreLoadLiteDataViewModelTask tag:DetailCoverLiteDataRequest" />
         <option value="tag:PreLoadLiteDataViewModelTask" />
@@ -13,7 +14,6 @@
         <option value="tag:DebugHelper" />
         <option value="tag:TvDTReport message~:concise.+pg" />
         <option value="tag:TvDTReport" />
-        <option value="is:stacktrace " />
         <option value="is:crash " />
         <option value="package:mine message:main tag=:MultiTabsVideoListViewModel" />
         <option value="package:mine message:main" />
