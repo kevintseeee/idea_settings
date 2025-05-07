@@ -1,15 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ThreadBlockMonitor tag:KtcpUncaughtExceptionHandler" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE message~:scene_jump_detail_page_fully_display_cache_data\]\[transition" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TV-TRACE message~:scene_jump_detail_page_fully_display_cache_data\]\[transition" />
+        <option value="tag:TV-TRACE message~:scene_jump_detail_page_fully_display_cache_data" />
         <option value="tag:ThreadBlockMonitor tag:KtcpUncaughtExceptionHandler" />
         <option value="tag:ThreadBlockMonitor" />
         <option value="tag:DoubleRowDetailCoverPageFragment tag:CoverDetailRootModel" />
         <option value="tag:DoubleRowDetailCoverPageFragment_" />
         <option value="tag:DetailCoverFirstFrameReporter" />
         <option value="tag:TV-TRACE message~:scene=scene_jump_detail_page_fully_display_" />
-        <option value="tag:TV-TRACE message~:scene_jump_detail_page_fully_display_cache_data" />
         <option value="tag:TV-TRACE message:scene_jump_detail_page_fully_display_cache_data" />
         <option value="tag:TV-TRACE" />
         <option value="is:stacktrace " />
@@ -22,7 +23,6 @@
         <option value="tag:CoverDetailRootModel_ tag:kevinrhxie" />
         <option value="tag:DebugHelper" />
         <option value="tag:TvDTReport message~:concise.+pg" />
-        <option value="tag:TvDTReport" />
       </list>
     </option>
   </component>
