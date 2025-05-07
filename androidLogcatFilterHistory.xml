@@ -1,9 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TV-TRACE &amp; (message~:scene_jump_detail_page_fully_display_cache_data\]\[transition | message:fireEvent)" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE &amp; message~:ReportAction" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TV-TRACE &amp; message~:ReportAction" />
+        <option value="tag:TV-TRACE &amp; message~:ReportAction.+fully_display" />
+        <option value="tag:TV-TRACE &amp; (message~:scene_jump_one_page_detail_page_fully_display_server_data\]\[transition | message:fireEvent)" />
+        <option value="tag:TV-TRACE &amp; (message~:scene_jump_one_page_detail_page_fully_display_cache_data\]\[transition | message:fireEvent)" />
         <option value="tag:TV-TRACE &amp; (message~:scene_jump_detail_page_fully_display_cache_data\]\[transition | message:fireEvent)" />
+        <option value="tag:TV-TRACE &amp; (message~:scene_jump_one_page_detail_page_fully_display_v2\]\[transition | message:fireEvent)" />
         <option value="tag:TV-TRACE message~:scene_jump_detail_page_fully_display_cache_data\]\[transition" />
         <option value="tag:TV-TRACE message~:scene_jump_detail_page_fully_display_cache_data" />
         <option value="tag:ThreadBlockMonitor tag:KtcpUncaughtExceptionHandler" />
@@ -18,11 +23,6 @@
         <option value="tag:PreLoadLiteDataViewModelTask tag:DetailCoverLiteDataRequest tag:Scheduler" />
         <option value="tag:PreLoadLiteDataViewModelTask tag:DetailCoverLiteDataRequest" />
         <option value="tag:PreLoadLiteDataViewModelTask" />
-        <option value="tag:CoverDetailRootModel_ tag:PreLoadLiteDataViewModelTask" />
-        <option value="tag:CoverDetailRootModel_ " />
-        <option value="package:mine " />
-        <option value="tag:CoverDetailRootModel_ tag:kevinrhxie" />
-        <option value="tag:DebugHelper" />
       </list>
     </option>
   </component>
