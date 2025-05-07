@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE message:scene_jump_detail_page_fully_display_cache_data" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TV-TRACE message:scene_jump_detail_page_fully_display_cache_data" />
+        <option value="tag:TV-TRACE" />
         <option value="is:stacktrace " />
         <option value="tag:PreLoadLiteDataViewModelTask tag:DetailCoverLiteDataRequest tag:Scheduler" />
         <option value="tag:PreLoadLiteDataViewModelTask tag:DetailCoverLiteDataRequest" />
@@ -21,8 +23,6 @@
         <option value="tag:ListUnitViewModel_" />
         <option value="message:startPage" />
         <option value="message:resetListStateOnRefresh message:alignViewSticky" />
-        <option value="message:resetListStateOnRefresh" />
-        <option value="message:onShow" />
       </list>
     </option>
   </component>
