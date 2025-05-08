@@ -36,6 +36,7 @@
         <option value="我希望实现一个TaskExecutor，能够结合两个TaskExecutor（比如A和B），当一个任务提交进来时，可以按顺序经过A、B的回调之后再执行这个任务。" />
         <option value="作为一名专业的开发工程师，给出这个CompositeTaskExecutor类的关于命名方面、设计方面的意见" />
         <option value="作为一名专业的开发工程师，给出这个Task类的关于命名方面、设计方面的意见" />
+        <option value="这里的CopyOnWriteArray与java.util.concurrent.CopyOnWriteArrayList有何区别" />
       </list>
     </option>
   </component>
