@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="tag:OnePageViewTreeObserver" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:OnePageViewTreeObserver" />
         <option value="is:stacktrace " />
         <option value="tag:TV-TRACE &amp; (message:ReportAction | message:restartScene)" />
         <option value="message:PlayTraceBridgeImp" />
@@ -22,7 +23,6 @@
         <option value="tag:DoubleRowDetailCoverPageFragment tag:CoverDetailRootModel" />
         <option value="tag:DoubleRowDetailCoverPageFragment_" />
         <option value="tag:DetailCoverFirstFrameReporter" />
-        <option value="tag:TV-TRACE message~:scene=scene_jump_detail_page_fully_display_" />
       </list>
     </option>
   </component>
