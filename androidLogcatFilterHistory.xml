@@ -1,9 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TV-TRACE &amp; message~:ReportAction" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE" />
     <option name="nonFavorites">
       <list>
+        <option value="message:PlayTraceBridgeImp" />
+        <option value="tag:PlayTraceBridgeImp" />
+        <option value="tag:TV-TRACE" />
         <option value="tag:TV-TRACE &amp; message~:ReportAction" />
+        <option value="tag:TV-TRACE " />
         <option value="tag:TV-TRACE &amp; message~:ReportAction.+fully_display" />
         <option value="tag:TV-TRACE &amp; (message~:scene_jump_one_page_detail_page_fully_display_server_data\]\[transition | message:fireEvent)" />
         <option value="tag:TV-TRACE &amp; (message~:scene_jump_one_page_detail_page_fully_display_cache_data\]\[transition | message:fireEvent)" />
@@ -18,11 +22,7 @@
         <option value="tag:DetailCoverFirstFrameReporter" />
         <option value="tag:TV-TRACE message~:scene=scene_jump_detail_page_fully_display_" />
         <option value="tag:TV-TRACE message:scene_jump_detail_page_fully_display_cache_data" />
-        <option value="tag:TV-TRACE" />
         <option value="is:stacktrace " />
-        <option value="tag:PreLoadLiteDataViewModelTask tag:DetailCoverLiteDataRequest tag:Scheduler" />
-        <option value="tag:PreLoadLiteDataViewModelTask tag:DetailCoverLiteDataRequest" />
-        <option value="tag:PreLoadLiteDataViewModelTask" />
       </list>
     </option>
   </component>
