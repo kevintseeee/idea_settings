@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:kevin | is:crash " />
+    <option name="mostRecentlyUsed" value="tag:DetailCoverFirstFrameReporter | (tag:TV-TRACE &amp; message:ReportAction) " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DetailCoverFirstFrameReporter | (tag:TV-TRACE &amp; message:ReportAction) " />
+        <option value="tag:DetailCoverFirstFrameReporter | tag:TV-TRACE " />
+        <option value="tag:DetailCoverFirstFrameReporter" />
         <option value="tag:kevin | is:crash " />
         <option value="tag:kevin" />
         <option value="tag:OnePageViewTreeObserver" />
@@ -20,9 +23,6 @@
         <option value="tag:TV-TRACE &amp; (message~:scene_jump_one_page_detail_page_fully_display_v2\]\[transition | message:fireEvent)" />
         <option value="tag:TV-TRACE message~:scene_jump_detail_page_fully_display_cache_data\]\[transition" />
         <option value="tag:TV-TRACE message~:scene_jump_detail_page_fully_display_cache_data" />
-        <option value="tag:ThreadBlockMonitor tag:KtcpUncaughtExceptionHandler" />
-        <option value="tag:ThreadBlockMonitor" />
-        <option value="tag:DoubleRowDetailCoverPageFragment tag:CoverDetailRootModel" />
       </list>
     </option>
   </component>
