@@ -37,6 +37,7 @@
         <option value="作为一名专业的开发工程师，给出这个CompositeTaskExecutor类的关于命名方面、设计方面的意见" />
         <option value="作为一名专业的开发工程师，给出这个Task类的关于命名方面、设计方面的意见" />
         <option value="这里的CopyOnWriteArray与java.util.concurrent.CopyOnWriteArrayList有何区别" />
+        <option value="mScheduled是否需要修饰成volatile" />
       </list>
     </option>
   </component>
