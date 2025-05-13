@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:group_videos_waterfall" />
+    <option name="mostRecentlyUsed" value="message:resumeFocus" />
     <option name="nonFavorites">
       <list>
+        <option value="message:resumeFocus" />
         <option value="message:group_videos_waterfall" />
         <option value="tag:VirtualSectionEntity" />
         <option value="is:crash " />
@@ -22,7 +23,6 @@
         <option value="tag:TV-TRACE &amp; message~:ReportAction" />
         <option value="tag:TV-TRACE " />
         <option value="tag:TV-TRACE &amp; message~:ReportAction.+fully_display" />
-        <option value="tag:TV-TRACE &amp; (message~:scene_jump_one_page_detail_page_fully_display_server_data\]\[transition | message:fireEvent)" />
       </list>
     </option>
   </component>
