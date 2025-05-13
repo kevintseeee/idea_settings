@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:loadArguments" />
+    <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash " />
         <option value="message:loadArguments" />
         <option value="is:crash | tag:kevin" />
-        <option value="is:crash " />
         <option value="tag:DetailCoverFirstFrameReporter | (tag:TV-TRACE &amp; message:ReportAction) " />
         <option value="tag:DetailCoverFirstFrameReporter | tag:TV-TRACE " />
         <option value="tag:DetailCoverFirstFrameReporter" />
