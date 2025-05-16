@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MMKVDiskCache_" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE message:ReportAction" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TV-TRACE message:ReportAction" />
+        <option value="tag:TV-TRACE message:Report" />
         <option value="tag:MMKVDiskCache_" />
         <option value="message:resumeFocus" />
         <option value="message:group_videos_waterfall" />
@@ -21,8 +23,6 @@
         <option value="message:PlayTraceBridgeImp" />
         <option value="tag:PlayTraceBridgeImp" />
         <option value="tag:TV-TRACE" />
-        <option value="tag:TV-TRACE &amp; message~:ReportAction" />
-        <option value="tag:TV-TRACE " />
       </list>
     </option>
   </component>
