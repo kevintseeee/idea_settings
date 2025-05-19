@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash | tag:FunctionListModule" />
+    <option name="mostRecentlyUsed" value="message:getCommonCookie" />
     <option name="nonFavorites">
       <list>
+        <option value="message:getCommonCookie" />
+        <option value="is:crash | tag:FunctionListModule | message:video_play_page | tag:MenuInfoRequest" />
+        <option value="is:crash | tag:FunctionListModule | message:video_play_page | tag:MenuInfoRequest | tag:SafeJceCommonConvertor | tag:JceConvertor" />
+        <option value="is:crash | tag:FunctionListModule | message:video_play_page | tag:MenuInfoRequest | tag:SafeJceCommonConvertor" />
+        <option value="is:crash | tag:FunctionListModule | message:video_play_page" />
+        <option value="is:crash | tag:FunctionListModule | message:video_pl" />
         <option value="is:crash | tag:FunctionListModule" />
         <option value="is:crash " />
         <option value="tag:TV-TRACE message:ReportAction" />
@@ -17,12 +23,6 @@
         <option value="is:crash | tag:kevin" />
         <option value="tag:DetailCoverFirstFrameReporter | (tag:TV-TRACE &amp; message:ReportAction) " />
         <option value="tag:DetailCoverFirstFrameReporter | tag:TV-TRACE " />
-        <option value="tag:DetailCoverFirstFrameReporter" />
-        <option value="tag:kevin | is:crash " />
-        <option value="tag:kevin" />
-        <option value="tag:OnePageViewTreeObserver" />
-        <option value="is:stacktrace " />
-        <option value="tag:TV-TRACE &amp; (message:ReportAction | message:restartScene)" />
       </list>
     </option>
   </component>
