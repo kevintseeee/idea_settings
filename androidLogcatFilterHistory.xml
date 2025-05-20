@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:HistoryTipsPresenter" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
+        <option value="tag:HistoryTipsPresenter tag:Menu" />
+        <option value="package:mine " />
+        <option value="tag:HistoryTipsPresenter tag:MenuReceiver" />
         <option value="tag:HistoryTipsPresenter" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA_ &amp; (message:putSync | message:shrinkCacheDataLocked)" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA_ message:putSync" />
@@ -19,10 +23,6 @@
         <option value="tag:DetailCoverFirstDataReporter tag:CoverDetailRootModel_" />
         <option value="tag:DetailCoverFirstDataReporter" />
         <option value="tag:CoverDetailRootModel_" />
-        <option value="message:getCommonCookie" />
-        <option value="is:crash | tag:FunctionListModule | message:video_play_page | tag:MenuInfoRequest" />
-        <option value="is:crash | tag:FunctionListModule | message:video_play_page | tag:MenuInfoRequest | tag:SafeJceCommonConvertor | tag:JceConvertor" />
-        <option value="is:crash | tag:FunctionListModule | message:video_play_page | tag:MenuInfoRequest | tag:SafeJceCommonConvertor" />
       </list>
     </option>
   </component>
