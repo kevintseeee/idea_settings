@@ -3,10 +3,11 @@
     <option name="commitMessageLanguage" value="zh_CN" />
     <option name="commitMessageStyle" value="auto" />
     <option name="commitMessageTAPDEnable" value="true" />
+    <option name="enableCodeIndexingForCompletion" value="true" />
     <option name="firstInstall" value="false" />
     <option name="networkProxyAddress" value="" />
     <option name="networkProxyType" value="manual" />
-    <option name="updateVersion" value="1.45.0" />
+    <option name="updateVersion" value="1.45.6" />
     <option name="disabledLanguages">
       <map>
         <entry languageId="markdown" languageIdEnable="false" />
@@ -15,7 +16,7 @@
     <option name="updateVersionInfo">
       <map>
         <entry key="pluginId" value="com.tencent.code.CodeCopilotJetBrainPlugin" />
-        <entry key="version" value="1.45.0" />
+        <entry key="version" value="1.45.6" />
       </map>
     </option>
   </component>
