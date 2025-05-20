@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:HistoryTipsPresenter" />
+    <option name="mostRecentlyUsed" value="tag:DetailCoverFirstDataReporter" />
     <option name="nonFavorites">
       <list>
-        <option value="is:crash | tag:FunctionListModule | message:video_play_page | tag:MenuInfoRequest | tag:FunctionListModule" />
+        <option value="tag:DetailCoverFirstDataReporter" />
+        <option value="tag:CoverDetailRootModel_" />
         <option value="tag:HistoryTipsPresenter" />
+        <option value="is:crash | tag:FunctionListModule | message:video_play_page | tag:MenuInfoRequest | tag:FunctionListModule" />
         <option value="message:getCommonCookie" />
         <option value="is:crash | tag:FunctionListModule | message:video_play_page | tag:MenuInfoRequest" />
         <option value="is:crash | tag:FunctionListModule | message:video_play_page | tag:MenuInfoRequest | tag:SafeJceCommonConvertor | tag:JceConvertor" />
@@ -21,8 +23,6 @@
         <option value="message:resumeFocus" />
         <option value="message:group_videos_waterfall" />
         <option value="tag:VirtualSectionEntity" />
-        <option value="message:loadArguments" />
-        <option value="is:crash | tag:kevin" />
       </list>
     </option>
   </component>
