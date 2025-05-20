@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DetailCoverFirstDataReporter" />
+    <option name="mostRecentlyUsed" value="tag:DetailCoverFirstDataReporter " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DetailCoverFirstDataReporter " />
+        <option value="tag:DetailCoverFirstDataReporter tag:CoverDetailRootModel_" />
         <option value="tag:DetailCoverFirstDataReporter" />
         <option value="tag:CoverDetailRootModel_" />
         <option value="tag:HistoryTipsPresenter" />
@@ -21,8 +23,6 @@
         <option value="tag:TV-TRACE message:Report" />
         <option value="tag:MMKVDiskCache_" />
         <option value="message:resumeFocus" />
-        <option value="message:group_videos_waterfall" />
-        <option value="tag:VirtualSectionEntity" />
       </list>
     </option>
   </component>
