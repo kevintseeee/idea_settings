@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:guid" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
-        <option value="message:guid" />
         <option value="tag:HistoryTipsPresenter tag:MenuReceiver" />
+        <option value="message:guid" />
         <option value="tag:HistoryTipsPresenter tag:Menu" />
         <option value="is:stacktrace " />
         <option value="package:mine " />
