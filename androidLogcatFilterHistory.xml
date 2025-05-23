@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DefinitionReceiver tag:UnregisterVMTask tag:ClearVMTask" />
+    <option name="mostRecentlyUsed" value="tag:UnregisterVMTask tag:ClearVMTask" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:UnregisterVMTask tag:ClearVMTask" />
         <option value="tag:DefinitionReceiver tag:UnregisterVMTask tag:ClearVMTask" />
         <option value="tag:HistoryTipsPresenter tag:MenuReceiver" />
         <option value="message:guid" />
@@ -22,7 +23,6 @@
         <option value="tag:kevin " />
         <option value="is:crash | tag:FunctionListModule | message:video_play_page | tag:MenuInfoRequest | tag:FunctionListModule" />
         <option value="tag:DetailCoverFirstDataReporter " />
-        <option value="tag:DetailCoverFirstDataReporter tag:CoverDetailRootModel_" />
       </list>
     </option>
   </component>
