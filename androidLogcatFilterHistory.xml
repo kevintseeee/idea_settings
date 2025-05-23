@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="package:mine " />
         <option value="(tag:UnregisterVMTask &amp; message:execute)| ( tag:ClearVMTask &amp; message:execute)" />
         <option value="(tag:UnregisterVMTask )| ( tag:ClearVMTask)" />
@@ -11,7 +12,6 @@
         <option value="tag:HistoryTipsPresenter tag:MenuReceiver" />
         <option value="message:guid" />
         <option value="tag:HistoryTipsPresenter tag:Menu" />
-        <option value="is:stacktrace " />
         <option value="tag:HistoryTipsPresenter" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA_ &amp; (message:putSync | message:shrinkCacheDataLocked)" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA_ message:putSync" />
