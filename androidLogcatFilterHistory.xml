@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="message:clicked" />
     <option name="nonFavorites">
       <list>
+        <option value="message:clicked" />
         <option value="is:stacktrace " />
         <option value="package:mine " />
         <option value="(tag:UnregisterVMTask &amp; message:execute)| ( tag:ClearVMTask &amp; message:execute)" />
@@ -22,7 +23,6 @@
         <option value="tag:kevin | tag:FullScreenInfo" />
         <option value="tag:kevin | tag:FullScreenInfoPresenter " />
         <option value="tag:DetailCoverFirstDataReporter tag:CoverDetailRootModel_ tag:kevin " />
-        <option value="tag:kevin " />
       </list>
     </option>
   </component>
