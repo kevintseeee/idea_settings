@@ -43,6 +43,7 @@
         <option value="请看CompositeTaskExecutor类，我将mTaskQueue的类型变更为了CircularArray类型，发现CompositeTaskExecutor的cancel方法需要取消任务，但是CircularArray没有remove方法，能怎么办？" />
         <option value="看一下我新写的CompositeTaskExecutor的cancel方法，是否正确" />
         <option value="介绍一下newSetFromMap方法" />
+        <option value="总结并评价一下MMKVDiskCache" />
       </list>
     </option>
   </component>
