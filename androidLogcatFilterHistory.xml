@@ -1,15 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA" />
+    <option name="mostRecentlyUsed" value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData | message:GetCoverDetailLite | tag:DetailCoverLiteDataRequest | tag:CoverDetailRootModel" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData | message:GetCoverDetailLite | tag:DetailCoverLiteDataRequest | tag:CoverDetailRootModel" />
+        <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData | message:GetCoverDetailLite | tag:DetailCoverLiteDataRequest" />
+        <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData | message:GetCoverDetailLite" />
+        <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData" />
         <option value="tag:TaskLoadCoverLiteData" />
+        <option value="package:mine " />
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA" />
         <option value="tag:MMKVDiskCache_" />
         <option value="message:shrinkCacheDataLocked" />
         <option value="message:clicked" />
         <option value="is:stacktrace " />
-        <option value="package:mine " />
         <option value="(tag:UnregisterVMTask &amp; message:execute)| ( tag:ClearVMTask &amp; message:execute)" />
         <option value="(tag:UnregisterVMTask )| ( tag:ClearVMTask)" />
         <option value="tag:UnregisterVMTask tag:ClearVMTask" />
@@ -19,10 +23,6 @@
         <option value="tag:HistoryTipsPresenter tag:Menu" />
         <option value="tag:HistoryTipsPresenter" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA_ &amp; (message:putSync | message:shrinkCacheDataLocked)" />
-        <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA_ message:putSync" />
-        <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA_39856356" />
-        <option value="message:putSync" />
-        <option value="tag:kevin | tag:HistoryTipsPresenter" />
       </list>
     </option>
   </component>
