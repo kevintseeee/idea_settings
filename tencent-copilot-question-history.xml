@@ -44,6 +44,10 @@
         <option value="看一下我新写的CompositeTaskExecutor的cancel方法，是否正确" />
         <option value="介绍一下newSetFromMap方法" />
         <option value="总结并评价一下MMKVDiskCache" />
+        <option value="优化成员命名" />
+        <option value="总结这个类" />
+        <option value="完善类的注释" />
+        <option value="完善注释" />
       </list>
     </option>
   </component>
