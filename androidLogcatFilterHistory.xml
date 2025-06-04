@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData | message:GetCoverDetailLite | tag:DetailCoverLiteDataRequest | tag:CoverDetailRootModel" />
+    <option name="mostRecentlyUsed" value="message:shrinkCacheDataLocked" />
     <option name="nonFavorites">
       <list>
+        <option value="message:shrinkCacheDataLocked" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData | message:GetCoverDetailLite | tag:DetailCoverLiteDataRequest | tag:CoverDetailRootModel" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData | message:GetCoverDetailLite | tag:DetailCoverLiteDataRequest" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData | message:GetCoverDetailLite" />
@@ -11,7 +12,6 @@
         <option value="package:mine " />
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA" />
         <option value="tag:MMKVDiskCache_" />
-        <option value="message:shrinkCacheDataLocked" />
         <option value="message:clicked" />
         <option value="is:stacktrace " />
         <option value="(tag:UnregisterVMTask &amp; message:execute)| ( tag:ClearVMTask &amp; message:execute)" />
