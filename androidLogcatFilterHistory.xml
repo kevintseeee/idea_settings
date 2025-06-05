@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:setPlayerData" />
+    <option name="mostRecentlyUsed" value="message:getCommonCookie" />
     <option name="nonFavorites">
       <list>
+        <option value="message:getCommonCookie" />
+        <option value="message:CommomCookie" />
         <option value="message:setPlayerData" />
         <option value="message:shrinkCacheDataLocked" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData | message:GetCoverDetailLite | tag:DetailCoverLiteDataRequest | tag:CoverDetailRootModel" />
@@ -21,8 +23,6 @@
         <option value="tag:DefinitionReceiver tag:UnregisterVMTask tag:ClearVMTask" />
         <option value="tag:HistoryTipsPresenter tag:MenuReceiver" />
         <option value="message:guid" />
-        <option value="tag:HistoryTipsPresenter tag:Menu" />
-        <option value="tag:HistoryTipsPresenter" />
       </list>
     </option>
   </component>
