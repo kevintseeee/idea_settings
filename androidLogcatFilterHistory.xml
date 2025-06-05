@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:shrinkCacheDataLocked" />
+    <option name="mostRecentlyUsed" value="message:setPlayerData" />
     <option name="nonFavorites">
       <list>
+        <option value="message:setPlayerData" />
         <option value="message:shrinkCacheDataLocked" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData | message:GetCoverDetailLite | tag:DetailCoverLiteDataRequest | tag:CoverDetailRootModel" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData | message:GetCoverDetailLite | tag:DetailCoverLiteDataRequest" />
@@ -22,7 +23,6 @@
         <option value="message:guid" />
         <option value="tag:HistoryTipsPresenter tag:Menu" />
         <option value="tag:HistoryTipsPresenter" />
-        <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA_ &amp; (message:putSync | message:shrinkCacheDataLocked)" />
       </list>
     </option>
   </component>
