@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:VideoViewPresenter" />
+    <option name="mostRecentlyUsed" value="tag:PlayerLayer_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PlayerLayer_" />
         <option value="tag:VideoViewPresenter" />
         <option value="message:getCommonCookie" />
         <option value="message:CommomCookie" />
@@ -22,7 +23,6 @@
         <option value="(tag:UnregisterVMTask )| ( tag:ClearVMTask)" />
         <option value="tag:UnregisterVMTask tag:ClearVMTask" />
         <option value="tag:DefinitionReceiver tag:UnregisterVMTask tag:ClearVMTask" />
-        <option value="tag:HistoryTipsPresenter tag:MenuReceiver" />
       </list>
     </option>
   </component>
