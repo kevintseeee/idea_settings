@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PlayerLayer_" />
+    <option name="mostRecentlyUsed" value="tag:KEVIN-" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:KEVIN-" />
+        <option value="tag:KEVINRHXIE" />
         <option value="tag:PlayerLayer_" />
         <option value="tag:VideoViewPresenter" />
         <option value="message:getCommonCookie" />
@@ -21,8 +23,6 @@
         <option value="is:stacktrace " />
         <option value="(tag:UnregisterVMTask &amp; message:execute)| ( tag:ClearVMTask &amp; message:execute)" />
         <option value="(tag:UnregisterVMTask )| ( tag:ClearVMTask)" />
-        <option value="tag:UnregisterVMTask tag:ClearVMTask" />
-        <option value="tag:DefinitionReceiver tag:UnregisterVMTask tag:ClearVMTask" />
       </list>
     </option>
   </component>
