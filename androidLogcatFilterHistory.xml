@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:KEVIN-" />
+    <option name="mostRecentlyUsed" value="tag:TvPlayerPresenter" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TvPlayerPresenter" />
+        <option value="tag:MediaPlayerManager" />
         <option value="tag:KEVIN-" />
         <option value="tag:KEVINRHXIE" />
         <option value="tag:PlayerLayer_" />
@@ -21,8 +23,6 @@
         <option value="tag:MMKVDiskCache_" />
         <option value="message:clicked" />
         <option value="is:stacktrace " />
-        <option value="(tag:UnregisterVMTask &amp; message:execute)| ( tag:ClearVMTask &amp; message:execute)" />
-        <option value="(tag:UnregisterVMTask )| ( tag:ClearVMTask)" />
       </list>
     </option>
   </component>
