@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TvPlayerPresenter" />
+    <option name="mostRecentlyUsed" value="tag:CoverDetailRootModel_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:CoverDetailRootModel_" />
         <option value="tag:TvPlayerPresenter" />
         <option value="tag:MediaPlayerManager" />
         <option value="tag:KEVIN-" />
@@ -22,7 +23,6 @@
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA" />
         <option value="tag:MMKVDiskCache_" />
         <option value="message:clicked" />
-        <option value="is:stacktrace " />
       </list>
     </option>
   </component>
