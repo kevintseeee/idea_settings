@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@ tag:ReusableOnePageLifecycleRegistry" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@ tag:ReusableOnePageLifecycleRegistry" />
         <option value="is:stacktrace " />
         <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@" />
         <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment" />
@@ -22,7 +23,6 @@
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData | message:GetCoverDetailLite | tag:DetailCoverLiteDataRequest | tag:CoverDetailRootModel" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData | message:GetCoverDetailLite | tag:DetailCoverLiteDataRequest" />
         <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData | message:GetCoverDetailLite" />
-        <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData" />
       </list>
     </option>
   </component>
