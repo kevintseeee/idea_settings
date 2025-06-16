@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:select tag:DetailMultiTabViewModel_98400643" />
+    <option name="mostRecentlyUsed" value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@ tag:ReusableOnePageLifecycleRegistry tag:CoverDetailRootModel" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@ tag:ReusableOnePageLifecycleRegistry tag:CoverDetailRootModel" />
+        <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@ tag:ReusableOnePageLifecycleRegistry" />
         <option value="message:select tag:DetailMultiTabViewModel_98400643" />
         <option value="message:select" />
         <option value="is:stacktrace " />
-        <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@ tag:ReusableOnePageLifecycleRegistry" />
         <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@" />
         <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment" />
         <option value="tag:DoubleRowDetailCoverPageFragment_" />
@@ -22,7 +23,6 @@
         <option value="message:CommomCookie" />
         <option value="message:setPlayerData" />
         <option value="message:shrinkCacheDataLocked" />
-        <option value="tag:MMKVDiskCache_COVER_PAGE_LITE_DATA | tag:TaskLoadCoverLiteData | message:GetCoverDetailLite | tag:DetailCoverLiteDataRequest | tag:CoverDetailRootModel" />
       </list>
     </option>
   </component>
