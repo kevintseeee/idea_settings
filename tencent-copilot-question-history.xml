@@ -50,6 +50,7 @@
         <option value="完善注释" />
         <option value="仅使用Mockito和PowerMockito，针对TaskLoadCoverLiteData的scheduleCoverLiteDataRequestIfNotExecuted和startCoverLiteDataRequest，写单元测试" />
         <option value="生成注释" />
+        <option value="使用方每次调用runOnLogicLifecycle，都会注册一个LiveData的监听以及Lifecycle的监听，请优化这里的实现" />
       </list>
     </option>
   </component>
