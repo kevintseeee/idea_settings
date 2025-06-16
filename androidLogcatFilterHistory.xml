@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DoubleRowDetailCoverPageFragment_ " />
+    <option name="mostRecentlyUsed" value="tag:OnePageLifecycle " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:OnePageLifecycle " />
         <option value="tag:DoubleRowDetailCoverPageFragment_ " />
         <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@ tag:ReusableOnePageLifecycleRegistry " />
         <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@ tag:ReusableOnePageLifecycleRegistry tag:CoverDetailRootModel" />
@@ -22,7 +23,6 @@
         <option value="tag:PlayerLayer_" />
         <option value="tag:VideoViewPresenter" />
         <option value="message:getCommonCookie" />
-        <option value="message:CommomCookie" />
       </list>
     </option>
   </component>
