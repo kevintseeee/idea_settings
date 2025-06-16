@@ -49,6 +49,7 @@
         <option value="完善类的注释" />
         <option value="完善注释" />
         <option value="仅使用Mockito和PowerMockito，针对TaskLoadCoverLiteData的scheduleCoverLiteDataRequestIfNotExecuted和startCoverLiteDataRequest，写单元测试" />
+        <option value="生成注释" />
       </list>
     </option>
   </component>
