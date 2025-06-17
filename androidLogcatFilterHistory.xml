@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:OnePageLifecycle " />
+    <option name="mostRecentlyUsed" value="message:isSupportDetailTinyPlay" />
     <option name="nonFavorites">
       <list>
+        <option value="message:isSupportDetailTinyPlay" />
+        <option value="is:crash " />
+        <option value="package:mine " />
         <option value="tag:OnePageLifecycle " />
         <option value="tag:DoubleRowDetailCoverPageFragment_ " />
         <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@ tag:ReusableOnePageLifecycleRegistry " />
@@ -20,9 +23,6 @@
         <option value="tag:MediaPlayerManager" />
         <option value="tag:KEVIN-" />
         <option value="tag:KEVINRHXIE" />
-        <option value="tag:PlayerLayer_" />
-        <option value="tag:VideoViewPresenter" />
-        <option value="message:getCommonCookie" />
       </list>
     </option>
   </component>
