@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:OnePlayController" />
+    <option name="mostRecentlyUsed" value="tag:CoverDetailRootModel_ tag:DetailCoverInfoModel_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:CoverDetailRootModel_ tag:DetailCoverInfoModel_" />
+        <option value="tag:CoverDetailRootModel_" />
         <option value="tag:OnePlayController" />
         <option value="tag:PlayControllerStorage" />
         <option value="tag:DoubleRowDetailCoverPageFragment_" />
@@ -20,9 +22,7 @@
         <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@" />
         <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment" />
         <option value="tag:CoverDetailRootModel_ | message:refreshData" />
-        <option value="tag:CoverDetailRootModel_" />
         <option value="tag:TvPlayerPresenter" />
-        <option value="tag:MediaPlayerManager" />
       </list>
     </option>
   </component>
