@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PlayControllerStorage" />
+    <option name="mostRecentlyUsed" value="tag:OnePlayController" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:OnePlayController" />
         <option value="tag:PlayControllerStorage" />
         <option value="tag:DoubleRowDetailCoverPageFragment_" />
         <option value="message:isSupportDetailTinyPlay" />
@@ -22,7 +23,6 @@
         <option value="tag:CoverDetailRootModel_" />
         <option value="tag:TvPlayerPresenter" />
         <option value="tag:MediaPlayerManager" />
-        <option value="tag:KEVIN-" />
       </list>
     </option>
   </component>
