@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="tag:CoverDetailRootModel_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:CoverDetailRootModel_" />
         <option value="is:crash " />
         <option value="tag:DoubleRowD" />
         <option value="DOuble" />
         <option value="tag:CoverDetailRootModel_ tag:DetailCoverInfoModel_" />
-        <option value="tag:CoverDetailRootModel_" />
         <option value="tag:OnePlayController" />
         <option value="tag:PlayControllerStorage" />
         <option value="tag:DoubleRowDetailCoverPageFragment_" />
