@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DoubleRowD" />
+    <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash " />
         <option value="tag:DoubleRowD" />
         <option value="DOuble" />
         <option value="tag:CoverDetailRootModel_ tag:DetailCoverInfoModel_" />
@@ -11,7 +12,6 @@
         <option value="tag:PlayControllerStorage" />
         <option value="tag:DoubleRowDetailCoverPageFragment_" />
         <option value="message:isSupportDetailTinyPlay" />
-        <option value="is:crash " />
         <option value="package:mine " />
         <option value="tag:OnePageLifecycle " />
         <option value="tag:DoubleRowDetailCoverPageFragment_ " />
