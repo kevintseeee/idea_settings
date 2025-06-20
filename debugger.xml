@@ -97,13 +97,12 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views>
-      <option name="showLibraryStackFrames" value="true" />
-    </data-views>
+    <data-views />
     <general />
     <debuggers>
       <debugger id="ObjectiveC">
         <configuration>
+          <child-process-debugging-settings />
           <macOS-symbol-settings />
           <nt-symbol-settings />
         </configuration>
