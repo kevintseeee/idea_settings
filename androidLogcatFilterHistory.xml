@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:printDiffResult" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TV-TRACE" />
+        <option value="package:mine " />
         <option value="message:printDiffResult" />
         <option value="message:printDiff" />
         <option value="tag:" />
@@ -16,13 +18,11 @@
         <option value="tag:OnePlayController" />
         <option value="tag:PlayControllerStorage" />
         <option value="message:isSupportDetailTinyPlay" />
-        <option value="package:mine " />
         <option value="tag:OnePageLifecycle " />
         <option value="tag:DoubleRowDetailCoverPageFragment_ " />
         <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@ tag:ReusableOnePageLifecycleRegistry " />
         <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@ tag:ReusableOnePageLifecycleRegistry tag:CoverDetailRootModel" />
         <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@ tag:ReusableOnePageLifecycleRegistry" />
-        <option value="message:select tag:DetailMultiTabViewModel_98400643" />
       </list>
     </option>
   </component>
