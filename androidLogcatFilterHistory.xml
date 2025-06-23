@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TV-TRACE" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE &amp; (message:scene_jump_one_page_detail_page_fully_display_v3 | message:fireEvent)" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TV-TRACE &amp; (message:scene_jump_one_page_detail_page_fully_display_v3 | message:fireEvent)" />
+        <option value="tag:TV-TRACE message:scene_jump_one_page_detail_page_fully_display_v3" />
+        <option value="message:printDiffResult" />
         <option value="tag:TV-TRACE" />
         <option value="package:mine " />
-        <option value="message:printDiffResult" />
         <option value="message:printDiff" />
         <option value="tag:" />
         <option value="tag:Debug" />
@@ -21,8 +23,6 @@
         <option value="tag:OnePageLifecycle " />
         <option value="tag:DoubleRowDetailCoverPageFragment_ " />
         <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@ tag:ReusableOnePageLifecycleRegistry " />
-        <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@ tag:ReusableOnePageLifecycleRegistry tag:CoverDetailRootModel" />
-        <option value="tag:DoubleRowDetailCoverPageFragment_ tag:OneDetailCoverPageFragment@ tag:ReusableOnePageLifecycleRegistry" />
       </list>
     </option>
   </component>
