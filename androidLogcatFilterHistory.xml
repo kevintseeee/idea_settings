@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MediaPlayerRootView level:info " />
+    <option name="mostRecentlyUsed" value="level:info &amp; (tag:MediaPlayerRootView | tag:VideoViewPresenter) " />
     <option name="nonFavorites">
       <list>
+        <option value="level:info &amp; (tag:MediaPlayerRootView | tag:VideoViewPresenter) " />
+        <option value="level:info &amp; (tag:MediaPlayerRootView | tag:Video) " />
         <option value="tag:MediaPlayerRootView level:info " />
         <option value="tag:MediaPlayerRootView" />
         <option value="tag:TV-TRACE message:ReportAction" />
@@ -21,8 +23,6 @@
         <option value="DOuble" />
         <option value="tag:CoverDetailRootModel_ tag:DetailCoverInfoModel_" />
         <option value="tag:OnePlayController" />
-        <option value="tag:PlayControllerStorage" />
-        <option value="message:isSupportDetailTinyPlay" />
       </list>
     </option>
   </component>
