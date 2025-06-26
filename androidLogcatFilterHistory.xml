@@ -1,14 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:info &amp; (tag:MediaPlayerRootView | tag:VideoViewPresenter) " />
+    <option name="mostRecentlyUsed" value="is:crash is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash is:stacktrace " />
+        <option value="is:crash " />
+        <option value="package:mine " />
         <option value="level:info &amp; (tag:MediaPlayerRootView | tag:VideoViewPresenter) " />
         <option value="level:info &amp; (tag:MediaPlayerRootView | tag:Video) " />
         <option value="tag:MediaPlayerRootView level:info " />
         <option value="tag:MediaPlayerRootView" />
         <option value="tag:TV-TRACE message:ReportAction" />
-        <option value="package:mine " />
         <option value="tag:TV-TRACE &amp; (message:scene_jump_one_page_detail_page_fully_display_v3 | message:fireEvent)" />
         <option value="tag:TV-TRACE message:scene_jump_one_page_detail_page_fully_display_v3" />
         <option value="message:printDiffResult" />
@@ -18,11 +20,9 @@
         <option value="tag:Debug" />
         <option value="tag:DoubleRowDetailCoverPageFragment_" />
         <option value="tag:CoverDetailRootModel_" />
-        <option value="is:crash " />
         <option value="tag:DoubleRowD" />
         <option value="DOuble" />
         <option value="tag:CoverDetailRootModel_ tag:DetailCoverInfoModel_" />
-        <option value="tag:OnePlayController" />
       </list>
     </option>
   </component>
