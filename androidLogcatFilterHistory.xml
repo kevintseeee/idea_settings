@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash is:stacktrace " />
+    <option name="mostRecentlyUsed" value="tag:DetailMultiTabViewModel_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DetailMultiTabViewModel_" />
         <option value="is:crash is:stacktrace " />
         <option value="is:crash " />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="tag:CoverDetailRootModel_" />
         <option value="tag:DoubleRowD" />
         <option value="DOuble" />
-        <option value="tag:CoverDetailRootModel_ tag:DetailCoverInfoModel_" />
       </list>
     </option>
   </component>
