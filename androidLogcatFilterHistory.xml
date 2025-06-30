@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AppLifecycle " />
+    <option name="mostRecentlyUsed" value="tag:DebugHelper  " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DebugHelper  " />
         <option value="tag:AppLifecycle " />
         <option value="tag:AppRuntimeHelper" />
         <option value="tag:DetailMultiTabViewModel_" />
@@ -22,7 +23,6 @@
         <option value="tag:" />
         <option value="tag:Debug" />
         <option value="tag:DoubleRowDetailCoverPageFragment_" />
-        <option value="tag:CoverDetailRootModel_" />
       </list>
     </option>
   </component>
