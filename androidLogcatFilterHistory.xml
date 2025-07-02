@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DebugHelper   " />
+    <option name="mostRecentlyUsed" value="tag:OnePlayController   " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:OnePlayController   " />
         <option value="tag:DebugHelper   " />
         <option value="tag:HeaderFuncBtnListViewModel_  " />
         <option value="tag:DebugHelper  " />
@@ -22,7 +23,6 @@
         <option value="message:printDiffResult" />
         <option value="tag:TV-TRACE" />
         <option value="message:printDiff" />
-        <option value="tag:" />
       </list>
     </option>
   </component>
