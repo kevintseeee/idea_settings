@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:OnePageLifecycle   " />
+    <option name="mostRecentlyUsed" value="tag:Debug   " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:OnePageLifecycle   " />
         <option value="tag:Debug   " />
+        <option value="tag:OnePageLifecycle   " />
         <option value="tag:OnePlayController   " />
         <option value="tag:DebugHelper   " />
         <option value="tag:HeaderFuncBtnListViewModel_  " />
