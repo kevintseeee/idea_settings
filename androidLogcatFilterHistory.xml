@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:OnePlayController   " />
+    <option name="mostRecentlyUsed" value="tag:OnePageLifecycle   " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:OnePageLifecycle   " />
+        <option value="tag:Debug   " />
         <option value="tag:OnePlayController   " />
         <option value="tag:DebugHelper   " />
         <option value="tag:HeaderFuncBtnListViewModel_  " />
@@ -21,8 +23,6 @@
         <option value="tag:TV-TRACE &amp; (message:scene_jump_one_page_detail_page_fully_display_v3 | message:fireEvent)" />
         <option value="tag:TV-TRACE message:scene_jump_one_page_detail_page_fully_display_v3" />
         <option value="message:printDiffResult" />
-        <option value="tag:TV-TRACE" />
-        <option value="message:printDiff" />
       </list>
     </option>
   </component>
