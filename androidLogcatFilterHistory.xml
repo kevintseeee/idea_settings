@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Debug   " />
+    <option name="mostRecentlyUsed" value="message:getCommonCookie" />
     <option name="nonFavorites">
       <list>
+        <option value="message:getCommonCookie" />
+        <option value="message:getCommomCookie" />
+        <option value="message:waterfall" />
         <option value="tag:Debug   " />
         <option value="tag:OnePageLifecycle   " />
         <option value="tag:OnePlayController   " />
@@ -20,9 +23,6 @@
         <option value="tag:MediaPlayerRootView level:info " />
         <option value="tag:MediaPlayerRootView" />
         <option value="tag:TV-TRACE message:ReportAction" />
-        <option value="tag:TV-TRACE &amp; (message:scene_jump_one_page_detail_page_fully_display_v3 | message:fireEvent)" />
-        <option value="tag:TV-TRACE message:scene_jump_one_page_detail_page_fully_display_v3" />
-        <option value="message:printDiffResult" />
       </list>
     </option>
   </component>
