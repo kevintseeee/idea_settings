@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Error" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE message:ReportAction" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:Error" />
-        <option value="tag:AsyncUnitListDiffer@SideBottom | message:mAsyncUiRunnable" />
-        <option value="tag:AsyncUnitListDiffer@SideBottom" />
-        <option value="tag:DetailCoverLiteDataRequest tag:PreLoadLiteDataViewModelTask tag:AsyncUnitListDiffer@SideBottom" />
-        <option value="tag:AsyncUnitListDiffer tag:DetailCoverLiteDataRequest tag:PreLoadLiteDataViewModelTask" />
-        <option value="tag:AsyncUnitListDiffer tag:DetailCoverLiteDataRequest" />
-        <option value="tag:AsyncUnitListDiffer " />
-        <option value="tag:DebugHelper " />
-        <option value="message~:origin.+waterfall" />
-        <option value="is:stacktrace" />
-        <option value="tag:HeaderFuncBtnListViewModel_" />
-        <option value="message:" />
-        <option value="tag:TVMediaPlayerVideoCompletion" />
-        <option value="tag:TvDTReport message:'eventKey = dt_pg'" />
-        <option value="tag:TvDTReport" />
-        <option value="tag:PlayerLayer_111214504 tag:PlayControllerProxy_" />
-        <option value="tag:PlayerLayer_111214504 " />
-        <option value="tag:PlayerLayer_" />
-        <option value="tag:DetailBgHelper" />
-        <option value="is:stacktrace | tag:OneDetailCoverFullPageFragment_" />
+        <option value="tag:TV-TRACE message:ReportAction" />
+        <option value="tag:TV-TRACE message:Report" />
+        <option value="tag:MMKVDiskCache_" />
+        <option value="message:resumeFocus" />
+        <option value="message:group_videos_waterfall" />
+        <option value="tag:VirtualSectionEntity" />
+        <option value="is:crash " />
+        <option value="message:loadArguments" />
+        <option value="is:crash | tag:kevin" />
+        <option value="tag:DetailCoverFirstFrameReporter | (tag:TV-TRACE &amp; message:ReportAction) " />
+        <option value="tag:DetailCoverFirstFrameReporter | tag:TV-TRACE " />
+        <option value="tag:DetailCoverFirstFrameReporter" />
+        <option value="tag:kevin | is:crash " />
+        <option value="tag:kevin" />
+        <option value="tag:OnePageViewTreeObserver" />
+        <option value="is:stacktrace " />
+        <option value="tag:TV-TRACE &amp; (message:ReportAction | message:restartScene)" />
+        <option value="message:PlayTraceBridgeImp" />
+        <option value="tag:PlayTraceBridgeImp" />
+        <option value="tag:TV-TRACE" />
       </list>
     </option>
   </component>
