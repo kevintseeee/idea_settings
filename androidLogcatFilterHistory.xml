@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="tag:FrameManager " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:FrameManager " />
         <option value="message:getCommonCookie" />
         <option value="message:getCommomCookie" />
         <option value="message:waterfall" />
@@ -22,7 +23,6 @@
         <option value="level:info &amp; (tag:MediaPlayerRootView | tag:Video) " />
         <option value="tag:MediaPlayerRootView level:info " />
         <option value="tag:MediaPlayerRootView" />
-        <option value="tag:TV-TRACE message:ReportAction" />
       </list>
     </option>
   </component>
