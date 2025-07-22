@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="命名上有什么问题？" />
         <option value="@workspace /tests " />
         <option value="为DetailCoverRefreshRateReporter类生成单元测试。&#10;只能使用Mockito和PowerMockito的API。&#10;如果验证或者必须访问的私有变量，只允许使用org.powermock.reflect.Whitebox工具，反射得到。&#10;我的库的版本比较低，没有MockedStatic这个类。" />
         <option value="为DetailCoverRefreshRateReporter类生成单元测试。 &#10;只能使用Mockito和PowerMockito的API。 &#10;不要访问到私有成员、私有内部类、私有内部类的成员等任何私有的东西。&#10;我的库的版本比较低，没有MockedStatic这个类。&#10;但你可以使用PowerMockito来mock公有静态方法。" />
@@ -52,6 +51,7 @@
         <option value="为5个文件生成或完善里面的注释" />
         <option value="OnePageLifecycle通过LifecycleActionRegistry对外提供了runOnLogicLifecycle方法，而LogicLifecycle是会重建的，实际的使用场景是希望在LogicLifecycle发生ON_DESTROY之后和在ON_CREATE之前执行一些重置逻辑。给出一个优化方案，尝试修改现有代码。" />
         <option value="这个xml文件中，HiveView是一个自定义View，AutoConstraintLayout其实就是ConstraintLayout，可以看见还有一个RecyclerView，之后RecyclerView会安排上LinearLayoutManager制作成一个水平列表。如果我不希望用户能操作这个RecyclerView，包括触控、获焦，我要如何实现？" />
+        <option value="我刚建了一个FilmListRotateW512H334ViewModelTest文件，准备给FilmListRotateW512H334ViewModel写单元测试。&#10;你可以看到FilmListRotateW512H334ViewModel里有一个onUpdateUI方法，忽略其super方法，仅关注FilmListRotateW512H334ViewModel中的方法体。&#10;我希望能100%覆盖FilmListRotateW512H334ViewModelTest的onUpdateUI方法，那么关键就在于要有正确的GridInfo。&#10;你要帮我在FilmListRotateW512H334ViewModelTest完成构造GridInfo的编码，你不需要帮我对任何东西做断言，我会自行完成。" />
       </list>
     </option>
   </component>
