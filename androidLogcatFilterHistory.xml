@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash " />
         <option value="tag:FrameManager " />
         <option value="message:getCommonCookie" />
         <option value="message:getCommomCookie" />
@@ -17,7 +18,6 @@
         <option value="tag:AppRuntimeHelper" />
         <option value="tag:DetailMultiTabViewModel_" />
         <option value="is:crash is:stacktrace " />
-        <option value="is:crash " />
         <option value="package:mine " />
         <option value="level:info &amp; (tag:MediaPlayerRootView | tag:VideoViewPresenter) " />
         <option value="level:info &amp; (tag:MediaPlayerRootView | tag:Video) " />
