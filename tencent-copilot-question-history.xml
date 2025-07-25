@@ -2,8 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="为DetailCoverRefreshRateReporter类生成单元测试。 &#10;只能使用Mockito和PowerMockito的API。 &#10;不要访问到私有成员、私有内部类、私有内部类的成员等任何私有的东西。&#10;我的库的版本比较低，没有MockedStatic这个类。&#10;但你可以使用PowerMockito来mock公有静态方法。" />
-        <option value="列表项&quot;A1&quot;代表ItemId=1，ViewType=A，Content=A1。&#10;Diff结果&quot;@AD1&quot;代表在index=1处增加了一个项&#10;Diff结果&quot;@RM2&quot;代表删除了index=2处的项&#10;Diff结果&quot;@CH3&quot;代表index=3处的项更新了&#10;假设原始列表是[A1, A2, A3]&#10;1. 如果新列表是[A1, A4, A2, A3]，我希望Diff结果是[@AD1]&#10;2. 如果新列表是[A1, B4, A2, A3]，我希望Diff结果是[@AD1]&#10;3. 如果新列表是[A1, A3]，我希望Diff结果是[@RM1]&#10;4. 如果新列表是[A1, A4, A3]，我希望Diff结果是[@CH1]，因为ViewType相同时我偏向于更新项，这一点与项在列表中的位置无关；&#10;5. 如果新列表是[A1, B4, A3]，我希望Diff结果是[@RM1, @AD1]，因为ViewType不同了无法仅更新项，只能移除、添加；&#10;6. 如果新列表是[A1, A3, A2]，我希望Diff结果是[@CH1, @CH2]，因为我不希望做移动项；&#10;根据DetailDiffUtil，给出这6条用例的单元测试的实现。" />
         <option value="calculateMatches方法的算法复杂度太高了，是否有更好的写法可以降低复杂度？" />
         <option value="calculateMatches方法的算法复杂度太高了，是否有更低复杂度的算法能完成calculateMatches的功能？" />
         <option value="在算法复杂度方面，calculateMatches方法还有什么优化空间？" />
@@ -52,6 +50,8 @@
         <option value="我刚建了一个FilmListRotateW512H334ViewModelTest文件，准备给FilmListRotateW512H334ViewModel写单元测试。&#10;你可以看到FilmListRotateW512H334ViewModel里有一个onUpdateUI方法，忽略其super方法，仅关注FilmListRotateW512H334ViewModel中的方法体。&#10;我希望能100%覆盖FilmListRotateW512H334ViewModelTest的onUpdateUI方法，那么关键就在于要有正确的GridInfo。&#10;你要帮我在FilmListRotateW512H334ViewModelTest完成构造GridInfo的编码，你不需要帮我对任何东西做断言，我会自行完成。" />
         <option value="我是第一次在RecyclerView使用这个类，跟我说说这个类是做什么的" />
         <option value="说说getExtraLayoutSpace的返回值有什么作用" />
+        <option value="总结这个类的核心逻辑" />
+        <option value="帮我修改滚动的启停逻辑：&#10;1. 获焦时，延迟500ms再开始滚动；失焦时立即停止滚动，并恢复选中（跟现有的stopAndReset逻辑一致）；要注意处理好快速获焦、失焦的情况，此时应该完全不会启动动画；&#10;2. 页面不可见时(ON_PAUSE)，立即停止滚动，不要恢复选中（跟现有的stopAndReset逻辑不完全一致）；页面恢复时(ON_RESUME)，再恢复选中，并重新开始滚动；&#10;3. 注意处理好上述两种情况交叉、同时发生的情况；&#10;3. 你应该尽量把逻辑收拢到InfiniteScrollHelper里；" />
       </list>
     </option>
   </component>
