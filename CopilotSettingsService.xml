@@ -23,6 +23,17 @@
     </option>
     <option name="repoProgressMap">
       <map>
+        <entry key="file:///Volumes/Workspace/Android/projects/smalidea">
+          <value>
+            <IndexProgress>
+              <option name="active" value="false" />
+              <option name="currCount" value="291" />
+              <option name="fileCount" value="291" />
+              <option name="percent" value="100.0" />
+              <option name="status" value="done" />
+            </IndexProgress>
+          </value>
+        </entry>
         <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/developing">
           <value>
             <IndexProgress>

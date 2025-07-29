@@ -2,6 +2,45 @@
   <component name="KnowledgeBaseState">
     <option name="knowledgeInfoMap">
       <map>
+        <entry key="all">
+          <value>
+            <KnowledgeInfoList>
+              <option name="serverStatus">
+                <map>
+                  <entry key="4e93af9e185c4bc9825565580d9037f6">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://iwiki.woa.com/space/TencentVideoMobileTechnologyCenter" />
+                        <option name="resourceType" value="iwiki" />
+                        <option name="serverId" value="4e93af9e185c4bc9825565580d9037f6" />
+                        <option name="serverName" value="PCG/在线视频产品部/终端技术空间" />
+                        <option name="status" value="success" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="e9609b39748f49869cc9a734b2293349">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="master" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://git.woa.com/tencentVideo_HarmonyOS/TencetVideoKMM" />
+                        <option name="resourceType" value="git" />
+                        <option name="serverId" value="e9609b39748f49869cc9a734b2293349" />
+                        <option name="serverName" value="tencentVideo_HarmonyOS/TencetVideoKMM" />
+                        <option name="status" value="success" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="type" value="all" />
+            </KnowledgeInfoList>
+          </value>
+        </entry>
         <entry key="git">
           <value>
             <KnowledgeInfoList>

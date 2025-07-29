@@ -2,9 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="calculateMatches方法的算法复杂度太高了，是否有更好的写法可以降低复杂度？" />
-        <option value="calculateMatches方法的算法复杂度太高了，是否有更低复杂度的算法能完成calculateMatches的功能？" />
-        <option value="在算法复杂度方面，calculateMatches方法还有什么优化空间？" />
         <option value="calculateMatches方法的时间复杂度和空间复杂度" />
         <option value="解决多线程访问的安全问题" />
         <option value="给PreLoadDataModelWorker类添加注释" />
@@ -52,6 +49,9 @@
         <option value="说说getExtraLayoutSpace的返回值有什么作用" />
         <option value="总结这个类的核心逻辑" />
         <option value="帮我修改滚动的启停逻辑：&#10;1. 获焦时，延迟500ms再开始滚动；失焦时立即停止滚动，并恢复选中（跟现有的stopAndReset逻辑一致）；要注意处理好快速获焦、失焦的情况，此时应该完全不会启动动画；&#10;2. 页面不可见时(ON_PAUSE)，立即停止滚动，不要恢复选中（跟现有的stopAndReset逻辑不完全一致）；页面恢复时(ON_RESUME)，再恢复选中，并重新开始滚动；&#10;3. 注意处理好上述两种情况交叉、同时发生的情况；&#10;3. 你应该尽量把逻辑收拢到InfiniteScrollHelper里；" />
+        <option value="我是第一次接触这个项目，给我介绍一下这个项目吧" />
+        <option value="应该如何构建这个插件" />
+        <option value="帮我构建出来" />
       </list>
     </option>
   </component>
