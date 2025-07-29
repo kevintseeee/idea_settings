@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="package:com.cibn.tv message:detail" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.cibn.tv message:detail" />
+        <option value="package:com.cibn.tv" />
         <option value="is:crash " />
         <option value="tag:FrameManager " />
         <option value="message:getCommonCookie" />
@@ -21,8 +23,6 @@
         <option value="package:mine " />
         <option value="level:info &amp; (tag:MediaPlayerRootView | tag:VideoViewPresenter) " />
         <option value="level:info &amp; (tag:MediaPlayerRootView | tag:Video) " />
-        <option value="tag:MediaPlayerRootView level:info " />
-        <option value="tag:MediaPlayerRootView" />
       </list>
     </option>
   </component>
