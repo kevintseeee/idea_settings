@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.cibn.tv message:detail" />
+    <option name="mostRecentlyUsed" value="message:doNotifyDataUpdate" />
     <option name="nonFavorites">
       <list>
+        <option value="message:doNotifyDataUpdate" />
         <option value="package:com.cibn.tv message:detail" />
         <option value="package:com.cibn.tv" />
         <option value="is:crash " />
@@ -22,7 +23,6 @@
         <option value="is:crash is:stacktrace " />
         <option value="package:mine " />
         <option value="level:info &amp; (tag:MediaPlayerRootView | tag:VideoViewPresenter) " />
-        <option value="level:info &amp; (tag:MediaPlayerRootView | tag:Video) " />
       </list>
     </option>
   </component>
