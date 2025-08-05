@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="calculateMatches方法的时间复杂度和空间复杂度" />
         <option value="解决多线程访问的安全问题" />
         <option value="给PreLoadDataModelWorker类添加注释" />
         <option value="给PreLoadLiteDataWorker类添加注释" />
@@ -52,6 +51,7 @@
         <option value="我是第一次接触这个项目，给我介绍一下这个项目吧" />
         <option value="应该如何构建这个插件" />
         <option value="帮我构建出来" />
+        <option value="我在PC上通过adb执行命令“adb shell am start com.android.settings/com.android.settings.DevelopmentSettings”可以拉起开发者设置，我希望在MainActivity里点击button实现相同效果" />
       </list>
     </option>
   </component>
