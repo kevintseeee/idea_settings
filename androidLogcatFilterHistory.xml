@@ -1,11 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.cibn.tv  tag:FeiBenCache" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.cibn.tv  tag:FeiBenCache" />
+        <option value="package:mine " />
+        <option value="package:com.cibn.tv " />
+        <option value="package:com.cibn.tv tag:DataProvider" />
+        <option value="package:com.cibn.tv" />
         <option value="message:doNotifyDataUpdate" />
         <option value="package:com.cibn.tv message:detail" />
-        <option value="package:com.cibn.tv" />
         <option value="is:crash " />
         <option value="tag:FrameManager " />
         <option value="message:getCommonCookie" />
@@ -19,10 +23,6 @@
         <option value="tag:DebugHelper  " />
         <option value="tag:AppLifecycle " />
         <option value="tag:AppRuntimeHelper" />
-        <option value="tag:DetailMultiTabViewModel_" />
-        <option value="is:crash is:stacktrace " />
-        <option value="package:mine " />
-        <option value="level:info &amp; (tag:MediaPlayerRootView | tag:VideoViewPresenter) " />
       </list>
     </option>
   </component>
