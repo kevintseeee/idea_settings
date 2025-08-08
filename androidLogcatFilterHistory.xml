@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.cibn.tv  tag:FeiBenCache" />
+    <option name="mostRecentlyUsed" value="package:com.ktcp.video message:AddActionArgs" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ktcp.video message:AddActionArgs" />
+        <option value="tag:com.ktcp.video message:AddActionArgs" />
+        <option value="tag:com.ktcp.video message:dump" />
         <option value="package:com.cibn.tv  tag:FeiBenCache" />
         <option value="package:mine " />
         <option value="package:com.cibn.tv " />
@@ -20,9 +23,6 @@
         <option value="tag:OnePlayController   " />
         <option value="tag:DebugHelper   " />
         <option value="tag:HeaderFuncBtnListViewModel_  " />
-        <option value="tag:DebugHelper  " />
-        <option value="tag:AppLifecycle " />
-        <option value="tag:AppRuntimeHelper" />
       </list>
     </option>
   </component>
