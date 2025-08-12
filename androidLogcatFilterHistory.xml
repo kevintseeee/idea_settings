@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to'" />
+    <option name="mostRecentlyUsed" value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache" />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to'" />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' " />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current'" />
@@ -22,7 +23,6 @@
         <option value="package:com.cibn.tv" />
         <option value="message:doNotifyDataUpdate" />
         <option value="package:com.cibn.tv message:detail" />
-        <option value="is:crash " />
       </list>
     </option>
   </component>
