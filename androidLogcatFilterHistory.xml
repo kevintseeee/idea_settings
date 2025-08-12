@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ktcp.video message:AddActionArgs" />
+    <option name="mostRecentlyUsed" value="package:com.ktcp.video tag:kevinrhxie" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.ktcp.video tag:kevinrhxie" />
+        <option value="package:com.ktcp.video message:kevinrhxie" />
         <option value="package:com.ktcp.video message:AddActionArgs" />
         <option value="tag:com.ktcp.video message:AddActionArgs" />
         <option value="tag:com.ktcp.video message:dump" />
@@ -21,8 +23,6 @@
         <option value="tag:Debug   " />
         <option value="tag:OnePageLifecycle   " />
         <option value="tag:OnePlayController   " />
-        <option value="tag:DebugHelper   " />
-        <option value="tag:HeaderFuncBtnListViewModel_  " />
       </list>
     </option>
   </component>
