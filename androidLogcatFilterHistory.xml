@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:kevinrhxie tag:HistoryTipsPresenter" />
+    <option name="mostRecentlyUsed" value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to'" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to'" />
+        <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' " />
+        <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current'" />
+        <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:openMediaPlayer\: current" />
+        <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:openMediaPlayer" />
         <option value="tag:kevinrhxie tag:HistoryTipsPresenter" />
         <option value="tag:kevinrhxie" />
         <option value="package:com.ktcp.video tag:kevinrhxie" />
@@ -18,11 +23,6 @@
         <option value="message:doNotifyDataUpdate" />
         <option value="package:com.cibn.tv message:detail" />
         <option value="is:crash " />
-        <option value="tag:FrameManager " />
-        <option value="message:getCommonCookie" />
-        <option value="message:getCommomCookie" />
-        <option value="message:waterfall" />
-        <option value="tag:Debug   " />
       </list>
     </option>
   </component>
