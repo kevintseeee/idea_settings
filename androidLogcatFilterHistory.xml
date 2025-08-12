@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:onPageSelected " />
+    <option name="mostRecentlyUsed" value="tag:kevinrhxie | message:setPlayerData | tag:PrePlayVideo " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:kevinrhxie | message:setPlayerData | tag:PrePlayVideo " />
+        <option value="set" />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:onPageSelected " />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:onPageSelected | message:vuid" />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:onPageSelected" />
@@ -21,8 +23,6 @@
         <option value="tag:com.ktcp.video message:AddActionArgs" />
         <option value="tag:com.ktcp.video message:dump" />
         <option value="package:com.cibn.tv  tag:FeiBenCache" />
-        <option value="package:mine " />
-        <option value="package:com.cibn.tv " />
       </list>
     </option>
   </component>
