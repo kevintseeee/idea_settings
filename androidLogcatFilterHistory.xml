@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:kevinrhxie | message:setPlayerData | tag:PrePlayVideo " />
+    <option name="mostRecentlyUsed" value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:setPlayerData " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:setPlayerData " />
+        <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:onPageSelected " />
         <option value="tag:kevinrhxie | message:setPlayerData | tag:PrePlayVideo " />
         <option value="set" />
-        <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:onPageSelected " />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:onPageSelected | message:vuid" />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:onPageSelected" />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:chosen" />
@@ -22,7 +23,6 @@
         <option value="package:com.ktcp.video message:AddActionArgs" />
         <option value="tag:com.ktcp.video message:AddActionArgs" />
         <option value="tag:com.ktcp.video message:dump" />
-        <option value="package:com.cibn.tv  tag:FeiBenCache" />
       </list>
     </option>
   </component>
