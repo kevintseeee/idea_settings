@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ktcp.video tag:kevinrhxie" />
+    <option name="mostRecentlyUsed" value="tag:kevinrhxie tag:HistoryTipsPresenter" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:kevinrhxie tag:HistoryTipsPresenter" />
+        <option value="tag:kevinrhxie" />
         <option value="package:com.ktcp.video tag:kevinrhxie" />
         <option value="package:com.ktcp.video message:kevinrhxie" />
         <option value="package:com.ktcp.video message:AddActionArgs" />
@@ -21,8 +23,6 @@
         <option value="message:getCommomCookie" />
         <option value="message:waterfall" />
         <option value="tag:Debug   " />
-        <option value="tag:OnePageLifecycle   " />
-        <option value="tag:OnePlayController   " />
       </list>
     </option>
   </component>
