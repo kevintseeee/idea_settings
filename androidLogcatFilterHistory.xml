@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:dealVideoInfoStartSkipTime | message:setPlayerData " />
+    <option name="mostRecentlyUsed" value="tag:UnitVideoDataListModel " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:UnitVideoDataListModel " />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:dealVideoInfoStartSkipTime | message:setPlayerData " />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:setPlayerData " />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:onPageSelected " />
@@ -22,7 +23,6 @@
         <option value="package:com.ktcp.video tag:kevinrhxie" />
         <option value="package:com.ktcp.video message:kevinrhxie" />
         <option value="package:com.ktcp.video message:AddActionArgs" />
-        <option value="tag:com.ktcp.video message:AddActionArgs" />
       </list>
     </option>
   </component>
