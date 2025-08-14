@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MultiTaPlaylistDataProxy | tag:UnitVideoDataListModel" />
+    <option name="mostRecentlyUsed" value="tag:MultiTaPlaylistDataProxy | tag:UnitVideoDataListModel | message~:'setState: state.+UnitVideoDataListModel'" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MultiTaPlaylistDataProxy | tag:UnitVideoDataListModel | message~:'setState: state.+UnitVideoDataListModel'" />
+        <option value="tag:MultiTaPlaylistDataProxy | tag:UnitVideoDataListModel | message:'setState: state'" />
         <option value="tag:MultiTaPlaylistDataProxy | tag:UnitVideoDataListModel" />
         <option value="tag:MultiTaPlaylistDataProxy" />
         <option value="message:'doNotifyDataUpdate'" />
@@ -21,8 +23,6 @@
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:onPageSelected" />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:chosen" />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache" />
-        <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to'" />
-        <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' " />
       </list>
     </option>
   </component>
