@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:'doNotifyDataUpdate' | tag:kevinrhxie" />
+    <option name="mostRecentlyUsed" value="message:'doNotifyDataUpdate'" />
     <option name="nonFavorites">
       <list>
+        <option value="message:'doNotifyDataUpdate'" />
         <option value="message:'doNotifyDataUpdate' | tag:kevinrhxie" />
         <option value="message:'doNotifyDataUpdate' | message:" />
         <option value="package:mine message:'doNotifyDataUpdate'" />
@@ -22,7 +23,6 @@
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' " />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current'" />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:openMediaPlayer\: current" />
-        <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:openMediaPlayer" />
       </list>
     </option>
   </component>
