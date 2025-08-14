@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:DetailEpisodeFragment" />
+    <option name="mostRecentlyUsed" value="package:mine message:'doNotifyDataUpdate'" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:'doNotifyDataUpdate'" />
         <option value="package:mine tag:DetailEpisodeFragment" />
         <option value="package:mine tag:MultiTabPlaylistModule" />
         <option value="tag:UnitVideoDataListModel " />
@@ -22,7 +23,6 @@
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:openMediaPlayer" />
         <option value="tag:kevinrhxie tag:HistoryTipsPresenter" />
         <option value="tag:kevinrhxie" />
-        <option value="package:com.ktcp.video tag:kevinrhxie" />
       </list>
     </option>
   </component>
