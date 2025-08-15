@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:registerSyncCallback" />
+    <option name="mostRecentlyUsed" value="tag:MultiTabsVideoListViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MultiTabsVideoListViewModel" />
+        <option value="message:handleItemClicked" />
         <option value="message:registerSyncCallback" />
         <option value="tag:UnitVideoDataListModel" />
         <option value="tag:MultiTaPlaylistDataProxy" />
@@ -21,8 +23,6 @@
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:dealVideoInfoStartSkipTime | message:setPlayerData " />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:setPlayerData " />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:onPageSelected " />
-        <option value="tag:kevinrhxie | message:setPlayerData | tag:PrePlayVideo " />
-        <option value="set" />
       </list>
     </option>
   </component>
