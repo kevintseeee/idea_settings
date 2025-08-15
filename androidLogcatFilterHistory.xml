@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MultiTabsVideoListViewModel | message:'openMediaPlayer current'" />
+    <option name="mostRecentlyUsed" value="message:group_videos_waterfall" />
     <option name="nonFavorites">
       <list>
+        <option value="message:group_videos_waterfall" />
         <option value="tag:MultiTabsVideoListViewModel | message:'openMediaPlayer current'" />
         <option value="tag:MultiTabsVideoListViewModel" />
         <option value="message:handleItemClicked" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:MultiTabPlaylistModule" />
         <option value="tag:UnitVideoDataListModel " />
         <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:dealVideoInfoStartSkipTime | message:setPlayerData " />
-        <option value="tag:kevinrhxie | tag:HistoryTipsPresenter | message:'openMediaPlayer: current' | message:'updated vid to' | message:TVKVideoInfoCache | message:setPlayerData " />
       </list>
     </option>
   </component>
