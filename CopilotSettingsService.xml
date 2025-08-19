@@ -23,6 +23,17 @@
     </option>
     <option name="repoProgressMap">
       <map>
+        <entry key="file:///Volumes/Workspace/Android/projects/KtToolBox">
+          <value>
+            <IndexProgress>
+              <option name="active" value="false" />
+              <option name="currCount" value="40" />
+              <option name="fileCount" value="40" />
+              <option name="percent" value="100.0" />
+              <option name="status" value="done" />
+            </IndexProgress>
+          </value>
+        </entry>
         <entry key="file:///Volumes/Workspace/Android/projects/Playground">
           <value>
             <IndexProgress>
