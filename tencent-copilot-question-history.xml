@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="阅读ViewModelTaskSchedMgr类、PreLoadLiteDataViewModelTask类、PreLoadDataModelViewModelTask类，然后针对ViewModelTaskSchedMgr类，写单元测试。只能使用Powermock，Mokito。" />
         <option value="我刚刚把AsyncUnitListDiffer修改了一遍，submitList方法支持多线程调用。检查AsyncUnitListDiffer代码是否有多线程风险？比如需要加volatile，修改写法？" />
         <option value="我刚刚把AsyncUnitListDiffer修改了一遍，submitList方法支持多线程调用。检查AsyncUnitListDiffer代码是否有多线程风险？" />
         <option value="我还需要用volatile来修饰mList和mMaxScheduledGeneration吗" />
@@ -52,6 +51,7 @@
         <option value="我在设备上运行后，明确发现没有这个方法。那么如果实在用不了这个方法，我要如何修改我的代码，才能获取到构造函数的Parameter数组？" />
         <option value="我有一些jar包需要引入，我应该如何配置？" />
         <option value="" />
+        <option value="我对这里kotlin的return不太理解，为什么会有“@forEach”？举例子说明一下" />
       </list>
     </option>
   </component>
