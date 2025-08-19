@@ -1,0 +1,29 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="message:guid" />
+    <option name="nonFavorites">
+      <list>
+        <option value="message:guid" />
+        <option value="message:originUrl" />
+        <option value="message:group_videos_waterfall" />
+        <option value="tag:MultiTabsVideoListViewModel | message:'openMediaPlayer current'" />
+        <option value="tag:MultiTabsVideoListViewModel" />
+        <option value="message:handleItemClicked" />
+        <option value="message:registerSyncCallback" />
+        <option value="tag:UnitVideoDataListModel" />
+        <option value="tag:MultiTaPlaylistDataProxy" />
+        <option value="message:'onUnitListChanged: model'" />
+        <option value="message:doNotifyDataUpdate" />
+        <option value="tag:MultiTaPlaylistDataProxy | tag:UnitVideoDataListModel | message~:'setState: state.+UnitVideoDataListModel'" />
+        <option value="tag:MultiTaPlaylistDataProxy | tag:UnitVideoDataListModel | message:'setState: state'" />
+        <option value="tag:MultiTaPlaylistDataProxy | tag:UnitVideoDataListModel" />
+        <option value="message:'doNotifyDataUpdate'" />
+        <option value="message:'doNotifyDataUpdate' | tag:kevinrhxie" />
+        <option value="message:'doNotifyDataUpdate' | message:" />
+        <option value="package:mine message:'doNotifyDataUpdate'" />
+        <option value="package:mine tag:DetailEpisodeFragment" />
+        <option value="package:mine tag:MultiTabPlaylistModule" />
+      </list>
+    </option>
+  </component>
+</application>
