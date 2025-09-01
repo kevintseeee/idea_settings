@@ -2,12 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="帮我完成createThreadPoolExecutor方法，我希望返回一个专门用于IO任务的ThreadPoolExecutor" />
-        <option value="帮我实现一个TaskExecutor，以下是我对这个TaskExecutor的要求：&#10;我会提供一个HandlerThread；&#10;我希望在这个HandlerThread的MessageQueue处于Idle状态的时候，才执行一个任务；&#10;执行完这个任务之后，如果这个HandlerThread的MessageQueue仍然处于Idle状态，可以再执行一个任务；&#10;任务需要保持线性执行，符合FIFO原则；&#10;&#10;我会提供一个毫秒级的超时时间；&#10;当首个任务被提交到TaskExecutor之后，我们会依据上述要求，等待这个HandlerThread的MessageQueue处于Idle状态。&#10;但是，如果超过这个时间之后，HandlerThread的MessageQueue仍未处于Idle状态，则执行一个任务。&#10;然后计时重置，我们再重新等待这个HandlerThread的MessageQueue处于Idle状态。&#10;&#10;以上是我对TaskExecutor的要求，你需要整理我的需求，以一个专业工程师的表述方式描述一次，然后给出你的实现" />
-        <option value="如果我的IdleHandler，需要持续感知消息队列空闲并执行我的逻辑，要怎么做？因为你说只有在第一次进入空闲时才会执行" />
-        <option value="展开说说你提到的配合Handler使用可实现定时轮询+空闲执行的混合模式" />
-        <option value="我的一个IdleHandler，queueIdle方法总是返回true，但高概率只执行一次后就不执行了，会不会就是因为这里的pendingIdleHandlerCount设置成了0？" />
-        <option value="如果消息队列不再有新消息加入呢？我的IdleHandler尽管queueIdle方法总是返回true且未抛异常，也是只执行一次" />
         <option value="以专业开发工程师的口吻，总结上述我遇到的问题、原因和解法" />
         <option value="作为一名专业的开发工程师，评审TimeoutTaskExecutor这个类，有什么问题以及改进建议" />
         <option value="我希望实现一个TaskExecutor，能够结合两个TaskExecutor（比如A和B），当一个任务提交进来时，可以按顺序经过A、B的回调之后再执行这个任务。" />
@@ -45,13 +39,19 @@
         <option value="我在设备上运行后，明确发现没有这个方法。那么如果实在用不了这个方法，我要如何才能获取到Parameters？" />
         <option value="我在设备上运行后，明确发现没有这个方法。那么如果实在用不了这个方法，我要如何修改我的代码，才能获取到构造函数的Parameter数组？" />
         <option value="我有一些jar包需要引入，我应该如何配置？" />
-        <option value="" />
         <option value="我对这里kotlin的return不太理解，为什么会有“@forEach”？举例子说明一下" />
         <option value="@ListNodeView.kt 的112行，对一个Flow执行了collect方法。结合上下文，这里是在ListNodeView回调onBindViewModel时，开始接收uiState的数据。ListNodeView其实还有可见性（Visibility），完全对标Android View的可见性。其实在ListNodeView不可见（非VISIBLE）时，接收应该暂停。这个需求点，你有什么实现方案？" />
         <option value="在你想展示代码时，只展示关键的部分，其余部分用伪代码就可以了。" />
         <option value="@ListNodeView.kt 的112行，对一个Flow执行了collect方法。结合上下文，这里是在ListNodeView回调onBindViewModel时，开始接收uiState的数据。ListNodeView其实还有可见性（Visibility），完全对标Android View的可见性。其实在ListNodeView不可见（非VISIBLE）时，接收应该暂停。这个需求点，你有什么实现方案？在你想展示代码时，只展示关键的部分，其余部分用伪代码就可以了。" />
         <option value="@ListNodeView.kt 的112行，对一个Flow执行了collect方法。结合上下文，这里是在ListNodeView回调onBindViewModel时，开始接收uiState的数据。&#10;ListNodeView其实还有可见性（Visibility），完全对标Android View的可见性。&#10;我的需求是：&#10;1. 在ListNodeView不可见（非VISIBLE）时，接收应该暂停；&#10;2. 在ListNodeView可见（非VISIBLE）时，接收应该恢复；&#10;这个需求点，你有什么实现方案？&#10;在你想展示代码时，只展示关键的部分，其余部分用伪代码就可以了。&#10;你不需要修改代码，你只需要给出方案描述。" />
         <option value="@ListNodeView.kt 的112行，对一个Flow执行了collect方法。&#10;结合上下文，这里是在ListNodeView回调onBindViewModel时，开始接收uiState的数据。&#10;ListNodeView其实还有可见性（Visibility），完全对标Android View的可见性。&#10;假设我会在这个文件，提供一个localCtx.lifecycleOwner.lifecycle，完全对标Android Lifecycle。&#10;&#10;我的需求是：在Lifecycle至少是STARTED时，接收才进行；其余条件，接收应该暂停；&#10;&#10;这个需求点，你有什么实现方案？&#10;在你想展示代码时，只展示关键的部分，其余部分用伪代码就可以了。&#10;你不需要修改代码，你只需要给出方案描述。" />
+        <option value="我做了一些修改，你能看懂吗？" />
+        <option value="@ListNodeView.kt 的118行～134行，你看一下有没有写错" />
+        <option value="再看一下呢？其中flatMapConcat的用法，你认为恰当吗？" />
+        <option value="flatMap、flatMapMerge、flatMapConcat、flatMapLatest有什么不同？flatMapConcat是最恰当的吗？" />
+        <option value="切换到emptyFlow()的时候，下游的updateUiState会被调用么？" />
+        <option value="我的方案，与官方提供的repeatOnLifecycle，孰优孰劣？" />
+        <option value="" />
       </list>
     </option>
   </component>
