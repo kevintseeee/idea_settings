@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:guid" />
+    <option name="mostRecentlyUsed" value="message:'start collect' message:'stop collect' message:'updateListData: d'" />
     <option name="nonFavorites">
       <list>
+        <option value="message:'start collect' message:'stop collect' message:'updateListData: d'" />
+        <option value="message:'start collect' message:'stop collect'" />
+        <option value="message:'start collect' message:" />
         <option value="message:guid" />
         <option value="tag:OnePage" />
         <option value="message:originUrl" />
@@ -20,9 +23,6 @@
         <option value="tag:MultiTaPlaylistDataProxy | tag:UnitVideoDataListModel" />
         <option value="message:'doNotifyDataUpdate'" />
         <option value="message:'doNotifyDataUpdate' | tag:kevinrhxie" />
-        <option value="message:'doNotifyDataUpdate' | message:" />
-        <option value="package:mine message:'doNotifyDataUpdate'" />
-        <option value="package:mine tag:DetailEpisodeFragment" />
       </list>
     </option>
   </component>
