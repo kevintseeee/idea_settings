@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:'start collect' | message:'stop collect' | message:'updateListData: d' | message:'applyUpdate' | message:'pushUpdate: added'" />
+    <option name="mostRecentlyUsed" value="message:'applyUpdate' | message:'pushUpdate: added'" />
     <option name="nonFavorites">
       <list>
+        <option value="message:'applyUpdate' | message:'pushUpdate: added'" />
         <option value="message:'start collect' | message:'stop collect' | message:'updateListData: d' | message:'applyUpdate' | message:'pushUpdate: added'" />
         <option value="message:'start collect' message:'stop collect' message:'updateListData: d' message:'applyUpdate' message:'pushUpdate: added'" />
         <option value="message:'start collect' message:'stop collect' message:'updateListData: d' message:'applyUpdate'" />
@@ -22,7 +23,6 @@
         <option value="message:'onUnitListChanged: model'" />
         <option value="message:doNotifyDataUpdate" />
         <option value="tag:MultiTaPlaylistDataProxy | tag:UnitVideoDataListModel | message~:'setState: state.+UnitVideoDataListModel'" />
-        <option value="tag:MultiTaPlaylistDataProxy | tag:UnitVideoDataListModel | message:'setState: state'" />
       </list>
     </option>
   </component>
