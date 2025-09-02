@@ -2,9 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="请看CompositeTaskExecutor类，我将mTaskQueue的类型变更为了CircularArray类型，发现CompositeTaskExecutor的cancel方法需要取消任务，但是CircularArray没有remove方法，能怎么办？" />
-        <option value="看一下我新写的CompositeTaskExecutor的cancel方法，是否正确" />
-        <option value="介绍一下newSetFromMap方法" />
         <option value="总结并评价一下MMKVDiskCache" />
         <option value="优化成员命名" />
         <option value="总结这个类" />
@@ -51,7 +48,10 @@
         <option value="如何理解“只创建一次，保持连接”？isAtLeast方法返回false的时候，不是会取消上游flow吗？" />
         <option value="使用flowOnLifecycle，如果订阅切换到了emptyFlow，而且原始flow还在不断更新。这些更新，去了哪里？当订阅切换回原始flow时，我们会丢失掉这些更新么？" />
         <option value="原始flow是一个MutableStateFlow，结合这个信息说说看呢" />
+        <option value="评估一下我的改动是否正确" />
         <option value="" />
+        <option value="评估一下我的改动（新增了对distinctUntilChanged的调用）是否正确" />
+        <option value="评估一下我的改动（新增了对distinctUntilChanged的调用）是否正确。看下是否需要对应调整一下注释。" />
       </list>
     </option>
   </component>
