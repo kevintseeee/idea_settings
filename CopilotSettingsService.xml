@@ -8,6 +8,7 @@
     <option name="inlinePopupEnable" value="false" />
     <option name="networkProxyAddress" value="" />
     <option name="networkProxyType" value="manual" />
+    <option name="snoozeShow" value="true" />
     <option name="tabOverTimes" value="true" />
     <option name="updateVersion" value="" />
     <option name="disabledLanguages">
