@@ -2,10 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="这个xml文件中，HiveView是一个自定义View，AutoConstraintLayout其实就是ConstraintLayout，可以看见还有一个RecyclerView，之后RecyclerView会安排上LinearLayoutManager制作成一个水平列表。如果我不希望用户能操作这个RecyclerView，包括触控、获焦，我要如何实现？" />
-        <option value="我刚建了一个FilmListRotateW512H334ViewModelTest文件，准备给FilmListRotateW512H334ViewModel写单元测试。&#10;你可以看到FilmListRotateW512H334ViewModel里有一个onUpdateUI方法，忽略其super方法，仅关注FilmListRotateW512H334ViewModel中的方法体。&#10;我希望能100%覆盖FilmListRotateW512H334ViewModelTest的onUpdateUI方法，那么关键就在于要有正确的GridInfo。&#10;你要帮我在FilmListRotateW512H334ViewModelTest完成构造GridInfo的编码，你不需要帮我对任何东西做断言，我会自行完成。" />
-        <option value="我是第一次在RecyclerView使用这个类，跟我说说这个类是做什么的" />
-        <option value="说说getExtraLayoutSpace的返回值有什么作用" />
         <option value="总结这个类的核心逻辑" />
         <option value="帮我修改滚动的启停逻辑：&#10;1. 获焦时，延迟500ms再开始滚动；失焦时立即停止滚动，并恢复选中（跟现有的stopAndReset逻辑一致）；要注意处理好快速获焦、失焦的情况，此时应该完全不会启动动画；&#10;2. 页面不可见时(ON_PAUSE)，立即停止滚动，不要恢复选中（跟现有的stopAndReset逻辑不完全一致）；页面恢复时(ON_RESUME)，再恢复选中，并重新开始滚动；&#10;3. 注意处理好上述两种情况交叉、同时发生的情况；&#10;3. 你应该尽量把逻辑收拢到InfiniteScrollHelper里；" />
         <option value="我是第一次接触这个项目，给我介绍一下这个项目吧" />
@@ -52,6 +48,10 @@
         <option value="slideInFromBottom曾三次执行&quot;this.translationY = targetY&quot;，会不会太过冗余了" />
         <option value="这里的逻辑，是基于ViewPropertyAnimator的。能否改为基于android.animation.Animator？会有什么优劣点吗？" />
         <option value="我有一个担忧：slideInFromBottom和slideOutToBottom都使用了viewHeight，但是如果View还没有测量，则viewHeight为0。你有什么方案可以解决这个问题？" />
+        <option value="@BottomTipsVM.kt @BottomTipsView.kt @AnimateUtils.kt 给这三个文件补充注释" />
+        <option value="@BottomTipsVM.kt @BottomTipsView.kt @AnimateUtils.kt 先阅读完这三个文件，给我一段总结。然后给这三个文件补充注释。" />
+        <option value="确认一下“协程被取消时，也要确保视图到达目标位置”是否能如愿" />
+        <option value="startAndAwaitEnd方法，使用了suspendCancellableCoroutine。如果协程被取消，调用方能感知到吗？比如slideOutToBottom方法，使用了try+finally的写法，确保translationY被设置成targetY。在协程被取消时，也可以走到finally么？" />
       </list>
     </option>
   </component>
