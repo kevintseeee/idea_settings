@@ -2,8 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="我是第一次接触这个项目，给我介绍一下这个项目吧" />
-        <option value="应该如何构建这个插件" />
         <option value="帮我构建出来" />
         <option value="我在PC上通过adb执行命令“adb shell am start com.android.settings/com.android.settings.DevelopmentSettings”可以拉起开发者设置，我希望在MainActivity里点击button实现相同效果" />
         <option value="getParameters只能在API level 26上使用吗" />
@@ -52,6 +50,8 @@
         <option value="startAndAwaitEnd方法，使用了suspendCancellableCoroutine。如果协程被取消，调用方能感知到吗？比如slideOutToBottom方法，使用了try+finally的写法，确保translationY被设置成targetY。在协程被取消时，也可以走到finally么？" />
         <option value="当回调onUnbindViewModel时，coroutineScope会被取消，slideOutToBottom内部的动画也会被取消吗" />
         <option value="addTask方法应该按照顺序把timedTask添加到sortedTasks" />
+        <option value="总结这个类" />
+        <option value="关注这个类的核心逻辑，梳理一份需求文档" />
       </list>
     </option>
   </component>
