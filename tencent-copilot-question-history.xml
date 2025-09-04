@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="帮我修改滚动的启停逻辑：&#10;1. 获焦时，延迟500ms再开始滚动；失焦时立即停止滚动，并恢复选中（跟现有的stopAndReset逻辑一致）；要注意处理好快速获焦、失焦的情况，此时应该完全不会启动动画；&#10;2. 页面不可见时(ON_PAUSE)，立即停止滚动，不要恢复选中（跟现有的stopAndReset逻辑不完全一致）；页面恢复时(ON_RESUME)，再恢复选中，并重新开始滚动；&#10;3. 注意处理好上述两种情况交叉、同时发生的情况；&#10;3. 你应该尽量把逻辑收拢到InfiniteScrollHelper里；" />
         <option value="我是第一次接触这个项目，给我介绍一下这个项目吧" />
         <option value="应该如何构建这个插件" />
         <option value="帮我构建出来" />
@@ -52,6 +51,7 @@
         <option value="确认一下“协程被取消时，也要确保视图到达目标位置”是否能如愿" />
         <option value="startAndAwaitEnd方法，使用了suspendCancellableCoroutine。如果协程被取消，调用方能感知到吗？比如slideOutToBottom方法，使用了try+finally的写法，确保translationY被设置成targetY。在协程被取消时，也可以走到finally么？" />
         <option value="当回调onUnbindViewModel时，coroutineScope会被取消，slideOutToBottom内部的动画也会被取消吗" />
+        <option value="addTask方法应该按照顺序把timedTask添加到sortedTasks" />
       </list>
     </option>
   </component>
