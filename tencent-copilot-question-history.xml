@@ -2,11 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="总结这个类" />
-        <option value="完善类的注释" />
-        <option value="完善注释" />
-        <option value="仅使用Mockito和PowerMockito，针对TaskLoadCoverLiteData的scheduleCoverLiteDataRequestIfNotExecuted和startCoverLiteDataRequest，写单元测试" />
-        <option value="使用方每次调用runOnLogicLifecycle，都会注册一个LiveData的监听以及Lifecycle的监听，请优化这里的实现" />
         <option value="生成注释" />
         <option value="为5个文件生成或完善里面的注释" />
         <option value="OnePageLifecycle通过LifecycleActionRegistry对外提供了runOnLogicLifecycle方法，而LogicLifecycle是会重建的，实际的使用场景是希望在LogicLifecycle发生ON_DESTROY之后和在ON_CREATE之前执行一些重置逻辑。给出一个优化方案，尝试修改现有代码。" />
@@ -52,6 +47,11 @@
         <option value="评估一下我的改动（新增了对distinctUntilChanged的调用）是否正确。看下是否需要对应调整一下注释。" />
         <option value="为什么第48行(&quot;coroutineScope.launch {&quot;)会报错？" />
         <option value="为什么kotlin在这种情况下不会认为非空？明明上一行就是赋值。" />
+        <option value="评估我的动画实现方案" />
+        <option value="startAndAwaitEnd的实现是否存在问题？" />
+        <option value="是不是可以改为使用continuation自带的状态，比如isCompleted之类的" />
+        <option value="continuation不止有isCompleted，还有isActive、isCancelled。你确定只使用isCompleted就够了吗？" />
+        <option value="我想让startAndAwaitEnd有返回值，true代表动画正常结束，false代表动画被取消。你看看我写对了么？" />
       </list>
     </option>
   </component>
