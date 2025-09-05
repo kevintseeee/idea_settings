@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="帮我构建出来" />
         <option value="我在PC上通过adb执行命令“adb shell am start com.android.settings/com.android.settings.DevelopmentSettings”可以拉起开发者设置，我希望在MainActivity里点击button实现相同效果" />
         <option value="getParameters只能在API level 26上使用吗" />
         <option value="如果实在用不了这个方法，我要如何兼容？" />
@@ -52,6 +51,7 @@
         <option value="addTask方法应该按照顺序把timedTask添加到sortedTasks" />
         <option value="总结这个类" />
         <option value="关注这个类的核心逻辑，梳理一份需求文档" />
+        <option value="阅读需求文档“req.md”。根据文档，在“proj.android/src/com/tencent/qqlivetv/windowplayer/module/vmtx/bottomtips”目录里输出代码。" />
       </list>
     </option>
   </component>

@@ -7,16 +7,30 @@
             <KnowledgeInfoList>
               <option name="serverStatus">
                 <map>
-                  <entry key="4e93af9e185c4bc9825565580d9037f6">
+                  <entry key="ac5d740b2230468a812c33bb06389219">
                     <value>
                       <KnowledgeInfo>
                         <option name="branchName" value="" />
                         <option name="description" value="" />
-                        <option name="resourceName" value="https://iwiki.woa.com/space/TencentVideoMobileTechnologyCenter" />
-                        <option name="resourceType" value="iwiki" />
-                        <option name="serverId" value="4e93af9e185c4bc9825565580d9037f6" />
-                        <option name="serverName" value="PCG/在线视频产品部/终端技术空间" />
-                        <option name="status" value="success" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/ac5d740b2230468a812c33bb06389219" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="ac5d740b2230468a812c33bb06389219" />
+                        <option name="serverName" value="腾讯视频AI探片业务子仓库" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="c39865cf78c64dd8b3cd1d9413c5bfab">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/c39865cf78c64dd8b3cd1d9413c5bfab" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="c39865cf78c64dd8b3cd1d9413c5bfab" />
+                        <option name="serverName" value="腾讯视频客厅业务" />
+                        <option name="status" value="" />
                         <option name="statusDesc" value="" />
                       </KnowledgeInfo>
                     </value>
@@ -24,13 +38,13 @@
                   <entry key="e9609b39748f49869cc9a734b2293349">
                     <value>
                       <KnowledgeInfo>
-                        <option name="branchName" value="master" />
+                        <option name="branchName" value="" />
                         <option name="description" value="" />
-                        <option name="resourceName" value="https://git.woa.com/tencentVideo_HarmonyOS/TencetVideoKMM" />
-                        <option name="resourceType" value="git" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/e9609b39748f49869cc9a734b2293349" />
+                        <option name="resourceType" value="" />
                         <option name="serverId" value="e9609b39748f49869cc9a734b2293349" />
-                        <option name="serverName" value="tencentVideo_HarmonyOS/TencetVideoKMM" />
-                        <option name="status" value="success" />
+                        <option name="serverName" value="腾讯视频移动端知识库" />
+                        <option name="status" value="" />
                         <option name="statusDesc" value="" />
                       </KnowledgeInfo>
                     </value>
