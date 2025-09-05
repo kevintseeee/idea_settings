@@ -9,6 +9,7 @@
     <option name="networkProxyAddress" value="" />
     <option name="networkProxyType" value="manual" />
     <option name="snoozeShow" value="true" />
+    <option name="snoozeTimeMil" value="1757062037911" />
     <option name="tabOverTimes" value="true" />
     <option name="updateVersion" value="" />
     <option name="disabledLanguages">
