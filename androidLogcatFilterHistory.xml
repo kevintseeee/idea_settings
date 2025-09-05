@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:'updateListData: d' | message:'applyUpdate' | message:'pushUpdate: added'" />
+    <option name="mostRecentlyUsed" value="message:CommonCookie" />
     <option name="nonFavorites">
       <list>
+        <option value="message:CommonCookie" />
         <option value="message:'updateListData: d' | message:'applyUpdate' | message:'pushUpdate: added'" />
         <option value="message:'start collect' | message:'stop collect' | message:'updateListData: d' | message:'applyUpdate' | message:'pushUpdate: added' | message:'updateListData'" />
         <option value="message:'updateListData' | message:'pushUpdate: added'" />
@@ -22,7 +23,6 @@
         <option value="tag:MultiTabsVideoListViewModel" />
         <option value="message:handleItemClicked" />
         <option value="message:registerSyncCallback" />
-        <option value="tag:UnitVideoDataListModel" />
       </list>
     </option>
   </component>
