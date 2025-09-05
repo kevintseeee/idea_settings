@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:CommonCookie" />
+    <option name="mostRecentlyUsed" value="tag:Network message:originUrl" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Network message:originUrl" />
+        <option value="tag:Network message:url" />
         <option value="message:CommonCookie" />
+        <option value="message:getCommonCookie" />
         <option value="message:'updateListData: d' | message:'applyUpdate' | message:'pushUpdate: added'" />
         <option value="message:'start collect' | message:'stop collect' | message:'updateListData: d' | message:'applyUpdate' | message:'pushUpdate: added' | message:'updateListData'" />
         <option value="message:'updateListData' | message:'pushUpdate: added'" />
@@ -20,9 +23,6 @@
         <option value="message:originUrl" />
         <option value="message:group_videos_waterfall" />
         <option value="tag:MultiTabsVideoListViewModel | message:'openMediaPlayer current'" />
-        <option value="tag:MultiTabsVideoListViewModel" />
-        <option value="message:handleItemClicked" />
-        <option value="message:registerSyncCallback" />
       </list>
     </option>
   </component>
