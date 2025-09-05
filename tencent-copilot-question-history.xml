@@ -2,9 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="@ListNodeView.kt 的112行，对一个Flow执行了collect方法。结合上下文，这里是在ListNodeView回调onBindViewModel时，开始接收uiState的数据。ListNodeView其实还有可见性（Visibility），完全对标Android View的可见性。其实在ListNodeView不可见（非VISIBLE）时，接收应该暂停。这个需求点，你有什么实现方案？在你想展示代码时，只展示关键的部分，其余部分用伪代码就可以了。" />
-        <option value="@ListNodeView.kt 的112行，对一个Flow执行了collect方法。结合上下文，这里是在ListNodeView回调onBindViewModel时，开始接收uiState的数据。&#10;ListNodeView其实还有可见性（Visibility），完全对标Android View的可见性。&#10;我的需求是：&#10;1. 在ListNodeView不可见（非VISIBLE）时，接收应该暂停；&#10;2. 在ListNodeView可见（非VISIBLE）时，接收应该恢复；&#10;这个需求点，你有什么实现方案？&#10;在你想展示代码时，只展示关键的部分，其余部分用伪代码就可以了。&#10;你不需要修改代码，你只需要给出方案描述。" />
-        <option value="@ListNodeView.kt 的112行，对一个Flow执行了collect方法。&#10;结合上下文，这里是在ListNodeView回调onBindViewModel时，开始接收uiState的数据。&#10;ListNodeView其实还有可见性（Visibility），完全对标Android View的可见性。&#10;假设我会在这个文件，提供一个localCtx.lifecycleOwner.lifecycle，完全对标Android Lifecycle。&#10;&#10;我的需求是：在Lifecycle至少是STARTED时，接收才进行；其余条件，接收应该暂停；&#10;&#10;这个需求点，你有什么实现方案？&#10;在你想展示代码时，只展示关键的部分，其余部分用伪代码就可以了。&#10;你不需要修改代码，你只需要给出方案描述。" />
         <option value="我做了一些修改，你能看懂吗？" />
         <option value="@ListNodeView.kt 的118行～134行，你看一下有没有写错" />
         <option value="再看一下呢？其中flatMapConcat的用法，你认为恰当吗？" />
@@ -52,6 +49,9 @@
         <option value="executeTasksInOrder方法，能否改用Range" />
         <option value="executeTasksInOrder方法的参数，能否改用Range" />
         <option value="我想加入一条特殊兼容逻辑，如果连续两次updatePosition，出现以下情况，就认为是seek&#10;1. 进度回退&#10;2. 更新时间差（取自android.os.SystemClock.uptimeMillis)与进度时间差相差过大" />
+        <option value="如果协程被取消，会抛什么错误？" />
+        <option value="我的意思是，我想改用cache，承接协程取消时的处理" />
+        <option value="我的意思是，我想改用catch，承接协程取消时的处理" />
       </list>
     </option>
   </component>
