@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="tag:PreAuthViewPresenter_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PreAuthViewPresenter_" />
         <option value="is:stacktrace " />
         <option value="tag:BottomTipsModule tag:BottomTipsVM tag:BottomTipsView tag:AnimateUtils" />
         <option value="tag:BottomTipsModule tag:BottomTipsVM tag:BottomTipsView" />
@@ -22,7 +23,6 @@
         <option value="message:'start collect' message:'stop collect' message:'updateListData: d' message:'applyUpdate' message:'pushUpdate: added'" />
         <option value="message:'start collect' message:'stop collect' message:'updateListData: d' message:'applyUpdate'" />
         <option value="message:'start collect' message:'stop collect' message:'updateListData: d'" />
-        <option value="message:'start collect' message:'stop collect'" />
       </list>
     </option>
   </component>
