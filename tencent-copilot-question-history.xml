@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="我做了一些修改，你能看懂吗？" />
         <option value="@ListNodeView.kt 的118行～134行，你看一下有没有写错" />
         <option value="再看一下呢？其中flatMapConcat的用法，你认为恰当吗？" />
         <option value="flatMap、flatMapMerge、flatMapConcat、flatMapLatest有什么不同？flatMapConcat是最恰当的吗？" />
@@ -52,6 +51,7 @@
         <option value="如果协程被取消，会抛什么错误？" />
         <option value="我的意思是，我想改用cache，承接协程取消时的处理" />
         <option value="我的意思是，我想改用catch，承接协程取消时的处理" />
+        <option value="我这段代码的写法有什么问题吗" />
       </list>
     </option>
   </component>
