@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Network message:originUrl" />
+    <option name="mostRecentlyUsed" value="tag:BottomTipsModule tag:BottomTipsVM tag:BottomTipsView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:BottomTipsModule tag:BottomTipsVM tag:BottomTipsView" />
+        <option value="tag:BottomTipsModule tag:BottomTipsVM tag:" />
+        <option value="tag:BottomTipsModule" />
         <option value="tag:Network message:originUrl" />
         <option value="tag:Network message:url" />
         <option value="message:CommonCookie" />
@@ -20,9 +23,6 @@
         <option value="message:'start collect' message:" />
         <option value="message:guid" />
         <option value="tag:OnePage" />
-        <option value="message:originUrl" />
-        <option value="message:group_videos_waterfall" />
-        <option value="tag:MultiTabsVideoListViewModel | message:'openMediaPlayer current'" />
       </list>
     </option>
   </component>
