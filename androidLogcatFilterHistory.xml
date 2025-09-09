@@ -1,11 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:openMedia" />
+    <option name="mostRecentlyUsed" value="message:getCommon" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info" />
+        <option value="message:getCommon" />
+        <option value="message:Common" />
+        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer)" />
+        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMe)" />
+        <option value="tag:BottomTipsModule tag:BottomTipsVM tag:BottomTipsView tag:BottomTipsTaskManager tag:MediaPlayerManager" />
+        <option value="tag:BottomTipsModule tag:BottomTipsVM tag:BottomTipsView tag:BottomTipsTaskManager" />
         <option value="message:openMedia" />
         <option value="tag:PreAuthViewPresenter_" />
-        <option value="tag:BottomTipsModule tag:BottomTipsVM tag:BottomTipsView tag:BottomTipsTaskManager" />
         <option value="tag:BottomTipsModule tag:BottomTipsVM tag:BottomTipsView " />
         <option value="is:stacktrace " />
         <option value="tag:BottomTipsModule tag:BottomTipsVM tag:BottomTipsView tag:AnimateUtils" />
@@ -17,12 +23,6 @@
         <option value="tag:Network message:url" />
         <option value="message:CommonCookie" />
         <option value="message:getCommonCookie" />
-        <option value="message:'updateListData: d' | message:'applyUpdate' | message:'pushUpdate: added'" />
-        <option value="message:'start collect' | message:'stop collect' | message:'updateListData: d' | message:'applyUpdate' | message:'pushUpdate: added' | message:'updateListData'" />
-        <option value="message:'updateListData' | message:'pushUpdate: added'" />
-        <option value="message:'updateListData'" />
-        <option value="message:'applyUpdate' | message:'pushUpdate: added'" />
-        <option value="message:'start collect' | message:'stop collect' | message:'updateListData: d' | message:'applyUpdate' | message:'pushUpdate: added'" />
       </list>
     </option>
   </component>
