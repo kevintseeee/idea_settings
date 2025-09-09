@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="评估我的改动是否正确" />
         <option value="看到IDEA针对第54行给出了告警：“Flow is constructed but not used”，你知道是什么原因吗" />
         <option value="请为代码添加详细的注释" />
         <option value="flowOnLifecycle使用了callbackFlow将callback转成了flow，那么如果我调用了flowOnLifecycle，但是没有对返回的flow做任何操作，callback会被注册进去吗？会不会泄露了这个callback？" />
@@ -52,6 +51,7 @@
         <option value="我希望，每当进行loadBottomTipsInfo时，记录当下的日期。然后，在showBottomTips时，跟记录的日期进行对比。如果跨天了，就不要出提示了。" />
         <option value="取日期的方式，还有其他方案可选吗？" />
         <option value="我希望改成方案4（最高效方案）" />
+        <option value="在Kotlin代码中，往java代码传入Boolean::class.java，得到的并不是Boolean.class" />
       </list>
     </option>
   </component>
