@@ -2,9 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="flatMap、flatMapMerge、flatMapConcat、flatMapLatest有什么不同？flatMapConcat是最恰当的吗？" />
-        <option value="切换到emptyFlow()的时候，下游的updateUiState会被调用么？" />
-        <option value="我的方案，与官方提供的repeatOnLifecycle，孰优孰劣？" />
         <option value="评估我的改动是否正确" />
         <option value="看到IDEA针对第54行给出了告警：“Flow is constructed but not used”，你知道是什么原因吗" />
         <option value="请为代码添加详细的注释" />
@@ -52,6 +49,9 @@
         <option value="我这段代码的写法有什么问题吗" />
         <option value="如何使用koltin生成一个随机数" />
         <option value="这一段可读性很差，应该如何改进？" />
+        <option value="我希望，每当进行loadBottomTipsInfo时，记录当下的日期。然后，在showBottomTips时，跟记录的日期进行对比。如果跨天了，就不要出提示了。" />
+        <option value="取日期的方式，还有其他方案可选吗？" />
+        <option value="我希望改成方案4（最高效方案）" />
       </list>
     </option>
   </component>

@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="message:getCommon" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info" />
         <option value="message:getCommon" />
+        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info" />
         <option value="message:Common" />
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer)" />
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMe)" />
