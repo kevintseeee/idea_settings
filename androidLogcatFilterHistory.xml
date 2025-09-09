@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:RecommendTipsBubblePresenter tag:UpdateRunnable" />
+    <option name="mostRecentlyUsed" value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info | message~:postEvent.+preview_close " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info | message~:postEvent.+preview_close " />
+        <option value="tag:EndVideoRecommendPresenter" />
+        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info | message~:postEvent.+preview_close | message~:postEvent.+preview_open | message:'postEvent: event'" />
+        <option value="message:'postEvent: event'" />
         <option value="tag:RecommendTipsBubblePresenter tag:UpdateRunnable" />
         <option value="tag:RecommendTipsBubblePresenter" />
         <option value="tag:" />
@@ -19,10 +23,6 @@
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer)" />
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMe)" />
         <option value="tag:BottomTipsModule tag:BottomTipsVM tag:BottomTipsView tag:BottomTipsTaskManager tag:MediaPlayerManager" />
-        <option value="tag:BottomTipsModule tag:BottomTipsVM tag:BottomTipsView tag:BottomTipsTaskManager" />
-        <option value="message:openMedia" />
-        <option value="tag:BottomTipsModule tag:BottomTipsVM tag:BottomTipsView " />
-        <option value="is:stacktrace " />
       </list>
     </option>
   </component>
