@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info | message~:postEvent.+preview_close " />
+    <option name="mostRecentlyUsed" value="message:getComm" />
     <option name="nonFavorites">
       <list>
+        <option value="message:getComm" />
+        <option value="me" />
+        <option value="tag:getCommonCookie" />
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info | message~:postEvent.+preview_close " />
         <option value="tag:EndVideoRecommendPresenter" />
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info | message~:postEvent.+preview_close | message~:postEvent.+preview_open | message:'postEvent: event'" />
@@ -20,9 +23,6 @@
         <option value="tag:PreAuthViewPresenter_" />
         <option value="message:getCommon" />
         <option value="message:Common" />
-        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer)" />
-        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMe)" />
-        <option value="tag:BottomTipsModule tag:BottomTipsVM tag:BottomTipsView tag:BottomTipsTaskManager tag:MediaPlayerManager" />
       </list>
     </option>
   </component>
