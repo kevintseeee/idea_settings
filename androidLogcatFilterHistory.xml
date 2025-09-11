@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:getComm" />
+    <option name="mostRecentlyUsed" value="message:getCommonCookie" />
     <option name="nonFavorites">
       <list>
+        <option value="message:getCommonCookie" />
+        <option value="message~:originUrl.+cover_detail_waterfall" />
+        <option value="message~:originUrl.+waterfall" />
+        <option value="message~:originUrl.+CoverDetailWaterfall" />
+        <option value="message:CoverDetailWaterfall" />
+        <option value="message:waterfall" />
         <option value="message:getComm" />
         <option value="me" />
         <option value="tag:getCommonCookie" />
@@ -17,12 +23,6 @@
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info | message~:postEvent.+preview_close | message~:postEvent.+preview_open" />
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info" />
         <option value="message~:postEvent.+preview_close | message~:postEvent.+preview_open" />
-        <option value="message~:postEvent.+preview_close | message:postEvent.+preview_open" />
-        <option value="tag:PreAuthViewPresenter_ | message:preview_close | message:preview_open" />
-        <option value="tag:PreAuthViewPresenter_ | message:preview_close" />
-        <option value="tag:PreAuthViewPresenter_" />
-        <option value="message:getCommon" />
-        <option value="message:Common" />
       </list>
     </option>
   </component>
