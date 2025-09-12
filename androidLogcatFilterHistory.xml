@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | tag:BottomTipsReceiver | message~:'postEvent.+(adAttached|adDetached)' " />
+    <option name="mostRecentlyUsed" value="message:407B561A8F8911F091697C8C09268FCA" />
     <option name="nonFavorites">
       <list>
+        <option value="message:407B561A8F8911F091697C8C09268FCA" />
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | tag:BottomTipsReceiver | message~:'postEvent.+(adAttached|adDetached)' " />
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | tag:BottomTipsReceiver | message~:'postEvent.+(adAttached)' " />
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | tag:BottomTipsReceiver | message~:postEvent.+preview_close " />
@@ -22,7 +23,6 @@
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info | message~:postEvent.+preview_close | message~:postEvent.+preview_open | message:'postEvent: event'" />
         <option value="message:'postEvent: event'" />
         <option value="tag:RecommendTipsBubblePresenter tag:UpdateRunnable" />
-        <option value="tag:RecommendTipsBubblePresenter" />
       </list>
     </option>
   </component>
