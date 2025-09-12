@@ -11,7 +11,7 @@
     <option name="snoozeShow" value="true" />
     <option name="snoozeTimeMil" value="1757062037911" />
     <option name="tabOverTimes" value="true" />
-    <option name="updateVersion" value="1.58.1" />
+    <option name="updateVersion" value="" />
     <option name="disabledLanguages">
       <map>
         <entry languageId="markdown" languageIdEnable="false" />
@@ -20,7 +20,7 @@
     <option name="updateVersionInfo">
       <map>
         <entry key="pluginId" value="com.tencent.code.CodeCopilotJetBrainPlugin" />
-        <entry key="version" value="1.58.1" />
+        <entry key="version" value="" />
       </map>
     </option>
     <option name="repoProgressMap">
