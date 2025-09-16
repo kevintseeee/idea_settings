@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:getCommonCookie" />
+    <option name="mostRecentlyUsed" value="tag:SinglePayCheckTicketViewModel tag:SinglePayCheckStateModule tag:HalfScreenCheckTicketFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SinglePayCheckTicketViewModel tag:SinglePayCheckStateModule tag:HalfScreenCheckTicketFragment" />
+        <option value="tag:SinglePayCheckTicketViewModel tag:SinglePayCheckStateModule" />
+        <option value="tag:SinglePayCheckTicketViewModel" />
         <option value="message:getCommonCookie" />
         <option value="message:LoginModule" />
         <option value="message:Acc" />
@@ -20,9 +23,6 @@
         <option value="message~:originUrl.+cover_detail_waterfall" />
         <option value="message~:originUrl.+waterfall" />
         <option value="message~:originUrl.+CoverDetailWaterfall" />
-        <option value="message:CoverDetailWaterfall" />
-        <option value="message:waterfall" />
-        <option value="message:getComm" />
       </list>
     </option>
   </component>
