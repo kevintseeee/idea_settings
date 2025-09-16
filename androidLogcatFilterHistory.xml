@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="message:getCommonCookie" />
     <option name="nonFavorites">
       <list>
+        <option value="message:getCommonCookie" />
+        <option value="message:LoginModule" />
+        <option value="message:Acc" />
+        <option value="message:cookie" />
+        <option value="message:getCommomCookie" />
         <option value="is:stacktrace " />
         <option value="tag:TvMediaPlayer_0  tag:LoadingView" />
         <option value="tag:TvMediaPlayer_0 " />
@@ -12,17 +17,12 @@
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | tag:BottomTipsReceiver | message~:postEvent.+preview_close " />
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | message~:postEvent.+preview_close " />
         <option value="message:group_videos_waterfall" />
-        <option value="message:getCommonCookie" />
         <option value="message~:originUrl.+cover_detail_waterfall" />
         <option value="message~:originUrl.+waterfall" />
         <option value="message~:originUrl.+CoverDetailWaterfall" />
         <option value="message:CoverDetailWaterfall" />
         <option value="message:waterfall" />
         <option value="message:getComm" />
-        <option value="me" />
-        <option value="tag:getCommonCookie" />
-        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info | message~:postEvent.+preview_close " />
-        <option value="tag:EndVideoRecommendPresenter" />
       </list>
     </option>
   </component>
