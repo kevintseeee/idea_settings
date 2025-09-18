@@ -2,10 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="看到IDEA针对第54行给出了告警：“Flow is constructed but not used”，你知道是什么原因吗" />
-        <option value="请为代码添加详细的注释" />
-        <option value="flowOnLifecycle使用了callbackFlow将callback转成了flow，那么如果我调用了flowOnLifecycle，但是没有对返回的flow做任何操作，callback会被注册进去吗？会不会泄露了这个callback？" />
-        <option value="31行～32行的注释，我可能写得比较粗糙，帮我完善一下" />
         <option value="阅读这两个文件，都是提供基于生命周期的协程orFlow的使用。我理解repeatOnLifecycle可能更加通用，除此之外，还有什么优劣？" />
         <option value="如何理解“只创建一次，保持连接”？isAtLeast方法返回false的时候，不是会取消上游flow吗？" />
         <option value="使用flowOnLifecycle，如果订阅切换到了emptyFlow，而且原始flow还在不断更新。这些更新，去了哪里？当订阅切换回原始flow时，我们会丢失掉这些更新么？" />
@@ -52,6 +48,10 @@
         <option value="取日期的方式，还有其他方案可选吗？" />
         <option value="我希望改成方案4（最高效方案）" />
         <option value="在Kotlin代码中，往java代码传入Boolean::class.java，得到的并不是Boolean.class" />
+        <option value="关于PlaybackMenuUiState，我希望把topVisibleState和bottomVisibleState定义成枚举，分为“展示中”、“已展示”、“隐藏中”、“已隐藏”" />
+        <option value="我记得在Android平台是推荐使用整形来做枚举的，是这样的吗？" />
+        <option value="虽然这么说，但是kotlin本身不会对此做优化吗？" />
+        <option value="value class能用于优化基于整形的枚举吗？" />
       </list>
     </option>
   </component>
