@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="如何理解“只创建一次，保持连接”？isAtLeast方法返回false的时候，不是会取消上游flow吗？" />
         <option value="使用flowOnLifecycle，如果订阅切换到了emptyFlow，而且原始flow还在不断更新。这些更新，去了哪里？当订阅切换回原始flow时，我们会丢失掉这些更新么？" />
         <option value="原始flow是一个MutableStateFlow，结合这个信息说说看呢" />
         <option value="评估一下我的改动是否正确" />
@@ -52,6 +51,7 @@
         <option value="虽然这么说，但是kotlin本身不会对此做优化吗？" />
         <option value="value class能用于优化基于整形的枚举吗？" />
         <option value="我希望awaitPreDraw能够阻塞到OnPreDraw回调" />
+        <option value="观察slideInFromBottomAdaptively方法，通常预期是，动画时长由duration指定，currentY应该是等于viewHeight的，所以滑动的距离等于viewHeight&#10;但是因为滑出动画有可能会被临时终止，这种情况下的currentY不等于viewHeight，此时立刻执行滑入动画的话，View需要从中间位置滑入。&#10;这种情况下，动画时长应该如何调整，使得View滑入得更自然？" />
       </list>
     </option>
   </component>
