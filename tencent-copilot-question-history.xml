@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="阅读这两个文件，都是提供基于生命周期的协程orFlow的使用。我理解repeatOnLifecycle可能更加通用，除此之外，还有什么优劣？" />
         <option value="如何理解“只创建一次，保持连接”？isAtLeast方法返回false的时候，不是会取消上游flow吗？" />
         <option value="使用flowOnLifecycle，如果订阅切换到了emptyFlow，而且原始flow还在不断更新。这些更新，去了哪里？当订阅切换回原始flow时，我们会丢失掉这些更新么？" />
         <option value="原始flow是一个MutableStateFlow，结合这个信息说说看呢" />
@@ -52,6 +51,7 @@
         <option value="我记得在Android平台是推荐使用整形来做枚举的，是这样的吗？" />
         <option value="虽然这么说，但是kotlin本身不会对此做优化吗？" />
         <option value="value class能用于优化基于整形的枚举吗？" />
+        <option value="我希望awaitPreDraw能够阻塞到OnPreDraw回调" />
       </list>
     </option>
   </component>
