@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="原始flow是一个MutableStateFlow，结合这个信息说说看呢" />
         <option value="评估一下我的改动是否正确" />
         <option value="评估一下我的改动（新增了对distinctUntilChanged的调用）是否正确" />
         <option value="评估一下我的改动（新增了对distinctUntilChanged的调用）是否正确。看下是否需要对应调整一下注释。" />
@@ -52,6 +51,7 @@
         <option value="我希望awaitPreDraw能够阻塞到OnPreDraw回调" />
         <option value="观察slideInFromBottomAdaptively方法，通常预期是，动画时长由duration指定，currentY应该是等于viewHeight的，所以滑动的距离等于viewHeight&#10;但是因为滑出动画有可能会被临时终止，这种情况下的currentY不等于viewHeight，此时立刻执行滑入动画的话，View需要从中间位置滑入。&#10;这种情况下，动画时长应该如何调整，使得View滑入得更自然？" />
         <option value="观察slideInFromBottomAdaptively方法、slideOutToBottomAdaptively方法、slideInFromTopAdaptively方法、slideOutToTopAdaptively方法，代码重复度特别高。帮助我优化代码，目标是降低重复度。" />
+        <option value="观察PlaybackMenuView.kt的handleVisibleStateChange方法。解释一下：&#10;1. handleVisibleStateChange放在PlaybackMenuView类以外&#10;2. handleVisibleStateChange放在PlaybackMenuView类内&#10;3. handleVisibleStateChange放在PlaybackMenuView类的companion object内&#10;以上有何不同？" />
       </list>
     </option>
   </component>
