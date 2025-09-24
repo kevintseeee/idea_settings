@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:getCommonCookie" />
+    <option name="mostRecentlyUsed" value="message:group_videos_waterfall" />
     <option name="nonFavorites">
       <list>
+        <option value="message:group_videos_waterfall" />
         <option value="message:getCommonCookie" />
-        <option value="message:getCommomCookie" />
+        <option value="message~:originUrl.+cover_detail_waterfall" />
+        <option value="message~:originUrl.+waterfall" />
+        <option value="message~:originUrl.+CoverDetailWaterfall" />
+        <option value="message:CoverDetailWaterfall" />
         <option value="message:waterfall" />
-        <option value="tag:Debug   " />
-        <option value="tag:OnePageLifecycle   " />
-        <option value="tag:OnePlayController   " />
-        <option value="tag:DebugHelper   " />
-        <option value="tag:HeaderFuncBtnListViewModel_  " />
-        <option value="tag:DebugHelper  " />
-        <option value="tag:AppLifecycle " />
-        <option value="tag:AppRuntimeHelper" />
-        <option value="tag:DetailMultiTabViewModel_" />
-        <option value="is:crash is:stacktrace " />
-        <option value="is:crash " />
-        <option value="package:mine " />
-        <option value="level:info &amp; (tag:MediaPlayerRootView | tag:VideoViewPresenter) " />
-        <option value="level:info &amp; (tag:MediaPlayerRootView | tag:Video) " />
-        <option value="tag:MediaPlayerRootView level:info " />
-        <option value="tag:MediaPlayerRootView" />
-        <option value="tag:TV-TRACE message:ReportAction" />
+        <option value="message:getComm" />
+        <option value="me" />
+        <option value="tag:getCommonCookie" />
+        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info | message~:postEvent.+preview_close " />
+        <option value="tag:EndVideoRecommendPresenter" />
+        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info | message~:postEvent.+preview_close | message~:postEvent.+preview_open | message:'postEvent: event'" />
+        <option value="message:'postEvent: event'" />
+        <option value="tag:RecommendTipsBubblePresenter tag:UpdateRunnable" />
+        <option value="tag:RecommendTipsBubblePresenter" />
+        <option value="tag:" />
+        <option value="message:getCommonC" />
+        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info | message~:postEvent.+preview_close | message~:postEvent.+preview_open" />
+        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | (tag:MediaPlayerManager &amp; message:openMediaPlayer) | message:get_play_func_info" />
       </list>
     </option>
   </component>
