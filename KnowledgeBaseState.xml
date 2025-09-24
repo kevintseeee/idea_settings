@@ -1,0 +1,22 @@
+<application>
+  <component name="KnowledgeBaseState">
+    <option name="knowledgeInfoMap">
+      <map>
+        <entry key="git">
+          <value>
+            <KnowledgeInfoList>
+              <option name="type" value="git" />
+            </KnowledgeInfoList>
+          </value>
+        </entry>
+        <entry key="iwiki">
+          <value>
+            <KnowledgeInfoList>
+              <option name="type" value="iwiki" />
+            </KnowledgeInfoList>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

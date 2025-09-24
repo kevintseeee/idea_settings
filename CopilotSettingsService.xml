@@ -1,11 +1,11 @@
 <application>
   <component name="CopilotSettingsServiceImpl">
     <option name="firstInstall" value="false" />
-    <option name="updateVersion" value="" />
+    <option name="updateVersion" value="1.58.1" />
     <option name="updateVersionInfo">
       <map>
         <entry key="pluginId" value="com.tencent.code.CodeCopilotJetBrainPlugin" />
-        <entry key="version" value="" />
+        <entry key="version" value="1.58.1" />
       </map>
     </option>
   </component>

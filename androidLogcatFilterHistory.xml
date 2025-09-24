@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TV-TRACE message:ReportAction" />
+    <option name="mostRecentlyUsed" value="message:getCommonCookie" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:TV-TRACE message:ReportAction" />
-        <option value="tag:TV-TRACE message:Report" />
-        <option value="tag:MMKVDiskCache_" />
-        <option value="message:resumeFocus" />
-        <option value="message:group_videos_waterfall" />
-        <option value="tag:VirtualSectionEntity" />
+        <option value="message:getCommonCookie" />
+        <option value="message:getCommomCookie" />
+        <option value="message:waterfall" />
+        <option value="tag:Debug   " />
+        <option value="tag:OnePageLifecycle   " />
+        <option value="tag:OnePlayController   " />
+        <option value="tag:DebugHelper   " />
+        <option value="tag:HeaderFuncBtnListViewModel_  " />
+        <option value="tag:DebugHelper  " />
+        <option value="tag:AppLifecycle " />
+        <option value="tag:AppRuntimeHelper" />
+        <option value="tag:DetailMultiTabViewModel_" />
+        <option value="is:crash is:stacktrace " />
         <option value="is:crash " />
-        <option value="message:loadArguments" />
-        <option value="is:crash | tag:kevin" />
-        <option value="tag:DetailCoverFirstFrameReporter | (tag:TV-TRACE &amp; message:ReportAction) " />
-        <option value="tag:DetailCoverFirstFrameReporter | tag:TV-TRACE " />
-        <option value="tag:DetailCoverFirstFrameReporter" />
-        <option value="tag:kevin | is:crash " />
-        <option value="tag:kevin" />
-        <option value="tag:OnePageViewTreeObserver" />
-        <option value="is:stacktrace " />
-        <option value="tag:TV-TRACE &amp; (message:ReportAction | message:restartScene)" />
-        <option value="message:PlayTraceBridgeImp" />
-        <option value="tag:PlayTraceBridgeImp" />
-        <option value="tag:TV-TRACE" />
+        <option value="package:mine " />
+        <option value="level:info &amp; (tag:MediaPlayerRootView | tag:VideoViewPresenter) " />
+        <option value="level:info &amp; (tag:MediaPlayerRootView | tag:Video) " />
+        <option value="tag:MediaPlayerRootView level:info " />
+        <option value="tag:MediaPlayerRootView" />
+        <option value="tag:TV-TRACE message:ReportAction" />
       </list>
     </option>
   </component>
