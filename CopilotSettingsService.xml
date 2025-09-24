@@ -21,6 +21,15 @@
     </option>
     <option name="repoProgressMap">
       <map>
+        <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/trunk_projects/trunk_building">
+          <value>
+            <IndexProgress>
+              <option name="active" value="false" />
+              <option name="error" value="TooManyFiles" />
+              <option name="status" value="cancelled" />
+            </IndexProgress>
+          </value>
+        </entry>
         <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/trunk_projects/trunk_developing">
           <value>
             <IndexProgress>
