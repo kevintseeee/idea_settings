@@ -2,56 +2,7 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="评估一下我的改动是否正确" />
-        <option value="评估一下我的改动（新增了对distinctUntilChanged的调用）是否正确" />
-        <option value="评估一下我的改动（新增了对distinctUntilChanged的调用）是否正确。看下是否需要对应调整一下注释。" />
-        <option value="为什么第48行(&quot;coroutineScope.launch {&quot;)会报错？" />
-        <option value="为什么kotlin在这种情况下不会认为非空？明明上一行就是赋值。" />
-        <option value="评估我的动画实现方案" />
-        <option value="startAndAwaitEnd的实现是否存在问题？" />
-        <option value="是不是可以改为使用continuation自带的状态，比如isCompleted之类的" />
-        <option value="continuation不止有isCompleted，还有isActive、isCancelled。你确定只使用isCompleted就够了吗？" />
-        <option value="我想让startAndAwaitEnd有返回值，true代表动画正常结束，false代表动画被取消。你看看我写对了么？" />
-        <option value="" />
-        <option value="slideInFromBottom曾三次执行&quot;this.translationY = targetY&quot;，会不会太过冗余了" />
-        <option value="这里的逻辑，是基于ViewPropertyAnimator的。能否改为基于android.animation.Animator？会有什么优劣点吗？" />
-        <option value="我有一个担忧：slideInFromBottom和slideOutToBottom都使用了viewHeight，但是如果View还没有测量，则viewHeight为0。你有什么方案可以解决这个问题？" />
-        <option value="@BottomTipsVM.kt @BottomTipsView.kt @AnimateUtils.kt 给这三个文件补充注释" />
-        <option value="@BottomTipsVM.kt @BottomTipsView.kt @AnimateUtils.kt 先阅读完这三个文件，给我一段总结。然后给这三个文件补充注释。" />
-        <option value="确认一下“协程被取消时，也要确保视图到达目标位置”是否能如愿" />
-        <option value="startAndAwaitEnd方法，使用了suspendCancellableCoroutine。如果协程被取消，调用方能感知到吗？比如slideOutToBottom方法，使用了try+finally的写法，确保translationY被设置成targetY。在协程被取消时，也可以走到finally么？" />
-        <option value="当回调onUnbindViewModel时，coroutineScope会被取消，slideOutToBottom内部的动画也会被取消吗" />
-        <option value="addTask方法应该按照顺序把timedTask添加到sortedTasks" />
-        <option value="总结这个类" />
-        <option value="关注这个类的核心逻辑，梳理一份需求文档" />
-        <option value="阅读需求文档“req.md”。根据文档，在“proj.android/src/com/tencent/qqlivetv/windowplayer/module/vmtx/bottomtips”目录里输出代码。" />
-        <option value="newTips方法希望“return true表示成功，false表示失败”，能做到么？" />
-        <option value="我发现了一些令人担忧的问题点：&#10;1. 过多使用filter；&#10;2. 过多使用sortedBy；&#10;这两个方法据我所知会创建对象&#10;已知：&#10;1. updatePosition方法，是一个高频调用的方法；&#10;2. 任务的稀疏度非常高，时间跨度很大，命中不到任务是常态；&#10;一些具体场景比如：&#10;1. updatePosition方法调用的filter方法大概率会filter出空数组；&#10;2. executeTasksInOrder方法内部有一次sortedBy，但是从调用方来看输入的tasksToExecute必然已经是sortedBy的，所以这里可以优化一下，减少一次sortedBy。&#10;3. addTask方法只能添加一个任务，且每次添加都会调用sortedBy；" />
-        <option value="updatePosition方法与seekToPosition方法，不要自己filter出tasksToExecute，让executeTasksInOrder方法完成filter" />
-        <option value="我认为includeStartPosition不重要，这一点点的差异，完全可以忽略。另外tasks已经是顺序排列的，你不需要执行sortedBy。" />
-        <option value="executeTasksInOrder似乎就不需要filter了吧？直接在forEach里完成完全逻辑。" />
-        <option value="addTask方法中，因为sortedTasks貌似本来就是有顺序的了，是不是可以不用sortBy，可以直接遍历找到正确的插入位置" />
-        <option value="executeTasksInOrder方法，能否改用Range" />
-        <option value="executeTasksInOrder方法的参数，能否改用Range" />
-        <option value="我想加入一条特殊兼容逻辑，如果连续两次updatePosition，出现以下情况，就认为是seek&#10;1. 进度回退&#10;2. 更新时间差（取自android.os.SystemClock.uptimeMillis)与进度时间差相差过大" />
-        <option value="如果协程被取消，会抛什么错误？" />
-        <option value="我的意思是，我想改用cache，承接协程取消时的处理" />
-        <option value="我的意思是，我想改用catch，承接协程取消时的处理" />
-        <option value="我这段代码的写法有什么问题吗" />
-        <option value="如何使用koltin生成一个随机数" />
-        <option value="这一段可读性很差，应该如何改进？" />
-        <option value="我希望，每当进行loadBottomTipsInfo时，记录当下的日期。然后，在showBottomTips时，跟记录的日期进行对比。如果跨天了，就不要出提示了。" />
-        <option value="取日期的方式，还有其他方案可选吗？" />
-        <option value="我希望改成方案4（最高效方案）" />
-        <option value="在Kotlin代码中，往java代码传入Boolean::class.java，得到的并不是Boolean.class" />
-        <option value="关于PlaybackMenuUiState，我希望把topVisibleState和bottomVisibleState定义成枚举，分为“展示中”、“已展示”、“隐藏中”、“已隐藏”" />
-        <option value="我记得在Android平台是推荐使用整形来做枚举的，是这样的吗？" />
-        <option value="虽然这么说，但是kotlin本身不会对此做优化吗？" />
-        <option value="value class能用于优化基于整形的枚举吗？" />
-        <option value="我希望awaitPreDraw能够阻塞到OnPreDraw回调" />
-        <option value="观察slideInFromBottomAdaptively方法，通常预期是，动画时长由duration指定，currentY应该是等于viewHeight的，所以滑动的距离等于viewHeight&#10;但是因为滑出动画有可能会被临时终止，这种情况下的currentY不等于viewHeight，此时立刻执行滑入动画的话，View需要从中间位置滑入。&#10;这种情况下，动画时长应该如何调整，使得View滑入得更自然？" />
-        <option value="观察slideInFromBottomAdaptively方法、slideOutToBottomAdaptively方法、slideInFromTopAdaptively方法、slideOutToTopAdaptively方法，代码重复度特别高。帮助我优化代码，目标是降低重复度。" />
-        <option value="观察PlaybackMenuView.kt的handleVisibleStateChange方法。解释一下：&#10;1. handleVisibleStateChange放在PlaybackMenuView类以外&#10;2. handleVisibleStateChange放在PlaybackMenuView类内&#10;3. handleVisibleStateChange放在PlaybackMenuView类的companion object内&#10;以上有何不同？" />
+        <option value="如果changeMs调用频繁（毫秒级），是不是会对内存造成压力？" />
       </list>
     </option>
   </component>

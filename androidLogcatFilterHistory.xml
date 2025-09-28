@@ -1,16 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:SinglePayCheckTicketViewModel tag:SinglePayCheckStateModule tag:HalfScreenCheckTicketFragment" />
+    <option name="mostRecentlyUsed" value="message:group_videos_waterfall message:cover_detail_waterfall" />
     <option name="nonFavorites">
       <list>
+        <option value="message:group_videos_waterfall message:cover_detail_waterfall" />
+        <option value="message:group_videos_waterfall message:" />
+        <option value="message:getCommonCookie" />
+        <option value="message:getCommomCookie" />
         <option value="tag:SinglePayCheckTicketViewModel tag:SinglePayCheckStateModule tag:HalfScreenCheckTicketFragment" />
         <option value="tag:SinglePayCheckTicketViewModel tag:SinglePayCheckStateModule" />
         <option value="tag:SinglePayCheckTicketViewModel" />
-        <option value="message:getCommonCookie" />
         <option value="message:LoginModule" />
         <option value="message:Acc" />
         <option value="message:cookie" />
-        <option value="message:getCommomCookie" />
         <option value="is:stacktrace " />
         <option value="tag:TvMediaPlayer_0  tag:LoadingView" />
         <option value="tag:TvMediaPlayer_0 " />
@@ -21,8 +23,6 @@
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | message~:postEvent.+preview_close " />
         <option value="message:group_videos_waterfall" />
         <option value="message~:originUrl.+cover_detail_waterfall" />
-        <option value="message~:originUrl.+waterfall" />
-        <option value="message~:originUrl.+CoverDetailWaterfall" />
       </list>
     </option>
   </component>
