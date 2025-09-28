@@ -3,6 +3,7 @@
     <option name="questions">
       <list>
         <option value="如果changeMs调用频繁（毫秒级），是不是会对内存造成压力？" />
+        <option value="Kotlin原生有类似的方法吗" />
       </list>
     </option>
   </component>
