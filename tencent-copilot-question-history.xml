@@ -4,6 +4,7 @@
       <list>
         <option value="如果changeMs调用频繁（毫秒级），是不是会对内存造成压力？" />
         <option value="Kotlin原生有类似的方法吗" />
+        <option value="请教一下kotlin。看notifyUserKeySeekStopped方法。我在_uiState.update之外，声明了var success，在_uiState.update里面修改success，最后return success。我理解之中的Java，是不可以在匿名内部类中修改外部变量的，现在kotlin这种写法，我要如何理解？" />
       </list>
     </option>
   </component>
