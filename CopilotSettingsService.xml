@@ -54,6 +54,15 @@
             </IndexProgress>
           </value>
         </entry>
+        <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/release">
+          <value>
+            <IndexProgress>
+              <option name="active" value="false" />
+              <option name="fileCount" value="70" />
+              <option name="status" value="done" />
+            </IndexProgress>
+          </value>
+        </entry>
         <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/trunk_projects/trunk_building">
           <value>
             <IndexProgress>
