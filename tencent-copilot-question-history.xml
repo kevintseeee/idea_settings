@@ -11,6 +11,7 @@
         <option value="使用Delegates的observable能做吗" />
         <option value="可以是用lazy吗？" />
         <option value="但是，调用onComponentCreated时，component还未赋值吧？" />
+        <option value="先简单介绍一下用法" />
       </list>
     </option>
   </component>
