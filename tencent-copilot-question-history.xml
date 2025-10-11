@@ -5,6 +5,10 @@
         <option value="如果changeMs调用频繁（毫秒级），是不是会对内存造成压力？" />
         <option value="Kotlin原生有类似的方法吗" />
         <option value="请教一下kotlin。看notifyUserKeySeekStopped方法。我在_uiState.update之外，声明了var success，在_uiState.update里面修改success，最后return success。我理解之中的Java，是不可以在匿名内部类中修改外部变量的，现在kotlin这种写法，我要如何理解？" />
+        <option value="有没有更简单的写法" />
+        <option value="我增加了一个onComponentCreated方法，预计onComponentCreated会访问component，这时候用lazy是不是就不合适了" />
+        <option value="还有其他写法吗？" />
+        <option value="使用Delegates的observable能做吗" />
       </list>
     </option>
   </component>
