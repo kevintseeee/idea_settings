@@ -12,6 +12,7 @@
         <option value="可以是用lazy吗？" />
         <option value="但是，调用onComponentCreated时，component还未赋值吧？" />
         <option value="先简单介绍一下用法" />
+        <option value="有一个Flow0，发送一个data class，这个data class包含两个发送Int类型的Flow：Flow1和Flow2，Flow1不可空，Flow2可空。我希望接收Flow1或者Flow2，显示一个Int在到屏幕上。Flow2优先级高于Flow1." />
       </list>
     </option>
   </component>
