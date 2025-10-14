@@ -57,8 +57,8 @@
           <value>
             <IndexProgress>
               <option name="active" value="false" />
-              <option name="fileCount" value="70" />
-              <option name="status" value="done" />
+              <option name="error" value="TooManyFiles" />
+              <option name="status" value="cancelled" />
             </IndexProgress>
           </value>
         </entry>
