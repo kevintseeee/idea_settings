@@ -17,6 +17,7 @@
         <option value="忽略上下文，单纯看这几行的写法，是不是不太简洁？" />
         <option value="你能读懂这段代码吗" />
         <option value="有什么改进建议吗？毕竟进度更新比较频繁，每次更新都会创建一个Pair，是不是太浪费内存了" />
+        <option value="kotlin在“计时”方面，有一个markNow方法。先简单介绍一下这里相关的知识。" />
         <option value="" />
       </list>
     </option>
