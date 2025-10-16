@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:error " />
+    <option name="mostRecentlyUsed" value="tag:SeekBarView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SeekBarView" />
         <option value="is:error " />
         <option value="message:group_videos_waterfall message:cover_detail_waterfall" />
         <option value="message:group_videos_waterfall message:" />
@@ -22,7 +23,6 @@
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | tag:BottomTipsReceiver | message~:'postEvent.+(adAttached)' " />
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | tag:BottomTipsReceiver | message~:postEvent.+preview_close " />
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | message~:postEvent.+preview_close " />
-        <option value="message:group_videos_waterfall" />
       </list>
     </option>
   </component>
