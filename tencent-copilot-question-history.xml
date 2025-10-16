@@ -15,9 +15,10 @@
         <option value="有一个Flow0，发送一个data class，这个data class包含两个发送Int类型的Flow：Flow1和Flow2，Flow1不可空，Flow2可空。我希望接收Flow1或者Flow2，显示一个Int在到屏幕上。Flow2优先级高于Flow1." />
         <option value="这几行的写法是不是太冗余了" />
         <option value="忽略上下文，单纯看这几行的写法，是不是不太简洁？" />
-        <option value="你能读懂这段代码吗" />
         <option value="有什么改进建议吗？毕竟进度更新比较频繁，每次更新都会创建一个Pair，是不是太浪费内存了" />
         <option value="kotlin在“计时”方面，有一个markNow方法。先简单介绍一下这里相关的知识。" />
+        <option value="你能读懂这段代码吗" />
+        <option value="我希望修改方案，启动两个协程，协程A负责监听seekingProgressFlow，协程B负责监听currentProgressFlow，当seekingProgressFlow非空时，阻塞协程B。这个要怎么办到？" />
         <option value="" />
       </list>
     </option>
