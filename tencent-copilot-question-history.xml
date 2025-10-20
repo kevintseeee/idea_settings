@@ -23,6 +23,7 @@
         <option value="你认为有什么实现问题、改进建议？" />
         <option value="kotlin中可以将一个成员声明成两种类型吗？比如说是一个Activity，同时实现了Comparable接口" />
         <option value="" />
+        <option value="kotlin写方法注释时是如何引用代码的？类似Java的@link" />
       </list>
     </option>
   </component>
