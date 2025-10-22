@@ -24,6 +24,7 @@
         <option value="kotlin中可以将一个成员声明成两种类型吗？比如说是一个Activity，同时实现了Comparable接口" />
         <option value="" />
         <option value="kotlin写方法注释时是如何引用代码的？类似Java的@link" />
+        <option value="为什么：“Protected function call from public-API inline function is prohibited.”" />
       </list>
     </option>
   </component>
