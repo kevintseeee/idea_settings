@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:SeekBarView" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="tag:SeekBarView" />
         <option value="is:error " />
         <option value="message:group_videos_waterfall message:cover_detail_waterfall" />
@@ -15,7 +16,6 @@
         <option value="message:LoginModule" />
         <option value="message:Acc" />
         <option value="message:cookie" />
-        <option value="is:stacktrace " />
         <option value="tag:TvMediaPlayer_0  tag:LoadingView" />
         <option value="tag:TvMediaPlayer_0 " />
         <option value="message:407B561A8F8911F091697C8C09268FCA" />
