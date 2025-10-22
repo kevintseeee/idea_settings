@@ -25,6 +25,7 @@
         <option value="" />
         <option value="kotlin写方法注释时是如何引用代码的？类似Java的@link" />
         <option value="为什么：“Protected function call from public-API inline function is prohibited.”" />
+        <option value="为什么：Cannot inline 'block: IEventHandler&lt;PlayerEvent&gt;.(PlayerEvent) -&gt; Unit' here: it might contain non-local returns. Add 'crossinline' modifier to parameter declaration 'block: IEventHandler&lt;PlayerEvent&gt;.(PlayerEvent) -&gt; Unit'." />
       </list>
     </option>
   </component>
