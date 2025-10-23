@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:DebugHelper " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DebugHelper " />
         <option value="is:stacktrace " />
         <option value="tag:SeekBarView" />
         <option value="is:error " />
@@ -22,7 +23,6 @@
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | tag:BottomTipsReceiver | message~:'postEvent.+(adAttached|adDetached)' " />
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | tag:BottomTipsReceiver | message~:'postEvent.+(adAttached)' " />
         <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | tag:BottomTipsReceiver | message~:postEvent.+preview_close " />
-        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | message~:postEvent.+preview_close " />
       </list>
     </option>
   </component>
