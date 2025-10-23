@@ -27,6 +27,7 @@
         <option value="为什么：“Protected function call from public-API inline function is prohibited.”" />
         <option value="为什么：Cannot inline 'block: IEventHandler&lt;PlayerEvent&gt;.(PlayerEvent) -&gt; Unit' here: it might contain non-local returns. Add 'crossinline' modifier to parameter declaration 'block: IEventHandler&lt;PlayerEvent&gt;.(PlayerEvent) -&gt; Unit'." />
         <option value="这个方法包含了inline和crossinline，编译后的产物会是什么？" />
+        <option value="你是一个专业的Android应用开发者，正在使用MVVM架构写一个带列表的页面。&#10;现在有两个Case你需要完成：&#10;1. 你会接受push消息，push消息可能会让你把列表往后滚动一段距离。&#10;2. 用户也可能滑动列表。&#10;你会如何基于MVVM架构，完成这个需求？" />
       </list>
     </option>
   </component>
