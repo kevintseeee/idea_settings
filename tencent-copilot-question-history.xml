@@ -30,6 +30,7 @@
         <option value="你是一个专业的Android应用开发者，正在使用MVVM架构写一个带列表的页面。&#10;现在有两个Case你需要完成：&#10;1. 你会接受push消息，push消息可能会让你把列表往后滚动一段距离。&#10;2. 用户也可能滑动列表。&#10;你会如何基于MVVM架构，完成这个需求？" />
         <option value="解释一下为什么MutableStateFlow,MutableSharedFlow,Channel不同的方式来传递" />
         <option value="在kotlin里，如何优雅地比较两个浮点数是否相等" />
+        <option value="sealed class有什么好处？" />
       </list>
     </option>
   </component>
