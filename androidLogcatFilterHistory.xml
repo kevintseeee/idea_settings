@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DebugHelper " />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:DebugHelper " />
         <option value="is:stacktrace " />
+        <option value="tag:DebugHelper " />
         <option value="tag:SeekBarView" />
         <option value="is:error " />
         <option value="message:group_videos_waterfall message:cover_detail_waterfall" />
