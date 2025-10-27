@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MediaControlMenuReceiver" />
+    <option name="mostRecentlyUsed" value="tag:MediaControlMenuReceiver tag:MediaControlMenuModule tag:TvMediaPlayer_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MediaControlMenuReceiver tag:MediaControlMenuModule tag:TvMediaPlayer_" />
+        <option value="tag:MediaControlMenuReceiver tag:MediaControlMenuModule" />
         <option value="tag:MediaControlMenuReceiver" />
         <option value="message:MediaControlMenuReceiver" />
         <option value="is:stacktrace " />
@@ -21,8 +23,6 @@
         <option value="message:cookie" />
         <option value="tag:TvMediaPlayer_0  tag:LoadingView" />
         <option value="tag:TvMediaPlayer_0 " />
-        <option value="message:407B561A8F8911F091697C8C09268FCA" />
-        <option value="tag:BottomTipsModule | tag:BottomTipsVM | tag:BottomTipsView | tag:BottomTipsTaskManager | tag:BottomTipsReceiver | message~:'postEvent.+(adAttached|adDetached)' " />
       </list>
     </option>
   </component>
