@@ -2,6 +2,9 @@
   <component name="Stocker">
     <option name="AShareList">
       <list>
+        <option value="SH000001" />
+        <option value="SZ399006" />
+        <option value="SH000688" />
         <option value="SZ301308" />
         <option value="SH603986" />
         <option value="SH513310" />
@@ -11,9 +14,6 @@
         <option value="SZ300476" />
         <option value="SH515880" />
         <option value="SH513050" />
-        <option value="SH000688" />
-        <option value="SH000001" />
-        <option value="SZ399006" />
       </list>
     </option>
     <option name="version" value="1.11.1" />
