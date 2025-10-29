@@ -1,0 +1,38 @@
+<application>
+  <component name="MultiModuleState">
+    <option name="workspaceId2ModuleMap">
+      <map>
+        <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/developing">
+          <value>
+            <MultiModuleInfo>
+              <option name="allModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="developing" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="blacklist">
+                <set />
+              </option>
+              <option name="indexedModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="developing" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="limit" value="5" />
+              <option name="uuid" value="375558a7-9c1a-bf96-7024-21cb47feae93" />
+              <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+            </MultiModuleInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
