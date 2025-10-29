@@ -23,6 +23,36 @@
             </MultiModuleInfo>
           </value>
         </entry>
+        <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/release">
+          <value>
+            <MultiModuleInfo>
+              <option name="allModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="release" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="blacklist">
+                <set />
+              </option>
+              <option name="indexedModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="release" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="limit" value="1" />
+              <option name="uuid" value="67b355f1-6318-a92b-4964-a895627e4be9" />
+              <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+            </MultiModuleInfo>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
