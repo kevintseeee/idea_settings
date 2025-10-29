@@ -17,17 +17,8 @@
               <option name="blacklist">
                 <set />
               </option>
-              <option name="indexedModules">
-                <list>
-                  <ModuleInfo>
-                    <option name="name" value="developing" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                  </ModuleInfo>
-                </list>
-              </option>
               <option name="limit" value="5" />
-              <option name="uuid" value="375558a7-9c1a-bf96-7024-21cb47feae93" />
+              <option name="uuid" value="6660a656-e09b-3482-3ce8-ddd57e0c7117" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
             </MultiModuleInfo>
           </value>

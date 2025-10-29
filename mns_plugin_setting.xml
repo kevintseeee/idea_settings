@@ -1,0 +1,10 @@
+<application>
+  <component name="me.bytebeats.mns.ui.AppSettingState">
+    <option name="shStocks" value="" />
+    <option name="szStocks" value="511090" />
+    <option name="cryptoCurrencies" value="BTC;ETH" />
+    <option name="stockSymbol" value="sz002352" />
+    <option name="localVersion" value="2.2.0" />
+    <option name="version" value="2.2.0" />
+  </component>
+</application>
