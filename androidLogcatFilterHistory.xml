@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
-        <option value="message:oUrl" />
         <option value="package:mine " />
+        <option value="message:oUrl" />
         <option value="tag:NetWork message:GetPanelInfo" />
         <option value="tag:NetWork " />
         <option value="tag:MediaControlMenuReceiver tag:MediaControlMenuModule tag:TvMediaPlayer_" />
