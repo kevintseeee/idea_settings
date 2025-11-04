@@ -18,7 +18,7 @@
                 <set />
               </option>
               <option name="limit" value="5" />
-              <option name="uuid" value="bb4d9d72-9ee5-9fec-f9bb-cabc1ff920b2" />
+              <option name="uuid" value="64602eef-b434-0b2b-4240-b82d3faab45f" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
             </MultiModuleInfo>
           </value>
@@ -39,7 +39,7 @@
                 <set />
               </option>
               <option name="limit" value="5" />
-              <option name="uuid" value="82a7f0a8-c983-32aa-fb90-3c4d3ba1194a" />
+              <option name="uuid" value="f45cd20b-82b5-d7cd-1a09-f94ed384b48a" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
             </MultiModuleInfo>
           </value>
