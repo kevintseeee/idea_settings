@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="tag:SeekBarView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SeekBarView" />
         <option value="package:mine " />
         <option value="message:oUrl" />
         <option value="tag:NetWork message:GetPanelInfo" />
@@ -13,7 +14,6 @@
         <option value="message:MediaControlMenuReceiver" />
         <option value="is:stacktrace " />
         <option value="tag:DebugHelper " />
-        <option value="tag:SeekBarView" />
         <option value="is:error " />
         <option value="message:group_videos_waterfall message:cover_detail_waterfall" />
         <option value="message:group_videos_waterfall message:" />
