@@ -31,6 +31,8 @@
         <option value="解释一下为什么MutableStateFlow,MutableSharedFlow,Channel不同的方式来传递" />
         <option value="在kotlin里，如何优雅地比较两个浮点数是否相等" />
         <option value="sealed class有什么好处？" />
+        <option value="我想用基于modelCoroutineScope，创建一个子coroutineScope。怎么做？这个做法合理吗？" />
+        <option value="创建子coroutineScope有多少种方法" />
       </list>
     </option>
   </component>
