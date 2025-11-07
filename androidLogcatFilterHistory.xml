@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:SeekBarView" />
+    <option name="mostRecentlyUsed" value="tag:VideoRichMediaRequest" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:VideoRichMediaRequest" />
         <option value="tag:SeekBarView" />
         <option value="package:mine " />
         <option value="message:oUrl" />
@@ -22,7 +23,6 @@
         <option value="tag:SinglePayCheckTicketViewModel tag:SinglePayCheckStateModule tag:HalfScreenCheckTicketFragment" />
         <option value="tag:SinglePayCheckTicketViewModel tag:SinglePayCheckStateModule" />
         <option value="tag:SinglePayCheckTicketViewModel" />
-        <option value="message:LoginModule" />
       </list>
     </option>
   </component>
