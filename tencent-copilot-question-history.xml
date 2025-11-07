@@ -33,6 +33,8 @@
         <option value="sealed class有什么好处？" />
         <option value="我想用基于modelCoroutineScope，创建一个子coroutineScope。怎么做？这个做法合理吗？" />
         <option value="创建子coroutineScope有多少种方法" />
+        <option value="梳理一下mHotCurvePaint在这个类里的用途" />
+        <option value="我看到填充时，仅使用了一种颜色。能否使用两种颜色，自上而下地渐变？特别地，我说的两种颜色，其实是相同RGB，不同的透明度。" />
       </list>
     </option>
   </component>
