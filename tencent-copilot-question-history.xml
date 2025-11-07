@@ -35,6 +35,7 @@
         <option value="创建子coroutineScope有多少种方法" />
         <option value="梳理一下mHotCurvePaint在这个类里的用途" />
         <option value="我看到填充时，仅使用了一种颜色。能否使用两种颜色，自上而下地渐变？特别地，我说的两种颜色，其实是相同RGB，不同的透明度。" />
+        <option value="解释一下Shader.TileMode.CLAMP是什么作用？让我理解你填得对不对" />
       </list>
     </option>
   </component>
