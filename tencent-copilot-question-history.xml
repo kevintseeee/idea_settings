@@ -39,6 +39,7 @@
         <option value="实现这个BezierEaseInOutInterpolator" />
         <option value="解读BezierEaseInOutInterpolator" />
         <option value="PathInterpolator也可以实现贝塞尔曲线吗？" />
+        <option value="这个文件，使用渐变，出现明显的横向纹路" />
       </list>
     </option>
   </component>
