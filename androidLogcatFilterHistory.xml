@@ -1,6 +1,6 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MediaControlMenuView tag:MediaControlMenuModule" />
+    <option name="mostRecentlyUsed" value="tag:VideoRichMediaRequest | (tag:HlsAdInfo &amp; message:-&gt;)" />
     <option name="nonFavorites">
       <list>
         <option value="tag:MediaControlMenuView tag:MediaControlMenuModule" />
