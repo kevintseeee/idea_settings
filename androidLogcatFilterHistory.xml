@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MediaControlMenuView" />
+    <option name="mostRecentlyUsed" value="tag:MediaControlMenuView tag:MediaControlMenuModule" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MediaControlMenuView tag:MediaControlMenuModule" />
         <option value="tag:MediaControlMenuView" />
         <option value="tag:VideoRichMediaRequest | (tag:HlsAdInfo &amp; message:-&gt;)" />
         <option value="tag:VideoRichMediaRequest | tag:HlsAdInfo" />
@@ -22,7 +23,6 @@
         <option value="message:group_videos_waterfall message:cover_detail_waterfall" />
         <option value="message:group_videos_waterfall message:" />
         <option value="message:getCommonCookie" />
-        <option value="message:getCommomCookie" />
       </list>
     </option>
   </component>
