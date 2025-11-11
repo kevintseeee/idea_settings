@@ -40,6 +40,11 @@
         <option value="解读BezierEaseInOutInterpolator" />
         <option value="PathInterpolator也可以实现贝塞尔曲线吗？" />
         <option value="这个文件，使用渐变，出现明显的横向纹路" />
+        <option value="解读一下AnimationCancellationException" />
+        <option value="为了传递forceTargetState，构建了一个Exception，是不是太浪费了？因为构建Exception会捕获堆栈，运行成本远高于收益。" />
+        <option value="方案一是常见处理方式吗" />
+        <option value="解读handleAnimSceneUpdate方法" />
+        <option value="给出评审建议" />
       </list>
     </option>
   </component>
