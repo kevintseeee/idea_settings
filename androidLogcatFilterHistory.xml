@@ -3,9 +3,10 @@
     <option name="mostRecentlyUsed" value="tag:MediaControlMenuView" />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
+        <option value="tag:MediaControlMenuView" />
         <option value="tag:VideoRichMediaRequest | (tag:HlsAdInfo &amp; message:-&gt;)" />
         <option value="tag:MediaControlMenuView tag:MediaControlMenuModule" />
-        <option value="tag:MediaControlMenuView" />
         <option value="tag:VideoRichMediaRequest | tag:HlsAdInfo" />
         <option value="tag:VideoRichMediaRequest" />
         <option value="tag:SeekBarView" />
@@ -17,7 +18,6 @@
         <option value="tag:MediaControlMenuReceiver tag:MediaControlMenuModule" />
         <option value="tag:MediaControlMenuReceiver" />
         <option value="message:MediaControlMenuReceiver" />
-        <option value="is:stacktrace " />
         <option value="tag:DebugHelper " />
         <option value="is:error " />
         <option value="message:group_videos_waterfall message:cover_detail_waterfall" />
