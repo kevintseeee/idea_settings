@@ -1,5 +1,12 @@
 <application>
   <component name="StudioBotSettings">
     <option name="acceptedTermsVersion" value="3" />
+    <option name="contextSharingModeV2" value="AskPerProject" />
+    <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1762934400518">What's new in Android Studio since 2024</historyEntry>
+      </list>
+    </option>
   </component>
 </application>
