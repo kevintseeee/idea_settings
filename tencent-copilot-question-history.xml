@@ -45,6 +45,7 @@
         <option value="方案一是常见处理方式吗" />
         <option value="解读handleAnimSceneUpdate方法" />
         <option value="给出评审建议" />
+        <option value="421行使用了一个ObjectAnimator针对View的ALPHA做动画，最终效果是View边界外的内容，在动画过程中是缺失的，是为什么？补充一点：我的View很特别，会在边界之外绘制一点阴影。" />
       </list>
     </option>
   </component>
