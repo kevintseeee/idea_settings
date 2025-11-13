@@ -5,6 +5,11 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1763041302393">Explain this crash: Writing exception to parcel
+java.lang.IllegalStateException: Failed to build unique file: /storage/emulated/0/Pictures/systemKTCP/guid/SNMAPP/com.ktcp.video.jpg owner_package_name=com.ktcp.video _display_name=com.ktcp.video.jpg mime_type=image/jpeg _data=/storage/emulated/0/Pictures/systemKTCP/guid/SNMAPP/com.ktcp.video.jpg relative_path=Pictures/systemKTCP/guid/SNMAPP/
+at com.android.providers.media.MediaProvider.ensureFileColumns(MediaProvider.java:2628)
+at com.android.providers.media.MediaProvider.ensureUniqueFileColumns(MediaProvider.java:2372)
+at com.android.providers.media.MediaProvider.insertFile(MediaProvider.java:2982) with tag DatabaseUtils</historyEntry>
         <historyEntry timestamp="1762934400518">What's new in Android Studio since 2024</historyEntry>
       </list>
     </option>
