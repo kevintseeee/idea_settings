@@ -48,6 +48,7 @@
         <option value="421行使用了一个ObjectAnimator针对View的ALPHA做动画，最终效果是View边界外的内容，在动画过程中是缺失的，是为什么？补充一点：我的View很特别，会在边界之外绘制一点阴影。" />
         <option value="什么情况下，适合用val搭配get()；什么情况，下适合用getXXXX；" />
         <option value="我有一个View，需要设置一个渐变色的背景，顶部是0%的黑色，底部是100%的黑色，而中间距离顶部100px处是80%的黑色。目前我的想法是自定义一个Drawable，按照规则绘制渐变。这个想法怎么样？你有更好的想法吗？" />
+        <option value="你是专业的Android应用开发者，请解读这个类的逻辑，给出评审意见、改进建议" />
       </list>
     </option>
   </component>
