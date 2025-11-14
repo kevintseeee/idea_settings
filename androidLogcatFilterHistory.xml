@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ThumbTipsComponent tag:SeekBarView tag:MediaControlMenuModule" />
+    <option name="mostRecentlyUsed" value="tag:KanTaModule" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:KanTaModule" />
         <option value="tag:ThumbTipsComponent tag:SeekBarView tag:MediaControlMenuModule" />
         <option value="tag:ThumbTipsComponent tag:SeekBarView" />
         <option value="tag:SeekBarView" />
@@ -22,7 +23,6 @@
         <option value="tag:MediaControlMenuReceiver" />
         <option value="message:MediaControlMenuReceiver" />
         <option value="tag:DebugHelper " />
-        <option value="is:error " />
       </list>
     </option>
   </component>
