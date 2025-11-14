@@ -50,6 +50,7 @@
         <option value="我有一个View，需要设置一个渐变色的背景，顶部是0%的黑色，底部是100%的黑色，而中间距离顶部100px处是80%的黑色。目前我的想法是自定义一个Drawable，按照规则绘制渐变。这个想法怎么样？你有更好的想法吗？" />
         <option value="你是专业的Android应用开发者，请解读这个类的逻辑，给出评审意见、改进建议" />
         <option value="Kotlin代码是如何标注@Deprecated的" />
+        <option value="为什么报错" />
       </list>
     </option>
   </component>
