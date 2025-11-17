@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:KanTaModule" />
+    <option name="mostRecentlyUsed" value="tag:VMTX" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:VMTX" />
+        <option value="is:stacktrace " />
         <option value="tag:KanTaModule" />
         <option value="tag:ThumbTipsComponent tag:SeekBarView tag:MediaControlMenuModule" />
         <option value="tag:ThumbTipsComponent tag:SeekBarView" />
         <option value="tag:SeekBarView" />
         <option value="tag:ThumbTipsComponent" />
-        <option value="is:stacktrace " />
         <option value="tag:MediaControlMenuView" />
         <option value="tag:VideoRichMediaRequest | (tag:HlsAdInfo &amp; message:-&gt;)" />
         <option value="tag:MediaControlMenuView tag:MediaControlMenuModule" />
@@ -22,7 +23,6 @@
         <option value="tag:MediaControlMenuReceiver tag:MediaControlMenuModule" />
         <option value="tag:MediaControlMenuReceiver" />
         <option value="message:MediaControlMenuReceiver" />
-        <option value="tag:DebugHelper " />
       </list>
     </option>
   </component>
