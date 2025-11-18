@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="我增加了一个onComponentCreated方法，预计onComponentCreated会访问component，这时候用lazy是不是就不合适了" />
         <option value="还有其他写法吗？" />
         <option value="使用Delegates的observable能做吗" />
         <option value="可以是用lazy吗？" />
@@ -52,6 +51,7 @@
         <option value="有一个ConstraintLayout，内部有两个FrameLayout，如何做到让FrameLayout垂直排列，且让ConstraintLayout的高度由两个FrameLayout决定。" />
         <option value="我怎么记得，ConstraintLayout高度为0dp时，是有特殊逻辑的" />
         <option value="firstMenuBottomPadding的单位如果是像素的话，是否写错了" />
+        <option value="解读一下代码的含义：    public static int compare(double lhs, double rhs) {&#10;        if (lhs &lt; rhs) {&#10;            return -1;&#10;        } else if (lhs &gt; rhs) {&#10;            return 1;&#10;        } else {&#10;            long lhsBits = Double.doubleToLongBits(lhs);&#10;            long rhsBits = Double.doubleToLongBits(rhs);&#10;            if (lhsBits == rhsBits) {&#10;                return 0;&#10;            } else {&#10;                return lhsBits &lt; rhsBits ? -1 : 1;&#10;            }&#10;        }&#10;    }" />
       </list>
     </option>
   </component>
