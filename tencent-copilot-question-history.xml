@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="有没有更简单的写法" />
         <option value="我增加了一个onComponentCreated方法，预计onComponentCreated会访问component，这时候用lazy是不是就不合适了" />
         <option value="还有其他写法吗？" />
         <option value="使用Delegates的observable能做吗" />
@@ -52,6 +51,7 @@
         <option value="纠正：scrollY 为负值，是为了将选集组件移出屏幕一部分，需要特殊的交互才能将选集组件完全移入屏幕。&#10;为完成上述需求，使用scrollY更好，还是使用tranlsationY更好？" />
         <option value="有一个ConstraintLayout，内部有两个FrameLayout，如何做到让FrameLayout垂直排列，且让ConstraintLayout的高度由两个FrameLayout决定。" />
         <option value="我怎么记得，ConstraintLayout高度为0dp时，是有特殊逻辑的" />
+        <option value="firstMenuBottomPadding的单位如果是像素的话，是否写错了" />
       </list>
     </option>
   </component>
