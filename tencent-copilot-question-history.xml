@@ -51,6 +51,7 @@
         <option value="你是专业的Android应用开发者，请解读这个类的逻辑，给出评审意见、改进建议" />
         <option value="Kotlin代码是如何标注@Deprecated的" />
         <option value="为什么报错" />
+        <option value="解读方法installExplicitEpisodes和uninstallExplicitEpisodes" />
       </list>
     </option>
   </component>
