@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="使用Delegates的observable能做吗" />
         <option value="可以是用lazy吗？" />
         <option value="但是，调用onComponentCreated时，component还未赋值吧？" />
         <option value="先简单介绍一下用法" />
@@ -52,6 +51,7 @@
         <option value="firstMenuBottomPadding的单位如果是像素的话，是否写错了" />
         <option value="解读一下代码的含义：    public static int compare(double lhs, double rhs) {&#10;        if (lhs &lt; rhs) {&#10;            return -1;&#10;        } else if (lhs &gt; rhs) {&#10;            return 1;&#10;        } else {&#10;            long lhsBits = Double.doubleToLongBits(lhs);&#10;            long rhsBits = Double.doubleToLongBits(rhs);&#10;            if (lhsBits == rhsBits) {&#10;                return 0;&#10;            } else {&#10;                return lhsBits &lt; rhsBits ? -1 : 1;&#10;            }&#10;        }&#10;    }" />
         <option value="Kotlin Flow的combine函数，可以结合多个输入Flow转换成一个结果Flow。假设需要结合输入Flow和上一个结果，生成新结果，能处理吗" />
+        <option value="有一个Flow，我即将调用collect方法，但是我希望第一个collect到的值是我定义的，怎么办" />
       </list>
     </option>
   </component>
