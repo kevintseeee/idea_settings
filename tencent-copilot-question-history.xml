@@ -2,8 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="可以是用lazy吗？" />
-        <option value="但是，调用onComponentCreated时，component还未赋值吧？" />
         <option value="先简单介绍一下用法" />
         <option value="有一个Flow0，发送一个data class，这个data class包含两个发送Int类型的Flow：Flow1和Flow2，Flow1不可空，Flow2可空。我希望接收Flow1或者Flow2，显示一个Int在到屏幕上。Flow2优先级高于Flow1." />
         <option value="这几行的写法是不是太冗余了" />
@@ -52,6 +50,8 @@
         <option value="解读一下代码的含义：    public static int compare(double lhs, double rhs) {&#10;        if (lhs &lt; rhs) {&#10;            return -1;&#10;        } else if (lhs &gt; rhs) {&#10;            return 1;&#10;        } else {&#10;            long lhsBits = Double.doubleToLongBits(lhs);&#10;            long rhsBits = Double.doubleToLongBits(rhs);&#10;            if (lhsBits == rhsBits) {&#10;                return 0;&#10;            } else {&#10;                return lhsBits &lt; rhsBits ? -1 : 1;&#10;            }&#10;        }&#10;    }" />
         <option value="Kotlin Flow的combine函数，可以结合多个输入Flow转换成一个结果Flow。假设需要结合输入Flow和上一个结果，生成新结果，能处理吗" />
         <option value="有一个Flow，我即将调用collect方法，但是我希望第一个collect到的值是我定义的，怎么办" />
+        <option value="解读Alpha这个类" />
+        <option value="我的view会在边界外绘制一层阴影，我把所有父容器的clipChildren和clipToPadding都设置成了false。一般情况下，绘制是正常的，我能看到阴影。当我使用TranslationY类，执行偏移动画时，绘制也是正常，我能看到阴影。当我使用Alpha类，实现淡入效果时，阴影却无法绘制了，为什么？" />
       </list>
     </option>
   </component>
