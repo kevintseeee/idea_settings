@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:handleAnimSceneUpdate" />
+    <option name="mostRecentlyUsed" value="tag:DebugHelper " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DebugHelper " />
         <option value="message:handleAnimSceneUpdate" />
         <option value="tag:VMTX" />
         <option value="is:stacktrace " />
@@ -22,7 +23,6 @@
         <option value="tag:NetWork " />
         <option value="tag:MediaControlMenuReceiver tag:MediaControlMenuModule tag:TvMediaPlayer_" />
         <option value="tag:MediaControlMenuReceiver tag:MediaControlMenuModule" />
-        <option value="tag:MediaControlMenuReceiver" />
       </list>
     </option>
   </component>
