@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MediaControlMenuView" />
+    <option name="mostRecentlyUsed" value="tag:MenuDataModule tag:MenuDataReceiver" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MenuDataModule tag:MenuDataReceiver" />
+        <option value="tag:MenuDataModule" />
+        <option value="package:mine " />
         <option value="tag:MediaControlMenuView" />
         <option value="tag:DebugHelper " />
         <option value="message:handleAnimSceneUpdate" />
@@ -17,12 +20,9 @@
         <option value="tag:MediaControlMenuView tag:MediaControlMenuModule" />
         <option value="tag:VideoRichMediaRequest | tag:HlsAdInfo" />
         <option value="tag:VideoRichMediaRequest" />
-        <option value="package:mine " />
         <option value="message:oUrl" />
         <option value="tag:NetWork message:GetPanelInfo" />
         <option value="tag:NetWork " />
-        <option value="tag:MediaControlMenuReceiver tag:MediaControlMenuModule tag:TvMediaPlayer_" />
-        <option value="tag:MediaControlMenuReceiver tag:MediaControlMenuModule" />
       </list>
     </option>
   </component>
