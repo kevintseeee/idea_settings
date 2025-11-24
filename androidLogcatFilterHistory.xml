@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MenuDataModule tag:MenuDataReceiver" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="tag:MenuDataModule tag:MenuDataReceiver" />
         <option value="tag:MenuDataModule" />
         <option value="package:mine " />
@@ -10,7 +11,6 @@
         <option value="tag:DebugHelper " />
         <option value="message:handleAnimSceneUpdate" />
         <option value="tag:VMTX" />
-        <option value="is:stacktrace " />
         <option value="tag:KanTaModule" />
         <option value="tag:ThumbTipsComponent tag:SeekBarView tag:MediaControlMenuModule" />
         <option value="tag:ThumbTipsComponent tag:SeekBarView" />
