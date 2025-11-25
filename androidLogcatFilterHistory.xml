@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="tag:PlaylistModule" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PlaylistModule" />
         <option value="is:stacktrace " />
         <option value="tag:MenuDataModule tag:MenuDataReceiver" />
         <option value="tag:MenuDataModule" />
@@ -22,7 +23,6 @@
         <option value="tag:VideoRichMediaRequest" />
         <option value="message:oUrl" />
         <option value="tag:NetWork message:GetPanelInfo" />
-        <option value="tag:NetWork " />
       </list>
     </option>
   </component>
