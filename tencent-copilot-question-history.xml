@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="有一个Flow0，发送一个data class，这个data class包含两个发送Int类型的Flow：Flow1和Flow2，Flow1不可空，Flow2可空。我希望接收Flow1或者Flow2，显示一个Int在到屏幕上。Flow2优先级高于Flow1." />
         <option value="这几行的写法是不是太冗余了" />
         <option value="忽略上下文，单纯看这几行的写法，是不是不太简洁？" />
         <option value="有什么改进建议吗？毕竟进度更新比较频繁，每次更新都会创建一个Pair，是不是太浪费内存了" />
@@ -52,6 +51,7 @@
         <option value="解读Alpha这个类" />
         <option value="我的view会在边界外绘制一层阴影，我把所有父容器的clipChildren和clipToPadding都设置成了false。一般情况下，绘制是正常的，我能看到阴影。当我使用TranslationY类，执行偏移动画时，绘制也是正常，我能看到阴影。当我使用Alpha类，实现淡入效果时，阴影却无法绘制了，为什么？" />
         <option value="解读这个类" />
+        <option value="我是不是把episode_list移到屏幕外了？" />
       </list>
     </option>
   </component>
