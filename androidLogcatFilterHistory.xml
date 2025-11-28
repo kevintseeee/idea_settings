@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MediaControlMenuView" />
+    <option name="mostRecentlyUsed" value="tag:MultiTabPlaylistReceiver " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MultiTabPlaylistReceiver " />
+        <option value="tag:PlaylistReceiver | tag:Playlist " />
+        <option value="tag:PlaylistReceiver " />
+        <option value="package:mine " />
         <option value="tag:MediaControlMenuView" />
         <option value="tag=:PlaylistModule tag=:PlaylistReceiver tag=:MenuDataReceiver" />
         <option value="tag=:PlaylistModule tag=:PlaylistReceiver" />
@@ -17,12 +21,8 @@
         <option value="is:stacktrace " />
         <option value="tag:MenuDataModule tag:MenuDataReceiver" />
         <option value="tag:MenuDataModule" />
-        <option value="package:mine " />
         <option value="tag:DebugHelper " />
         <option value="message:handleAnimSceneUpdate" />
-        <option value="tag:VMTX" />
-        <option value="tag:KanTaModule" />
-        <option value="tag:ThumbTipsComponent tag:SeekBarView tag:MediaControlMenuModule" />
       </list>
     </option>
   </component>
