@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="我希望修改方案，启动两个协程，协程A负责监听seekingProgressFlow，协程B负责监听currentProgressFlow，当seekingProgressFlow非空时，阻塞协程B。这个要怎么办到？" />
         <option value="你读得懂这段代码吗" />
         <option value="你认为有什么实现问题、改进建议？" />
         <option value="kotlin中可以将一个成员声明成两种类型吗？比如说是一个Activity，同时实现了Comparable接口" />
@@ -52,6 +51,7 @@
         <option value="addCallback的写法足够优雅吗" />
         <option value="但是removeCallback的时候就必然会创建一个列表！" />
         <option value="这个类加入了一个ListNodeCallback，你觉得写法足够优雅了吗？" />
+        <option value="Android中关于View的OnLayoutChangeListener，我向一个上层容器注册OnLayoutChangeListener，子孙View发生布局变化时，会感知到吗？" />
       </list>
     </option>
   </component>
