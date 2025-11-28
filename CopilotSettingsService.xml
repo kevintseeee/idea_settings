@@ -27,7 +27,8 @@
           <value>
             <IndexProgress>
               <option name="fileCount" value="566" />
-              <option name="status" value="indexing" />
+              <option name="percent" value="100.0" />
+              <option name="status" value="done" />
             </IndexProgress>
           </value>
         </entry>
