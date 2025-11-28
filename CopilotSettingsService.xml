@@ -26,11 +26,8 @@
         <entry key="file:///Volumes/Workspace/Android/projects/Playground">
           <value>
             <IndexProgress>
-              <option name="active" value="false" />
-              <option name="currCount" value="47" />
-              <option name="fileCount" value="47" />
-              <option name="percent" value="100.0" />
-              <option name="status" value="done" />
+              <option name="fileCount" value="566" />
+              <option name="status" value="indexing" />
             </IndexProgress>
           </value>
         </entry>
@@ -47,7 +44,8 @@
           <value>
             <IndexProgress>
               <option name="active" value="false" />
-              <option name="status" value="removed" />
+              <option name="error" value="TooManyFiles" />
+              <option name="status" value="cancelled" />
             </IndexProgress>
           </value>
         </entry>

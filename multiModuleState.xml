@@ -2,20 +2,65 @@
   <component name="MultiModuleState">
     <option name="workspaceId2ModuleMap">
       <map>
+        <entry key="file:///Volumes/Workspace/Android/projects/Playground">
+          <value>
+            <MultiModuleInfo>
+              <option name="allModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="androidTest" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/Playground" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground/app/src/androidTest" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="main" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/Playground" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground/app/src/main" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="app" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/Playground" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground/app" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="Playground" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/Playground" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="blacklist">
+                <set />
+              </option>
+              <option name="indexedModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="Playground" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/Playground" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="limit" value="10" />
+              <option name="uuid" value="23c477f6-8dc7-d4a9-3e80-7428028113ee" />
+              <option name="workspaceId" value="file:///Volumes/Workspace/Android/projects/Playground" />
+            </MultiModuleInfo>
+          </value>
+        </entry>
         <entry key="file:///Volumes/Workspace/Projects/KTPlayground">
           <value>
             <MultiModuleInfo>
               <option name="allModules">
                 <list>
                   <ModuleInfo>
-                    <option name="name" value="test" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/KTPlayground" />
-                    <option name="uri" value="file:///Volumes/Workspace/Projects/KTPlayground/app/src/test" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="KTPlayground" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Projects/KTPlayground" />
                     <option name="uri" value="file:///Volumes/Workspace/Projects/KTPlayground" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="test" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/KTPlayground" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/KTPlayground/app/src/test" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="main" />
@@ -38,10 +83,16 @@
                 <set />
               </option>
               <option name="indexedModules">
-                <list />
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="KTPlayground" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/KTPlayground" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/KTPlayground" />
+                  </ModuleInfo>
+                </list>
               </option>
-              <option name="limit" value="5" />
-              <option name="uuid" value="edba781a-bcfd-13dd-8599-0ee4cb8e0c72" />
+              <option name="limit" value="10" />
+              <option name="uuid" value="57a8c3fe-24df-fc97-90fd-ae78e995f241" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Projects/KTPlayground" />
             </MultiModuleInfo>
           </value>
