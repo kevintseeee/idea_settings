@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="kotlin写方法注释时是如何引用代码的？类似Java的@link" />
         <option value="为什么：“Protected function call from public-API inline function is prohibited.”" />
         <option value="为什么：Cannot inline 'block: IEventHandler&lt;PlayerEvent&gt;.(PlayerEvent) -&gt; Unit' here: it might contain non-local returns. Add 'crossinline' modifier to parameter declaration 'block: IEventHandler&lt;PlayerEvent&gt;.(PlayerEvent) -&gt; Unit'." />
         <option value="这个方法包含了inline和crossinline，编译后的产物会是什么？" />
@@ -52,6 +51,7 @@
         <option value="帮我实现代码吧" />
         <option value="calculateAnchorBottom的方法，我觉得是有问题的" />
         <option value="你的方案有明显缺点：1.性能不好，会触发两次测量布局；2. 第一帧绘制出来是错误的。我的建议是使用scroll，将子View进行偏移，配合裁剪来实现，你觉得呢？帮我补充完整这个方案吧" />
+        <option value="绘制的渐变区域有明显的线段感，有什么办法可以加入一些“噪音”，消除线段感" />
       </list>
     </option>
   </component>
