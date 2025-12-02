@@ -2,12 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="在kotlin里，如何优雅地比较两个浮点数是否相等" />
-        <option value="sealed class有什么好处？" />
-        <option value="我想用基于modelCoroutineScope，创建一个子coroutineScope。怎么做？这个做法合理吗？" />
-        <option value="创建子coroutineScope有多少种方法" />
-        <option value="梳理一下mHotCurvePaint在这个类里的用途" />
-        <option value="我看到填充时，仅使用了一种颜色。能否使用两种颜色，自上而下地渐变？特别地，我说的两种颜色，其实是相同RGB，不同的透明度。" />
         <option value="解释一下Shader.TileMode.CLAMP是什么作用？让我理解你填得对不对" />
         <option value="实现这个BezierEaseInOutInterpolator" />
         <option value="解读BezierEaseInOutInterpolator" />
@@ -34,7 +28,6 @@
         <option value="有一个Flow，我即将调用collect方法，但是我希望第一个collect到的值是我定义的，怎么办" />
         <option value="解读Alpha这个类" />
         <option value="我的view会在边界外绘制一层阴影，我把所有父容器的clipChildren和clipToPadding都设置成了false。一般情况下，绘制是正常的，我能看到阴影。当我使用TranslationY类，执行偏移动画时，绘制也是正常，我能看到阴影。当我使用Alpha类，实现淡入效果时，阴影却无法绘制了，为什么？" />
-        <option value="解读这个类" />
         <option value="我是不是把episode_list移到屏幕外了？" />
         <option value="你能看到我在第45行使用了include，那么我如何通过VmtxMediaControlMenuViewBinding访问include里的内容？" />
         <option value="在这个文件里，完成TODO，补齐备注" />
@@ -52,6 +45,13 @@
         <option value="使用了一个不可见的占位 View（explicit_episode_area_anchor）来控制explicit_episode_area的位置，这是最好的实现方式了吗？" />
         <option value="绘制的渐变存在色带" />
         <option value="如何进一步消除色带问题？加入噪声？" />
+        <option value="尝试优化代码质量、可读性" />
+        <option value="解读这个类" />
+        <option value="完善注释" />
+        <option value="这个噪声图理论上占据多大内存？" />
+        <option value="这个NoiseShader里的Bitmap理论上占据多少内存？" />
+        <option value="把NOISE_SIZE进一步降低，会有什么影响？" />
+        <option value="帮我改成用32的吧" />
       </list>
     </option>
   </component>
