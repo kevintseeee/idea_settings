@@ -2,8 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="你是一个专业的Android应用开发者，正在使用MVVM架构写一个带列表的页面。&#10;现在有两个Case你需要完成：&#10;1. 你会接受push消息，push消息可能会让你把列表往后滚动一段距离。&#10;2. 用户也可能滑动列表。&#10;你会如何基于MVVM架构，完成这个需求？" />
-        <option value="解释一下为什么MutableStateFlow,MutableSharedFlow,Channel不同的方式来传递" />
         <option value="在kotlin里，如何优雅地比较两个浮点数是否相等" />
         <option value="sealed class有什么好处？" />
         <option value="我想用基于modelCoroutineScope，创建一个子coroutineScope。怎么做？这个做法合理吗？" />
@@ -52,6 +50,8 @@
         <option value="解读一下explicit_episode_area_anchor" />
         <option value="有没有更优雅的写法？" />
         <option value="使用了一个不可见的占位 View（explicit_episode_area_anchor）来控制explicit_episode_area的位置，这是最好的实现方式了吗？" />
+        <option value="绘制的渐变存在色带" />
+        <option value="如何进一步消除色带问题？加入噪声？" />
       </list>
     </option>
   </component>
