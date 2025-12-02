@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:MediaControlMenuVM tag:MediaControlMenuView tag:MediaControlMenuModule tag:MediaControlMenuAnim  tag:MediaControlFirstMenuLayout" />
+        <option value="tag:DebugHelper " />
         <option value="tag:MediaControlMenuVM tag:MediaControlMenuView tag:MediaControlMenuModule tag:MediaControlMenuAnim" />
         <option value="tag:MediaControlMenuVM tag:MediaControlMenuView tag:MediaControlMenuModule" />
         <option value="tag:MediaControlMenuVM tag:MediaControlMenuView" />
@@ -22,7 +23,6 @@
         <option value="tag=:PlaylistModule tag=:PlaylistReceiver tag=:MenuDataReceiver" />
         <option value="tag=:PlaylistModule tag=:PlaylistReceiver" />
         <option value="tag=:PlaylistModule tag:PlaylistReceiver" />
-        <option value="tag:PlaylistModule tag:PlaylistReceiver" />
       </list>
     </option>
   </component>
