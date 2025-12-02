@@ -103,6 +103,11 @@
               <option name="allModules">
                 <list>
                   <ModuleInfo>
+                    <option name="name" value="KTPlayerSentryBridge" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/Mediaplayer/modules/KTPlayerSentryBridge" />
+                  </ModuleInfo>
+                  <ModuleInfo>
                     <option name="name" value="developing" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
