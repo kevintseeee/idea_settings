@@ -1379,8 +1379,8 @@
                   </ModuleInfo>
                 </list>
               </option>
-              <option name="limit" value="5" />
-              <option name="uuid" value="b7433cf1-ca77-6463-99a6-10830f3ea774" />
+              <option name="limit" value="10" />
+              <option name="uuid" value="8cf777cf-ada2-71e8-0870-3d016d446cca" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
             </MultiModuleInfo>
           </value>
