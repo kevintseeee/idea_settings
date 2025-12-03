@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="PathInterpolator也可以实现贝塞尔曲线吗？" />
         <option value="这个文件，使用渐变，出现明显的横向纹路" />
         <option value="解读一下AnimationCancellationException" />
         <option value="为了传递forceTargetState，构建了一个Exception，是不是太浪费了？因为构建Exception会捕获堆栈，运行成本远高于收益。" />
@@ -52,6 +51,7 @@
         <option value="FirstMenuBottomMaskDrawable绘制出来的渐变，有明显的黑色色带，是正常的吗？有什么解决方案吗？" />
         <option value="FloatProperty是API24的吗？我现在最低API是16。那ObjectAnimator还能用吗？" />
         <option value="解读这个类，梳理调整建议" />
+        <option value="补充注释，提升可读性，注意要适度简洁。" />
       </list>
     </option>
   </component>
