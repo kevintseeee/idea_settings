@@ -122,14 +122,19 @@
                     <option name="uri" value="file:///Volumes/Workspace/Projects/Playground16/app" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="main" />
+                    <option name="name" value="out" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground16" />
-                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground16/app/src/main" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground16/app/build/generated/ap_generated_sources/debug/out" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="debug" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground16" />
                     <option name="uri" value="file:///Volumes/Workspace/Projects/Playground16/app/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="main" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground16" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground16/app/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="test" />
