@@ -45,7 +45,7 @@
           <value>
             <IndexProgress>
               <option name="active" value="false" />
-              <option name="status" value="done" />
+              <option name="status" value="queued" />
             </IndexProgress>
           </value>
         </entry>
