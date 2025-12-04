@@ -8,14 +8,9 @@
               <option name="allModules">
                 <list>
                   <ModuleInfo>
-                    <option name="name" value="androidTest" />
+                    <option name="name" value="Playground" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/Playground" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground/app/src/androidTest" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="main" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/Playground" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground/app/src/main" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="app" />
@@ -23,9 +18,29 @@
                     <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground/app" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="Playground" />
+                    <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/Playground" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground/app/src/main" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/Playground" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground/app/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/Playground" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground/app/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="test" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/Playground" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground/app/src/test" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="androidTest" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/Playground" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground/app/src/androidTest" />
                   </ModuleInfo>
                 </list>
               </option>
@@ -33,10 +48,16 @@
                 <set />
               </option>
               <option name="indexedModules">
-                <list />
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="Playground" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/Playground" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/Playground" />
+                  </ModuleInfo>
+                </list>
               </option>
-              <option name="limit" value="5" />
-              <option name="uuid" value="23c477f6-8dc7-d4a9-3e80-7428028113ee" />
+              <option name="limit" value="10" />
+              <option name="uuid" value="c34dd57c-42db-e83c-49e6-36558ec0d980" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Android/projects/Playground" />
             </MultiModuleInfo>
           </value>
@@ -82,6 +103,48 @@
               <option name="limit" value="5" />
               <option name="uuid" value="57a8c3fe-24df-fc97-90fd-ae78e995f241" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Projects/KTPlayground" />
+            </MultiModuleInfo>
+          </value>
+        </entry>
+        <entry key="file:///Volumes/Workspace/Projects/Playground16">
+          <value>
+            <MultiModuleInfo>
+              <option name="allModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="androidTest" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground16" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground16/app/src/androidTest" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="main" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground16" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground16/app/src/main" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="app" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground16" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground16/app" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="Playground16" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground16" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground16" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="indexedModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="Playground16" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground16" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground16" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="limit" value="10" />
+              <option name="uuid" value="a895115b-c86f-ee13-4713-b024e8d743fb" />
+              <option name="workspaceId" value="file:///Volumes/Workspace/Projects/Playground16" />
             </MultiModuleInfo>
           </value>
         </entry>
@@ -806,11 +869,6 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvBaseContainer/modules/play_trace/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="test" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvBaseContainer/modules/play_trace/src/test" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="AndroidManifest.xml" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/Plugin_Base/AndroidManifest.xml" />
@@ -1370,6 +1428,11 @@
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/Mediaplayer/modules/KTPlayerSentryBridge/src/main" />
                   </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="test" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvBaseContainer/modules/play_trace/src/test" />
+                  </ModuleInfo>
                 </list>
               </option>
               <option name="blacklist">
@@ -1385,7 +1448,7 @@
                 </list>
               </option>
               <option name="limit" value="10" />
-              <option name="uuid" value="8bb529c7-2d04-a3a5-2d7c-6b6581a2dbd9" />
+              <option name="uuid" value="ac04a5b1-27a1-a719-664b-0ce8d3b5a69a" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
             </MultiModuleInfo>
           </value>
