@@ -44,7 +44,7 @@
         <entry key="file:///Volumes/Workspace/Projects/Playground16">
           <value>
             <IndexProgress>
-              <option name="fileCount" value="40" />
+              <option name="fileCount" value="37" />
               <option name="percent" value="100.0" />
               <option name="status" value="done" />
             </IndexProgress>
@@ -54,8 +54,7 @@
           <value>
             <IndexProgress>
               <option name="active" value="false" />
-              <option name="error" value="TooManyFiles" />
-              <option name="status" value="cancelled" />
+              <option name="status" value="queued" />
             </IndexProgress>
           </value>
         </entry>
