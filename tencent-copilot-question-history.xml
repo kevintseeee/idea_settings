@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="为了传递forceTargetState，构建了一个Exception，是不是太浪费了？因为构建Exception会捕获堆栈，运行成本远高于收益。" />
         <option value="方案一是常见处理方式吗" />
         <option value="解读handleAnimSceneUpdate方法" />
         <option value="给出评审建议" />
@@ -52,6 +51,7 @@
         <option value="补充注释，提升可读性，注意要适度简洁。" />
         <option value="解读needsTileify方法" />
         <option value="瓦片化效果是什么意思？举个简单的例子" />
+        <option value="单元测试无法运行，解决问题！" />
       </list>
     </option>
   </component>
