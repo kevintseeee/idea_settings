@@ -2,13 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="给出评审建议" />
-        <option value="421行使用了一个ObjectAnimator针对View的ALPHA做动画，最终效果是View边界外的内容，在动画过程中是缺失的，是为什么？补充一点：我的View很特别，会在边界之外绘制一点阴影。" />
-        <option value="什么情况下，适合用val搭配get()；什么情况，下适合用getXXXX；" />
-        <option value="我有一个View，需要设置一个渐变色的背景，顶部是0%的黑色，底部是100%的黑色，而中间距离顶部100px处是80%的黑色。目前我的想法是自定义一个Drawable，按照规则绘制渐变。这个想法怎么样？你有更好的想法吗？" />
-        <option value="你是专业的Android应用开发者，请解读这个类的逻辑，给出评审意见、改进建议" />
-        <option value="Kotlin代码是如何标注@Deprecated的" />
-        <option value="为什么报错" />
         <option value="解读方法installExplicitEpisodes和uninstallExplicitEpisodes" />
         <option value="纠正：scrollY 为负值，是为了将选集组件移出屏幕一部分，需要特殊的交互才能将选集组件完全移入屏幕。&#10;为完成上述需求，使用scrollY更好，还是使用tranlsationY更好？" />
         <option value="有一个ConstraintLayout，内部有两个FrameLayout，如何做到让FrameLayout垂直排列，且让ConstraintLayout的高度由两个FrameLayout决定。" />
@@ -52,6 +45,13 @@
         <option value="单元测试无法运行，解决问题！" />
         <option value="我是产品经理，我正在写需求单，你要帮我整理描述，尽量描述清楚，需求如下：&#10;已知，有一系列的进度（秒级），存在具体的热度值（0～1的浮点数），如果在一个平面里把这些点连接成线，可以绘制出一条热度曲线。&#10;在TrackDrawable绘制区域的正上方，增加一个宽度同TrackDrawable，高度为外界指定（默认80）的区域。&#10;我希望在这个区域里，绘制出热度曲线。曲线以下，区域以内，绘制一个渐变色，从上往下，从指定颜色绘制至完全透明。使用Shader.TileMode.CLAMP模式。" />
         <option value="曲线是如何连接的？为什么看上去这么直" />
+        <option value="解读一下这个类的热度曲线" />
+        <option value="跟@HeatmapDrawable.kt 绘制热度曲线的逻辑是一样的吗?" />
+        <option value="我觉得TVSeekBar的方案更符合我的需求,修改HeatmapDrawable,使用TVSeekBar的方案" />
+        <option value="修改MainActivity的generateSampleHeatmapData方法,使得最终绘制出类似正弦的波浪线" />
+        <option value="随机去掉某些点,制造出不均匀的数据" />
+        <option value="提出你的优化建议" />
+        <option value="优化代码" />
       </list>
     </option>
   </component>
