@@ -106,6 +106,21 @@
               <option name="allModules">
                 <list>
                   <ModuleInfo>
+                    <option name="name" value="androidTest" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground16" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground16/customseekbar/src/androidTest" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="main" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground16" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground16/customseekbar/src/main" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="mylibrary" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground16" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground16/mylibrary" />
+                  </ModuleInfo>
+                  <ModuleInfo>
                     <option name="name" value="Playground16" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground16" />
                     <option name="uri" value="file:///Volumes/Workspace/Projects/Playground16" />
