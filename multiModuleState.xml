@@ -100,6 +100,66 @@
             </MultiModuleInfo>
           </value>
         </entry>
+        <entry key="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar">
+          <value>
+            <MultiModuleInfo>
+              <option name="allModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="tv_seekbar" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="app" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar/app" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="main" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar/app/src/main" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar/app/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar/app/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="test" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar/app/src/test" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="androidTest" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar/app/src/androidTest" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="blacklist">
+                <set />
+              </option>
+              <option name="indexedModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="tv_seekbar" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="limit" value="10" />
+              <option name="uuid" value="81bd2944-f7d4-1e01-fdd8-57ee078dd5eb" />
+              <option name="workspaceId" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar" />
+            </MultiModuleInfo>
+          </value>
+        </entry>
         <entry key="file:///Volumes/Workspace/Projects/Playground16">
           <value>
             <MultiModuleInfo>
