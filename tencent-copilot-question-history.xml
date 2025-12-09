@@ -2,8 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="这个类加入了一个ListNodeCallback，你觉得写法足够优雅了吗？" />
-        <option value="Android中关于View的OnLayoutChangeListener，我向一个上层容器注册OnLayoutChangeListener，子孙View发生布局变化时，会感知到吗？" />
         <option value="已知MediaControlFirstMenuLayout是一个ConstraintLayout，有很多子View，完全排列完的话，高度很大。当中存在一个id为view_anchor的子View，大约在中间。我希望MediaControlFirstMenuLayout的实际高度，是容器顶，到view_anchor的底。你有什么方案？说说你的方案" />
         <option value="帮我实现代码吧" />
         <option value="calculateAnchorBottom的方法，我觉得是有问题的" />
@@ -52,6 +50,8 @@
         <option value="补充一组customProgressDrawable.setSegments的演示数据" />
         <option value="这一段EventBus的监听，写对了吗？" />
         <option value="解读这个文件，如何理解size标签，以及stroke里的width" />
+        <option value="对比HeatmapDrawable和TVSeekBar关于热度曲线绘制的逻辑，试分析为什么HeatmapDrawable绘制出来的曲线不够TVSeekBar的平滑，根据你的结论调整HeatmapDrawable的实现，对齐TVSeekBar的效果。" />
+        <option value="确认一下TVSeekBar是不是在底部还预留了空间，使得热度值为0的点其实高度不为0，对齐TVSeekBar的效果。" />
       </list>
     </option>
   </component>
