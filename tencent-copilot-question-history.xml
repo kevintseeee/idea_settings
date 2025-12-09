@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="addCallback的写法足够优雅吗" />
         <option value="但是removeCallback的时候就必然会创建一个列表！" />
         <option value="这个类加入了一个ListNodeCallback，你觉得写法足够优雅了吗？" />
         <option value="Android中关于View的OnLayoutChangeListener，我向一个上层容器注册OnLayoutChangeListener，子孙View发生布局变化时，会感知到吗？" />
@@ -52,6 +51,7 @@
         <option value="解读代码" />
         <option value="补充customProgressDrawable.setHeatmapData的演示代码" />
         <option value="补充一组customProgressDrawable.setSegments的演示数据" />
+        <option value="这一段EventBus的监听，写对了吗？" />
       </list>
     </option>
   </component>

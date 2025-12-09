@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:printHeatCurve" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="message:printHeatCurve" />
         <option value="tag:get_video_rich_media" />
         <option value="is:crash " />
@@ -22,7 +23,6 @@
         <option value="tag:MediaControlMenuView tag:MediaControlMenuV" />
         <option value="tag:MultiTabPlaylistReceiver " />
         <option value="tag:PlaylistReceiver | tag:Playlist " />
-        <option value="tag:PlaylistReceiver " />
       </list>
     </option>
   </component>
