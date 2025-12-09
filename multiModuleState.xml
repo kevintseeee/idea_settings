@@ -100,6 +100,46 @@
             </MultiModuleInfo>
           </value>
         </entry>
+        <entry key="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp">
+          <value>
+            <MultiModuleInfo>
+              <option name="allModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="app" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp/app" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="test" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp/app/src/test" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="tmp" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="blacklist">
+                <set />
+              </option>
+              <option name="indexedModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="tmp" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp" />
+                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="limit" value="10" />
+              <option name="uuid" value="840fa1a4-4960-a37e-cf5b-747fca152355" />
+              <option name="workspaceId" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp" />
+            </MultiModuleInfo>
+          </value>
+        </entry>
         <entry key="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar">
           <value>
             <MultiModuleInfo>
