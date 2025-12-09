@@ -2,12 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="解读方法installExplicitEpisodes和uninstallExplicitEpisodes" />
-        <option value="纠正：scrollY 为负值，是为了将选集组件移出屏幕一部分，需要特殊的交互才能将选集组件完全移入屏幕。&#10;为完成上述需求，使用scrollY更好，还是使用tranlsationY更好？" />
-        <option value="有一个ConstraintLayout，内部有两个FrameLayout，如何做到让FrameLayout垂直排列，且让ConstraintLayout的高度由两个FrameLayout决定。" />
-        <option value="我怎么记得，ConstraintLayout高度为0dp时，是有特殊逻辑的" />
-        <option value="firstMenuBottomPadding的单位如果是像素的话，是否写错了" />
-        <option value="解读一下代码的含义：    public static int compare(double lhs, double rhs) {&#10;        if (lhs &lt; rhs) {&#10;            return -1;&#10;        } else if (lhs &gt; rhs) {&#10;            return 1;&#10;        } else {&#10;            long lhsBits = Double.doubleToLongBits(lhs);&#10;            long rhsBits = Double.doubleToLongBits(rhs);&#10;            if (lhsBits == rhsBits) {&#10;                return 0;&#10;            } else {&#10;                return lhsBits &lt; rhsBits ? -1 : 1;&#10;            }&#10;        }&#10;    }" />
         <option value="Kotlin Flow的combine函数，可以结合多个输入Flow转换成一个结果Flow。假设需要结合输入Flow和上一个结果，生成新结果，能处理吗" />
         <option value="有一个Flow，我即将调用collect方法，但是我希望第一个collect到的值是我定义的，怎么办" />
         <option value="解读Alpha这个类" />
@@ -52,6 +46,12 @@
         <option value="随机去掉某些点,制造出不均匀的数据" />
         <option value="提出你的优化建议" />
         <option value="优化代码" />
+        <option value="希望额外增加单独控制Marker、Thumb、EndThumb、Heatmap的显隐开关" />
+        <option value="根据这里的注释,不支持移除图层,所以你的修改方案是不是不靠谱" />
+        <option value="我建议将显隐逻辑下沉给具体的Drawable来处理" />
+        <option value="可以把background和progress改为可变的吗" />
+        <option value="EndThumbDrawable实际包装的Drawable应该是可变可空的,尺寸应该由外界指定" />
+        <option value="修改wrapped之后,没有同步到最新的alpha、colorFilter" />
       </list>
     </option>
   </component>
