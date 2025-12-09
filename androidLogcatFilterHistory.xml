@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:updateProgressEndPic" />
+    <option name="mostRecentlyUsed" value="tag:MediaControlMenuVM" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MediaControlMenuVM" />
         <option value="message:updateProgressEndPic" />
         <option value="message:mzc00200htmlstu1742802553435" />
         <option value="tag:SeekBarView" />
@@ -16,7 +17,6 @@
         <option value="tag:MediaControlMenuVM tag:MediaControlMenuView tag:MediaControlMenuModule" />
         <option value="tag:MediaControlMenuVM tag:MediaControlMenuView" />
         <option value="tag:MediaControlMenuVM " />
-        <option value="tag:MediaControlMenuVM" />
         <option value="tag:DebugHelper" />
         <option value="tag:MediaControlMenuModule" />
         <option value="tag:MediaControlMenuView" />
