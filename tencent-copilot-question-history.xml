@@ -2,13 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="Kotlin Flow的combine函数，可以结合多个输入Flow转换成一个结果Flow。假设需要结合输入Flow和上一个结果，生成新结果，能处理吗" />
-        <option value="有一个Flow，我即将调用collect方法，但是我希望第一个collect到的值是我定义的，怎么办" />
-        <option value="解读Alpha这个类" />
-        <option value="我的view会在边界外绘制一层阴影，我把所有父容器的clipChildren和clipToPadding都设置成了false。一般情况下，绘制是正常的，我能看到阴影。当我使用TranslationY类，执行偏移动画时，绘制也是正常，我能看到阴影。当我使用Alpha类，实现淡入效果时，阴影却无法绘制了，为什么？" />
-        <option value="我是不是把episode_list移到屏幕外了？" />
-        <option value="你能看到我在第45行使用了include，那么我如何通过VmtxMediaControlMenuViewBinding访问include里的内容？" />
-        <option value="在这个文件里，完成TODO，补齐备注" />
         <option value="addCallback的写法足够优雅吗" />
         <option value="但是removeCallback的时候就必然会创建一个列表！" />
         <option value="这个类加入了一个ListNodeCallback，你觉得写法足够优雅了吗？" />
@@ -24,7 +17,6 @@
         <option value="绘制的渐变存在色带" />
         <option value="如何进一步消除色带问题？加入噪声？" />
         <option value="尝试优化代码质量、可读性" />
-        <option value="解读这个类" />
         <option value="完善注释" />
         <option value="这个噪声图理论上占据多大内存？" />
         <option value="这个NoiseShader里的Bitmap理论上占据多少内存？" />
@@ -52,6 +44,14 @@
         <option value="可以把background和progress改为可变的吗" />
         <option value="EndThumbDrawable实际包装的Drawable应该是可变可空的,尺寸应该由外界指定" />
         <option value="修改wrapped之后,没有同步到最新的alpha、colorFilter" />
+        <option value="解读这个类" />
+        <option value="问题我已经修复了。将Segment再度转换成Interval的方案，显得太复杂。外界一般会自行确保段落的不重叠，遇到重叠只需要跳过即可。" />
+        <option value="先基础轨道背景，再绘制段落，如果颜色是透明的，会导致重叠" />
+        <option value="不要这么麻烦，还要用DrawRegion。你在setSegments先确保segments是有序的不重叠，直接遍历segments直接绘制就行了。" />
+        <option value="简化代码，消除重复代码" />
+        <option value="解读代码" />
+        <option value="补充customProgressDrawable.setHeatmapData的演示代码" />
+        <option value="补充一组customProgressDrawable.setSegments的演示数据" />
       </list>
     </option>
   </component>
