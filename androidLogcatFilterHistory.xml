@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MediaControlMenuVM" />
+    <option name="mostRecentlyUsed" value="tag:SeekBarView " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SeekBarView " />
+        <option value="tag:SeekBarView  " />
+        <option value="tag:SeekBarView" />
         <option value="tag:MediaControlMenuVM" />
         <option value="message:updateProgressEndPic" />
         <option value="message:mzc00200htmlstu1742802553435" />
-        <option value="tag:SeekBarView" />
         <option value="is:stacktrace " />
         <option value="message:printHeatCurve" />
         <option value="tag:get_video_rich_media" />
@@ -21,8 +23,6 @@
         <option value="tag:MediaControlMenuModule" />
         <option value="tag:MediaControlMenuView" />
         <option value="package:mine " />
-        <option value="tag:TvMediaPlayer_" />
-        <option value="tag:MediaControlMenuView tag:MediaControlMenuVM tag:MediaControlFirstMenuLayout" />
       </list>
     </option>
   </component>
