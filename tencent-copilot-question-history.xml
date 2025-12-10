@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="你的方案有明显缺点：1.性能不好，会触发两次测量布局；2. 第一帧绘制出来是错误的。我的建议是使用scroll，将子View进行偏移，配合裁剪来实现，你觉得呢？帮我补充完整这个方案吧" />
         <option value="绘制的渐变区域有明显的线段感，有什么办法可以加入一些“噪音”，消除线段感" />
         <option value="解读一下explicit_episode_area_anchor" />
         <option value="有没有更优雅的写法？" />
@@ -52,6 +51,7 @@
         <option value="我发现实际HeatmapDrawable的绘制效果，底部没有填满bounds" />
         <option value="每段Segment绘制的颜色不同，改为直接在Segment内定义已播放颜色、未播放颜色" />
         <option value="我在SeekBarView中使用了R.drawable.seekbar_played_marker，我能在代码里修改颜色吗？或者能在代码里构造一个颜色不同的类似的drawable吗？" />
+        <option value="如何监听_uiState的变化？我需要在从AnimScene.FIRST_MENU_TAB切换至AnimScene.FIRST_MENU_FLOAT时，做响应。" />
       </list>
     </option>
   </component>
