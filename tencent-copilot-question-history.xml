@@ -2,10 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="解读一下explicit_episode_area_anchor" />
-        <option value="有没有更优雅的写法？" />
-        <option value="使用了一个不可见的占位 View（explicit_episode_area_anchor）来控制explicit_episode_area的位置，这是最好的实现方式了吗？" />
-        <option value="绘制的渐变存在色带" />
         <option value="如何进一步消除色带问题？加入噪声？" />
         <option value="尝试优化代码质量、可读性" />
         <option value="完善注释" />
@@ -52,6 +48,10 @@
         <option value="我在SeekBarView中使用了R.drawable.seekbar_played_marker，我能在代码里修改颜色吗？或者能在代码里构造一个颜色不同的类似的drawable吗？" />
         <option value="如何监听_uiState的变化？我需要在从AnimScene.FIRST_MENU_TAB切换至AnimScene.FIRST_MENU_FLOAT时，做响应。" />
         <option value="梳理关于的thumbTipsChannel的逻辑" />
+        <option value="如果有的话，说说你的改进建议" />
+        <option value="梳理关于的thumbTipsChannel的逻辑。如果有的话，说说你的改进建议。" />
+        <option value="已经修改完毕。你会如何评价这一套围绕thumbTips的小架构。" />
+        <option value="给thumbTipsChannel补充注释" />
       </list>
     </option>
   </component>
