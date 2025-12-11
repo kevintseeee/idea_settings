@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="如何进一步消除色带问题？加入噪声？" />
         <option value="尝试优化代码质量、可读性" />
         <option value="完善注释" />
         <option value="这个噪声图理论上占据多大内存？" />
@@ -52,6 +51,7 @@
         <option value="梳理关于的thumbTipsChannel的逻辑。如果有的话，说说你的改进建议。" />
         <option value="已经修改完毕。你会如何评价这一套围绕thumbTips的小架构。" />
         <option value="给thumbTipsChannel补充注释" />
+        <option value="addLayer只能在API 23上使用，你有什么修改建议吗？" />
       </list>
     </option>
   </component>
