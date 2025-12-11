@@ -2,8 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="尝试优化代码质量、可读性" />
-        <option value="完善注释" />
         <option value="这个噪声图理论上占据多大内存？" />
         <option value="这个NoiseShader里的Bitmap理论上占据多少内存？" />
         <option value="把NOISE_SIZE进一步降低，会有什么影响？" />
@@ -52,6 +50,8 @@
         <option value="已经修改完毕。你会如何评价这一套围绕thumbTips的小架构。" />
         <option value="给thumbTipsChannel补充注释" />
         <option value="addLayer只能在API 23上使用，你有什么修改建议吗？" />
+        <option value="addLayer是API 23的接口，改为在构造函数填入所有Drawables了。帮我看下还有什么问题？" />
+        <option value="不对啊，setId是API 1的接口！" />
       </list>
     </option>
   </component>
