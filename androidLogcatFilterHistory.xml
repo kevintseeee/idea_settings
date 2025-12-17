@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:SRL-StatusRollView" />
+    <option name="mostRecentlyUsed" value="tag:SeekBarView" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:SRL-StatusRollView" />
         <option value="tag:SeekBarView" />
+        <option value="tag:SRL-StatusRollView" />
         <option value="message:mzc00200djd8qu9" />
         <option value="tag:MediaControlMenuView" />
         <option value="tag:SeekBarV" />
