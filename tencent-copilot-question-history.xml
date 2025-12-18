@@ -2,8 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="FirstMenuBottomMaskDrawable绘制出来的渐变，有明显的黑色色带，是正常的吗？有什么解决方案吗？" />
-        <option value="FloatProperty是API24的吗？我现在最低API是16。那ObjectAnimator还能用吗？" />
         <option value="解读这个类，梳理调整建议" />
         <option value="补充注释，提升可读性，注意要适度简洁。" />
         <option value="解读needsTileify方法" />
@@ -52,6 +50,8 @@
         <option value="你会如何评价这一段" />
         <option value="梳理PreviewDataAdapter的filter逻辑" />
         <option value="结合MCPreviewAdapter，讲讲逻辑" />
+        <option value="如何计算TimeMark与TimeMark之间的时长" />
+        <option value="" />
       </list>
     </option>
   </component>
