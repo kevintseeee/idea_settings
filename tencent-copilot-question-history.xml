@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="这个NoiseShader里的Bitmap理论上占据多少内存？" />
         <option value="把NOISE_SIZE进一步降低，会有什么影响？" />
         <option value="帮我改成用32的吧" />
         <option value="FirstMenuBottomMaskDrawable绘制出来的渐变，有明显的黑色色带，是正常的吗？有什么解决方案吗？" />
@@ -52,6 +51,7 @@
         <option value="addLayer是API 23的接口，改为在构造函数填入所有Drawables了。帮我看下还有什么问题？" />
         <option value="不对啊，setId是API 1的接口！" />
         <option value="我增加了一个类MCPreviewAdapter，相当于Java里的static class。到底需不需要放在PreviewPicSeekView的companion object里？有什么判定标准？" />
+        <option value="你会如何评价这一段" />
       </list>
     </option>
   </component>
