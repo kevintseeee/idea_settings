@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PreviewSeekListView" />
+    <option name="mostRecentlyUsed" value="tag:PreviewSeekListView tag:MediaControlPreviewSeek" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PreviewSeekListView tag:MediaControlPreviewSeek" />
         <option value="tag:PreviewSeekListView" />
         <option value="message:updateControlInfo" />
         <option value="tag:SeekBarView tag:SeekBarVM" />
@@ -22,7 +23,6 @@
         <option value="is:crash " />
         <option value="tag:MediaControlMenuVM tag:MediaControlMenuView tag:MediaControlMenuModule tag:MediaControlMenuAnim  tag:MediaControlFirstMenuLayout" />
         <option value="tag:DebugHelper " />
-        <option value="tag:MediaControlMenuVM tag:MediaControlMenuView tag:MediaControlMenuModule tag:MediaControlMenuAnim" />
       </list>
     </option>
   </component>
