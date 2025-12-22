@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
-        <option value="is:stacktrace " />
         <option value="tag:PreviewSeekListView tag:MediaControlPreviewSeek tag:PreviewDataAdapter" />
+        <option value="is:stacktrace " />
         <option value="tag:PreviewSeekListView tag:MediaControlPreviewSeek" />
         <option value="tag:PreviewSeekListView" />
         <option value="message:updateControlInfo" />
