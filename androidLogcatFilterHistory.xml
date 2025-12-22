@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PreviewSeekListView tag:MediaControlPreviewSeek" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
+        <option value="tag:PreviewSeekListView tag:MediaControlPreviewSeek tag:PreviewDataAdapter" />
         <option value="tag:PreviewSeekListView tag:MediaControlPreviewSeek" />
         <option value="tag:PreviewSeekListView" />
         <option value="message:updateControlInfo" />
@@ -17,12 +19,10 @@
         <option value="tag:MediaControlMenuVM" />
         <option value="message:updateProgressEndPic" />
         <option value="message:mzc00200htmlstu1742802553435" />
-        <option value="is:stacktrace " />
         <option value="message:printHeatCurve" />
         <option value="tag:get_video_rich_media" />
         <option value="is:crash " />
         <option value="tag:MediaControlMenuVM tag:MediaControlMenuView tag:MediaControlMenuModule tag:MediaControlMenuAnim  tag:MediaControlFirstMenuLayout" />
-        <option value="tag:DebugHelper " />
       </list>
     </option>
   </component>
