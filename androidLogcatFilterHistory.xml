@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PreviewDataAdapter tag:HotPointRecord" />
+    <option name="mostRecentlyUsed" value="message:getCommonCookie" />
     <option name="nonFavorites">
       <list>
+        <option value="message:getCommonCookie" />
+        <option value="package:mine " />
         <option value="tag:PreviewDataAdapter tag:HotPointRecord" />
         <option value="tag:PreviewDataAdapter" />
         <option value="tag:PreviewSeekListView" />
-        <option value="package:mine " />
         <option value="tag:PreviewSeekListView tag:MediaControlPreviewSeek tag:PreviewDataAdapter" />
         <option value="tag:PreviewSeekListView tag:PreviewDataAdapter" />
         <option value="tag:PreviewSeekListView tag:" />
@@ -22,7 +23,6 @@
         <option value="tag:SeekBarView " />
         <option value="tag:SeekBarView  " />
         <option value="tag:MediaControlMenuVM" />
-        <option value="message:updateProgressEndPic" />
       </list>
     </option>
   </component>
