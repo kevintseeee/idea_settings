@@ -146,15 +146,9 @@
                 <set />
               </option>
               <option name="indexedModules">
-                <list>
-                  <ModuleInfo>
-                    <option name="name" value="tmp" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp" />
-                    <option name="uri" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp" />
-                  </ModuleInfo>
-                </list>
+                <list />
               </option>
-              <option name="limit" value="10" />
+              <option name="limit" value="5" />
               <option name="uuid" value="73b184b2-4aa6-23c7-6045-4883c03254fc" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp" />
             </MultiModuleInfo>
@@ -1486,14 +1480,14 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvCommLib/TvVideoComm/JavaComm/build/generated/source/buildConfig/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="main" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvCommLib/TvVideoComm/JavaComm/src/main" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="src-variants" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvCommLib/TvVideoComm/JavaComm/src-variants" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="main" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvCommLib/TvVideoComm/JavaComm/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="test" />
@@ -1590,7 +1584,7 @@
                 </list>
               </option>
               <option name="limit" value="10" />
-              <option name="uuid" value="09515c81-f39e-cd38-013c-9a2bea7d5448" />
+              <option name="uuid" value="1539c0e8-0261-9fdc-072c-9d96d7f8b51e" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
             </MultiModuleInfo>
           </value>
