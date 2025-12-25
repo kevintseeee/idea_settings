@@ -280,6 +280,11 @@
               <option name="allModules">
                 <list>
                   <ModuleInfo>
+                    <option name="name" value="video-aop" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/video-aop" />
+                  </ModuleInfo>
+                  <ModuleInfo>
                     <option name="name" value="developing" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
