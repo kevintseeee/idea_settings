@@ -17,9 +17,6 @@
     </option>
     <option name="defaultPosition" value="Right" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="0" />
-  </component>
   <component name="DeclarativeInlayHintsSettings">
     <option name="enabledOptions">
       <map>
@@ -52,9 +49,5 @@
         <entry key="oc.type.hints" value="true" />
       </map>
     </option>
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
