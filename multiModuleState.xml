@@ -2872,7 +2872,7 @@
                   </ModuleInfo>
                 </list>
               </option>
-              <option name="limit" value="5" />
+              <option name="limit" value="10" />
               <option name="uuid" value="4ab4aac4-001e-5c19-8121-bec119e16a02" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
             </MultiModuleInfo>
