@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MediaPlayerRootView " />
+    <option name="mostRecentlyUsed" value="tag:ShortVideoFeedsMultiTabsPlayViewModel " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ShortVideoFeedsMultiTabsPlayViewModel " />
         <option value="package:mine " />
         <option value="tag:TV-TRACE message:fireEvent" />
         <option value="tag:VerticalSwitchView " />
@@ -22,7 +23,6 @@
         <option value="tag:PreviewSeekListView tag:MediaControlPreviewSeek" />
         <option value="message:updateControlInfo" />
         <option value="tag:SeekBarView tag:SeekBarVM" />
-        <option value="tag:SeekBarView" />
       </list>
     </option>
   </component>
