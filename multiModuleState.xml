@@ -1580,15 +1580,9 @@
                 <set />
               </option>
               <option name="indexedModules">
-                <list>
-                  <ModuleInfo>
-                    <option name="name" value="developing" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                  </ModuleInfo>
-                </list>
+                <list />
               </option>
-              <option name="limit" value="10" />
+              <option name="limit" value="5" />
               <option name="uuid" value="c4db14e1-e5fd-f0b6-f6e9-ae4f1964da87" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
             </MultiModuleInfo>
@@ -2878,8 +2872,8 @@
                   </ModuleInfo>
                 </list>
               </option>
-              <option name="limit" value="10" />
-              <option name="uuid" value="d81d56c7-cc72-416c-a4f9-e1a1e2ac8cd9" />
+              <option name="limit" value="5" />
+              <option name="uuid" value="4ab4aac4-001e-5c19-8121-bec119e16a02" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
             </MultiModuleInfo>
           </value>
