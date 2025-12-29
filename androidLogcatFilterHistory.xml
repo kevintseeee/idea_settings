@@ -1,12 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:WindowTypeMgr" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE message:fireEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TV-TRACE message:fireEvent" />
+        <option value="tag:VerticalSwitchView " />
+        <option value="tag:MediaPlayerRootView " />
+        <option value="tag:MediaPlayerManager " />
+        <option value="tag:TV-TRACE " />
+        <option value="tag:PreviewDataAdapter tag:HotPointRecord" />
+        <option value="tag:MediaControlMenuView" />
         <option value="tag:WindowTypeMgr" />
         <option value="message:getCommonCookie" />
         <option value="package:mine " />
-        <option value="tag:PreviewDataAdapter tag:HotPointRecord" />
         <option value="tag:PreviewDataAdapter" />
         <option value="tag:PreviewSeekListView" />
         <option value="tag:PreviewSeekListView tag:MediaControlPreviewSeek tag:PreviewDataAdapter" />
@@ -17,12 +23,6 @@
         <option value="message:updateControlInfo" />
         <option value="tag:SeekBarView tag:SeekBarVM" />
         <option value="tag:SeekBarView" />
-        <option value="tag:SRL-StatusRollView" />
-        <option value="message:mzc00200djd8qu9" />
-        <option value="tag:MediaControlMenuView" />
-        <option value="tag:SeekBarV" />
-        <option value="tag:SeekBarView " />
-        <option value="tag:SeekBarView  " />
       </list>
     </option>
   </component>
