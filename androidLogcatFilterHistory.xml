@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TV-TRACE message:=scene_jump_short_content_page_auto_play" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE message:ReportAction" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TV-TRACE message:ReportAction" />
         <option value="tag:TV-TRACE message:=scene_jump_short_content_page_auto_play" />
         <option value="tag:TV-TRACE message:=scene_short_content_switch_play" />
         <option value="tag:TV-TRACE message:scene_short_content_switch_play" />
@@ -22,7 +23,6 @@
         <option value="tag:PreviewSeekListView" />
         <option value="tag:PreviewSeekListView tag:MediaControlPreviewSeek tag:PreviewDataAdapter" />
         <option value="tag:PreviewSeekListView tag:PreviewDataAdapter" />
-        <option value="tag:PreviewSeekListView tag:" />
       </list>
     </option>
   </component>
