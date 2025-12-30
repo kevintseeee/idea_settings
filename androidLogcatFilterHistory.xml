@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:startPage" />
+    <option name="mostRecentlyUsed" value="tag:TV-TRACE message:=scene_jump_short_content_page_auto_play" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TV-TRACE message:=scene_jump_short_content_page_auto_play" />
+        <option value="tag:TV-TRACE message:=scene_short_content_switch_play" />
+        <option value="tag:TV-TRACE message:scene_short_content_switch_play" />
+        <option value="tag:TV-TRACE " />
         <option value="tag:TV-TRACE message:fireEvent" />
         <option value="message:startPage" />
         <option value="tag:ShortVideoFeedsMultiTabsPlayViewModel " />
@@ -10,7 +14,6 @@
         <option value="tag:VerticalSwitchView " />
         <option value="tag:MediaPlayerRootView " />
         <option value="tag:MediaPlayerManager " />
-        <option value="tag:TV-TRACE " />
         <option value="tag:PreviewDataAdapter tag:HotPointRecord" />
         <option value="tag:MediaControlMenuView" />
         <option value="tag:WindowTypeMgr" />
@@ -20,9 +23,6 @@
         <option value="tag:PreviewSeekListView tag:MediaControlPreviewSeek tag:PreviewDataAdapter" />
         <option value="tag:PreviewSeekListView tag:PreviewDataAdapter" />
         <option value="tag:PreviewSeekListView tag:" />
-        <option value="is:stacktrace " />
-        <option value="tag:PreviewSeekListView tag:MediaControlPreviewSeek" />
-        <option value="message:updateControlInfo" />
       </list>
     </option>
   </component>
