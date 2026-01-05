@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:ReportAction " />
+    <option name="mostRecentlyUsed" value="message:guid " />
     <option name="nonFavorites">
       <list>
+        <option value="message:guid " />
         <option value="message:ReportAction " />
         <option value="message:ReportAction | message:Trace" />
         <option value="tag:TV-TRACE message:ReportAction" />
@@ -22,7 +23,6 @@
         <option value="tag:WindowTypeMgr" />
         <option value="message:getCommonCookie" />
         <option value="tag:PreviewDataAdapter" />
-        <option value="tag:PreviewSeekListView" />
       </list>
     </option>
   </component>
