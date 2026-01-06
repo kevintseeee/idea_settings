@@ -510,9 +510,9 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/HiveViewKit/src/test" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="main" />
+                    <option name="name" value="debug" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/PluginLoadLib/src/main" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/PluginLoadLib/build/generated/res/resValues/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="debug" />
@@ -520,9 +520,9 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/PluginLoadLib/build/generated/source/buildConfig/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="debug" />
+                    <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/PluginLoadLib/build/generated/res/resValues/debug" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/PluginLoadLib/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="main" />
@@ -635,6 +635,11 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/Resources" />
                   </ModuleInfo>
                   <ModuleInfo>
+                    <option name="name" value="SNMAPP_JS" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvPartner/partner/channels/video/SNMAPP_JS" />
+                  </ModuleInfo>
+                  <ModuleInfo>
                     <option name="name" value="AndroidManifest.xml" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/proj.android/AndroidManifest.xml" />
@@ -658,11 +663,6 @@
                     <option name="name" value="src" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/proj.android/src" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="SNMAPP_JS" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvPartner/partner/channels/video/SNMAPP_JS" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="test" />
@@ -780,11 +780,6 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvCommLib/TvVideoComm/JavaComm/src/test" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="main" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/HostCommonLib/src/main" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="debug" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/HostCommonLib/build/generated/res/resValues/debug" />
@@ -793,6 +788,11 @@
                     <option name="name" value="debug" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/HostCommonLib/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="main" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/HostCommonLib/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="main" />
@@ -1630,10 +1630,16 @@
                 <set />
               </option>
               <option name="indexedModules">
-                <list />
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="developing" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                  </ModuleInfo>
+                </list>
               </option>
-              <option name="limit" value="5" />
-              <option name="uuid" value="3ab50e67-bf9c-9d81-5332-b1855ec66dcd" />
+              <option name="limit" value="10" />
+              <option name="uuid" value="2f22dcd9-7f3c-6062-3dc9-b8eb42c5302b" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
             </MultiModuleInfo>
           </value>
