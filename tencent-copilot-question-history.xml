@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="补充注释，提升可读性，注意要适度简洁。" />
         <option value="解读needsTileify方法" />
         <option value="瓦片化效果是什么意思？举个简单的例子" />
         <option value="单元测试无法运行，解决问题！" />
@@ -52,6 +51,7 @@
         <option value="如何计算TimeMark与TimeMark之间的时长" />
         <option value="" />
         <option value="tv_video_progress用于展示当前进度，如果使用android:layout_width=&quot;wrap_content&quot;，那么每秒都会requestLayout，对吗？有什么解决方案？" />
+        <option value="程序走到了285行，代表mCheckInButton无法获焦，而且我知道mCheckInButton.isShown()是true，那么你认为还会有什么原因？" />
       </list>
     </option>
   </component>
