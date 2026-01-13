@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PayTicketButtonPresenter tag:SinglePayCheckTicketPresenter" />
+    <option name="mostRecentlyUsed" value="is:stacktrace  " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace  " />
         <option value="tag:PayTicketButtonPresenter tag:SinglePayCheckTicketPresenter" />
         <option value="tag:PayTicketButtonPresenter" />
         <option value="message:guid " />
@@ -22,7 +23,6 @@
         <option value="tag:MediaPlayerManager " />
         <option value="tag:PreviewDataAdapter tag:HotPointRecord" />
         <option value="tag:MediaControlMenuView" />
-        <option value="tag:WindowTypeMgr" />
       </list>
     </option>
   </component>
