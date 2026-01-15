@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TVMediaPlayerEventBus" />
+    <option name="mostRecentlyUsed" value="is:stacktrace  " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace  " />
         <option value="tag:TVMediaPlayerEventBus" />
         <option value="tag:TVMediaPlayerEventBus message:prepared" />
         <option value="message:prepared" />
         <option value="message:post" />
-        <option value="is:stacktrace  " />
         <option value="tag:PayTicketButtonPresenter tag:SinglePayCheckTicketPresenter" />
         <option value="tag:PayTicketButtonPresenter" />
         <option value="message:guid " />
