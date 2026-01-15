@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace  " />
+    <option name="mostRecentlyUsed" value="tag:TVMediaPlayerEventBus" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TVMediaPlayerEventBus" />
+        <option value="tag:TVMediaPlayerEventBus message:prepared" />
+        <option value="message:prepared" />
+        <option value="message:post" />
         <option value="is:stacktrace  " />
         <option value="tag:PayTicketButtonPresenter tag:SinglePayCheckTicketPresenter" />
         <option value="tag:PayTicketButtonPresenter" />
@@ -19,10 +23,6 @@
         <option value="tag:ShortVideoFeedsMultiTabsPlayViewModel " />
         <option value="package:mine " />
         <option value="tag:VerticalSwitchView " />
-        <option value="tag:MediaPlayerRootView " />
-        <option value="tag:MediaPlayerManager " />
-        <option value="tag:PreviewDataAdapter tag:HotPointRecord" />
-        <option value="tag:MediaControlMenuView" />
       </list>
     </option>
   </component>
