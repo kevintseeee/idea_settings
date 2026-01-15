@@ -44,7 +44,7 @@
         <entry key="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp">
           <value>
             <IndexProgress>
-              <option name="fileCount" value="459" />
+              <option name="fileCount" value="455" />
               <option name="percent" value="100.0" />
               <option name="status" value="done" />
             </IndexProgress>
@@ -80,8 +80,9 @@
         <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/developing">
           <value>
             <IndexProgress>
-              <option name="active" value="false" />
-              <option name="status" value="removed" />
+              <option name="fileCount" value="18073" />
+              <option name="percent" value="100.0" />
+              <option name="status" value="done" />
             </IndexProgress>
           </value>
         </entry>
