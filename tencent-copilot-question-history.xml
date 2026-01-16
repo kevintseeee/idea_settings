@@ -2,8 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="单元测试无法运行，解决问题！" />
-        <option value="我是产品经理，我正在写需求单，你要帮我整理描述，尽量描述清楚，需求如下：&#10;已知，有一系列的进度（秒级），存在具体的热度值（0～1的浮点数），如果在一个平面里把这些点连接成线，可以绘制出一条热度曲线。&#10;在TrackDrawable绘制区域的正上方，增加一个宽度同TrackDrawable，高度为外界指定（默认80）的区域。&#10;我希望在这个区域里，绘制出热度曲线。曲线以下，区域以内，绘制一个渐变色，从上往下，从指定颜色绘制至完全透明。使用Shader.TileMode.CLAMP模式。" />
         <option value="曲线是如何连接的？为什么看上去这么直" />
         <option value="解读一下这个类的热度曲线" />
         <option value="跟@HeatmapDrawable.kt 绘制热度曲线的逻辑是一样的吗?" />
@@ -52,6 +50,8 @@
         <option value="程序走到了285行，代表mCheckInButton无法获焦，而且我知道mCheckInButton.isShown()是true，那么你认为还会有什么原因？" />
         <option value="为什么aaa和bbb没有pack在一起？" />
         <option value="针对AccountAttackPanelPresenter做CodeReview" />
+        <option value="帮我梳理这3个类的业务逻辑" />
+        <option value="整体方案有什么问题？" />
       </list>
     </option>
   </component>
