@@ -2,10 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="希望额外增加单独控制Marker、Thumb、EndThumb、Heatmap的显隐开关" />
-        <option value="根据这里的注释,不支持移除图层,所以你的修改方案是不是不靠谱" />
-        <option value="我建议将显隐逻辑下沉给具体的Drawable来处理" />
-        <option value="可以把background和progress改为可变的吗" />
         <option value="EndThumbDrawable实际包装的Drawable应该是可变可空的,尺寸应该由外界指定" />
         <option value="修改wrapped之后,没有同步到最新的alpha、colorFilter" />
         <option value="解读这个类" />
@@ -52,6 +48,10 @@
         <option value="你觉得AccountAttackPanelView的命名如何？我的意思是，是不是应该明确为ViewController或者ViewDelegate" />
         <option value="是的" />
         <option value="你觉的PauseMsgListener、QrCode的任务细节，在AccountAttackPanelPresenter里，会不会太合适？功能耦合之类的？" />
+        <option value="补齐AccountAttackPanelModel的单元测试，希望是纯Java单元测试，覆盖率100%。" />
+        <option value="为什么会动到TextUtils？" />
+        <option value="在AccountAttackPanelModelTest里，补齐AccountAttackPanelModel的单元测试，希望不要用到Mockito、Powermock、Roboletric等高级API，覆盖率尽可能100%。" />
+        <option value="在AccountAttackPanelModelTest里，补齐AccountAttackPanelModel的单元测试，覆盖率尽可能100%。&#10;你不需要考虑使用Mockito、Powermock、Roboletric等高级API。&#10;你不用担心AccountAttackPanelModel里用到的API会不支持，而需要mock。&#10;而且，我要求你写一个Case，确保能执行之后，再写另一个Case。" />
       </list>
     </option>
   </component>
