@@ -2,12 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="跟@HeatmapDrawable.kt 绘制热度曲线的逻辑是一样的吗?" />
-        <option value="我觉得TVSeekBar的方案更符合我的需求,修改HeatmapDrawable,使用TVSeekBar的方案" />
-        <option value="修改MainActivity的generateSampleHeatmapData方法,使得最终绘制出类似正弦的波浪线" />
-        <option value="随机去掉某些点,制造出不均匀的数据" />
-        <option value="提出你的优化建议" />
-        <option value="优化代码" />
         <option value="希望额外增加单独控制Marker、Thumb、EndThumb、Heatmap的显隐开关" />
         <option value="根据这里的注释,不支持移除图层,所以你的修改方案是不是不靠谱" />
         <option value="我建议将显隐逻辑下沉给具体的Drawable来处理" />
@@ -52,6 +46,12 @@
         <option value="整体方案有什么问题？" />
         <option value="经确认上述问题可以暂时忽略。你先帮我完善一下代码注释吧，最佳实践。" />
         <option value="这个Presenter耦合了很多View层的逻辑，我希望进一步解耦，把View层的逻辑独立出来。" />
+        <option value="你定义的AccountAttackPanelView，是一个Android View，还是一个View Controller？我不希望是一个Android View，或者继承自CommonView" />
+        <option value="这样的设计是最佳实践吗？" />
+        <option value="我希望提取接口" />
+        <option value="你觉得AccountAttackPanelView的命名如何？我的意思是，是不是应该明确为ViewController或者ViewDelegate" />
+        <option value="是的" />
+        <option value="你觉的PauseMsgListener、QrCode的任务细节，在AccountAttackPanelPresenter里，会不会太合适？功能耦合之类的？" />
       </list>
     </option>
   </component>
