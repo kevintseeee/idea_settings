@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="曲线是如何连接的？为什么看上去这么直" />
         <option value="解读一下这个类的热度曲线" />
         <option value="跟@HeatmapDrawable.kt 绘制热度曲线的逻辑是一样的吗?" />
         <option value="我觉得TVSeekBar的方案更符合我的需求,修改HeatmapDrawable,使用TVSeekBar的方案" />
@@ -52,6 +51,7 @@
         <option value="针对AccountAttackPanelPresenter做CodeReview" />
         <option value="帮我梳理这3个类的业务逻辑" />
         <option value="整体方案有什么问题？" />
+        <option value="经确认上述问题可以暂时忽略。你先帮我完善一下代码注释吧，最佳实践。" />
       </list>
     </option>
   </component>
