@@ -2,9 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="EndThumbDrawable实际包装的Drawable应该是可变可空的,尺寸应该由外界指定" />
-        <option value="修改wrapped之后,没有同步到最新的alpha、colorFilter" />
-        <option value="解读这个类" />
         <option value="问题我已经修复了。将Segment再度转换成Interval的方案，显得太复杂。外界一般会自行确保段落的不重叠，遇到重叠只需要跳过即可。" />
         <option value="先基础轨道背景，再绘制段落，如果颜色是透明的，会导致重叠" />
         <option value="不要这么麻烦，还要用DrawRegion。你在setSegments先确保segments是有序的不重叠，直接遍历segments直接绘制就行了。" />
@@ -52,6 +49,9 @@
         <option value="为什么会动到TextUtils？" />
         <option value="在AccountAttackPanelModelTest里，补齐AccountAttackPanelModel的单元测试，希望不要用到Mockito、Powermock、Roboletric等高级API，覆盖率尽可能100%。" />
         <option value="在AccountAttackPanelModelTest里，补齐AccountAttackPanelModel的单元测试，覆盖率尽可能100%。&#10;你不需要考虑使用Mockito、Powermock、Roboletric等高级API。&#10;你不用担心AccountAttackPanelModel里用到的API会不支持，而需要mock。&#10;而且，我要求你写一个Case，确保能执行之后，再写另一个Case。" />
+        <option value="CaseAdditionInfo空缺的“功能”、“被测函数”、“用例描述”尽量补上" />
+        <option value="在QrCodeGenerationTaskTest里，补齐QrCodeGenerationTask的单元测试，覆盖率尽可能100%。&#10;你可以虑使用Mockito、Powermock里比较简单的API。&#10;如果你担心QrCodeGenerationTask里用到的API会不支持而需要mock，你应该先运行单测，确认真的需要mock。&#10;而且，我要求你写一个Case，确保能执行之后，再写另一个Case。" />
+        <option value="再试一下执行命令" />
       </list>
     </option>
   </component>
