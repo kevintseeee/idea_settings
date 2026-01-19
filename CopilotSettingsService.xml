@@ -4,6 +4,11 @@
     <option name="commitMessageLanguage" value="zh_CN" />
     <option name="commitMessageStyle" value="auto" />
     <option name="commitMessageTAPDEnable" value="true" />
+    <option name="composerSetting">
+      <ComposerSetting>
+        <option name="terminalAutoRun" value="true" />
+      </ComposerSetting>
+    </option>
     <option name="firstInstall" value="false" />
     <option name="networkProxyAddress" value="" />
     <option name="networkProxyType" value="manual" />
