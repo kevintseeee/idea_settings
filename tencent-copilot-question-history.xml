@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="解读代码" />
         <option value="补充customProgressDrawable.setHeatmapData的演示代码" />
         <option value="补充一组customProgressDrawable.setSegments的演示数据" />
         <option value="这一段EventBus的监听，写对了吗？" />
@@ -52,6 +51,7 @@
         <option value="你如何确保环境里的Java是我想要的路径呢？" />
         <option value="Run AccountAttackPanelModelTest" />
         <option value="# 目标&#10;在QrCodeGenerationTaskTest里针对QrCodeGenerationTask写用例&#10;# 要求&#10;1. 可以使用mockito、powermock&#10;2. 写一个case，测一个case，确保通过后，再写下一个case&#10;# 如何运行单测&#10;&quot;:QQLiveTV_BASE_LINE:testSNMAPP__10009DebugUnitTest --tests com.tencent.qqlivetv.windowplayer.module.ui.presenter.accountattack.QrCodeGenerationTaskTest&quot;" />
+        <option value="Some cases are failed" />
       </list>
     </option>
   </component>
