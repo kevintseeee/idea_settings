@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DebugHelper" />
+    <option name="mostRecentlyUsed" value="message:guid" />
     <option name="nonFavorites">
       <list>
+        <option value="message:guid" />
         <option value="tag:DebugHelper" />
         <option value="tag:AccountAttackPauseMsgHelper tag:AccountAttackPanelPresenter tag:UserPushMsgManager" />
         <option value="tag:AccountAttackPauseMsgHelper tag:AccountAttackPanelPresenter" />
@@ -22,7 +23,6 @@
         <option value="message:prepared" />
         <option value="message:post" />
         <option value="tag:PayTicketButtonPresenter tag:SinglePayCheckTicketPresenter" />
-        <option value="tag:PayTicketButtonPresenter" />
       </list>
     </option>
   </component>
