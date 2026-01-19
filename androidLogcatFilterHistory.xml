@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:guid" />
+    <option name="mostRecentlyUsed" value="message:openMediaPlayer" />
     <option name="nonFavorites">
       <list>
+        <option value="message:openMediaPlayer" />
+        <option value="tag:AccountAttackPauseMsgHelper tag:AccountAttackPanelPresenter tag:UserPushMsgManager" />
         <option value="message:guid" />
         <option value="tag:DebugHelper" />
-        <option value="tag:AccountAttackPauseMsgHelper tag:AccountAttackPanelPresenter tag:UserPushMsgManager" />
         <option value="tag:AccountAttackPauseMsgHelper tag:AccountAttackPanelPresenter" />
         <option value="package:mine tag:AccountAttackPanelPresenter" />
         <option value="package:mine message:guid" />
@@ -22,7 +23,6 @@
         <option value="tag:TVMediaPlayerEventBus message:prepared" />
         <option value="message:prepared" />
         <option value="message:post" />
-        <option value="tag:PayTicketButtonPresenter tag:SinglePayCheckTicketPresenter" />
       </list>
     </option>
   </component>
