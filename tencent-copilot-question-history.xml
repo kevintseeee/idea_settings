@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="这一段EventBus的监听，写对了吗？" />
         <option value="解读这个文件，如何理解size标签，以及stroke里的width" />
         <option value="对比HeatmapDrawable和TVSeekBar关于热度曲线绘制的逻辑，试分析为什么HeatmapDrawable绘制出来的曲线不够TVSeekBar的平滑，根据你的结论调整HeatmapDrawable的实现，对齐TVSeekBar的效果。" />
         <option value="确认一下TVSeekBar是不是在底部还预留了空间，使得热度值为0的点其实高度不为0，对齐TVSeekBar的效果。" />
@@ -52,6 +51,7 @@
         <option value="Some cases are failed" />
         <option value="# 目标&#10;在 AccountAttackPanelPresenterTest 里针对 AccountAttackPanelPresenter 写用例&#10;# 要求&#10;1. 可以使用mockito、powermock&#10;2. 写一个case，测一个case，确保通过后，再写下一个case&#10;# 如何运行单测&#10;'''&#10;:QQLiveTV_BASE_LINE:testSNMAPP__10009DebugUnitTest --tests com.tencent.qqlivetv.windowplayer.module.ui.presenter.accountattack.AccountAttackPanelPresenterTest&#10;'''&#10;# 注解&#10;'''&#10;@CaseAdditionInfo(tags = {&#10;            &quot;FT=业务应用组&quot;,&#10;            &quot;模块=com.tencent.qqlivetv.windowplayer.module.ui.presenter.accountattack.AccountAttackPanelPresenter&quot;,&#10;            &quot;功能=&quot;,&#10;            &quot;测试分类=功能&quot;,&#10;            &quot;测试阶段=增量&quot;,&#10;            &quot;管理者=kevinrhxie&quot;,&#10;            &quot;用例等级=p0&quot;,&#10;            &quot;用例类型=6&quot;,&#10;            &quot;被测函数=&quot;,&#10;            &quot;用例描述=&quot;,&#10;            &quot;版本=1870&quot;&#10;    })&#10;'''&#10;每个Case都应该附上CaseAdditionInfo注解，还需要简要填写&quot;功能&quot;、&quot;被测函数&quot;、&quot;用例描述&quot;这三个字段" />
         <option value="沉淀出用例编写经验、规则，用于指导下一个CodeBuddy实例能快速上手用例编写。你可以输出到一份markdown文档中。" />
+        <option value="关于mIsCancelled，是否会有线程不安全的风险" />
       </list>
     </option>
   </component>
