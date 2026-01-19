@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:openMediaPlayer" />
+    <option name="mostRecentlyUsed" value="message:guid" />
     <option name="nonFavorites">
       <list>
+        <option value="message:guid" />
         <option value="message:openMediaPlayer" />
         <option value="tag:AccountAttackPauseMsgHelper tag:AccountAttackPanelPresenter tag:UserPushMsgManager" />
-        <option value="message:guid" />
         <option value="tag:DebugHelper" />
         <option value="tag:AccountAttackPauseMsgHelper tag:AccountAttackPanelPresenter" />
         <option value="package:mine tag:AccountAttackPanelPresenter" />
