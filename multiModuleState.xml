@@ -188,9 +188,19 @@
                     <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/res/resValues/androidTest/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
+                    <option name="name" value="androidTest" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/androidTest" />
+                  </ModuleInfo>
+                  <ModuleInfo>
                     <option name="name" value="jvmTest" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
                     <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/assembledResources/jvmTest" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="jvmTest" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/jvmTest" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="jvmMain" />
@@ -283,10 +293,16 @@
                 <set />
               </option>
               <option name="indexedModules">
-                <list />
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="kttoolbox" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                  </ModuleInfo>
+                </list>
               </option>
-              <option name="limit" value="5" />
-              <option name="uuid" value="f34b1ef4-365d-802a-033e-c983cd68bf7b" />
+              <option name="limit" value="10" />
+              <option name="uuid" value="398a204d-e170-54a8-4411-36092cc578d1" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
             </MultiModuleInfo>
           </value>
