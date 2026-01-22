@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TVMediaPlayerEventBus message:postEvent" />
+    <option name="mostRecentlyUsed" value="message:multi_nav_home_page" />
     <option name="nonFavorites">
       <list>
+        <option value="message:multi_nav_home_page" />
+        <option value="message:originUrl" />
         <option value="tag:TVMediaPlayerEventBus message:postEvent" />
         <option value="tag:TVMediaPlayerEventBus" />
         <option value="is:stacktrace " />
@@ -21,8 +23,6 @@
         <option value="guid=" />
         <option value="tag:DebugHelper " />
         <option value="package:mine " />
-        <option value="is:stacktrace  " />
-        <option value="tag:TVMediaPlayerEventBus message:prepared" />
       </list>
     </option>
   </component>
