@@ -178,6 +178,26 @@
               <option name="allModules">
                 <list>
                   <ModuleInfo>
+                    <option name="name" value="wasmJsTest" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/assembledResources/wasmJsTest" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="wasmJsMain" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/wasmJsMain" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="wasmJs" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/kotlin-multiplatform-resources/aggregated-resources/wasmJs" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="wasmJsMainResourceCollectors" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/kotlin/wasmJsMainResourceCollectors" />
+                  </ModuleInfo>
+                  <ModuleInfo>
                     <option name="name" value="kttoolbox" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
                     <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
@@ -261,26 +281,6 @@
                     <option name="name" value="androidMain" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
                     <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/androidMain" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="wasmJsMainResourceCollectors" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/kotlin/wasmJsMainResourceCollectors" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="wasmJs" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/kotlin-multiplatform-resources/aggregated-resources/wasmJs" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="wasmJsMain" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/wasmJsMain" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="wasmJsTest" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/assembledResources/wasmJsTest" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="composeApp" />
@@ -1700,29 +1700,19 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvCommLib/TvVideoComm/JavaComm/build/generated/source/buildConfig/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="main" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvCommLib/TvVideoComm/JavaComm/src/main" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="src-variants" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvCommLib/TvVideoComm/JavaComm/src-variants" />
                   </ModuleInfo>
                   <ModuleInfo>
+                    <option name="name" value="main" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvCommLib/TvVideoComm/JavaComm/src/main" />
+                  </ModuleInfo>
+                  <ModuleInfo>
                     <option name="name" value="test" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvCommLib/TvVideoComm/JavaComm/src/test" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="src" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/VoiceElf/src" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="res" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/VoiceElf/res" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="out" />
@@ -1738,6 +1728,16 @@
                     <option name="name" value="debug" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/VoiceElf/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="res" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/VoiceElf/res" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="src" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/VoiceElf/src" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="test" />
