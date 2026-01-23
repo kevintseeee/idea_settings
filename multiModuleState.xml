@@ -178,6 +178,21 @@
               <option name="allModules">
                 <list>
                   <ModuleInfo>
+                    <option name="name" value="desktopMain" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/desktopMain" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="desktopMainResourceCollectors" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/kotlin/desktopMainResourceCollectors" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="desktopMain" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/assembledResources/desktopMain" />
+                  </ModuleInfo>
+                  <ModuleInfo>
                     <option name="name" value="wasmJsTest" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
                     <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/assembledResources/wasmJsTest" />
