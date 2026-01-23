@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:originUrl" />
+    <option name="mostRecentlyUsed" value="tag:ControlCommon" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ControlCommon" />
         <option value="message:originUrl" />
         <option value="message:locked_play_milliseconds" />
         <option value="message:multi_nav_home_page" />
@@ -22,7 +23,6 @@
         <option value="tag:AccountAttackPanelPresenter tag:QrCodeGenerationTask" />
         <option value="tag:AccountAttackPanelPresenter" />
         <option value="guid=" />
-        <option value="tag:DebugHelper " />
       </list>
     </option>
   </component>
