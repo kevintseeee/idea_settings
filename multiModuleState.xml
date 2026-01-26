@@ -972,12 +972,12 @@
                   <ModuleInfo>
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvBaseContainer/modules/hive_compiler/src/main" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvBaseContainer/modules/hive_compiler/build/generated/sources/annotationProcessor/java/main" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvBaseContainer/modules/hive_compiler/build/generated/sources/annotationProcessor/java/main" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvBaseContainer/modules/hive_compiler/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="AndroidManifest.xml" />
@@ -3405,10 +3405,16 @@
                 <set />
               </option>
               <option name="indexedModules">
-                <list />
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="release" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                  </ModuleInfo>
+                </list>
               </option>
-              <option name="limit" value="5" />
-              <option name="uuid" value="87a69707-3d09-cc17-5dff-c767751968b0" />
+              <option name="limit" value="10" />
+              <option name="uuid" value="3b7c39b3-c19e-917c-406c-8fe450d0f366" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
             </MultiModuleInfo>
           </value>

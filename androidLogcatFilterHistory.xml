@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ControlCommon tag:PlayerStartStateHelper" />
+    <option name="mostRecentlyUsed" value="tag:ControlCommon tag:PlayerStartStateHelper tag:ExternalControl" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ControlCommon tag:PlayerStartStateHelper tag:ExternalControl" />
+        <option value="tag:TvkRequestProxy_" />
+        <option value="message:getvinfo" />
+        <option value="message:'http params'" />
         <option value="tag:ControlCommon tag:PlayerStartStateHelper" />
         <option value="tag:ControlCommon tag:DetailCoverPlayHelper" />
         <option value="tag:ControlCommon" />
@@ -19,10 +23,6 @@
         <option value="tag:AccountAttackPauseMsgHelper tag:AccountAttackPanelPresenter" />
         <option value="package:mine tag:AccountAttackPanelPresenter" />
         <option value="package:mine message:guid" />
-        <option value="guid" />
-        <option value="tag:AccountAttackPanelPresenter tag:QrCodeGenerationTask tag:AccountAttackPauseMsgHelper tag:UserPushMsgManager" />
-        <option value="tag:AccountAttackPanelPresenter tag:QrCodeGenerationTask tag:AccountAttackPauseMsgHelper" />
-        <option value="tag:AccountAttackPanelPresenter tag:QrCodeGenerationTask" />
       </list>
     </option>
   </component>
