@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="确认一下TVSeekBar是不是在底部还预留了空间，使得热度值为0的点其实高度不为0，对齐TVSeekBar的效果。" />
         <option value="我发现实际HeatmapDrawable的绘制效果，底部没有填满bounds" />
         <option value="每段Segment绘制的颜色不同，改为直接在Segment内定义已播放颜色、未播放颜色" />
         <option value="我在SeekBarView中使用了R.drawable.seekbar_played_marker，我能在代码里修改颜色吗？或者能在代码里构造一个颜色不同的类似的drawable吗？" />
@@ -52,6 +51,7 @@
         <option value="关于mIsCancelled，是否会有线程不安全的风险" />
         <option value="createHistoryTipsData方法行数过多，而且有重复代码，你有什么调整的建议吗？" />
         <option value="SeekBarVM里的createHistoryTipsData方法，行数过多，复杂度过高，而且有不少重复代码。你有什么调整的建议吗？" />
+        <option value="关于createOpenPlayThumbTips方法、createImmerseTips方法、createRecommendTips方法、createSpecifyVidTips方法、createLockedPlayTips方法，复杂度高，有什么优化建议？" />
       </list>
     </option>
   </component>
