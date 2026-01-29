@@ -104,9 +104,8 @@
           <value>
             <IndexProgress>
               <option name="active" value="false" />
-              <option name="error" value="TooManyFiles" />
               <option name="fileCount" value="9962" />
-              <option name="status" value="cancelled" />
+              <option name="status" value="removed" />
             </IndexProgress>
           </value>
         </entry>
