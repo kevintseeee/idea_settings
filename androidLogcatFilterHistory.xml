@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ControlCommon tag:PlayerStartStateHelper tag:ExternalControl" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
+        <option value="message:guid " />
         <option value="tag:ControlCommon tag:PlayerStartStateHelper tag:ExternalControl" />
         <option value="tag:TvkRequestProxy_" />
         <option value="message:getvinfo" />
@@ -15,14 +17,12 @@
         <option value="message:multi_nav_home_page" />
         <option value="tag:TVMediaPlayerEventBus message:postEvent" />
         <option value="tag:TVMediaPlayerEventBus" />
-        <option value="is:stacktrace " />
         <option value="message:guid" />
         <option value="message:openMediaPlayer" />
         <option value="tag:AccountAttackPauseMsgHelper tag:AccountAttackPanelPresenter tag:UserPushMsgManager" />
         <option value="tag:DebugHelper" />
         <option value="tag:AccountAttackPauseMsgHelper tag:AccountAttackPanelPresenter" />
         <option value="package:mine tag:AccountAttackPanelPresenter" />
-        <option value="package:mine message:guid" />
       </list>
     </option>
   </component>
