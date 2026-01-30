@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="package:mine is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:stacktrace " />
         <option value="is:stacktrace " />
         <option value="message:guid " />
         <option value="tag:ControlCommon tag:PlayerStartStateHelper tag:ExternalControl" />
@@ -22,7 +23,6 @@
         <option value="tag:AccountAttackPauseMsgHelper tag:AccountAttackPanelPresenter tag:UserPushMsgManager" />
         <option value="tag:DebugHelper" />
         <option value="tag:AccountAttackPauseMsgHelper tag:AccountAttackPanelPresenter" />
-        <option value="package:mine tag:AccountAttackPanelPresenter" />
       </list>
     </option>
   </component>
