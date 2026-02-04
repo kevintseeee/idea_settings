@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:get_single_video_info" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="message:get_single_video_info" />
         <option value="package:mine tag:SubVideoRequest" />
         <option value="package:mine message:guid" />
         <option value="package:mine " />
         <option value="package:mine is:stacktrace " />
-        <option value="is:stacktrace " />
         <option value="message:guid " />
         <option value="tag:ControlCommon tag:PlayerStartStateHelper tag:ExternalControl" />
         <option value="tag:TvkRequestProxy_" />
