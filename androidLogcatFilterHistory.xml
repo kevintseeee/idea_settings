@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="message:1000804" />
     <option name="nonFavorites">
       <list>
+        <option value="message:1000804" />
+        <option value="message:guid" />
         <option value="is:stacktrace " />
         <option value="message:get_single_video_info" />
         <option value="package:mine tag:SubVideoRequest" />
@@ -21,8 +23,6 @@
         <option value="message:locked_play_milliseconds" />
         <option value="message:multi_nav_home_page" />
         <option value="tag:TVMediaPlayerEventBus message:postEvent" />
-        <option value="tag:TVMediaPlayerEventBus" />
-        <option value="message:guid" />
       </list>
     </option>
   </component>
