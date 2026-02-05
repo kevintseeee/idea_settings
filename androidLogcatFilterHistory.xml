@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:onNetVideoInfo" />
+    <option name="mostRecentlyUsed" value="message:onNetVideoInfo tag:CommonLogicExt" />
     <option name="nonFavorites">
       <list>
+        <option value="message:onNetVideoInfo tag:CommonLogicExt" />
         <option value="message:onNetVideoInfo" />
         <option value="message:''" />
         <option value="message:1000804" />
@@ -22,7 +23,6 @@
         <option value="tag:ControlCommon tag:DetailCoverPlayHelper" />
         <option value="tag:ControlCommon" />
         <option value="message:originUrl" />
-        <option value="message:locked_play_milliseconds" />
       </list>
     </option>
   </component>
