@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity tag:MultiTabSectionDataModel tag:LeaveSectionEntity tag:UnitVideoDataListModel" />
+    <option name="mostRecentlyUsed" value="message:'An fatal exception occurred'" />
     <option name="nonFavorites">
       <list>
+        <option value="message:'An fatal exception occurred'" />
         <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity tag:MultiTabSectionDataModel tag:LeaveSectionEntity tag:UnitVideoDataListModel" />
         <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity tag:MultiTabSectionDataModel tag:LeaveSectionEntity" />
         <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity tag:MultiTabSectionDataModel " />
@@ -22,7 +23,6 @@
         <option value="package:mine is:stacktrace " />
         <option value="message:guid " />
         <option value="tag:ControlCommon tag:PlayerStartStateHelper tag:ExternalControl" />
-        <option value="tag:TvkRequestProxy_" />
       </list>
     </option>
   </component>
