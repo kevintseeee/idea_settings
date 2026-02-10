@@ -112,7 +112,7 @@
               <option name="indexedModules">
                 <list />
               </option>
-              <option name="limit" value="5" />
+              <option name="limit" value="10" />
               <option name="uuid" value="b1156c81-fb9e-ff8b-130d-24bb5315ca23" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Android/projects/KtToolBox" />
             </MultiModuleInfo>
@@ -166,7 +166,7 @@
               <option name="indexedModules">
                 <list />
               </option>
-              <option name="limit" value="5" />
+              <option name="limit" value="10" />
               <option name="uuid" value="c34dd57c-42db-e83c-49e6-36558ec0d980" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Android/projects/Playground" />
             </MultiModuleInfo>
@@ -308,13 +308,7 @@
                 <set />
               </option>
               <option name="indexedModules">
-                <list>
-                  <ModuleInfo>
-                    <option name="name" value="kttoolbox" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                  </ModuleInfo>
-                </list>
+                <list />
               </option>
               <option name="limit" value="10" />
               <option name="uuid" value="398a204d-e170-54a8-4411-36092cc578d1" />
@@ -360,7 +354,7 @@
               <option name="indexedModules">
                 <list />
               </option>
-              <option name="limit" value="5" />
+              <option name="limit" value="10" />
               <option name="uuid" value="57a8c3fe-24df-fc97-90fd-ae78e995f241" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Projects/KTPlayground" />
             </MultiModuleInfo>
@@ -414,7 +408,7 @@
               <option name="indexedModules">
                 <list />
               </option>
-              <option name="limit" value="5" />
+              <option name="limit" value="10" />
               <option name="uuid" value="ac6a3f43-6626-ef0d-3d00-886ae941ca52" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp" />
             </MultiModuleInfo>
@@ -468,7 +462,7 @@
               <option name="indexedModules">
                 <list />
               </option>
-              <option name="limit" value="5" />
+              <option name="limit" value="10" />
               <option name="uuid" value="81bd2944-f7d4-1e01-fdd8-57ee078dd5eb" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar" />
             </MultiModuleInfo>
@@ -534,7 +528,7 @@
               <option name="indexedModules">
                 <list />
               </option>
-              <option name="limit" value="5" />
+              <option name="limit" value="10" />
               <option name="uuid" value="e1c3d74e-c6a2-6701-ca4f-ededbffef3ea" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Projects/Playground16" />
             </MultiModuleInfo>
@@ -558,7 +552,7 @@
               <option name="indexedModules">
                 <list />
               </option>
-              <option name="limit" value="5" />
+              <option name="limit" value="10" />
               <option name="uuid" value="78538721-0017-c2ef-d6fd-ef01d37e473d" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QMTPluginKitAndroid" />
             </MultiModuleInfo>
@@ -569,11 +563,6 @@
             <MultiModuleInfo>
               <option name="allModules">
                 <list>
-                  <ModuleInfo>
-                    <option name="name" value="KTPlayerSentryBridge" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/Mediaplayer/modules/KTPlayerSentryBridge" />
-                  </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="developing" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
@@ -1365,6 +1354,11 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/Plugin_Voice/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
+                    <option name="name" value="KTPlayerSentryBridge" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/Mediaplayer/modules/KTPlayerSentryBridge" />
+                  </ModuleInfo>
+                  <ModuleInfo>
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/Plugin_WatchTogether/src/main" />
@@ -1483,6 +1477,11 @@
                     <option name="name" value="src" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/proj.android/src" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="src-variants" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/proj.android/src-variants" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="test" />
@@ -1715,6 +1714,11 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvCommLib/TvVideoComm/JavaComm/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
+                    <option name="name" value="src-variants" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvCommLib/TvVideoComm/JavaComm/src-variants" />
+                  </ModuleInfo>
+                  <ModuleInfo>
                     <option name="name" value="test" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvCommLib/TvVideoComm/JavaComm/src/test" />
@@ -1768,6 +1772,11 @@
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/ODAI-API/src/main" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="main" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/Mediaplayer/modules/KTPlayerSentryBridge/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="out" />
@@ -1838,21 +1847,6 @@
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/WatchTogether/src/main" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="src-variants" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/proj.android/src-variants" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="src-variants" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/TvCommLib/TvVideoComm/JavaComm/src-variants" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="main" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/Mediaplayer/modules/KTPlayerSentryBridge/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="out" />
@@ -2084,7 +2078,7 @@
                 </list>
               </option>
               <option name="limit" value="10" />
-              <option name="uuid" value="35ff49f9-b5cb-9dc6-a1a6-ace2befd643a" />
+              <option name="uuid" value="f3a46be8-7525-6467-d175-0100da66c5c6" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
             </MultiModuleInfo>
           </value>
@@ -3410,13 +3404,7 @@
                 <set />
               </option>
               <option name="indexedModules">
-                <list>
-                  <ModuleInfo>
-                    <option name="name" value="release" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                  </ModuleInfo>
-                </list>
+                <list />
               </option>
               <option name="limit" value="10" />
               <option name="uuid" value="3b7c39b3-c19e-917c-406c-8fe450d0f366" />
