@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:onNetVideoInfo tag:CommonLogicExt" />
+    <option name="mostRecentlyUsed" value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity tag:MultiTabSectionDataModel tag:LeaveSectionEntity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity tag:MultiTabSectionDataModel tag:LeaveSectionEntity" />
+        <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity tag:MultiTabSectionDataModel " />
+        <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity" />
+        <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_" />
+        <option value="tag:CoverDetailRootModel_ " />
         <option value="message:onNetVideoInfo tag:CommonLogicExt" />
         <option value="message:onNetVideoInfo" />
         <option value="message:''" />
@@ -18,11 +23,6 @@
         <option value="tag:ControlCommon tag:PlayerStartStateHelper tag:ExternalControl" />
         <option value="tag:TvkRequestProxy_" />
         <option value="message:getvinfo" />
-        <option value="message:'http params'" />
-        <option value="tag:ControlCommon tag:PlayerStartStateHelper" />
-        <option value="tag:ControlCommon tag:DetailCoverPlayHelper" />
-        <option value="tag:ControlCommon" />
-        <option value="message:originUrl" />
       </list>
     </option>
   </component>
