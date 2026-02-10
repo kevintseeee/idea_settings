@@ -14,7 +14,7 @@
     <option name="networkProxyType" value="manual" />
     <option name="snoozeShow" value="true" />
     <option name="tabOverTimes" value="true" />
-    <option name="updateVersion" value="2.7.2" />
+    <option name="updateVersion" value="" />
     <option name="disabledLanguages">
       <map>
         <entry languageId="markdown" languageIdEnable="false" />
@@ -23,7 +23,7 @@
     <option name="updateVersionInfo">
       <map>
         <entry key="pluginId" value="com.tencent.code.CodeCopilotJetBrainPlugin" />
-        <entry key="version" value="2.7.2" />
+        <entry key="version" value="" />
       </map>
     </option>
     <option name="repoProgressMap">
@@ -104,8 +104,7 @@
           <value>
             <IndexProgress>
               <option name="active" value="false" />
-              <option name="fileCount" value="9962" />
-              <option name="status" value="removed" />
+              <option name="status" value="done" />
             </IndexProgress>
           </value>
         </entry>
