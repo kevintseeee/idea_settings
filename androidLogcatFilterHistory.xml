@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:SubtitleSettingReceiver" />
+    <option name="mostRecentlyUsed" value=" tag:_TVKPlayerWrapper tag:TvkRequestProxy" />
     <option name="nonFavorites">
       <list>
+        <option value=" tag:_TVKPlayerWrapper tag:TvkRequestProxy" />
+        <option value=" tag:_TVKPlayerWrapper" />
+        <option value="message:vinfo" />
         <option value="tag:SubtitleSettingReceiver" />
         <option value="tag:HeaderFuncBtnListViewModel_ tag:ConstantsAndUtils " />
         <option value="tag:HeaderFuncBtnListViewModel_" />
@@ -20,9 +23,6 @@
         <option value="message:1000804" />
         <option value="message:guid" />
         <option value="is:stacktrace " />
-        <option value="message:get_single_video_info" />
-        <option value="package:mine tag:SubVideoRequest" />
-        <option value="package:mine message:guid" />
       </list>
     </option>
   </component>
