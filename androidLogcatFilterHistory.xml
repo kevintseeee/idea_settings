@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:full" />
+    <option name="mostRecentlyUsed" value="message:e" />
     <option name="nonFavorites">
       <list>
+        <option value="message:e" />
         <option value="message:full" />
         <option value="message:guid" />
         <option value=" tag:_TVKPlayerWrapper tag:TvkRequestProxy" />
@@ -22,7 +23,6 @@
         <option value="message:onNetVideoInfo tag:CommonLogicExt" />
         <option value="message:onNetVideoInfo" />
         <option value="message:''" />
-        <option value="message:1000804" />
       </list>
     </option>
   </component>
