@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" tag:_TVKPlayerWrapper tag:TvkRequestProxy" />
+    <option name="mostRecentlyUsed" value="message:guid" />
     <option name="nonFavorites">
       <list>
+        <option value="message:guid" />
         <option value=" tag:_TVKPlayerWrapper tag:TvkRequestProxy" />
         <option value=" tag:_TVKPlayerWrapper" />
         <option value="message:vinfo" />
@@ -21,7 +22,6 @@
         <option value="message:onNetVideoInfo" />
         <option value="message:''" />
         <option value="message:1000804" />
-        <option value="message:guid" />
         <option value="is:stacktrace " />
       </list>
     </option>
