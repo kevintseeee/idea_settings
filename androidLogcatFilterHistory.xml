@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:e" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="message:e" />
         <option value="message:full" />
         <option value="message:guid" />
@@ -22,7 +23,6 @@
         <option value="tag:CoverDetailRootModel_ " />
         <option value="message:onNetVideoInfo tag:CommonLogicExt" />
         <option value="message:onNetVideoInfo" />
-        <option value="message:''" />
       </list>
     </option>
   </component>
