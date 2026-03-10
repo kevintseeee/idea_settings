@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:'onInfo: what ='" />
+    <option name="mostRecentlyUsed" value="message:'setLanguageId'" />
     <option name="nonFavorites">
       <list>
+        <option value="message:'setLanguageId'" />
+        <option value="message:'TvVideoData_'" />
         <option value="message:'onInfo: what ='" />
         <option value="is:stacktrace " />
         <option value="message:e" />
@@ -21,8 +23,6 @@
         <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity tag:MultiTabSectionDataModel " />
         <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity" />
         <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_" />
-        <option value="tag:CoverDetailRootModel_ " />
-        <option value="message:onNetVideoInfo tag:CommonLogicExt" />
       </list>
     </option>
   </component>
