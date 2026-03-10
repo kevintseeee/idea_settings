@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:'setLanguageId'" />
+    <option name="mostRecentlyUsed" value="message:'[lang_code]=' | tag:SubtitleSettingManager | tag:SubtitleSettingModule" />
     <option name="nonFavorites">
       <list>
+        <option value="message:'[lang_code]=' | tag:SubtitleSettingManager | tag:SubtitleSettingModule" />
+        <option value="message:'[lang_code]=' | tag:SubtitleSettingManager" />
+        <option value="message:'[lang_code]='" />
         <option value="message:'setLanguageId'" />
         <option value="message:'TvVideoData_'" />
         <option value="message:'onInfo: what ='" />
@@ -20,9 +23,6 @@
         <option value="message:'An fatal exception occurred'" />
         <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity tag:MultiTabSectionDataModel tag:LeaveSectionEntity tag:UnitVideoDataListModel" />
         <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity tag:MultiTabSectionDataModel tag:LeaveSectionEntity" />
-        <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity tag:MultiTabSectionDataModel " />
-        <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity" />
-        <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_" />
       </list>
     </option>
   </component>
