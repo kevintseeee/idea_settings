@@ -178,79 +178,14 @@
               <option name="allModules">
                 <list>
                   <ModuleInfo>
-                    <option name="name" value="desktopMain" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/desktopMain" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="desktopMainResourceCollectors" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/kotlin/desktopMainResourceCollectors" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="desktopMain" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/assembledResources/desktopMain" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="wasmJsTest" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/assembledResources/wasmJsTest" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="wasmJsMain" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/wasmJsMain" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="wasmJs" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/kotlin-multiplatform-resources/aggregated-resources/wasmJs" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="wasmJsMainResourceCollectors" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/kotlin/wasmJsMainResourceCollectors" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="kttoolbox" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
                     <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/res/resValues/androidTest/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="androidTest" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
                     <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/androidTest" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="jvmTest" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/assembledResources/jvmTest" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="jvmTest" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/jvmTest" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="jvmMain" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/assembledResources/jvmMain" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="jvmMainResourceCollectors" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/kotlin/jvmMainResourceCollectors" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="jvmMain" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/jvmMain" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="commonMainResourceAccessors" />
@@ -278,6 +213,91 @@
                     <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/commonTest" />
                   </ModuleInfo>
                   <ModuleInfo>
+                    <option name="name" value="androidMain" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/androidMain" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="desktopMain" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/desktopMain" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="desktopMainResourceCollectors" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/kotlin/desktopMainResourceCollectors" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="desktopMain" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/assembledResources/desktopMain" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="desktopTest" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/desktopTest" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="desktopTest" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/assembledResources/desktopTest" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="composeApp" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="wasmJsTest" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/assembledResources/wasmJsTest" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="wasmJsMain" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/wasmJsMain" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="wasmJs" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/kotlin-multiplatform-resources/aggregated-resources/wasmJs" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="wasmJsMainResourceCollectors" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/kotlin/wasmJsMainResourceCollectors" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/res/resValues/androidTest/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="jvmTest" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/assembledResources/jvmTest" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="jvmTest" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/jvmTest" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="jvmMain" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/assembledResources/jvmMain" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="jvmMainResourceCollectors" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/compose/resourceGenerator/kotlin/jvmMainResourceCollectors" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="jvmMain" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/jvmMain" />
+                  </ModuleInfo>
+                  <ModuleInfo>
                     <option name="name" value="copyDebugComposeResourcesToAndroidAssets" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
                     <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/assets/copyDebugComposeResourcesToAndroidAssets" />
@@ -292,26 +312,22 @@
                     <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
                     <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/build/generated/res/resValues/debug" />
                   </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="androidMain" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp/src/androidMain" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="composeApp" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox/composeApp" />
-                  </ModuleInfo>
                 </list>
               </option>
               <option name="blacklist">
                 <set />
               </option>
               <option name="indexedModules">
-                <list />
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="kttoolbox" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                  </ModuleInfo>
+                </list>
               </option>
               <option name="limit" value="10" />
-              <option name="uuid" value="398a204d-e170-54a8-4411-36092cc578d1" />
+              <option name="uuid" value="a85b6b06-0ad4-4718-6145-2a2a63ffbdd5" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
             </MultiModuleInfo>
           </value>
@@ -3404,10 +3420,16 @@
                 <set />
               </option>
               <option name="indexedModules">
-                <list />
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="release" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                  </ModuleInfo>
+                </list>
               </option>
               <option name="limit" value="10" />
-              <option name="uuid" value="3b7c39b3-c19e-917c-406c-8fe450d0f366" />
+              <option name="uuid" value="78e27e33-319f-93b1-75e5-6e5f0af6e3ad" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
             </MultiModuleInfo>
           </value>
