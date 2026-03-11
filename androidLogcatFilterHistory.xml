@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:'[lang_code]=' | tag:SubtitleSettingManager | tag:SubtitleSettingModule" />
+    <option name="mostRecentlyUsed" value="message:guid" />
     <option name="nonFavorites">
       <list>
+        <option value="message:guid" />
         <option value="message:'[lang_code]=' | tag:SubtitleSettingManager | tag:SubtitleSettingModule" />
         <option value="message:'[lang_code]=' | tag:SubtitleSettingManager" />
         <option value="message:'[lang_code]='" />
@@ -12,7 +13,6 @@
         <option value="is:stacktrace " />
         <option value="message:e" />
         <option value="message:full" />
-        <option value="message:guid" />
         <option value=" tag:_TVKPlayerWrapper tag:TvkRequestProxy" />
         <option value=" tag:_TVKPlayerWrapper" />
         <option value="message:vinfo" />
