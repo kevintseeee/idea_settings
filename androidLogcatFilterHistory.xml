@@ -1,8 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:guid" />
+    <option name="mostRecentlyUsed" value="message:setPlayerData" />
     <option name="nonFavorites">
       <list>
+        <option value="message:setPlayerData" />
+        <option value="message:'originUrl' message:onFragmentSelectedWithCheck message:getCommon" />
+        <option value="message:'originUrl' message:onFragmentSelectedWithCheck" />
+        <option value="message:'originUrl' message:channel" />
+        <option value="message:'originUrl'" />
+        <option value="message:'url'" />
+        <option value="message:'makeRequestUrl url='" />
+        <option value="message:url" />
+        <option value="message:oUrl" />
         <option value="message:guid" />
         <option value="message:'[lang_code]=' | tag:SubtitleSettingManager | tag:SubtitleSettingModule" />
         <option value="message:'[lang_code]=' | tag:SubtitleSettingManager" />
@@ -14,15 +23,6 @@
         <option value="message:e" />
         <option value="message:full" />
         <option value=" tag:_TVKPlayerWrapper tag:TvkRequestProxy" />
-        <option value=" tag:_TVKPlayerWrapper" />
-        <option value="message:vinfo" />
-        <option value="tag:SubtitleSettingReceiver" />
-        <option value="tag:HeaderFuncBtnListViewModel_ tag:ConstantsAndUtils " />
-        <option value="tag:HeaderFuncBtnListViewModel_" />
-        <option value="tag:MediaControlMenuModule" />
-        <option value="message:'An fatal exception occurred'" />
-        <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity tag:MultiTabSectionDataModel tag:LeaveSectionEntity tag:UnitVideoDataListModel" />
-        <option value="tag:CoverDetailRootModel_ tag:CoverPageModel_ tag:ContainerSectionEntity tag:MultiTabSectionDataModel tag:LeaveSectionEntity" />
       </list>
     </option>
   </component>
