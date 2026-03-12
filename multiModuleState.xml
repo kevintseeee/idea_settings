@@ -324,6 +324,11 @@
                     <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
                     <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
                   </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="kttoolbox" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
+                  </ModuleInfo>
                 </list>
               </option>
               <option name="limit" value="10" />
