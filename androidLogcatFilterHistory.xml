@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:setPlayerData" />
+    <option name="mostRecentlyUsed" value="tag:CommonLogicExt message:onNetVideoInfo" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:CommonLogicExt message:onNetVideoInfo" />
+        <option value="message:onNetVideoInfo" />
         <option value="message:setPlayerData" />
         <option value="message:'originUrl' message:onFragmentSelectedWithCheck message:getCommon" />
         <option value="message:'originUrl' message:onFragmentSelectedWithCheck" />
@@ -21,8 +23,6 @@
         <option value="message:'onInfo: what ='" />
         <option value="is:stacktrace " />
         <option value="message:e" />
-        <option value="message:full" />
-        <option value=" tag:_TVKPlayerWrapper tag:TvkRequestProxy" />
       </list>
     </option>
   </component>
