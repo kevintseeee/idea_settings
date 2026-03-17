@@ -318,18 +318,7 @@
                 <set />
               </option>
               <option name="indexedModules">
-                <list>
-                  <ModuleInfo>
-                    <option name="name" value="kttoolbox" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="kttoolbox" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Android/projects/kttoolbox" />
-                  </ModuleInfo>
-                </list>
+                <list />
               </option>
               <option name="limit" value="10" />
               <option name="uuid" value="a85b6b06-0ad4-4718-6145-2a2a63ffbdd5" />
@@ -2090,13 +2079,7 @@
                 <set />
               </option>
               <option name="indexedModules">
-                <list>
-                  <ModuleInfo>
-                    <option name="name" value="developing" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                  </ModuleInfo>
-                </list>
+                <list />
               </option>
               <option name="limit" value="10" />
               <option name="uuid" value="28aa78a0-5cc6-62a3-bbac-4dcacce433a3" />
@@ -3085,11 +3068,6 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/proj.android/src-variants" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/proj.android/build/generated/ap_generated_sources/SNMAPP__10009DebugUnitTest/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="test" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/proj.android/src/test" />
@@ -3295,21 +3273,6 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvuikit/src/test" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvunittest/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvunittest/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvunittest/build/generated/source/buildConfig/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvunittest/src/main" />
@@ -3415,6 +3378,26 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/KTPlayerSentryBridge/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/proj.android/build/generated/ap_generated_sources/SNMAPP__10009DebugUnitTest/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvunittest/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvunittest/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvunittest/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
                     <option name="name" value="providedaar-gradle-plugin" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/providedaar-gradle-plugin" />
@@ -3434,7 +3417,7 @@
                 </list>
               </option>
               <option name="limit" value="10" />
-              <option name="uuid" value="78e27e33-319f-93b1-75e5-6e5f0af6e3ad" />
+              <option name="uuid" value="da4d7c93-ee4d-5446-aa3d-831e2a42c38d" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
             </MultiModuleInfo>
           </value>

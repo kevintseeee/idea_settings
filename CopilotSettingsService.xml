@@ -14,7 +14,7 @@
     <option name="networkProxyType" value="manual" />
     <option name="snoozeShow" value="true" />
     <option name="tabOverTimes" value="true" />
-    <option name="updateVersion" value="2.8.1" />
+    <option name="updateVersion" value="" />
     <option name="disabledLanguages">
       <map>
         <entry languageId="markdown" languageIdEnable="false" />
@@ -37,12 +37,27 @@
             </map>
           </value>
         </entry>
+        <entry key="82a9da6f">
+          <value>
+            <map>
+              <entry key="/Volumes/Workspace/Tencent/QQLiveTV/release">
+                <value>
+                  <CodeStyleReference>
+                    <option name="framework" value="" />
+                    <option name="referenceType" value="context" />
+                    <option name="style" value="" />
+                  </CodeStyleReference>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="updateVersionInfo">
       <map>
         <entry key="pluginId" value="com.tencent.code.CodeCopilotJetBrainPlugin" />
-        <entry key="version" value="2.8.1" />
+        <entry key="version" value="" />
       </map>
     </option>
     <option name="repoProgressMap">
@@ -133,8 +148,7 @@
           <value>
             <IndexProgress>
               <option name="active" value="false" />
-              <option name="error" value="TooManyFiles" />
-              <option name="status" value="cancelled" />
+              <option name="status" value="queued" />
             </IndexProgress>
           </value>
         </entry>
