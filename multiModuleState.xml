@@ -2388,21 +2388,6 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/aiagent/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/app/build/generated/ap_generated_sources/SNMAPP__10009Debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/app/build/generated/res/resValues/SNMAPP__10009/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/app/build/generated/source/buildConfig/SNMAPP__10009/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/app/src/main" />
@@ -2433,26 +2418,6 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/BaseKit/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/CloudGame/build/generated/aidl_source_output_dir/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/CloudGame/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/CloudGame/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/CloudGame/build/generated/source/buildConfig/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/CloudGame/src/main" />
@@ -2461,21 +2426,6 @@
                     <option name="name" value="test" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/CloudGame/src/test" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/device_capability/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/device_capability/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/device_capability/build/generated/source/buildConfig/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="main" />
@@ -2518,39 +2468,9 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/hiveknife/AndroidManifest.xml" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/hiveknife/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/hiveknife/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/hiveknife/build/generated/source/buildConfig/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="src" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/hiveknife/src" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/HiveViewKit/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/HiveViewKit/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/HiveViewKit/build/generated/source/buildConfig/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="main" />
@@ -2561,26 +2481,6 @@
                     <option name="name" value="test" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/HiveViewKit/src/test" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/KeepProcLive/build/generated/aidl_source_output_dir/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/KeepProcLive/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/KeepProcLive/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/KeepProcLive/build/generated/source/buildConfig/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="main" />
@@ -2603,26 +2503,6 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib/AndroidManifest.xml" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib/build/generated/aidl_source_output_dir/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib/build/generated/source/buildConfig/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="res" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib/res" />
@@ -2633,39 +2513,9 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib/src" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib_Proxy/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib_Proxy/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib_Proxy/build/generated/source/buildConfig/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib_Proxy/src/main" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/NetworkSniff/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/NetworkSniff/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/NetworkSniff/build/generated/source/buildConfig/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="debug" />
@@ -2676,21 +2526,6 @@
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/NetworkSniff/src/main" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/ODAI-API/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/ODAI-API/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/ODAI-API/build/generated/source/buildConfig/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="main" />
@@ -2706,26 +2541,6 @@
                     <option name="name" value="test" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/ODAI-CORE/src/test" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/offlinedownload/build/generated/aidl_source_output_dir/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/offlinedownload/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/offlinedownload/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/offlinedownload/build/generated/source/buildConfig/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="wrapper" />
@@ -2748,26 +2563,6 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/offlinedownload/src/service" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvPartner/partner/build/generated/aidl_source_output_dir/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvPartner/partner/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvPartner/partner/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvPartner/partner/build/generated/source/buildConfig/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvPartner/partner/src/main" />
@@ -2788,21 +2583,6 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/performancetrace/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/play_trace/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/play_trace/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/play_trace/build/generated/source/buildConfig/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/play_trace/src/main" />
@@ -2811,26 +2591,6 @@
                     <option name="name" value="AndroidManifest.xml" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_Base/AndroidManifest.xml" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_Base/build/generated/aidl_source_output_dir/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_Base/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_Base/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_Base/build/generated/source/buildConfig/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="res" />
@@ -2958,21 +2718,6 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_WebView/AndroidManifest.xml" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_WebView/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_WebView/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_WebView/build/generated/source/buildConfig/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="res" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_WebView/res" />
@@ -3028,26 +2773,6 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/proj.android/build/configMerge/SNMAPP/src" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/proj.android/build/generated/aidl_source_output_dir/SNMAPP__10009Debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/proj.android/build/generated/ap_generated_sources/SNMAPP__10009Debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/proj.android/build/generated/res/resValues/SNMAPP__10009/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/proj.android/build/generated/source/buildConfig/SNMAPP__10009/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="raft" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/proj.android/raft" />
@@ -3088,44 +2813,9 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/QuickPlugContract/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/SandboxLib/build/generated/aidl_source_output_dir/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/SandboxLib/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/SandboxLib/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/SandboxLib/build/generated/source/buildConfig/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/SandboxLib/src/main" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvCommLib/TvBaseComm/javacomm/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvCommLib/TvBaseComm/javacomm/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvCommLib/TvBaseComm/javacomm/build/generated/source/buildConfig/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="main" />
@@ -3138,21 +2828,6 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvCommLib/TvBaseComm/javacomm/src/test" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/build/generated/source/buildConfig/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/src/main" />
@@ -3163,21 +2838,6 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/src/test" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvbitmap/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvbitmap/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvbitmap/build/generated/source/buildConfig/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvbitmap/src/main" />
@@ -3186,21 +2846,6 @@
                     <option name="name" value="AndroidManifest.xml" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvframemgr/AndroidManifest.xml" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvframemgr/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvframemgr/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvframemgr/build/generated/source/buildConfig/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="res" />
@@ -3216,21 +2861,6 @@
                     <option name="name" value="assets" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/TVKPlayer/TVKPlayer/assets" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/TVKPlayer/TVKPlayer/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/TVKPlayer/TVKPlayer/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/TVKPlayer/TVKPlayer/build/generated/source/buildConfig/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="main" />
@@ -3278,21 +2908,6 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvunittest/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvCommLib/TvVideoComm/JavaComm/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvCommLib/TvVideoComm/JavaComm/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvCommLib/TvVideoComm/JavaComm/build/generated/source/buildConfig/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="src-variants" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvCommLib/TvVideoComm/JavaComm/src-variants" />
@@ -3308,21 +2923,6 @@
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvCommLib/TvVideoComm/JavaComm/src/test" />
                   </ModuleInfo>
                   <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/VoiceElf/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/VoiceElf/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/VoiceElf/build/generated/source/buildConfig/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
                     <option name="name" value="res" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/VoiceElf/res" />
@@ -3336,21 +2936,6 @@
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/WatchTogether/src/main" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="out" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/WindowPlayer/build/generated/ap_generated_sources/debug/out" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/WindowPlayer/build/generated/res/resValues/debug" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="debug" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/WindowPlayer/build/generated/source/buildConfig/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="main" />
@@ -3376,6 +2961,421 @@
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/KTPlayerSentryBridge/src/main" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/app/build/generated/ap_generated_sources/SNMAPP__10009Debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/app/build/generated/res/resValues/SNMAPP__10009/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/app/build/generated/source/buildConfig/SNMAPP__10009/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/CloudGame/build/generated/aidl_source_output_dir/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/CloudGame/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/CloudGame/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/CloudGame/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/device_capability/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/device_capability/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/device_capability/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/hiveknife/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/hiveknife/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/hiveknife/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/HiveViewKit/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/HiveViewKit/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/HiveViewKit/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/KeepProcLive/build/generated/aidl_source_output_dir/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/KeepProcLive/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/KeepProcLive/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/KeepProcLive/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib/build/generated/aidl_source_output_dir/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib_Proxy/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib_Proxy/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/MsgCenterLib_Proxy/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/NetworkSniff/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/NetworkSniff/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/NetworkSniff/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/ODAI-API/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/ODAI-API/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/ODAI-API/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/offlinedownload/build/generated/aidl_source_output_dir/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/offlinedownload/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/offlinedownload/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/offlinedownload/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvPartner/partner/build/generated/aidl_source_output_dir/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvPartner/partner/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvPartner/partner/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvPartner/partner/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/play_trace/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/play_trace/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/play_trace/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_Base/build/generated/aidl_source_output_dir/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_Base/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_Base/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_Base/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_WebView/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_WebView/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_WebView/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/proj.android/build/generated/aidl_source_output_dir/SNMAPP__10009Debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/proj.android/build/generated/ap_generated_sources/SNMAPP__10009Debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/proj.android/build/generated/res/resValues/SNMAPP__10009/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/proj.android/build/generated/source/buildConfig/SNMAPP__10009/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/SandboxLib/build/generated/aidl_source_output_dir/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/SandboxLib/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/SandboxLib/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/SandboxLib/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvCommLib/TvBaseComm/javacomm/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvCommLib/TvBaseComm/javacomm/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvCommLib/TvBaseComm/javacomm/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvbitmap/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvbitmap/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvbitmap/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvframemgr/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvframemgr/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvBaseContainer/modules/tvframemgr/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/TVKPlayer/TVKPlayer/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/TVKPlayer/TVKPlayer/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/TVKPlayer/TVKPlayer/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvCommLib/TvVideoComm/JavaComm/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvCommLib/TvVideoComm/JavaComm/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/TvCommLib/TvVideoComm/JavaComm/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/VoiceElf/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/VoiceElf/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/VoiceElf/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/WindowPlayer/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/WindowPlayer/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/WindowPlayer/build/generated/source/buildConfig/debug" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="out" />
@@ -3417,7 +3417,7 @@
                 </list>
               </option>
               <option name="limit" value="10" />
-              <option name="uuid" value="da4d7c93-ee4d-5446-aa3d-831e2a42c38d" />
+              <option name="uuid" value="42e7fc7e-9261-93a4-2021-ca6975a8f519" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
             </MultiModuleInfo>
           </value>
