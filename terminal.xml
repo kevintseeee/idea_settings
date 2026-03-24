@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="terminalEngine" value="NEW_TERMINAL" />
+    <option name="useOptionAsMetaKey" value="true" />
   </component>
 </application>
