@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="梳理关于的thumbTipsChannel的逻辑" />
         <option value="如果有的话，说说你的改进建议" />
         <option value="梳理关于的thumbTipsChannel的逻辑。如果有的话，说说你的改进建议。" />
         <option value="已经修改完毕。你会如何评价这一套围绕thumbTips的小架构。" />
@@ -52,6 +51,7 @@
         <option value="mockStatic似乎没有阻止SubtitleUtils的&lt;clinit&gt;方法" />
         <option value="查阅CPTextMenuComponent，你能看出样式（大小尺寸、颜色样式）都hardcode了吗" />
         <option value="“抽取为配置类”是什么意思" />
+        <option value="/apply " />
       </list>
     </option>
   </component>
