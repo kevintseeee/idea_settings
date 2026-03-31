@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="tag:TVK" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TVK" />
+        <option value="tag:PlaylistModule" />
+        <option value="tag:" />
         <option value="is:crash " />
         <option value="tag:TvkPlayerProxy_ | message:'handleStop'" />
         <option value="tag:TvkPlayerProxy_ | message:'handleStop: wait'" />
@@ -20,9 +23,6 @@
         <option value="message:url" />
         <option value="message:oUrl" />
         <option value="message:guid" />
-        <option value="message:'[lang_code]=' | tag:SubtitleSettingManager | tag:SubtitleSettingModule" />
-        <option value="message:'[lang_code]=' | tag:SubtitleSettingManager" />
-        <option value="message:'[lang_code]='" />
       </list>
     </option>
   </component>
