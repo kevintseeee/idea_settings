@@ -2,8 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="我在SeekBarView中使用了R.drawable.seekbar_played_marker，我能在代码里修改颜色吗？或者能在代码里构造一个颜色不同的类似的drawable吗？" />
-        <option value="如何监听_uiState的变化？我需要在从AnimScene.FIRST_MENU_TAB切换至AnimScene.FIRST_MENU_FLOAT时，做响应。" />
         <option value="梳理关于的thumbTipsChannel的逻辑" />
         <option value="如果有的话，说说你的改进建议" />
         <option value="梳理关于的thumbTipsChannel的逻辑。如果有的话，说说你的改进建议。" />
@@ -52,6 +50,8 @@
         <option value="关于createOpenPlayThumbTips方法、createImmerseTips方法、createRecommendTips方法、createSpecifyVidTips方法、createLockedPlayTips方法，复杂度高，有什么优化建议？" />
         <option value="实际上是这个单测遇到问题了，鉴于我使用的是PowerMockRunner.class，帮我把“com.tencent.qqlivetv.windowplayer.module.vmtx.subtitle.SubtitleUtils”的调用屏蔽了，能做到吗？" />
         <option value="mockStatic似乎没有阻止SubtitleUtils的&lt;clinit&gt;方法" />
+        <option value="查阅CPTextMenuComponent，你能看出样式（大小尺寸、颜色样式）都hardcode了吗" />
+        <option value="“抽取为配置类”是什么意思" />
       </list>
     </option>
   </component>
