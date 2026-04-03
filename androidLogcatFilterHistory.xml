@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TVK" />
+    <option name="mostRecentlyUsed" value="message:updateCurrentVisibleRecord | tag:UnitViewHolder" />
     <option name="nonFavorites">
       <list>
+        <option value="message:updateCurrentVisibleRecord | tag:UnitViewHolder" />
+        <option value="message:updateCurrentVisibleRecord" />
         <option value="is:crash " />
         <option value="tag:TVK" />
         <option value="tag:PlaylistModule" />
@@ -21,8 +23,6 @@
         <option value="message:'url'" />
         <option value="message:'makeRequestUrl url='" />
         <option value="message:url" />
-        <option value="message:oUrl" />
-        <option value="message:guid" />
       </list>
     </option>
   </component>
