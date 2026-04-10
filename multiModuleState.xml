@@ -2087,6 +2087,306 @@
             </MultiModuleInfo>
           </value>
         </entry>
+        <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify">
+          <value>
+            <MultiModuleInfo>
+              <option name="allModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="main" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/TvBaseContainer/src/main" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/TvBaseContainer/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/TvBaseContainer/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/TvBaseContainer/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="Resources" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/Resources" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="src" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/src" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="raft" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/raft" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="autogen" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/autogen" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="res" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/res" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="AndroidManifest.xml" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/AndroidManifest.xml" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="src-variants" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/src-variants" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="normal_src" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/WatchTogether/normal_src" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="src" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/build/configMerge/SNMAPP/src" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="res" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/build/configMerge/SNMAPP/res" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="assets" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/build/configMerge/SNMAPP/assets" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="SNMAPP" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/TvPartner/partner/channels/video/SNMAPP" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/build/generated/aidl_source_output_dir/SNMAPP__10009Debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/build/generated/ap_generated_sources/SNMAPP__10009Debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/build/generated/res/resValues/SNMAPP__10009/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/build/generated/source/buildConfig/SNMAPP__10009/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="main" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/Plugin_Rmonitor/src/main" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="main" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/Plugin_Projection/src/main" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="test" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/ODAI-CORE/src/test" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="main" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/aiagent/src/main" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/NetworkSniff/src/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="main" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/NetworkSniff/src/main" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/NetworkSniff/build/generated/source/buildConfig/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="debug" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/NetworkSniff/build/generated/res/resValues/debug" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="out" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/NetworkSniff/build/generated/ap_generated_sources/debug/out" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="test" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/HiveViewKit/src/test" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="VoiceElf" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/VoiceElf" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="test" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/CloudGame/src/test" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="java" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/src/androidTest/java" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="resources" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/src/androidTest/resources" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="AndroidManifest.xml" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android/src/androidTest/AndroidManifest.xml" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="JavaComm" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/TvCommLib/TvVideoComm/JavaComm" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="tvunittest" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/TvBaseContainer/modules/tvunittest" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="QuickPlugContract" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/QuickPlugContract" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="proj.android" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/proj.android" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="Plugin_Voice" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/Plugin_Voice" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="Plugin_Rmonitor" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/Plugin_Rmonitor" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="Plugin_Projection" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/Plugin_Projection" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="Plugin_Detector" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/Plugin_Detector" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="Plugin_Base" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/Plugin_Base" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="play_trace" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/TvBaseContainer/modules/play_trace" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="partner" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/TvPartner/partner" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="NetworkSniff" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/NetworkSniff" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="MsgCenterLib_Proxy" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/MsgCenterLib_Proxy" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="Ktv" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/CloudGame/games/Ktv" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="KeepProcLive" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/KeepProcLive" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="GameBase" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/CloudGame/base/GameBase" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="CloudGame" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/CloudGame" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="app" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/app" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="aiagent" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify/aiagent" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="graphify" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="blacklist">
+                <set />
+              </option>
+              <option name="indexedModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="graphify" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="limit" value="10" />
+              <option name="uuid" value="98cc988c-afc6-14ec-8549-22cc8e782fe3" />
+              <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify" />
+            </MultiModuleInfo>
+          </value>
+        </entry>
         <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/release">
           <value>
             <MultiModuleInfo>
