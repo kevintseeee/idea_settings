@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:updateCurrentVisibleRecord | tag:UnitViewHolder" />
+    <option name="mostRecentlyUsed" value="message:setSubtitleLangId | message:setSubtitleSize" />
     <option name="nonFavorites">
       <list>
+        <option value="message:setSubtitleLangId | message:setSubtitleSize" />
+        <option value="message:setSubtitleLangId | message:" />
         <option value="message:updateCurrentVisibleRecord | tag:UnitViewHolder" />
         <option value="message:updateCurrentVisibleRecord" />
         <option value="is:crash " />
@@ -21,8 +23,6 @@
         <option value="message:'originUrl' message:channel" />
         <option value="message:'originUrl'" />
         <option value="message:'url'" />
-        <option value="message:'makeRequestUrl url='" />
-        <option value="message:url" />
       </list>
     </option>
   </component>
