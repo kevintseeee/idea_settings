@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:openMediaPlayer " />
+    <option name="mostRecentlyUsed" value="message:updateMenuData" />
     <option name="nonFavorites">
       <list>
+        <option value="message:updateMenuData" />
         <option value="message:openMediaPlayer " />
         <option value="message:s4101y1vv14 " />
         <option value="message:setSubtitleLangId | message:setSubtitleSize" />
@@ -22,7 +23,6 @@
         <option value="message:onNetVideoInfo" />
         <option value="message:'originUrl' message:onFragmentSelectedWithCheck message:getCommon" />
         <option value="message:'originUrl' message:onFragmentSelectedWithCheck" />
-        <option value="message:'originUrl' message:channel" />
       </list>
     </option>
   </component>
