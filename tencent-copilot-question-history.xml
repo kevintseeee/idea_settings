@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="已经修改完毕。你会如何评价这一套围绕thumbTips的小架构。" />
         <option value="给thumbTipsChannel补充注释" />
         <option value="addLayer只能在API 23上使用，你有什么修改建议吗？" />
         <option value="addLayer是API 23的接口，改为在构造函数填入所有Drawables了。帮我看下还有什么问题？" />
@@ -52,6 +51,7 @@
         <option value="/apply " />
         <option value="这种情况下可以改写成lambda吗" />
         <option value="“fun interface”的含义是什么，为什么有这一特殊处理？" />
+        <option value="int[] 存在contains方法吗" />
       </list>
     </option>
   </component>
