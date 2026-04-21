@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:updateMenuData" />
+    <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash " />
         <option value="message:updateMenuData" />
         <option value="message:openMediaPlayer " />
         <option value="message:s4101y1vv14 " />
@@ -10,7 +11,6 @@
         <option value="message:setSubtitleLangId | message:" />
         <option value="message:updateCurrentVisibleRecord | tag:UnitViewHolder" />
         <option value="message:updateCurrentVisibleRecord" />
-        <option value="is:crash " />
         <option value="tag:TVK" />
         <option value="tag:PlaylistModule" />
         <option value="tag:" />
