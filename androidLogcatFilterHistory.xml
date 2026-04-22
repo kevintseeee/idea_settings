@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="message:AudioDefReceiver" />
     <option name="nonFavorites">
       <list>
+        <option value="message:AudioDefReceiver" />
         <option value="is:crash " />
         <option value="message:updateMenuData" />
         <option value="message:openMediaPlayer " />
@@ -22,7 +23,6 @@
         <option value="tag:CommonLogicExt message:onNetVideoInfo" />
         <option value="message:onNetVideoInfo" />
         <option value="message:'originUrl' message:onFragmentSelectedWithCheck message:getCommon" />
-        <option value="message:'originUrl' message:onFragmentSelectedWithCheck" />
       </list>
     </option>
   </component>
