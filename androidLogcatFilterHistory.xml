@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:AudioDefReceiver" />
+    <option name="mostRecentlyUsed" value="tag:AudioTrackModule" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AudioTrackModule" />
+        <option value="message:AudioTrackModule" />
         <option value="message:AudioDefReceiver" />
         <option value="is:crash " />
         <option value="message:updateMenuData" />
@@ -21,8 +23,6 @@
         <option value="message:setPlayerData" />
         <option value="package:mine is:stacktrace " />
         <option value="tag:CommonLogicExt message:onNetVideoInfo" />
-        <option value="message:onNetVideoInfo" />
-        <option value="message:'originUrl' message:onFragmentSelectedWithCheck message:getCommon" />
       </list>
     </option>
   </component>
