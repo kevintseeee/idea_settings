@@ -560,10 +560,16 @@
                 <set />
               </option>
               <option name="indexedModules">
-                <list />
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="QMTPluginKitAndroid" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QMTPluginKitAndroid" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QMTPluginKitAndroid" />
+                  </ModuleInfo>
+                </list>
               </option>
               <option name="limit" value="10" />
-              <option name="uuid" value="78538721-0017-c2ef-d6fd-ef01d37e473d" />
+              <option name="uuid" value="85c6233b-facb-4764-b1a8-1f38bd79594b" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QMTPluginKitAndroid" />
             </MultiModuleInfo>
           </value>
