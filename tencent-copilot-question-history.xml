@@ -2,12 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="给thumbTipsChannel补充注释" />
-        <option value="addLayer只能在API 23上使用，你有什么修改建议吗？" />
-        <option value="addLayer是API 23的接口，改为在构造函数填入所有Drawables了。帮我看下还有什么问题？" />
-        <option value="不对啊，setId是API 1的接口！" />
-        <option value="我增加了一个类MCPreviewAdapter，相当于Java里的static class。到底需不需要放在PreviewPicSeekView的companion object里？有什么判定标准？" />
-        <option value="你会如何评价这一段" />
         <option value="梳理PreviewDataAdapter的filter逻辑" />
         <option value="结合MCPreviewAdapter，讲讲逻辑" />
         <option value="如何计算TimeMark与TimeMark之间的时长" />
@@ -52,6 +46,12 @@
         <option value="这种情况下可以改写成lambda吗" />
         <option value="“fun interface”的含义是什么，为什么有这一特殊处理？" />
         <option value="int[] 存在contains方法吗" />
+        <option value="了解一下PlayerToast相关的逻辑，帮助我回答产品同学的问题“请问清晰度目前在ott端有主动和被动的toast提醒吗？如果用户前一次播放时选择了某个清晰度 在下次起播时  ott端会自动触发toast吗？”" />
+        <option value="AutoDefToastPresenter不是这个意思" />
+        <option value="只看PlayerToast对象相关的逻辑，帮助我回答产品同学的问题“请问清晰度目前在ott端有主动和被动的toast提醒吗？如果用户前一次播放时选择了某个清晰度 在下次起播时  ott端会自动触发toast吗？”" />
+        <option value="只看PlayerToast对象相关的逻辑（不要看AutoDefToastPresenter），帮助我回答产品同学的问题“请问清晰度目前在ott端有主动和被动的toast提醒吗？如果用户前一次播放时选择了某个清晰度 在下次起播时  ott端会自动触发toast吗？”" />
+        <option value="只看PlayerToast对象相关的逻辑（含ToastGroup，SVipTipsPresenter，但绝不包含AutoDefToastPresenter），帮助我回答产品同学的问题“请问清晰度目前在ott端有主动和被动的toast提醒吗？如果用户前一次播放时选择了某个清晰度 在下次起播时  ott端会自动触发toast吗？”" />
+        <option value="HDR10是起播时弹，还是切清晰度时弹，还是都可能会弹？" />
       </list>
     </option>
   </component>
