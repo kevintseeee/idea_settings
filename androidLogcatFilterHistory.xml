@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="tag:TVKListenerManager" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TVK" />
         <option value="tag:TVKListenerManager" />
         <option value="tag:TvkPlayerProxy_ message:onInfo" />
         <option value="tag:TvkPlayerProxy_" />
@@ -19,7 +20,6 @@
         <option value="message:setSubtitleLangId | message:" />
         <option value="message:updateCurrentVisibleRecord | tag:UnitViewHolder" />
         <option value="message:updateCurrentVisibleRecord" />
-        <option value="tag:TVK" />
         <option value="tag:PlaylistModule" />
         <option value="tag:" />
         <option value="tag:TvkPlayerProxy_ | message:'handleStop'" />
