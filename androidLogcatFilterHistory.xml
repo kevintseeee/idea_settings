@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AudioTrackModule | message:preparing" />
+    <option name="mostRecentlyUsed" value="tag:AudioTrackModule" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AudioTrackModule" />
         <option value="tag:AudioTrackModule | message:preparing" />
         <option value="tag:AudioTrackModule | message:parparing" />
-        <option value="tag:AudioTrackModule" />
         <option value="tag:TVKListenerManager" />
         <option value="message:preparing" />
         <option value="tag:TvkPlayerProxy_" />
