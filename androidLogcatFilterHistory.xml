@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AudioTrackModule" />
+    <option name="mostRecentlyUsed" value="tag:DolbyLoadingView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DolbyLoadingView" />
         <option value="tag:AudioTrackModule" />
         <option value="tag:AudioTrackModule | message:preparing" />
         <option value="tag:AudioTrackModule | message:parparing" />
@@ -22,7 +23,6 @@
         <option value="message:setSubtitleLangId | message:setSubtitleSize" />
         <option value="message:setSubtitleLangId | message:" />
         <option value="message:updateCurrentVisibleRecord | tag:UnitViewHolder" />
-        <option value="message:updateCurrentVisibleRecord" />
       </list>
     </option>
   </component>
