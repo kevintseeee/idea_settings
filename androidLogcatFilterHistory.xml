@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:lottie" />
+    <option name="mostRecentlyUsed" value="tag:AudioLoadingView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AudioLoadingView" />
+        <option value="tag:" />
+        <option value="tag:TVK" />
         <option value="message:lottie" />
         <option value="tag:DolbyLoadingView" />
         <option value="tag:AudioTrackModule" />
@@ -11,7 +14,6 @@
         <option value="tag:TVKListenerManager" />
         <option value="message:preparing" />
         <option value="tag:TvkPlayerProxy_" />
-        <option value="tag:TVK" />
         <option value="tag:TvkPlayerProxy_ message:onInfo" />
         <option value="message:switchAudioTrack" />
         <option value="tag:TvkPlayerProxy_ message:switchAudioTrack" />
@@ -21,8 +23,6 @@
         <option value="message:updateMenuData" />
         <option value="message:openMediaPlayer " />
         <option value="message:s4101y1vv14 " />
-        <option value="message:setSubtitleLangId | message:setSubtitleSize" />
-        <option value="message:setSubtitleLangId | message:" />
       </list>
     </option>
   </component>
