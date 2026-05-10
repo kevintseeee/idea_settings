@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AudioLoadingView" />
+    <option name="mostRecentlyUsed" value="tag:AudioLoadingView tag:LottieDownloadUtils" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AudioLoadingView tag:LottieDownloadUtils" />
         <option value="tag:AudioLoadingView" />
         <option value="tag:" />
         <option value="tag:TVK" />
@@ -22,7 +23,6 @@
         <option value="is:crash " />
         <option value="message:updateMenuData" />
         <option value="message:openMediaPlayer " />
-        <option value="message:s4101y1vv14 " />
       </list>
     </option>
   </component>
