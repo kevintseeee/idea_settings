@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AudioTrackModule tag:TVKPlayer[TVKListenerManager.java] " />
+    <option name="mostRecentlyUsed" value="tag:PlayDefinition " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PlayDefinition " />
         <option value="tag:AudioTrackModule tag:TVKPlayer[TVKListenerManager.java] " />
         <option value="tag:AudioTrackModule" />
         <option value="tag:AudioLoadingView tag:LottieDownloadUtils" />
@@ -22,7 +23,6 @@
         <option value="message:AudioTrackModule" />
         <option value="message:AudioDefReceiver" />
         <option value="is:crash " />
-        <option value="message:updateMenuData" />
       </list>
     </option>
   </component>
