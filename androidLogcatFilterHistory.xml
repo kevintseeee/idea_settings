@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PlayDefinition " />
+    <option name="mostRecentlyUsed" value="message:vuid" />
     <option name="nonFavorites">
       <list>
+        <option value="message:vuid" />
         <option value="tag:PlayDefinition " />
         <option value="tag:AudioTrackModule tag:TVKPlayer[TVKListenerManager.java] " />
         <option value="tag:AudioTrackModule" />
@@ -22,7 +23,6 @@
         <option value="tag:TvkPlayerProxy_ message:switchAudioTrack" />
         <option value="message:AudioTrackModule" />
         <option value="message:AudioDefReceiver" />
-        <option value="is:crash " />
       </list>
     </option>
   </component>
