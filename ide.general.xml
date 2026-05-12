@@ -16,6 +16,7 @@
         <entry key="LanguageServiceStatusBarWidget" value="false" />
         <entry key="Memory" value="true" />
         <entry key="Position" value="false" />
+        <entry key="PowerSaveMode" value="true" />
         <entry key="git" value="true" />
       </map>
     </option>
