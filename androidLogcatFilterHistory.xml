@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:guid" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
-        <option value="message:guid" />
-        <option value="message:originUrl" />
-        <option value="message:group_videos_waterfall" />
-        <option value="tag:MultiTabsVideoListViewModel | message:'openMediaPlayer current'" />
-        <option value="tag:MultiTabsVideoListViewModel" />
-        <option value="message:handleItemClicked" />
-        <option value="message:registerSyncCallback" />
-        <option value="tag:UnitVideoDataListModel" />
-        <option value="tag:MultiTaPlaylistDataProxy" />
-        <option value="message:'onUnitListChanged: model'" />
-        <option value="message:doNotifyDataUpdate" />
-        <option value="tag:MultiTaPlaylistDataProxy | tag:UnitVideoDataListModel | message~:'setState: state.+UnitVideoDataListModel'" />
-        <option value="tag:MultiTaPlaylistDataProxy | tag:UnitVideoDataListModel | message:'setState: state'" />
-        <option value="tag:MultiTaPlaylistDataProxy | tag:UnitVideoDataListModel" />
-        <option value="message:'doNotifyDataUpdate'" />
-        <option value="message:'doNotifyDataUpdate' | tag:kevinrhxie" />
-        <option value="message:'doNotifyDataUpdate' | message:" />
-        <option value="package:mine message:'doNotifyDataUpdate'" />
-        <option value="package:mine tag:DetailEpisodeFragment" />
-        <option value="package:mine tag:MultiTabPlaylistModule" />
+        <option value="is:stacktrace " />
+        <option value="tag:TVKPlayer[TVKListenerManager.java] | message:switchAudioTrack" />
+        <option value="tag:TVKPlayer[TVKListenerManager.java] | message:switch" />
+        <option value="message:vuid" />
+        <option value="tag:PlayDefinition " />
+        <option value="tag:AudioTrackModule tag:TVKPlayer[TVKListenerManager.java] " />
+        <option value="tag:AudioTrackModule" />
+        <option value="tag:AudioLoadingView tag:LottieDownloadUtils" />
+        <option value="tag:AudioLoadingView" />
+        <option value="tag:" />
+        <option value="tag:TVK" />
+        <option value="message:lottie" />
+        <option value="tag:DolbyLoadingView" />
+        <option value="tag:AudioTrackModule | message:preparing" />
+        <option value="tag:AudioTrackModule | message:parparing" />
+        <option value="tag:TVKListenerManager" />
+        <option value="message:preparing" />
+        <option value="tag:TvkPlayerProxy_" />
+        <option value="tag:TvkPlayerProxy_ message:onInfo" />
+        <option value="message:switchAudioTrack" />
       </list>
     </option>
   </component>

@@ -1,58 +1,145 @@
 <application>
   <component name="CopilotSettingsServiceImpl">
-    <option name="c2CEnable" value="false" />
+    <option name="activate" value="false" />
     <option name="commitMessageLanguage" value="zh_CN" />
     <option name="commitMessageStyle" value="auto" />
     <option name="commitMessageTAPDEnable" value="true" />
+    <option name="composerSetting">
+      <ComposerSetting>
+        <option name="terminalAutoRun" value="true" />
+      </ComposerSetting>
+    </option>
     <option name="firstInstall" value="false" />
-    <option name="inlinePopupEnable" value="false" />
     <option name="networkProxyAddress" value="" />
     <option name="networkProxyType" value="manual" />
+    <option name="snoozeShow" value="true" />
     <option name="tabOverTimes" value="true" />
-    <option name="updateVersion" value="1.56.2" />
+    <option name="updateVersion" value="" />
     <option name="disabledLanguages">
       <map>
         <entry languageId="markdown" languageIdEnable="false" />
       </map>
     </option>
+    <option name="codeStyleReferenceMap">
+      <map>
+        <entry key="395d74fd">
+          <value>
+            <map>
+              <entry key="/Volumes/Workspace/Tencent/QQLiveTV/developing">
+                <value>
+                  <CodeStyleReference>
+                    <option name="framework" value="" />
+                    <option name="referenceType" value="context" />
+                    <option name="style" value="" />
+                  </CodeStyleReference>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+        <entry key="82a9da6f">
+          <value>
+            <map>
+              <entry key="/Volumes/Workspace/Tencent/QQLiveTV/release">
+                <value>
+                  <CodeStyleReference>
+                    <option name="framework" value="" />
+                    <option name="referenceType" value="context" />
+                    <option name="style" value="" />
+                  </CodeStyleReference>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="updateVersionInfo">
       <map>
         <entry key="pluginId" value="com.tencent.code.CodeCopilotJetBrainPlugin" />
-        <entry key="version" value="1.56.2" />
+        <entry key="version" value="" />
       </map>
     </option>
     <option name="repoProgressMap">
       <map>
+        <entry key="file:///Volumes/Workspace/Android/projects/KtToolBox">
+          <value>
+            <IndexProgress>
+              <option name="fileCount" value="29" />
+              <option name="percent" value="100.0" />
+              <option name="status" value="done" />
+            </IndexProgress>
+          </value>
+        </entry>
         <entry key="file:///Volumes/Workspace/Android/projects/Playground">
           <value>
             <IndexProgress>
-              <option name="active" value="false" />
-              <option name="currCount" value="40" />
-              <option name="fileCount" value="40" />
+              <option name="fileCount" value="566" />
               <option name="percent" value="100.0" />
               <option name="status" value="done" />
             </IndexProgress>
           </value>
         </entry>
-        <entry key="file:///Volumes/Workspace/Android/projects/smalidea">
+        <entry key="file:///Volumes/Workspace/Android/projects/kttoolbox">
           <value>
             <IndexProgress>
-              <option name="active" value="false" />
-              <option name="currCount" value="291" />
-              <option name="fileCount" value="291" />
+              <option name="fileCount" value="93" />
               <option name="percent" value="100.0" />
               <option name="status" value="done" />
             </IndexProgress>
           </value>
         </entry>
-        <entry key="file:///Volumes/Workspace/Projects/radar">
+        <entry key="file:///Volumes/Workspace/Projects/KTPlayground">
+          <value>
+            <IndexProgress>
+              <option name="fileCount" value="37" />
+              <option name="percent" value="100.0" />
+              <option name="status" value="done" />
+            </IndexProgress>
+          </value>
+        </entry>
+        <entry key="file:///Volumes/Workspace/Projects/Playground/Playground16/tmp">
+          <value>
+            <IndexProgress>
+              <option name="fileCount" value="455" />
+              <option name="percent" value="100.0" />
+              <option name="status" value="done" />
+            </IndexProgress>
+          </value>
+        </entry>
+        <entry key="file:///Volumes/Workspace/Projects/Playground/Playground16/tv_seekbar">
+          <value>
+            <IndexProgress>
+              <option name="fileCount" value="91" />
+              <option name="percent" value="100.0" />
+              <option name="status" value="done" />
+            </IndexProgress>
+          </value>
+        </entry>
+        <entry key="file:///Volumes/Workspace/Projects/Playground16">
+          <value>
+            <IndexProgress>
+              <option name="fileCount" value="94" />
+              <option name="percent" value="100.0" />
+              <option name="status" value="done" />
+            </IndexProgress>
+          </value>
+        </entry>
+        <entry key="file:///Volumes/Workspace/Tencent/QMTPluginKitAndroid">
+          <value>
+            <IndexProgress>
+              <option name="fileCount" value="2624" />
+              <option name="percent" value="100.0" />
+              <option name="status" value="done" />
+            </IndexProgress>
+          </value>
+        </entry>
+        <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/bugfix">
           <value>
             <IndexProgress>
               <option name="active" value="false" />
-              <option name="currCount" value="41" />
-              <option name="fileCount" value="41" />
-              <option name="percent" value="100.0" />
-              <option name="status" value="done" />
+              <option name="error" value="TooManyFiles" />
+              <option name="status" value="cancelled" />
             </IndexProgress>
           </value>
         </entry>
@@ -61,6 +148,40 @@
             <IndexProgress>
               <option name="active" value="false" />
               <option name="status" value="removed" />
+            </IndexProgress>
+          </value>
+        </entry>
+        <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/graphify">
+          <value>
+            <IndexProgress>
+              <option name="active" value="false" />
+              <option name="status" value="removed" />
+            </IndexProgress>
+          </value>
+        </entry>
+        <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/release">
+          <value>
+            <IndexProgress>
+              <option name="active" value="false" />
+              <option name="fileCount" value="4" />
+              <option name="status" value="removed" />
+            </IndexProgress>
+          </value>
+        </entry>
+        <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/trunk_projects/trunk_building">
+          <value>
+            <IndexProgress>
+              <option name="active" value="false" />
+              <option name="status" value="removed" />
+            </IndexProgress>
+          </value>
+        </entry>
+        <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/trunk_projects/trunk_developing">
+          <value>
+            <IndexProgress>
+              <option name="active" value="false" />
+              <option name="error" value="TooManyFiles" />
+              <option name="status" value="cancelled" />
             </IndexProgress>
           </value>
         </entry>

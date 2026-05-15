@@ -7,30 +7,437 @@
             <KnowledgeInfoList>
               <option name="serverStatus">
                 <map>
-                  <entry key="4e93af9e185c4bc9825565580d9037f6">
+                  <entry key="033c6d69ae0543aeb6aa37063872aa56">
                     <value>
                       <KnowledgeInfo>
                         <option name="branchName" value="" />
                         <option name="description" value="" />
-                        <option name="resourceName" value="https://iwiki.woa.com/space/TencentVideoMobileTechnologyCenter" />
-                        <option name="resourceType" value="iwiki" />
-                        <option name="serverId" value="4e93af9e185c4bc9825565580d9037f6" />
-                        <option name="serverName" value="PCG/在线视频产品部/终端技术空间" />
-                        <option name="status" value="success" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/033c6d69ae0543aeb6aa37063872aa56" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="033c6d69ae0543aeb6aa37063872aa56" />
+                        <option name="serverName" value="mokoko需求管理平台" />
+                        <option name="status" value="" />
                         <option name="statusDesc" value="" />
                       </KnowledgeInfo>
                     </value>
                   </entry>
-                  <entry key="e9609b39748f49869cc9a734b2293349">
+                  <entry key="12aca2dfda55468cb03fe2f62be3e7aa">
                     <value>
                       <KnowledgeInfo>
-                        <option name="branchName" value="master" />
+                        <option name="branchName" value="" />
                         <option name="description" value="" />
-                        <option name="resourceName" value="https://git.woa.com/tencentVideo_HarmonyOS/TencetVideoKMM" />
-                        <option name="resourceType" value="git" />
-                        <option name="serverId" value="e9609b39748f49869cc9a734b2293349" />
-                        <option name="serverName" value="tencentVideo_HarmonyOS/TencetVideoKMM" />
-                        <option name="status" value="success" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/12aca2dfda55468cb03fe2f62be3e7aa" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="12aca2dfda55468cb03fe2f62be3e7aa" />
+                        <option name="serverName" value="Codebuddy-vscode插件-丢失历史聊天" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="14fd8e372e95482bb1415a69f63fa374">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/14fd8e372e95482bb1415a69f63fa374" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="14fd8e372e95482bb1415a69f63fa374" />
+                        <option name="serverName" value="天穹WeData数据开发治理平台" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="184a63e1bf70417fb5c10e2ff5886616">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/184a63e1bf70417fb5c10e2ff5886616" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="184a63e1bf70417fb5c10e2ff5886616" />
+                        <option name="serverName" value="DD数据开发平台" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="221704f1f5c64219aaa436ccb3beaff8">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/221704f1f5c64219aaa436ccb3beaff8" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="221704f1f5c64219aaa436ccb3beaff8" />
+                        <option name="serverName" value="蓝盾Stream" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="2546f465650849f2aa2bb71135c05dcc">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/2546f465650849f2aa2bb71135c05dcc" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="2546f465650849f2aa2bb71135c05dcc" />
+                        <option name="serverName" value="ETMS知识库" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="284e10387be44c759b1b2f40ec372fa5">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/284e10387be44c759b1b2f40ec372fa5" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="284e10387be44c759b1b2f40ec372fa5" />
+                        <option name="serverName" value="OTT AI Coding知识库" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="35c663cf1cce4f54b38fc8b01f4f62ea">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/35c663cf1cce4f54b38fc8b01f4f62ea" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="35c663cf1cce4f54b38fc8b01f4f62ea" />
+                        <option name="serverName" value="ClaudeCode/GeminiCLI/CodexCLI Internal" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="380f06e9e52941e597b44158cb4b3cc6">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/380f06e9e52941e597b44158cb4b3cc6" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="380f06e9e52941e597b44158cb4b3cc6" />
+                        <option name="serverName" value="QQ阅读后端知识库" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="382255ecf7de4e0c98ec3927906a7dca">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="CDP海外业务助手相关文档自助查询" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/382255ecf7de4e0c98ec3927906a7dca" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="382255ecf7de4e0c98ec3927906a7dca" />
+                        <option name="serverName" value="CDP海外业务助手（公开）" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="3b67dcae8ff342d4a87ff4017525f4fc">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/3b67dcae8ff342d4a87ff4017525f4fc" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="3b67dcae8ff342d4a87ff4017525f4fc" />
+                        <option name="serverName" value="robinsonxu测试知识库" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="467b113a85c84ec3b2d4c4c20a53fbc4">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/467b113a85c84ec3b2d4c4c20a53fbc4" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="467b113a85c84ec3b2d4c4c20a53fbc4" />
+                        <option name="serverName" value="腾讯问卷-公开" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="46a85d13e0064abfb08eb6ee261f96fa">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="搜推aura知识库" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/46a85d13e0064abfb08eb6ee261f96fa" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="46a85d13e0064abfb08eb6ee261f96fa" />
+                        <option name="serverName" value="搜推aura知识库" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="4b206d307b924dbd873f8a51b1a868c3">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/4b206d307b924dbd873f8a51b1a868c3" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="4b206d307b924dbd873f8a51b1a868c3" />
+                        <option name="serverName" value="KubeG架构" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="4b5d8608c3f24e4b976b0294a5b8553e">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/4b5d8608c3f24e4b976b0294a5b8553e" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="4b5d8608c3f24e4b976b0294a5b8553e" />
+                        <option name="serverName" value="手Q稳定性评估" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="5f17114e57bd428c8ff2cb6ad08223b9">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/5f17114e57bd428c8ff2cb6ad08223b9" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="5f17114e57bd428c8ff2cb6ad08223b9" />
+                        <option name="serverName" value="隐私合规 Rightly" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="61909051eb4e4635a47c1fe25713778f">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/61909051eb4e4635a47c1fe25713778f" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="61909051eb4e4635a47c1fe25713778f" />
+                        <option name="serverName" value="前端一体化（FUE）" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="6874936098db480889f89dc05d6dff91">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/6874936098db480889f89dc05d6dff91" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="6874936098db480889f89dc05d6dff91" />
+                        <option name="serverName" value="米大师" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="697cd168e0f54958b0925fda23b2593d">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/697cd168e0f54958b0925fda23b2593d" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="697cd168e0f54958b0925fda23b2593d" />
+                        <option name="serverName" value="TestOne优测平台QA知识库" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="86d363ab81634904b1cbc1b46acc66bc">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="简化接入流程，助力更便捷地使用 Agent、MCP" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/86d363ab81634904b1cbc1b46acc66bc" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="86d363ab81634904b1cbc1b46acc66bc" />
+                        <option name="serverName" value="AgentHub" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="8bf45a0dadd048d1b8d627463425040b">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="本知识库汇集了腾讯公司内部自主设计的多语言编程规范，以及业界广泛认可的编码审查标准与最佳实践。旨在为AI agent提供权威、全面的编程指南参考，辅助生成符合腾讯及行业标准的代码，并进行代码质量审查与优化建议。" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/8bf45a0dadd048d1b8d627463425040b" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="8bf45a0dadd048d1b8d627463425040b" />
+                        <option name="serverName" value="腾讯公司编程指南知识库" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="a8ede34b4f104cbeacd6619f7a9b00fe">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="QQ互联相关技术文档，包含：接入指引、常见问题答疑" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/a8ede34b4f104cbeacd6619f7a9b00fe" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="a8ede34b4f104cbeacd6619f7a9b00fe" />
+                        <option name="serverName" value="QQ互联" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="bbbff9b6909c4944b358e6ffc4cbf25d">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/bbbff9b6909c4944b358e6ffc4cbf25d" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="bbbff9b6909c4944b358e6ffc4cbf25d" />
+                        <option name="serverName" value="nexray" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="c10f91c0e06048e2901944acd19adc37">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/c10f91c0e06048e2901944acd19adc37" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="c10f91c0e06048e2901944acd19adc37" />
+                        <option name="serverName" value="iFt文件传输工具" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="c39865cf78c64dd8b3cd1d9413c5bfab">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="enable" value="true" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/c39865cf78c64dd8b3cd1d9413c5bfab" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="c39865cf78c64dd8b3cd1d9413c5bfab" />
+                        <option name="serverName" value="腾讯视频客厅业务" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="cc36b8a00551435480a89f1075945b38">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/cc36b8a00551435480a89f1075945b38" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="cc36b8a00551435480a89f1075945b38" />
+                        <option name="serverName" value="腾讯视频数据知识库" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="d4cf140530f84f1fb0d2ccfd5d1e814c">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/d4cf140530f84f1fb0d2ccfd5d1e814c" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="d4cf140530f84f1fb0d2ccfd5d1e814c" />
+                        <option name="serverName" value="mq配置" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="d7301122631145a99399bef7f803c57a">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/d7301122631145a99399bef7f803c57a" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="d7301122631145a99399bef7f803c57a" />
+                        <option name="serverName" value="车载智慧屏knowledgeBase" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="dabdc510e267416b933f070484a11227">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/dabdc510e267416b933f070484a11227" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="dabdc510e267416b933f070484a11227" />
+                        <option name="serverName" value="codm营销活动助手" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="db957e568a2342e7b37d6072df7d139a">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/db957e568a2342e7b37d6072df7d139a" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="db957e568a2342e7b37d6072df7d139a" />
+                        <option name="serverName" value="Unity2022" />
+                        <option name="status" value="" />
+                        <option name="statusDesc" value="" />
+                      </KnowledgeInfo>
+                    </value>
+                  </entry>
+                  <entry key="f7769ca9b3b54d8992a7ef6ab570267c">
+                    <value>
+                      <KnowledgeInfo>
+                        <option name="branchName" value="" />
+                        <option name="description" value="" />
+                        <option name="resourceName" value="https://knot.woa.com/knowledge/detail/f7769ca9b3b54d8992a7ef6ab570267c" />
+                        <option name="resourceType" value="" />
+                        <option name="serverId" value="f7769ca9b3b54d8992a7ef6ab570267c" />
+                        <option name="serverName" value="腾讯视频决策理由" />
+                        <option name="status" value="" />
                         <option name="statusDesc" value="" />
                       </KnowledgeInfo>
                     </value>
