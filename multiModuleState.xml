@@ -3693,6 +3693,11 @@
                   <ModuleInfo>
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/KTPlayerSentryBridge/src/main" />
+                  </ModuleInfo>
+                  <ModuleInfo>
+                    <option name="name" value="main" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Plugin_Stetho/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
@@ -4194,11 +4199,6 @@
                     <option name="name" value="main" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/KeepProcLive/src/main" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="main" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/release/Mediaplayer/modules/KTPlayerSentryBridge/src/main" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="main" />
