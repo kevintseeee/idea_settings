@@ -2,9 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="梳理PreviewDataAdapter的filter逻辑" />
-        <option value="结合MCPreviewAdapter，讲讲逻辑" />
-        <option value="如何计算TimeMark与TimeMark之间的时长" />
         <option value="" />
         <option value="tv_video_progress用于展示当前进度，如果使用android:layout_width=&quot;wrap_content&quot;，那么每秒都会requestLayout，对吗？有什么解决方案？" />
         <option value="程序走到了285行，代表mCheckInButton无法获焦，而且我知道mCheckInButton.isShown()是true，那么你认为还会有什么原因？" />
@@ -52,6 +49,9 @@
         <option value="只看PlayerToast对象相关的逻辑（不要看AutoDefToastPresenter），帮助我回答产品同学的问题“请问清晰度目前在ott端有主动和被动的toast提醒吗？如果用户前一次播放时选择了某个清晰度 在下次起播时  ott端会自动触发toast吗？”" />
         <option value="只看PlayerToast对象相关的逻辑（含ToastGroup，SVipTipsPresenter，但绝不包含AutoDefToastPresenter），帮助我回答产品同学的问题“请问清晰度目前在ott端有主动和被动的toast提醒吗？如果用户前一次播放时选择了某个清晰度 在下次起播时  ott端会自动触发toast吗？”" />
         <option value="HDR10是起播时弹，还是切清晰度时弹，还是都可能会弹？" />
+        <option value="SCENE_JUMP_DETAIL_PAGE_FULLY_DISPLAY_V2、SCENE_JUMP_DETAIL_PAGE_FULLY_DISPLAY_V3、SCENE_JUMP_DETAIL_PAGE_FULLY_DISPLAY_CACHE_DATA、SCENE_JUMP_DETAIL_PAGE_FULLY_DISPLAY_SERVER_DATA有何不同。可以从代码、git提交来推断。" />
+        <option value="我看到还有SCENE_OUT_JUMP_ONE_PAGE_DETAIL_PAGE_FULLY_DISPLAY_V3、SCENE_OUT_JUMP_ONE_PAGE_DETAIL_PAGE_FULLY_DISPLAY_CACHE_DATA、SCENE_OUT_JUMP_ONE_PAGE_DETAIL_PAGE_FULLY_DISPLAY_SERVER_DATA" />
+        <option value="SCENE_JUMP_DETAIL_PAGE_FULLY_DISPLAY_V2&#10;SCENE_JUMP_DETAIL_PAGE_FULLY_DISPLAY_V3&#10;SCENE_JUMP_ONE_PAGE_DETAIL_PAGE_FULLY_DISPLAY_V3&#10;SCENE_JUMP_DETAIL_PAGE_FULLY_DISPLAY_CACHE_DATA&#10;SCENE_JUMP_ONE_PAGE_DETAIL_PAGE_FULLY_DISPLAY_CACHE_DATA&#10;SCENE_JUMP_DETAIL_PAGE_FULLY_DISPLAY_SERVER_DATA&#10;SCENE_JUMP_ONE_PAGE_DETAIL_PAGE_FULLY_DISPLAY_SERVER_DATA&#10;有何不同？你可以从代码、git提交来推断。" />
       </list>
     </option>
   </component>
