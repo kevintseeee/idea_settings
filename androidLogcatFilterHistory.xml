@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:GetPlayRecommend" />
+    <option name="mostRecentlyUsed" value="tag:LiveExtUrlWebViewHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:LiveExtUrlWebViewHelper" />
+        <option value="message:LiveExtUrlWebViewHelper" />
         <option value="message:GetPlayRecommend" />
         <option value="is:stacktrace " />
         <option value="tag:TVKPlayer[TVKListenerManager.java] | message:switchAudioTrack" />
@@ -21,8 +23,6 @@
         <option value="tag:AudioTrackModule | message:parparing" />
         <option value="tag:TVKListenerManager" />
         <option value="message:preparing" />
-        <option value="tag:TvkPlayerProxy_" />
-        <option value="tag:TvkPlayerProxy_ message:onInfo" />
       </list>
     </option>
   </component>
