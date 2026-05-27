@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="group_paging" />
     <option name="nonFavorites">
       <list>
+        <option value="group_paging" />
         <option value="tag:LiveExtUrlWebViewHelper" />
         <option value="message:LiveExtUrlWebViewHelper" />
         <option value="message:GetPlayRecommend" />
@@ -22,7 +23,6 @@
         <option value="tag:AudioTrackModule | message:preparing" />
         <option value="tag:AudioTrackModule | message:parparing" />
         <option value="tag:TVKListenerManager" />
-        <option value="message:preparing" />
       </list>
     </option>
   </component>
