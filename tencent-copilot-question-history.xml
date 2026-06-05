@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="你定义的AccountAttackPanelView，是一个Android View，还是一个View Controller？我不希望是一个Android View，或者继承自CommonView" />
         <option value="这样的设计是最佳实践吗？" />
         <option value="我希望提取接口" />
         <option value="你觉得AccountAttackPanelView的命名如何？我的意思是，是不是应该明确为ViewController或者ViewDelegate" />
@@ -52,6 +51,7 @@
         <option value="这样改的话，会干预外链的行为吗？" />
         <option value="cookie有打印出来吗" />
         <option value="在 onPageFinished 时打印当前 URL 对应的 Cookie" />
+        <option value="我要剔除ExtPlayerParam.SpAudio.SPAUDIO_DOLBY的话，应该怎么写" />
       </list>
     </option>
   </component>
