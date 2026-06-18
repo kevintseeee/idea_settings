@@ -1878,6 +1878,11 @@
               <option name="allModules">
                 <list>
                   <ModuleInfo>
+                    <option name="name" value="HippyCommonLib" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/HippyCommonLib" />
+                  </ModuleInfo>
+                  <ModuleInfo>
                     <option name="name" value="MsgCenterLib_Proxy" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/MsgCenterLib_Proxy" />
