@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:LiveExtUrlWebViewHelper | tag:DetailLivePageFragment" />
+    <option name="mostRecentlyUsed" value="tag:PayResultController" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PayResultController" />
         <option value="tag:LiveExtUrlWebViewHelper | tag:DetailLivePageFragment" />
         <option value="LiveExtUrlWebViewHelper" />
         <option value="group_paging" />
@@ -22,7 +23,6 @@
         <option value="tag:TVK" />
         <option value="message:lottie" />
         <option value="tag:DolbyLoadingView" />
-        <option value="tag:AudioTrackModule | message:preparing" />
       </list>
     </option>
   </component>
