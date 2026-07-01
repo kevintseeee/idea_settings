@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PayResultController" />
+    <option name="mostRecentlyUsed" value="message:BUG159239447_DIAG" />
     <option name="nonFavorites">
       <list>
+        <option value="message:BUG159239447_DIAG" />
         <option value="tag:PayResultController" />
         <option value="tag:LiveExtUrlWebViewHelper | tag:DetailLivePageFragment" />
         <option value="LiveExtUrlWebViewHelper" />
@@ -22,7 +23,6 @@
         <option value="tag:" />
         <option value="tag:TVK" />
         <option value="message:lottie" />
-        <option value="tag:DolbyLoadingView" />
       </list>
     </option>
   </component>
