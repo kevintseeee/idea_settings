@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:saveAudioTrackInfo" />
+    <option name="mostRecentlyUsed" value="message:guid" />
     <option name="nonFavorites">
       <list>
+        <option value="message:guid" />
         <option value="message:saveAudioTrackInfo" />
         <option value="message:BUG156091066_DIAG" />
         <option value="message:BUG159239447_DIAG" />
@@ -22,7 +23,6 @@
         <option value="tag:AudioTrackModule" />
         <option value="tag:AudioLoadingView tag:LottieDownloadUtils" />
         <option value="tag:AudioLoadingView" />
-        <option value="tag:" />
       </list>
     </option>
   </component>
