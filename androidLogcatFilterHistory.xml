@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AudioTrackModule | message:switchAudioTrack | message:handleAudioTrackPay | tag:TVMediaPlayerVideoPay | tag:Debugger" />
+    <option name="mostRecentlyUsed" value="message:guid" />
     <option name="nonFavorites">
       <list>
+        <option value="message:guid" />
         <option value="tag:AudioTrackModule | message:switchAudioTrack | message:handleAudioTrackPay | tag:TVMediaPlayerVideoPay | tag:Debugger" />
         <option value="tag:AudioTrackModule | message:switchAudioTrack | message:handleAudioTrackPay | tag:TVMediaPlayerVideoPay" />
         <option value="tag:AudioTrackModule | message:switchAudioTrack | message:handleAudioTrackPay" />
         <option value="tag:AudioTrackModule | message:switchAudioTrack" />
         <option value="tag:AudioTrackModule " />
-        <option value="message:guid" />
         <option value="message:saveAudioTrackInfo" />
         <option value="message:BUG156091066_DIAG" />
         <option value="message:BUG159239447_DIAG" />
