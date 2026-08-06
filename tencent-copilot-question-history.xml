@@ -2,8 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="这样的设计是最佳实践吗？" />
-        <option value="我希望提取接口" />
         <option value="你觉得AccountAttackPanelView的命名如何？我的意思是，是不是应该明确为ViewController或者ViewDelegate" />
         <option value="是的" />
         <option value="你觉的PauseMsgListener、QrCode的任务细节，在AccountAttackPanelPresenter里，会不会太合适？功能耦合之类的？" />
@@ -52,6 +50,8 @@
         <option value="cookie有打印出来吗" />
         <option value="在 onPageFinished 时打印当前 URL 对应的 Cookie" />
         <option value="我要剔除ExtPlayerParam.SpAudio.SPAUDIO_DOLBY的话，应该怎么写" />
+        <option value="梳理DataModelRelatedInfoViewModel的sPlayingAddressMap的相关逻辑" />
+        <option value="单独梳理出来onStartPlay和onStopPlay的覆盖策略，三列地址，“existing”、“newAddress”、“结果”。" />
       </list>
     </option>
   </component>
