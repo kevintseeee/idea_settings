@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:guid" />
+    <option name="mostRecentlyUsed" value="message:key" />
     <option name="nonFavorites">
       <list>
+        <option value="message:key" />
+        <option value="message:BUG156091066_DIAG" />
         <option value="message:guid" />
         <option value="tag:AudioTrackModule | message:switchAudioTrack | message:handleAudioTrackPay | tag:TVMediaPlayerVideoPay | tag:Debugger" />
         <option value="tag:AudioTrackModule | message:switchAudioTrack | message:handleAudioTrackPay | tag:TVMediaPlayerVideoPay" />
@@ -10,7 +12,6 @@
         <option value="tag:AudioTrackModule | message:switchAudioTrack" />
         <option value="tag:AudioTrackModule " />
         <option value="message:saveAudioTrackInfo" />
-        <option value="message:BUG156091066_DIAG" />
         <option value="message:BUG159239447_DIAG" />
         <option value="tag:PayResultController" />
         <option value="tag:LiveExtUrlWebViewHelper | tag:DetailLivePageFragment" />
@@ -22,7 +23,6 @@
         <option value="is:stacktrace " />
         <option value="tag:TVKPlayer[TVKListenerManager.java] | message:switchAudioTrack" />
         <option value="tag:TVKPlayer[TVKListenerManager.java] | message:switch" />
-        <option value="message:vuid" />
       </list>
     </option>
   </component>
