@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="你觉得AccountAttackPanelView的命名如何？我的意思是，是不是应该明确为ViewController或者ViewDelegate" />
         <option value="是的" />
         <option value="你觉的PauseMsgListener、QrCode的任务细节，在AccountAttackPanelPresenter里，会不会太合适？功能耦合之类的？" />
         <option value="补齐AccountAttackPanelModel的单元测试，希望是纯Java单元测试，覆盖率100%。" />
@@ -52,6 +51,7 @@
         <option value="我要剔除ExtPlayerParam.SpAudio.SPAUDIO_DOLBY的话，应该怎么写" />
         <option value="梳理DataModelRelatedInfoViewModel的sPlayingAddressMap的相关逻辑" />
         <option value="单独梳理出来onStartPlay和onStopPlay的覆盖策略，三列地址，“existing”、“newAddress”、“结果”。" />
+        <option value="梳理LiveMultiAngleRequest的调用时机" />
       </list>
     </option>
   </component>
