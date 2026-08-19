@@ -2,8 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="你觉的PauseMsgListener、QrCode的任务细节，在AccountAttackPanelPresenter里，会不会太合适？功能耦合之类的？" />
-        <option value="补齐AccountAttackPanelModel的单元测试，希望是纯Java单元测试，覆盖率100%。" />
         <option value="为什么会动到TextUtils？" />
         <option value="在AccountAttackPanelModelTest里，补齐AccountAttackPanelModel的单元测试，希望不要用到Mockito、Powermock、Roboletric等高级API，覆盖率尽可能100%。" />
         <option value="在AccountAttackPanelModelTest里，补齐AccountAttackPanelModel的单元测试，覆盖率尽可能100%。&#10;你不需要考虑使用Mockito、Powermock、Roboletric等高级API。&#10;你不用担心AccountAttackPanelModel里用到的API会不支持，而需要mock。&#10;而且，我要求你写一个Case，确保能执行之后，再写另一个Case。" />
@@ -52,6 +50,8 @@
         <option value="单独梳理出来onStartPlay和onStopPlay的覆盖策略，三列地址，“existing”、“newAddress”、“结果”。" />
         <option value="梳理LiveMultiAngleRequest的调用时机" />
         <option value="调用的限制逻辑是什么？我想分辨出是轮询调用，还是只调一次" />
+        <option value="你提到了一个轮询的链路，画图说清楚" />
+        <option value="我没看出来“onSuccess 和 onFailure 都会回到 scheduleLiveMultiAngleRequest”" />
       </list>
     </option>
   </component>
