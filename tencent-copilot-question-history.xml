@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="是的" />
         <option value="你觉的PauseMsgListener、QrCode的任务细节，在AccountAttackPanelPresenter里，会不会太合适？功能耦合之类的？" />
         <option value="补齐AccountAttackPanelModel的单元测试，希望是纯Java单元测试，覆盖率100%。" />
         <option value="为什么会动到TextUtils？" />
@@ -52,6 +51,7 @@
         <option value="梳理DataModelRelatedInfoViewModel的sPlayingAddressMap的相关逻辑" />
         <option value="单独梳理出来onStartPlay和onStopPlay的覆盖策略，三列地址，“existing”、“newAddress”、“结果”。" />
         <option value="梳理LiveMultiAngleRequest的调用时机" />
+        <option value="调用的限制逻辑是什么？我想分辨出是轮询调用，还是只调一次" />
       </list>
     </option>
   </component>
