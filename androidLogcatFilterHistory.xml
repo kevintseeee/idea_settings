@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:key" />
+    <option name="mostRecentlyUsed" value="message:kevinrhxie | message:&quot;concise: dt_imp, eid = fullscreen&quot; | tag:&quot;HeaderFuncBtnListViewModel_&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:kevinrhxie | message:&quot;concise: dt_imp, eid = fullscreen&quot; | tag:&quot;HeaderFuncBtnListViewModel_&quot;" />
+        <option value="message:kevinrhxie | message:&quot;concise: dt_imp, eid = fullscreen&quot; | message:&quot;updateFunctionButtons: default focus&quot;" />
+        <option value="message:kevinrhxie | message:&quot;concise: dt_imp, eid = fullscreen&quot;" />
+        <option value="message:&quot;eid = fullscreen&quot;" />
+        <option value="message:fullscreen" />
+        <option value="message:full" />
+        <option value="message:kevinrhxie" />
         <option value="message:key" />
         <option value="message:BUG156091066_DIAG" />
         <option value="message:guid" />
@@ -16,13 +23,6 @@
         <option value="tag:PayResultController" />
         <option value="tag:LiveExtUrlWebViewHelper | tag:DetailLivePageFragment" />
         <option value="LiveExtUrlWebViewHelper" />
-        <option value="group_paging" />
-        <option value="tag:LiveExtUrlWebViewHelper" />
-        <option value="message:LiveExtUrlWebViewHelper" />
-        <option value="message:GetPlayRecommend" />
-        <option value="is:stacktrace " />
-        <option value="tag:TVKPlayer[TVKListenerManager.java] | message:switchAudioTrack" />
-        <option value="tag:TVKPlayer[TVKListenerManager.java] | message:switch" />
       </list>
     </option>
   </component>
