@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:kevinrhxie | message:&quot;concise: dt_imp, eid = fullscreen&quot; | tag:&quot;HeaderFuncBtnListViewModel_&quot;" />
+    <option name="mostRecentlyUsed" value="tag:&quot;CoverPageIntroViewModel&quot; | message:&quot;concise: dt_imp, eid = intro&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:&quot;CoverPageIntroViewModel&quot; | message:&quot;concise: dt_imp, eid = intro&quot;" />
+        <option value="package:mine " />
+        <option value="message:&quot;CoverPageIntroViewModel&quot; | message:&quot;concise: dt_imp, eid = intro&quot;" />
+        <option value="message:kevinrhxie | message:&quot;concise: dt_imp, eid = intro&quot;" />
         <option value="message:kevinrhxie | message:&quot;concise: dt_imp, eid = fullscreen&quot; | tag:&quot;HeaderFuncBtnListViewModel_&quot;" />
         <option value="message:kevinrhxie | message:&quot;concise: dt_imp, eid = fullscreen&quot; | message:&quot;updateFunctionButtons: default focus&quot;" />
         <option value="message:kevinrhxie | message:&quot;concise: dt_imp, eid = fullscreen&quot;" />
@@ -19,10 +23,6 @@
         <option value="tag:AudioTrackModule | message:switchAudioTrack" />
         <option value="tag:AudioTrackModule " />
         <option value="message:saveAudioTrackInfo" />
-        <option value="message:BUG159239447_DIAG" />
-        <option value="tag:PayResultController" />
-        <option value="tag:LiveExtUrlWebViewHelper | tag:DetailLivePageFragment" />
-        <option value="LiveExtUrlWebViewHelper" />
       </list>
     </option>
   </component>
