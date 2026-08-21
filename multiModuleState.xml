@@ -568,6 +568,36 @@
             </MultiModuleInfo>
           </value>
         </entry>
+        <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/VideoReporterAndroid">
+          <value>
+            <MultiModuleInfo>
+              <option name="allModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="VideoReporterAndroid" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/VideoReporterAndroid" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/VideoReporterAndroid" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="blacklist">
+                <set />
+              </option>
+              <option name="indexedModules">
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="VideoReporterAndroid" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/VideoReporterAndroid" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/VideoReporterAndroid" />
+                  </ModuleInfo>
+                </list>
+              </option>
+              <option name="limit" value="10" />
+              <option name="uuid" value="f0920c11-d92f-1ff9-47b6-9b869899c89a" />
+              <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/VideoReporterAndroid" />
+            </MultiModuleInfo>
+          </value>
+        </entry>
         <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/bugfix">
           <value>
             <MultiModuleInfo>

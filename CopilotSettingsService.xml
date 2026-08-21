@@ -134,6 +134,15 @@
             </IndexProgress>
           </value>
         </entry>
+        <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/VideoReporterAndroid">
+          <value>
+            <IndexProgress>
+              <option name="fileCount" value="1197" />
+              <option name="percent" value="100.0" />
+              <option name="status" value="done" />
+            </IndexProgress>
+          </value>
+        </entry>
         <entry key="file:///Volumes/Workspace/Tencent/QQLiveTV/bugfix">
           <value>
             <IndexProgress>
