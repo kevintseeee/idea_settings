@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:stacktrace " />
+    <option name="mostRecentlyUsed" value="message:notifySceneAnimEnd" />
     <option name="nonFavorites">
       <list>
+        <option value="message:notifySceneAnimEnd" />
         <option value="is:stacktrace " />
         <option value="tag:&quot;CoverPageIntroViewModel&quot; | message:&quot;concise: dt_imp, eid = intro&quot;" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="tag:AudioTrackModule | message:switchAudioTrack | message:handleAudioTrackPay | tag:TVMediaPlayerVideoPay" />
         <option value="tag:AudioTrackModule | message:switchAudioTrack | message:handleAudioTrackPay" />
         <option value="tag:AudioTrackModule | message:switchAudioTrack" />
-        <option value="tag:AudioTrackModule " />
       </list>
     </option>
   </component>
