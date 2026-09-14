@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:&quot;CoverPageIntroViewModel&quot; | message:&quot;concise: dt_imp, eid = intro&quot;" />
+    <option name="mostRecentlyUsed" value="is:stacktrace " />
     <option name="nonFavorites">
       <list>
+        <option value="is:stacktrace " />
         <option value="tag:&quot;CoverPageIntroViewModel&quot; | message:&quot;concise: dt_imp, eid = intro&quot;" />
         <option value="package:mine " />
         <option value="message:&quot;CoverPageIntroViewModel&quot; | message:&quot;concise: dt_imp, eid = intro&quot;" />
@@ -22,7 +23,6 @@
         <option value="tag:AudioTrackModule | message:switchAudioTrack | message:handleAudioTrackPay" />
         <option value="tag:AudioTrackModule | message:switchAudioTrack" />
         <option value="tag:AudioTrackModule " />
-        <option value="message:saveAudioTrackInfo" />
       </list>
     </option>
   </component>
