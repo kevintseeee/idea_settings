@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot; | message:handlePrePlayOnNewControlInfo | tag:PlayListPlayerPresenter" />
+    <option name="mostRecentlyUsed" value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot; | message:handlePrePlayOnNewControlInfo | tag:PlayListPlayerPresenter  | message:fireRequest" />
     <option name="nonFavorites">
       <list>
+        <option value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot; | message:handlePrePlayOnNewControlInfo | tag:PlayListPlayerPresenter  | message:fireRequest" />
+        <option value="message:buildPopupData | message:dumpActionValueMap | message:Pre" />
+        <option value="message:key" />
         <option value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot; | message:handlePrePlayOnNewControlInfo | tag:PlayListPlayerPresenter" />
         <option value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot; | message:handlePrePlayOnNewControlInfo" />
         <option value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot;" />
-        <option value="message:buildPopupData | message:dumpActionValueMap | message:Pre" />
         <option value="message:buildPopupData | message:dumpActionValueMap" />
         <option value="message:buildPopupData" />
         <option value="message:notifySceneAnimEnd" />
@@ -21,8 +23,6 @@
         <option value="message:&quot;eid = fullscreen&quot;" />
         <option value="message:fullscreen" />
         <option value="message:full" />
-        <option value="message:kevinrhxie" />
-        <option value="message:key" />
       </list>
     </option>
   </component>
