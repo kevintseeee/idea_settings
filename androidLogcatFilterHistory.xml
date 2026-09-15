@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot; | message:handlePrePlayOnNewControlInfo" />
+    <option name="mostRecentlyUsed" value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot; | message:handlePrePlayOnNewControlInfo | tag:PlayListPlayerPresenter" />
     <option name="nonFavorites">
       <list>
+        <option value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot; | message:handlePrePlayOnNewControlInfo | tag:PlayListPlayerPresenter" />
         <option value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot; | message:handlePrePlayOnNewControlInfo" />
         <option value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot;" />
         <option value="message:buildPopupData | message:dumpActionValueMap | message:Pre" />
@@ -22,7 +23,6 @@
         <option value="message:full" />
         <option value="message:kevinrhxie" />
         <option value="message:key" />
-        <option value="message:BUG156091066_DIAG" />
       </list>
     </option>
   </component>
