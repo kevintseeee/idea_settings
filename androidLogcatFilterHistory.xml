@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:buildPopupData | message:createHistoryTipsData | message:dumpActionValueMap" />
+    <option name="mostRecentlyUsed" value="package:mine message:guid" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:guid" />
         <option value="message:buildPopupData | message:createHistoryTipsData | message:dumpActionValueMap" />
         <option value="message:buildPopupData | message:createHistoryTipsData | message:&quot;savePlayHistory: 她的盛宴&quot; | message:dumpActionValueMap" />
-        <option value="package:mine message:guid" />
         <option value="message:guid" />
         <option value="message:buildPopupData | message:createHistoryTipsData | message:&quot;savePlayHistory: 她的盛宴&quot; | message:dump" />
         <option value="message:buildPopupData | message:createHistoryTipsData | message:&quot;savePlayHistory: 她的盛宴&quot;" />
