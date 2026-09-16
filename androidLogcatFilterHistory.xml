@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot; | message:handlePrePlayOnNewControlInfo | tag:PlayListPlayerPresenter | message:fire" />
+    <option name="mostRecentlyUsed" value="package:mine message:guid" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:guid" />
+        <option value="message:guid" />
+        <option value="message:buildPopupData | message:createHistoryTipsData | message:&quot;savePlayHistory: 她的盛宴&quot; | message:dumpActionValueMap" />
+        <option value="message:buildPopupData | message:createHistoryTipsData | message:&quot;savePlayHistory: 她的盛宴&quot; | message:dump" />
+        <option value="message:buildPopupData | message:createHistoryTipsData | message:&quot;savePlayHistory: 她的盛宴&quot;" />
+        <option value="message:buildPopupData | message:createHistoryTipsData" />
+        <option value="message:buildPopupData" />
         <option value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot; | message:handlePrePlayOnNewControlInfo | tag:PlayListPlayerPresenter | message:fire" />
         <option value="message:buildPopupData | message:createHistoryTipsData | tag:PrePlayVideo | message:handlePrePlayOnNewControlInfo" />
         <option value="message:buildPopupData | message:createHistoryTipsData | tag:PlayListPlayerPresenter | tag:PrePlayVideo | message:handlePrePlayOnNewControlInfo" />
@@ -11,18 +18,11 @@
         <option value="message:buildPopupData | message:createHistoryTipsData | tag:PlayListPlayerPresenter | tag:PrePla" />
         <option value="message:buildPopupData | message:createHistoryTipsData | tag:PlayListPlayerPresenter" />
         <option value="message:buildPopupData | message:createHistoryTipsData | message:PlayListPlayerPresenter" />
-        <option value="message:buildPopupData | message:createHistoryTipsData" />
-        <option value="message:buildPopupData" />
         <option value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot; | message:handlePrePlayOnNewControlInfo | tag:PlayListPlayerPresenter  | message:fireRequest" />
         <option value="message:buildPopupData | message:dumpActionValueMap | message:Pre" />
         <option value="message:key" />
         <option value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot; | message:handlePrePlayOnNewControlInfo | tag:PlayListPlayerPresenter" />
         <option value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot; | message:handlePrePlayOnNewControlInfo" />
-        <option value="message:buildPopupData | message:dumpActionValueMap | message:&quot;updated vid to&quot;" />
-        <option value="message:buildPopupData | message:dumpActionValueMap" />
-        <option value="message:notifySceneAnimEnd" />
-        <option value="is:stacktrace " />
-        <option value="tag:&quot;CoverPageIntroViewModel&quot; | message:&quot;concise: dt_imp, eid = intro&quot;" />
       </list>
     </option>
   </component>
