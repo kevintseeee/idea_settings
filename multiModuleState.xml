@@ -584,10 +584,16 @@
                 <set />
               </option>
               <option name="indexedModules">
-                <list />
+                <list>
+                  <ModuleInfo>
+                    <option name="name" value="VideoReporterAndroid" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/VideoReporterAndroid" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/VideoReporterAndroid" />
+                  </ModuleInfo>
+                </list>
               </option>
               <option name="limit" value="10" />
-              <option name="uuid" value="f0920c11-d92f-1ff9-47b6-9b869899c89a" />
+              <option name="uuid" value="5976c323-3d8e-7d13-5b35-db924d3c59cd" />
               <option name="workspaceId" value="file:///Volumes/Workspace/Tencent/QQLiveTV/VideoReporterAndroid" />
             </MultiModuleInfo>
           </value>
