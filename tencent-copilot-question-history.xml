@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="在AccountAttackPanelModelTest里，补齐AccountAttackPanelModel的单元测试，覆盖率尽可能100%。&#10;你不需要考虑使用Mockito、Powermock、Roboletric等高级API。&#10;你不用担心AccountAttackPanelModel里用到的API会不支持，而需要mock。&#10;而且，我要求你写一个Case，确保能执行之后，再写另一个Case。" />
         <option value="CaseAdditionInfo空缺的“功能”、“被测函数”、“用例描述”尽量补上" />
         <option value="在QrCodeGenerationTaskTest里，补齐QrCodeGenerationTask的单元测试，覆盖率尽可能100%。&#10;你可以虑使用Mockito、Powermock里比较简单的API。&#10;如果你担心QrCodeGenerationTask里用到的API会不支持而需要mock，你应该先运行单测，确认真的需要mock。&#10;而且，我要求你写一个Case，确保能执行之后，再写另一个Case。" />
         <option value="再试一下执行命令" />
@@ -52,6 +51,7 @@
         <option value="我没看出来“onSuccess 和 onFailure 都会回到 scheduleLiveMultiAngleRequest”" />
         <option value="5ddaa5c40ca8e748e4e67107e8f620f179a25890&#10;总结这次commit" />
         <option value="你理解问题发生的原因吗？我还没彻底读明白这里的fix。&#10;比如SeekBarView.kt:581行那段，我已经写了finally是hideTips，我以为onUnbindViewModel的时候，cancel掉coroutineScope就会走finally，然后就会调用hideTips了。&#10;我理解错了吗？" />
+        <option value="“也就是说，finally 里的 hideTips() 只在&quot;消费者协程被取消的那一瞬间&quot;兜底，它管不到&quot;seekingState 悬挂期间、协程还活着&quot;的那段时间。” 我没听懂" />
       </list>
     </option>
   </component>
