@@ -2,7 +2,6 @@
   <component name="tencent-copilot-question-history">
     <option name="questions">
       <list>
-        <option value="为什么会动到TextUtils？" />
         <option value="在AccountAttackPanelModelTest里，补齐AccountAttackPanelModel的单元测试，希望不要用到Mockito、Powermock、Roboletric等高级API，覆盖率尽可能100%。" />
         <option value="在AccountAttackPanelModelTest里，补齐AccountAttackPanelModel的单元测试，覆盖率尽可能100%。&#10;你不需要考虑使用Mockito、Powermock、Roboletric等高级API。&#10;你不用担心AccountAttackPanelModel里用到的API会不支持，而需要mock。&#10;而且，我要求你写一个Case，确保能执行之后，再写另一个Case。" />
         <option value="CaseAdditionInfo空缺的“功能”、“被测函数”、“用例描述”尽量补上" />
@@ -52,6 +51,7 @@
         <option value="调用的限制逻辑是什么？我想分辨出是轮询调用，还是只调一次" />
         <option value="你提到了一个轮询的链路，画图说清楚" />
         <option value="我没看出来“onSuccess 和 onFailure 都会回到 scheduleLiveMultiAngleRequest”" />
+        <option value="5ddaa5c40ca8e748e4e67107e8f620f179a25890&#10;总结这次commit" />
       </list>
     </option>
   </component>
