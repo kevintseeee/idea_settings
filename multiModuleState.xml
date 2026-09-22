@@ -1902,6 +1902,11 @@
               <option name="allModules">
                 <list>
                   <ModuleInfo>
+                    <option name="name" value="PlayDetect" />
+                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
+                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/PlayDetect" />
+                  </ModuleInfo>
+                  <ModuleInfo>
                     <option name="name" value="MsgCenterLib_Proxy" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/MsgCenterLib_Proxy" />
@@ -2610,11 +2615,6 @@
                     <option name="name" value="src" />
                     <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
                     <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/MsgCenterLib/src" />
-                  </ModuleInfo>
-                  <ModuleInfo>
-                    <option name="name" value="PlayDetect" />
-                    <option name="projectPath" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing" />
-                    <option name="uri" value="file:///Volumes/Workspace/Tencent/QQLiveTV/developing/PlayDetect" />
                   </ModuleInfo>
                   <ModuleInfo>
                     <option name="name" value="NetworkSniff" />
