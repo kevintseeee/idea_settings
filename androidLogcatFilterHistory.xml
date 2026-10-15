@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="message:buildPopupData | message:createHistoryTipsData | tag:PrePlayVideo | message:handlePrePlayOnNewControlInfo" />
         <option value="is:crash " />
         <option value="message:buildPopupData | message:createHistoryTipsData | message:dumpActionValueMap" />
         <option value="package:mine message:guid" />
