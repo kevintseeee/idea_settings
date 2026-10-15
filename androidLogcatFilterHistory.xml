@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="package:mine message:get_play_func_info" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:get_play_func_info" />
+        <option value="package:mine " />
         <option value="message:buildPopupData | message:createHistoryTipsData | tag:PrePlayVideo | message:handlePrePlayOnNewControlInfo" />
         <option value="is:crash " />
         <option value="message:buildPopupData | message:createHistoryTipsData | message:dumpActionValueMap" />
